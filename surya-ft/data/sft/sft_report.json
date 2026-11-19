@@ -1,0 +1,73 @@
+{
+  "split_json": "/mnt/c/Users/Uned/Documents/ocr/surya/split.json",
+  "conteo_tokens": "estimación 3.5 caracteres/token",
+  "paginas_omitidas": [
+    "Fémina_10-10-1922_P11",
+    "Fémina_31-10-1923_P05"
+  ],
+  "tipos_descartados": {
+    "title-newspaper": 36,
+    "issue-number": 9,
+    "advertisement": 77,
+    "story": 31,
+    "separator": 10297,
+    "title": 22,
+    "date": 2,
+    "poem": 24,
+    "floating": 11,
+    "subtitle-newspaper": 9,
+    "entertainment-ad": 8,
+    "cartoon": 119,
+    "photograph": 86,
+    "brand": 56,
+    "slogan": 43,
+    "fotograph": 1,
+    "recipe": 1
+  },
+  "splits": {
+    "train": {
+      "paginas": 736,
+      "bloques_ocr": 5571,
+      "etiquetas_layout": {
+        "Page-Header": 140,
+        "Section-Header": 516,
+        "Text": 4615,
+        "Caption": 266,
+        "Page-Footer": 88,
+        "Footnote": 10,
+        "Table": 21,
+        "Figure": 337,
+        "Image": 124
+      }
+    },
+    "val": {
+      "paginas": 90,
+      "bloques_ocr": 711,
+      "etiquetas_layout": {
+        "Page-Footer": 11,
+        "Page-Header": 22,
+        "Text": 591,
+        "Caption": 42,
+        "Section-Header": 51,
+        "Figure": 45,
+        "Image": 18,
+        "Table": 1
+      }
+    },
+    "test": {
+      "paginas": 90,
+      "bloques_ocr": 704,
+      "etiquetas_layout": {
+        "Page-Footer": 13,
+        "Page-Header": 20,
+        "Text": 531,
+        "Caption": 30,
+        "Section-Header": 112,
+        "Image": 17,
+        "Figure": 40,
+        "Footnote": 1,
+        "Table": 2
+      }
+    }
+  }
+}
