@@ -1,0 +1,422 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:55:20</Created>
+    <LastChange>2026-11-18T10:55:20</LastChange>
+  </Metadata>
+  <Page imageFilename="0006_p002.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+        <RegionRefIndexed index="21" regionRef="r21" />
+        <RegionRefIndexed index="22" regionRef="r22" />
+        <RegionRefIndexed index="23" regionRef="r23" />
+        <RegionRefIndexed index="24" regionRef="r24" />
+        <RegionRefIndexed index="25" regionRef="r25" />
+        <RegionRefIndexed index="26" regionRef="r26" />
+        <RegionRefIndexed index="27" regionRef="r27" />
+        <RegionRefIndexed index="28" regionRef="r28" />
+        <RegionRefIndexed index="29" regionRef="r29" />
+        <RegionRefIndexed index="30" regionRef="r30" />
+        <RegionRefIndexed index="31" regionRef="r31" />
+        <RegionRefIndexed index="32" regionRef="r32" />
+        <RegionRefIndexed index="33" regionRef="r33" />
+        <RegionRefIndexed index="34" regionRef="r34" />
+        <RegionRefIndexed index="35" regionRef="r35" />
+        <RegionRefIndexed index="36" regionRef="r36" />
+        <RegionRefIndexed index="37" regionRef="r37" />
+        <RegionRefIndexed index="38" regionRef="r38" />
+        <RegionRefIndexed index="39" regionRef="r39" />
+        <RegionRefIndexed index="40" regionRef="r40" />
+        <RegionRefIndexed index="41" regionRef="r41" />
+        <RegionRefIndexed index="42" regionRef="r42" />
+        <RegionRefIndexed index="43" regionRef="r43" />
+        <RegionRefIndexed index="44" regionRef="r44" />
+        <RegionRefIndexed index="45" regionRef="r45" />
+        <RegionRefIndexed index="46" regionRef="r46" />
+        <RegionRefIndexed index="47" regionRef="r47" />
+        <RegionRefIndexed index="48" regionRef="r48" />
+        <RegionRefIndexed index="49" regionRef="r49" />
+        <RegionRefIndexed index="50" regionRef="r50" />
+        <RegionRefIndexed index="51" regionRef="r51" />
+        <RegionRefIndexed index="52" regionRef="r52" />
+        <RegionRefIndexed index="53" regionRef="r53" />
+        <RegionRefIndexed index="54" regionRef="r54" />
+        <RegionRefIndexed index="55" regionRef="r55" />
+        <RegionRefIndexed index="56" regionRef="r56" />
+        <RegionRefIndexed index="57" regionRef="r57" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="354,312 382,312 382,344 354,344" />
+      <TextEquiv conf="0.9169">
+        <Unicode>2</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="1054,305 1381,305 1381,344 1054,344" />
+      <TextEquiv conf="0.9466">
+        <Unicode>ACCION LIBERTARIA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="325,365 764,365 764,600 325,600" />
+      <TextEquiv conf="0.9971">
+        <Unicode>amor a la independencia; detestan el trabajo explotador, porque aman el trabajo libre; combaten violentamente la mentira, porque defienden ardientemente la verdad; execran la iniquidad, porque rinden culto a lo justo; detestan la guerra, porque combaten por la paz.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="325,600 766,600 766,810 325,810" />
+      <TextEquiv conf="0.9918">
+        <Unicode>Podríamos prolongar esa enumeración y demostrar que todos los odios que llenan el corazón de los Anarquistas, tienen por origen la inquebrantable vinculación con sus conviciones, que sus odios son legítimos y fecundos, virtuosos y sagrados.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="325,803 768,803 768,1014 325,1014" />
+      <TextEquiv conf="0.9728">
+        <Unicode>No sentimos el odio por naturaleza: somos, al contrario, de corazón afectuoso y sensible, de temperamento accesible a la amistad, al amor, a la solidaridad, a todo aquello que, naturalmente, tiende a acercar a los individuos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="325,1010 771,1010 771,1217 325,1217" />
+      <TextEquiv conf="0.9965">
+        <Unicode>No es posible que sea de otro modo, ya que nuestro sueño más querido y nuestra finalidad es: suprimir todo lo que coloca a los hombres en actitud de combaje, unos contra otros: Propiedad, Gobierno, Iglesia, Militarismo, Policía, Magistratura...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="325,1214 773,1214 773,1624 325,1624" />
+      <TextEquiv conf="0.9961">
+        <Unicode>Nuestro corazón sangra y nuestra conciencia se rebela ante el contraste de la miseria y de la opulencia. Vibran nuestros nervios y la insurgencia invade nuestro cerebro, al evocar las torturas que sufren aquellos y aquellas que, en todos los países y por millones, agonizan en cárceles y presidios. Nuestra sensibilidad se exalta y todo nuestro ser queda preso de indignación y de piedad, al pensar en los destrozos, salvajerías y atrocidades, que abrevan con sangre de combatientes los campos de batalla.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="325,1631 776,1631 776,2066 325,2066" />
+      <TextEquiv conf="0.9899">
+        <Unicode>Los que odian verdaderamente son los ricos, que pueden ver, con indiferencia, el cuadro de miseria que se desurrolla a su alrededor y del cual son única causa; son los Gobiernos que, sin verter una lágrima, ordenan la matanza; son los execrables vividores que anontonan fortunas entre la sangre y la basura; son los perros polizontes que hincan sus colmillos en la carne de los pobres diablos; son los magistrados que, sin pestañear, condenan en nombre de la Ley y de la Sociedad, a los infortunados que han sabido ser víctimas de esa ley y de esa sociedad.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="325,2063 776,2063 776,2501 325,2501" />
+      <TextEquiv conf="0.9952">
+        <Unicode>En cuanto a la acusación de violencia, en nombre de la cual se pretende acabar con nosotros, basta, para hacer justicia, ver y constatar que, en el mundo actual, como en los siglos transcurridos, la violencia gobierna, domina, hiere y asesina. Se afirma y se presenta diariamente bajo las diferentes formas de recaudador de todos los atributos imaginables, de propietario, de patrono, de gendarme, de guardia de la cárcel, de verdugo; todos los profesionales, bajo múltiples formas, de la Fuerza, de la Violencia, de la Brutalidad.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="325,2508 776,2508 776,2827 325,2827" />
+      <TextEquiv conf="0.9988">
+        <Unicode>Los anarquistas quieren organizar el libre albedrío, la fraternal ayuda, el armonioso acuerdo. Pero saben—por la razón, por la historia, por la experiencia—que no podrán edificar su voluntad de Bienestar y de Libertad, sino sobre las ruinas de las instituciones establecidas. Tienen consciencia de que sólo una revolución violenta podrá dar cuenta de resistencias, de amos y mercenarios.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="325,2838 773,2838 773,3041 325,3041" />
+      <TextEquiv conf="0.9978">
+        <Unicode>La violencia así se convierte, para ellos, en una fatalidad; así lo comprenden, pero lo consideran como una reacción que se hace necesaria por el sentido puramente de legítima defensa, dentro de la cual se encuentran siempre los desheredados.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="533,3048 749,3048 749,3087 533,3087" />
+      <TextEquiv conf="0.9805">
+        <Unicode>Sebastián FAURE.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="heading" custom="readingOrder {index:12;} structure {type:SectionHeader;}">
+      <Coords points="833,365 1168,365 1168,417 833,417" />
+      <TextEquiv conf="0.9477">
+        <Unicode>Bálogos de Café</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="heading" custom="readingOrder {index:13;} structure {type:SectionHeader;}">
+      <Coords points="997,438 1016,438 1016,470 997,470" />
+      <TextEquiv conf="0.9476">
+        <Unicode>I</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="781,477 1225,477 1225,656 781,656" />
+      <TextEquiv conf="0.9970">
+        <Unicode>—Acabo de leer la “Ley de Protección a los Obreros sin Trabajo”, que pronto será promulgada; no es una gran cosa, pero en fin, algo es algo, y con tres pesetas diarias, puede pasar uno mejor que sin un centavo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="781,652 1225,652 1225,719 781,719" />
+      <TextEquiv conf="0.9756">
+        <Unicode>—Una ley más: trabajo costará que se cumpla, cuando se cumpla.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="781,712 1225,712 1225,775 781,775" />
+      <TextEquiv conf="0.9834">
+        <Unicode>—Se cumplirá: contiene disposiciones que aseguran su ejeecueción.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="781,768 1225,768 1225,888 781,888" />
+      <TextEquiv conf="0.9646">
+        <Unicode>—Si, pero tiene el su contra, como todas las leyes, aquellos cuyos intereses lastima, y en este caso, esos intereses han de ser poderosos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="781,884 1225,884 1225,972 781,972" />
+      <TextEquiv conf="0.9826">
+        <Unicode>—Poderosos son también los elementos a quienes favorece; figúrate: toda la clase obrera...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="781,968 1225,968 1225,1031 781,1031" />
+      <TextEquiv conf="0.9827">
+        <Unicode>—¡La favorece! ¿Estás seguro de que no la daña también?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="paragraph" custom="readingOrder {index:20;} structure {type:Text;}">
+      <Coords points="781,1028 1225,1028 1225,1151 781,1151" />
+      <TextEquiv conf="0.9909">
+        <Unicode>—¡Hombre! ya saliste con tu irreconciliable anarquismo... ¡Ya lo creo que favorece a los trabajadores!... Y no veo en que pueda perjudicarles.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r21" type="paragraph" custom="readingOrder {index:21;} structure {type:Text;}">
+      <Coords points="781,1144 1225,1144 1225,1207 781,1207" />
+      <TextEquiv conf="0.9782">
+        <Unicode>—En el hecho de ser “ley”, está su primer defecto.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r22" type="paragraph" custom="readingOrder {index:22;} structure {type:Text;}">
+      <Coords points="781,1203 1225,1203 1225,1375 781,1375" />
+      <TextEquiv conf="0.9973">
+        <Unicode>—¡Oh! ustedes se oponen a todo lo que las leyes disponen, son enemigos de todo lo codificado; sin embargo: disfrutan de cuantas mejoras introducen en la vida las disposiciones legales.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r23" type="paragraph" custom="readingOrder {index:23;} structure {type:Text;}">
+      <Coords points="781,1375 1225,1375 1225,1554 781,1554" />
+      <TextEquiv conf="0.9961">
+        <Unicode>—No armes tanto escorroso, por lo que en el fondo, no lo merece; quizás en cuanto hablemos un poco, te darás cuenta de que no son tan descabelladas como crees, nuestras afirmaciones —Absurdas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r24" type="paragraph" custom="readingOrder {index:24;} structure {type:Text;}">
+      <Coords points="781,1547 1225,1547 1225,1754 781,1754" />
+      <TextEquiv conf="0.9860">
+        <Unicode>—No lo estimo así, y trataré de probártelo. En primer lugar, no es cierto que los anarquistas seamos enemigos de lo que disponen todas las leyes: somos enemigos de la “ley”, pero en muchos casos, amigos decididos de lo que las leyes contienen.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r25" type="paragraph" custom="readingOrder {index:25;} structure {type:Text;}">
+      <Coords points="781,1754 1225,1754 1225,1838 781,1838" />
+      <TextEquiv conf="0.9856">
+        <Unicode>—Metafísico estás. Ese anarquismo es tuyo, y diferente del que se propaga en los periódicos anarquistas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r26" type="paragraph" custom="readingOrder {index:26;} structure {type:Text;}">
+      <Coords points="781,1835 1225,1835 1225,1894 781,1894" />
+      <TextEquiv conf="0.9984">
+        <Unicode>—Tal vez; más estoy seguro de que es anárquico, y esto me basta.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r27" type="paragraph" custom="readingOrder {index:27;} structure {type:Text;}">
+      <Coords points="781,1887 1024,1887 1024,1922 781,1922" />
+      <TextEquiv conf="0.9973">
+        <Unicode>—Demuéstramelo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r28" type="paragraph" custom="readingOrder {index:28;} structure {type:Text;}">
+      <Coords points="781,1919 1230,1919 1230,2410 781,2410" />
+      <TextEquiv conf="0.9830">
+        <Unicode>—Vamos allá: la Anarquía, es sinónimo de libertad, puesto que significa: no-gobierno; pero no olvides que el más enérgico afirmador de los principios anarquistas (Bakounine), hace derivar la idea Gobierno, de la idea D'os, y siendo esta idea produeto del miedo originado en la ignorancia (los prejuicios no son sino la ignorancia concretada y concentrada respecto a determinadas cuestiones), su destrucción, o al menos, su reducción harta el punto de no representar un peligro, se va operando a medida que la Humanidad se va haciende más inteligente, más buena y más rica también....</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r29" type="paragraph" custom="readingOrder {index:29;} structure {type:Text;}">
+      <Coords points="781,2406 1230,2406 1230,2470 781,2470" />
+      <TextEquiv conf="0.9306">
+        <Unicode>—Muchas vueltas son esas; ¡a dón-de vas a parar!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r30" type="paragraph" custom="readingOrder {index:30;} structure {type:Text;}">
+      <Coords points="781,2470 1230,2470 1230,2670 781,2670" />
+      <TextEquiv conf="0.9828">
+        <Unicode>—A decirte que, por todo lo que acabe de señalarte, los anarquistas, no podrán oponerse (salvo error, en el cual todos estamos expuestos a caer) a medida alguna cuyo efecto sea el de aliviar dolores a los hombres, o influir sobre cílos para mejorar los.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r31" type="paragraph" custom="readingOrder {index:31;} structure {type:Text;}">
+      <Coords points="781,2666 1230,2666 1230,2726 781,2726" />
+      <TextEquiv conf="0.9655">
+        <Unicode>—¡Quizás en el caso de que tratamos, exista el error?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r32" type="paragraph" custom="readingOrder {index:32;} structure {type:Text;}">
+      <Coords points="781,2726 1230,2726 1230,2880 781,2880" />
+      <TextEquiv conf="0.9919">
+        <Unicode>—No, no existe; porque no nos oponemos a lo que de bueno hay en esa ley, ni a lo bueno que pueda haber en otra. Te lo repito: nos oponemos a la “ley”, no al contenido de la ley.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r33" type="paragraph" custom="readingOrder {index:33;} structure {type:Text;}">
+      <Coords points="781,2877 1230,2877 1230,3084 781,3084" />
+      <TextEquiv conf="0.9738">
+        <Unicode>—Habla claro, claro.
+—Lo más claro posible: porque la ley diga que se debe garantizar la vida al obrero sin trabajo, ¿nesetros hemos de salir diciendo que tal cosa es injusta, y que el obrero sin ocupación debe morirse de hambre, o vivir de la</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r34" type="paragraph" custom="readingOrder {index:34;} structure {type:Text;}">
+      <Coords points="1240,365 1678,365 1678,568 1240,568" />
+      <TextEquiv conf="0.9822">
+        <Unicode>cazadiad pública? No; reconocemos la bondad, la justicia de esa melida, peso sabemos que al proclamarla y pretender garantizarla por medio de la ley, se la desnaturaliza, se la coarta, y lo que es peor: sirve de apoyo a injusticias y corruptelas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r35" type="paragraph" custom="readingOrder {index:35;} structure {type:Text;}">
+      <Coords points="1264,565 1582,565 1582,600 1264,600" />
+      <TextEquiv conf="0.9837">
+        <Unicode>—¿Cómo y en qué manera?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r36" type="paragraph" custom="readingOrder {index:36;} structure {type:Text;}">
+      <Coords points="1240,593 1678,593 1678,975 1240,975" />
+      <TextEquiv conf="0.9878">
+        <Unicode>—Lo puedes comprobar fácilmente: a más de que, vaciados en la ley, los derechos todos se estrechan para no lastimar los intereses de las clases dominantes, a más de que, cada ley lleva implicita la manera de burlarla, en estos casos sirve la ley, valorizada por la bondad del propósito en que se apoya, para justificar la existencia de toda una casta de parásitos, haciéndola útil y respetable a los ojos de las gentes bien intencionadas, pero que en las cosas, no vé más allá de la superficie.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r37" type="paragraph" custom="readingOrder {index:37;} structure {type:Text;}">
+      <Coords points="1240,968 1678,968 1678,1066 1240,1066" />
+      <TextEquiv conf="0.9879">
+        <Unicode>—Bien; los que tu llanas: parásitos, viven mejor que los proletarios, pero ¿no dan al pueblo beneficios!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r38" type="paragraph" custom="readingOrder {index:38;} structure {type:Text;}">
+      <Coords points="1240,1063 1678,1063 1678,1287 1240,1287" />
+      <TextEquiv conf="0.9882">
+        <Unicode>—Repite tu argumento, y he de repetirte el mío: los beneficios, no guaran relación con los males que producen; en la cuenta, hay siempre déficit de parte de los gobernados... Para que acabes de comprenderme, te contaré un cuento, una parábola, si prefires llamarle así.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r39" type="paragraph" custom="readingOrder {index:39;} structure {type:Text;}">
+      <Coords points="1240,1284 1629,1284 1629,1323 1240,1323" />
+      <TextEquiv conf="0.9933">
+        <Unicode>—Venga ese cuento o parábola.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r40" type="paragraph" custom="readingOrder {index:40;} structure {type:Text;}">
+      <Coords points="1240,1316 1678,1316 1678,1698 1240,1698" />
+      <TextEquiv conf="0.9912">
+        <Unicode>—“Sobre un rebaño de ovejas cayeron una vez, varios lobos, de tal tamaño y astucia, que, atemorizados los pastores y los perros, no pensaron en un principio, en oponerles resistencia alguna, dejando el hato abandonado a su merced. Durante algún tiempo, los lobos, devoraron a su antojo, y sin que nadie turbara sus festines: cada vez que sentían hambre, bajaban al llano, y saciaban su apetito; con lo cual el rebaño disminuía y las fieras engordaban.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r41" type="paragraph" custom="readingOrder {index:41;} structure {type:Text;}">
+      <Coords points="1240,1691 1678,1691 1678,1870 1240,1870" />
+      <TextEquiv conf="0.9932">
+        <Unicode>Un día, sin embargo, los pastores cansados de aquellas depredaciones y hostigados por la necesidad, se dispusieron a batirse contra los asaltadores; y para ello, preparando las escopetas y los perros, salieron al campo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r42" type="paragraph" custom="readingOrder {index:42;} structure {type:Text;}">
+      <Coords points="1240,1863 1678,1863 1678,2820 1240,2820" />
+      <TextEquiv conf="0.9902">
+        <Unicode>Los lobos, viendo aquel trajín de guerra, comprendieron la intención de los pastores, y para deliberar, se reunieron en lo alto del monte, guarecidos p.r. abruptas peñas. Allí discutieron largo rato lo que habría de hacerse, y aunque algunos propusieron llanamente, salir al encuentro de los hombres y acabar con ellos a dentelladas, al fin impuso su criterio un lobo viejo e inteligente, el cual, con el consentimiento de su compañero, bajó a donde los pastores se hallaban reunidos y, previo el pariamento, les habló así:—Sabemos que padeceis hambre, y que el hambre os ha llevado a armaros en son de guerra contra nosotros... Hacéis mal en ello, porque nosotros no tenemos otro deseo sino serviros y contentaros. Desde mañana, vais a recoger de nuevo vuestro ganado; le daréis de comer y de beber, curaréis a los estermos... Por todo esto, nosotros prometemos daros diariamente una oveja, y vosotros habéis de quedar contenidos con ella, sin meteros a impedir que nosotros comamos toda la carne que nos venga en ganas... En prueba de amistad, si aceptáis nuestra proposición, entregaréis vuestras escopetas y vuestros perros. Nosotros en cambio, cuidaremos del rebaño y de vuestras personas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r43" type="paragraph" custom="readingOrder {index:43;} structure {type:Text;}">
+      <Coords points="1240,2817 1678,2817 1678,3080 1240,3080" />
+      <TextEquiv conf="0.9868">
+        <Unicode>Entre los pastores hubo uno que protestó contra semejante pretensión, puzgándolo un insulto, y sosteniendo que, pues el rebaño era de ellos, no teñan necesidad de agradecer a los lobos favor alguno, y quiso animar a sus compañeros a empeñar la batalla... Los demás le trataron de loco anarquista, motejaron su impulsividad, y</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r44" type="paragraph" custom="readingOrder {index:44;} structure {type:Text;}">
+      <Coords points="1688,365 2134,365 2134,596 1688,596" />
+      <TextEquiv conf="0.9886">
+        <Unicode>le obligaron a callar; el pacto quedé cerrado: los pastores, después de entregar sus armas, dedicáronse a engordar el ganado para las fieras, resignados y agradecidos; y pasado algún tiempo, acordaron levantar una estatua al viejo e inteligente lobo mensajero''.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r45" type="paragraph" custom="readingOrder {index:45;} structure {type:Text;}">
+      <Coords points="1688,593 2134,593 2134,638 1688,638" />
+      <TextEquiv conf="0.8658">
+        <Unicode>—¿Qué te ha parecido la historia?
+No está mucha cál.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r46" type="paragraph" custom="readingOrder {index:46;} structure {type:Text;}">
+      <Coords points="1688,628 2134,628 2134,888 1688,888" />
+      <TextEquiv conf="0.9943">
+        <Unicode>—No está mal, sólo que los burgueses no son lobos, son hombres, y tienen ya desde hace rato las escopetas; por lo cual resultaría muy arriesgado lacerles la guerra, siendo más práctico, ir arrancándoles paulatinamente, sin pelea, las ventajas que podamos y que nos ponen en condiciones más propicias a la lucha.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r47" type="paragraph" custom="readingOrder {index:47;} structure {type:Text;}">
+      <Coords points="1688,884 2134,884 2134,1207 1688,1207" />
+      <TextEquiv conf="0.9946">
+        <Unicode>—No tal: en primer término, esas prácticas adormecen las energías de los más, haciéndoles confiar en la posibilidad de conseguir por un amistoso arreglo lo que de derecho les corresponde; después, dan carácter benéfico a la obra ladrona de los lobos, y por último, les brindan una buena oportunidad para armarse, so pretexto de necesitar la fuerza para aplicarla en nuestro favor.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r48" type="paragraph" custom="readingOrder {index:48;} structure {type:Text;}">
+      <Coords points="1688,1203 2134,1203 2134,1291 1688,1291" />
+      <TextEquiv conf="0.9916">
+        <Unicode>—Con todo, ¿si se evita la barbarie de la lucha violenta, el horror de los choques continuos?...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r49" type="paragraph" custom="readingOrder {index:49;} structure {type:Text;}">
+      <Coords points="1688,1287 2134,1287 2134,1414 1688,1414" />
+      <TextEquiv conf="0.9796">
+        <Unicode>—No se evita; quizás se acrecienta; pero ya es tarde, mañana seguiremos tratando el punto y te demostraré la razón de esto último.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r50" type="paragraph" custom="readingOrder {index:50;} structure {type:Text;}">
+      <Coords points="2001,1421 2107,1421 2107,1456 2001,1456" />
+      <TextEquiv conf="0.9346">
+        <Unicode>ALONE.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r51" type="heading" custom="readingOrder {index:51;} structure {type:SectionHeader;}">
+      <Coords points="1728,1519 2087,1519 2087,1568 1728,1568" />
+      <TextEquiv conf="0.8791">
+        <Unicode>Coasa de la Biblia</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r52" type="paragraph" custom="readingOrder {index:52;} structure {type:Text;}">
+      <Coords points="1688,1596 2134,1596 2134,1754 1688,1754" />
+      <TextEquiv conf="0.9932">
+        <Unicode>Uno de los más curiosos misterios (¿) que hallamos en el pornográfico libro, llamado Biblia, es sin duda aquel que se refiere al nacimiento del Jesús de Nazaret, (alias Cristo).</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r53" type="paragraph" custom="readingOrder {index:53;} structure {type:Text;}">
+      <Coords points="1688,1743 2134,1743 2134,1975 1688,1975" />
+      <TextEquiv conf="0.9893">
+        <Unicode>Aún cuando nosotros somos poco entendidos en materia "sagrada", a fuerza de cálculos y deducciones, creemos haber hallado la solución que nos explique el misterioso embarazo de "Doña" María—conocida por varios alias, a saber: Santísima, Purísima, "La Virgen", etc., etc.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r54" type="paragraph" custom="readingOrder {index:54;} structure {type:Text;}">
+      <Coords points="1688,1968 2134,1968 2134,2178 1688,2178" />
+      <TextEquiv conf="0.9892">
+        <Unicode>Refiere el evangelista Lucas en el capítulo 2º Vrs. 2-3-4-5-6, lo siguiente: “Aconteció en aquellos días—en que María apareció embarazada—que salió un edicto de parte de Augusto César, para que todo el mundo fuese empadronado.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r55" type="paragraph" custom="readingOrder {index:55;} structure {type:Text;}">
+      <Coords points="1688,2175 2134,2175 2134,2557 1688,2557" />
+      <TextEquiv conf="0.9939">
+        <Unicode>“Este primer empadronamiento fué hecho siendo Quirinio gobernador de Siria; y como todos iban para ser empadronados, cada quien a su propia ciudad, José también subió a Galilea de la ciudad de Nazaret, a Judea, a la ciudad de David, que se llama Belén, por cuanto era de la casa de la familia David; para ser empadronado con María, la que estaba desposada con él y se hallaba en cinta; y aconteció que, estando allí, se le cumplieron los días de su alumbramiento”.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r56" type="paragraph" custom="readingOrder {index:56;} structure {type:Text;}">
+      <Coords points="1688,2554 2134,2554 2134,2677 1688,2677" />
+      <TextEquiv conf="0.9965">
+        <Unicode>Por lo que nos cuenta Lucas, José, esposo de María, se hallaba alejado de ella, todo hace suponer por asuntos de su oficio, (carpintero).</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r57" type="paragraph" custom="readingOrder {index:57;} structure {type:Text;}">
+      <Coords points="1688,2670 2134,2670 2134,3077 1688,3077" />
+      <TextEquiv conf="0.9952">
+        <Unicode>Todos los doctores que nos describen a José están contestes en que éste era "un anciano varón", pasado de moda, es decir, un vejete; pero de éstos que podemos ver en nuestros días que, apesar de su impotencia, van tras de las mujeres jóvenes — quizás con qué secretos designios; y 'armas'; lo que sí sabemos decir que no con las que son de naturaleza usar. Nuestro José era de uno de éstos. Como era de esperar, sus fuerzas no le acompañaron en el cumplimiento de sus deberes de "varón". Le sucedió lo que en</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

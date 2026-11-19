@@ -1,0 +1,793 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:57:34</Created>
+    <LastChange>2026-11-18T10:57:34</LastChange>
+  </Metadata>
+  <Page imageFilename="LA-VANGUARDIA-XXV-Num-74-P03-26-04-1944.jpg" imageWidth="1588" imageHeight="2474">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+        <RegionRefIndexed index="21" regionRef="r21" />
+        <RegionRefIndexed index="22" regionRef="r22" />
+        <RegionRefIndexed index="23" regionRef="r23" />
+        <RegionRefIndexed index="24" regionRef="r24" />
+        <RegionRefIndexed index="25" regionRef="r25" />
+        <RegionRefIndexed index="26" regionRef="r26" />
+        <RegionRefIndexed index="27" regionRef="r27" />
+        <RegionRefIndexed index="28" regionRef="r28" />
+        <RegionRefIndexed index="29" regionRef="r29" />
+        <RegionRefIndexed index="30" regionRef="r30" />
+        <RegionRefIndexed index="31" regionRef="r31" />
+        <RegionRefIndexed index="32" regionRef="r32" />
+        <RegionRefIndexed index="33" regionRef="r33" />
+        <RegionRefIndexed index="34" regionRef="r34" />
+        <RegionRefIndexed index="35" regionRef="r35" />
+        <RegionRefIndexed index="36" regionRef="r36" />
+        <RegionRefIndexed index="37" regionRef="r37" />
+        <RegionRefIndexed index="38" regionRef="r38" />
+        <RegionRefIndexed index="39" regionRef="r39" />
+        <RegionRefIndexed index="40" regionRef="r40" />
+        <RegionRefIndexed index="41" regionRef="r41" />
+        <RegionRefIndexed index="42" regionRef="r42" />
+        <RegionRefIndexed index="43" regionRef="r43" />
+        <RegionRefIndexed index="44" regionRef="r44" />
+        <RegionRefIndexed index="45" regionRef="r45" />
+        <RegionRefIndexed index="46" regionRef="r46" />
+        <RegionRefIndexed index="47" regionRef="r47" />
+        <RegionRefIndexed index="48" regionRef="r48" />
+        <RegionRefIndexed index="49" regionRef="r49" />
+        <RegionRefIndexed index="50" regionRef="r50" />
+        <RegionRefIndexed index="51" regionRef="r51" />
+        <RegionRefIndexed index="52" regionRef="r52" />
+        <RegionRefIndexed index="53" regionRef="r53" />
+        <RegionRefIndexed index="54" regionRef="r54" />
+        <RegionRefIndexed index="55" regionRef="r55" />
+        <RegionRefIndexed index="56" regionRef="r56" />
+        <RegionRefIndexed index="57" regionRef="r57" />
+        <RegionRefIndexed index="58" regionRef="r58" />
+        <RegionRefIndexed index="59" regionRef="r59" />
+        <RegionRefIndexed index="60" regionRef="r60" />
+        <RegionRefIndexed index="61" regionRef="r61" />
+        <RegionRefIndexed index="62" regionRef="r62" />
+        <RegionRefIndexed index="63" regionRef="r63" />
+        <RegionRefIndexed index="64" regionRef="r64" />
+        <RegionRefIndexed index="65" regionRef="r65" />
+        <RegionRefIndexed index="66" regionRef="r66" />
+        <RegionRefIndexed index="67" regionRef="r67" />
+        <RegionRefIndexed index="68" regionRef="r68" />
+        <RegionRefIndexed index="69" regionRef="r69" />
+        <RegionRefIndexed index="70" regionRef="r70" />
+        <RegionRefIndexed index="71" regionRef="r71" />
+        <RegionRefIndexed index="72" regionRef="r72" />
+        <RegionRefIndexed index="73" regionRef="r73" />
+        <RegionRefIndexed index="74" regionRef="r74" />
+        <RegionRefIndexed index="75" regionRef="r75" />
+        <RegionRefIndexed index="76" regionRef="r76" />
+        <RegionRefIndexed index="77" regionRef="r77" />
+        <RegionRefIndexed index="78" regionRef="r78" />
+        <RegionRefIndexed index="79" regionRef="r79" />
+        <RegionRefIndexed index="80" regionRef="r80" />
+        <RegionRefIndexed index="81" regionRef="r81" />
+        <RegionRefIndexed index="82" regionRef="r82" />
+        <RegionRefIndexed index="83" regionRef="r83" />
+        <RegionRefIndexed index="84" regionRef="r84" />
+        <RegionRefIndexed index="85" regionRef="r85" />
+        <RegionRefIndexed index="86" regionRef="r86" />
+        <RegionRefIndexed index="87" regionRef="r87" />
+        <RegionRefIndexed index="88" regionRef="r88" />
+        <RegionRefIndexed index="89" regionRef="r89" />
+        <RegionRefIndexed index="90" regionRef="r90" />
+        <RegionRefIndexed index="91" regionRef="r91" />
+        <RegionRefIndexed index="92" regionRef="r92" />
+        <RegionRefIndexed index="93" regionRef="r93" />
+        <RegionRefIndexed index="94" regionRef="r94" />
+        <RegionRefIndexed index="95" regionRef="r95" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="16,5 229,5 229,35 16,35" />
+      <TextEquiv conf="0.9764">
+        <Unicode>Año XXXV Num. 74</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="503,5 1069,5 1069,25 503,25" />
+      <TextEquiv conf="0.9911">
+        <Unicode>LA VANGUARDIA—MIERCOLES, 26 DE ABRIL, 1944</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="header" custom="readingOrder {index:2;} structure {type:PageHeader;}">
+      <Coords points="1397,5 1366,5 1366,25 1397,25" />
+      <TextEquiv conf="0.5643">
+        <Unicode />
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="heading" custom="readingOrder {index:3;} structure {type:SectionHeader;}">
+      <Coords points="0,37 618,37 618,141 0,141" />
+      <TextEquiv conf="0.9848">
+        <Unicode>Un musico filipino, el unico en Manchukuo, estrena nueva sinfonia</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="0,146 303,146 303,359 0,359" />
+      <TextEquiv conf="0.9564">
+        <Unicode>(De la A.)
+Hsinking, 25 de abril.—“Cuando aurgia la inspiración, pasaba las noches trabajojando en mi composición “Grite del Sur”, declaro Ponciano Santos, el unico filipino residente en Manchoukuo al revelar el sudoroso esfuerzo de cinco meses que representa la creación de su pieza sinfonica en que expresa su alegria por el logro de la independencia por Filipinas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="0,359 303,359 303,643 0,643" />
+      <TextEquiv conf="0.9580">
+        <Unicode>La composicion que es la primera del autor fue presentada por primera vez por la Orquesta Sinfonica de Hsinking aley en la Hsinking Memorial Hall. El compositor declaro: "En esta composicion, he tratado de usar temas fliphinos incluyendo los cantos primitivos para describir los aciagos dias en los que atravesarnos mi compatriotas bajo el regimen americano y su profunda alegria por el logro de la independencia con la ayuda del Japon."
+Continuo: "No es una gran composicion peto; es una expresion del</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="heading" custom="readingOrder {index:6;} structure {type:SectionHeader;}">
+      <Coords points="0,643 618,643 618,730 0,730" />
+      <TextEquiv conf="0.9770">
+        <Unicode>El camote, debidamente preparado, puede conservarse indefinidamente</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="0,730 303,730 303,891 0,891" />
+      <TextEquiv conf="0.9759">
+        <Unicode>puede conservars
+La división técnica de la Biba acaba de descubrir que se puede conservar indefinidamente el camote si se prepara debidamente con lo cual se puede comprar camote en grandes cantidades sin lemor de descomponerse.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="0,866 303,866 303,1076 0,1076" />
+      <TextEquiv conf="0.9522">
+        <Unicode>La manera mejor y más sencilla de conservar el camote consiste en despeljer el tubéculo, cortarlo en pedazos de 1/3 de pulgada de grosor y dejar secar estos pedazos al sol hazta que estén duros. Estos pedazos, guardados en envases secos y ventilados, podrán conservarse indefinidamente.
+Para obtener almédio para feno</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="0,1064 303,1064 303,1249 0,1249" />
+      <TextEquiv conf="0.9447">
+        <Unicode>Para obtener almidón para fines de lavada, los pedazos deben según empapados en agua por algúni tiempo. Luego se les muele mojados como el "gadapong" de arroz y pasados por un cedazo de tela. Todo lo que sale del cedazo ses almidón y de la mejor y más pura calidad. Luego se cuece el almidón, se diluye en agua y el</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="0,1249 303,1249 303,1324 0,1324" />
+      <TextEquiv conf="0.9619">
+        <Unicode>La misma división informa que el camote infestado de "ulalo" po</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="heading" custom="readingOrder {index:11;} structure {type:SectionHeader;}">
+      <Coords points="64,1326 245,1326 245,1366 64,1366" />
+      <TextEquiv conf="0.9111">
+        <Unicode>“AIDA”</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="0,1373 303,1373 303,1596 0,1596" />
+      <TextEquiv conf="0.8829">
+        <Unicode>AIDA
+PRODUCIDA y DIRIGIDA
+por D. LIGETI
+Risa Aanile, Matilde Z. Rivere, Felici-
+cino Ocampo, Deddierades Ligent, Sera-
+fa Garcia, Alberto Tirona.
+28 de ABRIL,
+5:00 P. M. EN PUNTO
+Reserva de localidades: Tel. 6-41-62
+414 Iesac Pesal
+Director de Ballet: Paul Saliard</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="heading" custom="readingOrder {index:13;} structure {type:SectionHeader;}">
+      <Coords points="206,1620 440,1620 440,1653 206,1653" />
+      <TextEquiv conf="0.9288">
+        <Unicode>— METROPOLITAN.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="122,1633 494,1633 494,1665 122,1665" />
+      <TextEquiv conf="0.9398">
+        <Unicode>— METROPOLITAN —</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="heading" custom="readingOrder {index:15;} structure {type:SectionHeader;}">
+      <Coords points="32,1665 572,1665 572,1695 32,1695" />
+      <TextEquiv conf="0.9902">
+        <Unicode>DOMINGO 30 — A LAS 4:30 EN PUNTO</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="24,1752 589,1752 589,1838 24,1838" />
+      <TextEquiv conf="0.9723">
+        <Unicode>3 Actos de MANUEL LINARES-RIVAS, con
+ROSITA GARRIZ-ARTIGAS, MANUEL AMECHAZURRA y LA
+"COMPAÑIA DE COMEDIA ESPAÑOLA"</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="heading" custom="readingOrder {index:17;} structure {type:SectionHeader;}">
+      <Coords points="56,1868 549,1868 549,1912 56,1912" />
+      <TextEquiv conf="0.9610">
+        <Unicode>TEATRO BENEFICO ESPAÑOL</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="24,1917 551,1917 551,1954 24,1954" />
+      <TextEquiv conf="0.9557">
+        <Unicode>presenta en el</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="heading" custom="readingOrder {index:19;} structure {type:SectionHeader;}">
+      <Coords points="56,2016 562,2016 562,2068 56,2068" />
+      <TextEquiv conf="0.9716">
+        <Unicode>LUISA FERNANDA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="paragraph" custom="readingOrder {index:20;} structure {type:Text;}">
+      <Coords points="56,2083 551,2083 551,2120 56,2120" />
+      <TextEquiv conf="0.9234">
+        <Unicode>el Miercoles, 3 de Mayo de 1944, a las 4:30 EN PUNTO
+Localidades: 9:00 a 12:00 A. M. MANHA GRANICO</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r21" type="heading" custom="readingOrder {index:21;} structure {type:SectionHeader;}">
+      <Coords points="175,2180 422,2180 422,2234 175,2234" />
+      <TextEquiv conf="0.9523">
+        <Unicode>La Tosca</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r22" type="paragraph" custom="readingOrder {index:22;} structure {type:Text;}">
+      <Coords points="24,2251 589,2251 589,2326 24,2326" />
+      <TextEquiv conf="0.9933">
+        <Unicode>OPERA DE G. PUCCINI CON
+NAZARINA FARIAS, SERAFIN GARCIA, CESAR ANTOLINOS,
+DESIDERIUS LIGETTI, J. GONZALEZ ANGUITA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r23" type="heading" custom="readingOrder {index:23;} structure {type:SectionHeader;}">
+      <Coords points="175,2326 451,2326 451,2373 175,2373" />
+      <TextEquiv conf="0.9768">
+        <Unicode>—Metropolitan—</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r24" type="paragraph" custom="readingOrder {index:24;} structure {type:Text;}">
+      <Coords points="40,2373 524,2373 524,2405 40,2405" />
+      <TextEquiv conf="0.9783">
+        <Unicode>LUNES, 4.o DE MAYO. 1944 — 4:00 EN PUNTO</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r25" type="paragraph" custom="readingOrder {index:25;} structure {type:Text;}">
+      <Coords points="40,2407 567,2407 567,2454 40,2454" />
+      <TextEquiv conf="0.9856">
+        <Unicode>Localidades: New Escolta Drug Store y desde el domingo en el Metropolitan.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r26" type="heading" custom="readingOrder {index:26;} structure {type:SectionHeader;}">
+      <Coords points="538,37 942,37 942,141 538,141" />
+      <TextEquiv conf="0.9566">
+        <Unicode>so en SE SELECCIONA A
+fonia 25 PENSIONADOS</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r27" type="paragraph" custom="readingOrder {index:27;} structure {type:Text;}">
+      <Coords points="538,141 942,141 942,285 538,285" />
+      <TextEquiv conf="0.9346">
+        <Unicode>Veinticieno jóvenes filipinos, incluyendo dos moros y un igorro te, que compondrán el grupo que será enviado al Japón como pensionados de la República de Filipinas, han sido finalmente escogidos y se están sometiendo ahora un intenso entrenamiento.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r28" type="paragraph" custom="readingOrder {index:28;} structure {type:Text;}">
+      <Coords points="538,285 942,285 942,455 538,455" />
+      <TextEquiv conf="0.9689">
+        <Unicode>El Director Mariano V. de los Santos, de la Oficina de Cultura Oriental, que es al mismo tiempo jefe de la escuela de entrenamiento, ha sometido la lista de los propuestos pensionados a Malacañán, por conducto del Ministerio de Asuntos Extranjeros para la aprobación final.
+La selección se ha basado pu</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r29" type="paragraph" custom="readingOrder {index:29;} structure {type:Text;}">
+      <Coords points="538,455 942,455 942,816 538,816" />
+      <TextEquiv conf="0.9752">
+        <Unicode>La selección se ha basado paramente en el merito, dijo el Director De los Santos, y todos los miembros que componen el grupo son merecedores del honor a ellos conferido. El entrenamiento de este grupo, que empezó el lunes pasado, terminará el 20 de mayo.
+A los estudiantes se les está enseñando más intensamente la historia oriental, la geografía del Asia Oriental Más Grande, la historia del Japón, la historia de Filipinas, el nippongo y la cultura física. Cinco profesores japoneses y cinco filipines del Ministerio de Educación y del Ministerio de Azuntos Extranjeros componen el profesorado de la escuela de entrenamiento, que está alojada en el colegio del Espiritu Santo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r30" type="heading" custom="readingOrder {index:30;} structure {type:SectionHeader;}">
+      <Coords points="634,829 942,829 942,883 634,883" />
+      <TextEquiv conf="0.7638">
+        <Unicode>GONZALES DA CONSEJOS
+de CENTROS GERMAIS</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r31" type="heading" custom="readingOrder {index:31;} structure {type:SectionHeader;}">
+      <Coords points="665,873 942,873 942,888 665,888" />
+      <TextEquiv conf="0.6660">
+        <Unicode>A FUTUROSE ORIENTED</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r32" type="paragraph" custom="readingOrder {index:32;} structure {type:Text;}">
+      <Coords points="538,888 942,888 942,1076 538,1076" />
+      <TextEquiv conf="0.9581">
+        <Unicode>A FUTUROS GERENTES
+El éxito o frascace de una empresa, sea pública o privada, para negocios o servicios, depende de dos importantes factores: la técnica y el elemento humano, dije el Dr. Leon Ma. Gonzales, director de la Oficina de Censos y Estadísticas, la semana pasada en su conferencia ante los futuros gerentes de las</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r33" type="paragraph" custom="readingOrder {index:33;} structure {type:Text;}">
+      <Coords points="538,1076 942,1076 942,1249 538,1249" />
+      <TextEquiv conf="0.9282">
+        <Unicode>cia ante los futuros gerentes de las sociedades cooperativas de constumidores en Manila, que ahora están sometidos a un período de entremenamiento en el instituto organizado en el City Hall.
+Aunuque estos dos factores vancisierme unidos y de ellos depende la suerte de las empresas, el Dr. Gonzales cree que el factor masimil</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r34" type="paragraph" custom="readingOrder {index:34;} structure {type:Text;}">
+      <Coords points="538,1249 942,1249 942,1447 538,1447" />
+      <TextEquiv conf="0.9687">
+        <Unicode>portante en la eficiente administración de una empresa es el elemento humano.
+El instituto, está ahora dando clases especiales por las tardes durante una hora a fin de dar oportunidad a los entrenandos rezagados para que puedan alcanzar e los que están ya adelantados. El Sr. Jiménez, controlor de este instituto, de suas conferencias de 3:00</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r35" type="heading" custom="readingOrder {index:35;} structure {type:SectionHeader;}">
+      <Coords points="634,1467 942,1467 942,1492 634,1492" />
+      <TextEquiv conf="0.6048">
+        <Unicode>G. S. L. L. I.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r36" type="paragraph" custom="readingOrder {index:36;} structure {type:Text;}">
+      <Coords points="538,1492 942,1492 942,1588 538,1588" />
+      <TextEquiv conf="0.9040">
+        <Unicode>Sanidad, delegado...
+(Continuacion de la pagina 1)
+del norte de Luzón, donde algunos elementos continúan perturbando la pies al esterdo</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r37" type="heading" custom="readingOrder {index:37;} structure {type:SectionHeader;}">
+      <Coords points="634,1467 942,1467 942,1492 634,1492" />
+      <TextEquiv conf="0.6053">
+        <Unicode>G. S. L. L. I.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r38" type="paragraph" custom="readingOrder {index:38;} structure {type:Text;}">
+      <Coords points="538,1492 942,1492 942,1667 538,1667" />
+      <TextEquiv conf="0.9576">
+        <Unicode>(Continuacion de la pagina 1)
+del norte de Luzón, donde algunos elementos contiñan perturbando la paz y el orden.
+El Diputado Sanidad fue elegido dos veces miembro de la Asamblea Nacional donde fué miembro de importantes comités. Es conocido</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r39" type="heading" custom="readingOrder {index:39;} structure {type:SectionHeader;}">
+      <Coords points="634,1667 942,1667 942,1692 634,1692" />
+      <TextEquiv conf="0.9570">
+        <Unicode>importantes comites. Es conocido por su actividad y su interés es.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r40" type="paragraph" custom="readingOrder {index:40;} structure {type:Text;}">
+      <Coords points="538,1692 942,1692 942,1905 538,1905" />
+      <TextEquiv conf="0.9796">
+        <Unicode>Otro acusado por posesion de un arma
+Nicasio Salonga y Rodriguez, otro acusado por posesion ilegal de un arma de fuego, se declaro culpable esta mañana ante el Jueze Gaudencio Garcia, del tribunal sumario. El jugado esta ahora preparando la sentencia.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r41" type="heading" custom="readingOrder {index:41;} structure {type:SectionHeader;}">
+      <Coords points="634,1905 942,1905 942,1942 634,1942" />
+      <TextEquiv conf="0.8654">
+        <Unicode>Misa de Comuplor</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r42" type="paragraph" custom="readingOrder {index:42;} structure {type:Text;}">
+      <Coords points="538,1942 942,1942 942,2058 538,2058" />
+      <TextEquiv conf="0.9688">
+        <Unicode>Misa de Comunion
+para Congregantes
+Los Congregantes Marianos asistirán a su Misa de Comunion, el próximo domingo, a las 7:00 de la mañana, en el Auditoriom del Ateneo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r43" type="paragraph" custom="readingOrder {index:43;} structure {type:Text;}">
+      <Coords points="538,2083 942,2083 942,2120 538,2120" />
+      <TextEquiv conf="0.9749">
+        <Unicode>miembros de la tripulación recibieron también cartas de elogio de</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r44" type="heading" custom="readingOrder {index:44;} structure {type:SectionHeader;}">
+      <Coords points="665,2177 942,2177 942,2202 665,2202" />
+      <TextEquiv conf="0.9255">
+        <Unicode>JUEGOS BENEFICOS del</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r45" type="paragraph" custom="readingOrder {index:45;} structure {type:Text;}">
+      <Coords points="634,2202 942,2202 942,2449 634,2449" />
+      <TextEquiv conf="0.9749">
+        <Unicode>JOEGOS BENEFICOS del
+JAI-ALAL
+Domingo, 30 de Abril, 3:00 P.M.
+PELOTARIS AFICIONADOS
+JUGARAN
+La Entrada y las Apuestas a
+beneficio del
+"PAGAMUTAN ng MARALITA"
+Auspiciado por la Philippine
+Social Service (PSSINC)
+La Sra. of JACOBO ZOBEL Pres.
+invita al publico a socorrer a los
+Pebres de Manila</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r46" type="heading" custom="readingOrder {index:46;} structure {type:SectionHeader;}">
+      <Coords points="1015,37 1159,37 1159,87 1015,87" />
+      <TextEquiv conf="0.8851">
+        <Unicode>Sociedad</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r47" type="heading" custom="readingOrder {index:47;} structure {type:SectionHeader;}">
+      <Coords points="1015,87 1259,87 1259,136 1015,136" />
+      <TextEquiv conf="0.9062">
+        <Unicode>9 del corriente mes han unisuertes a la chita callando Gentes Albert Ray v Carmen</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r48" type="paragraph" custom="readingOrder {index:48;} structure {type:Text;}">
+      <Coords points="1015,87 1259,87 1259,433 1015,433" />
+      <TextEquiv conf="0.9285">
+        <Unicode>O del corriente mes han uniuertes a la chita callando venes Albert Ray y Carmen Crever. La ceremiona religiosa ugar en el templo de los Papáles, siendo oficiente el arróco, Rev. Padre José Fernández. Fueron padrinos la Sra. de Fisher, hermana de la Sra. y el hermano del novio, Sr. Ray. El cortejo nupcial lo forza: Srta. Josefina Puigcever, de honor, Sr. Enrique Vasprada, caballero de honor, y fos Ramonet Montserrat e a Fisher, portadores de y las arras. Una cena famile-servió después de la boda Avenue Hotel.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r49" type="paragraph" custom="readingOrder {index:49;} structure {type:Text;}">
+      <Coords points="1015,433 1259,433 1259,631 1015,631" />
+      <TextEquiv conf="0.9454">
+        <Unicode>Sita. Baby Labrador reunió grupo de amigas en una cen: "Royal room", antenoche, casión de su cumpleaños, las invitadas se hallaban: Magola, Asela y Charing. Cora Roxas Labrador, Mila Zamora, Alice Feria Obordo, Pamintuan, Flora Labrador, Gonzelez. Nitra del Rosario,</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r50" type="paragraph" custom="readingOrder {index:50;} structure {type:Text;}">
+      <Coords points="1015,631 1259,631 1259,854 1015,854" />
+      <TextEquiv conf="0.9146">
+        <Unicode>Srta. Filomena A. Roendo, de Don Anseligo D, Roendo cora. de Corregidor y el Dr. Carcio C. Maniwan, de Loay, han unido sus suertes para rever en el indisoluble lazo del monto. La boda se celebró estemente en la Iglesia de .</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r51" type="paragraph" custom="readingOrder {index:51;} structure {type:Text;}">
+      <Coords points="1015,854 1259,854 1259,1027 1015,1027" />
+      <TextEquiv conf="0.8782">
+        <Unicode>a boda soleminzada reciente, es ex la de Reineira L. Bernaja de Don Fernando Bernabeyo, y sefiora, con Celestino T. La ceremonia tuvo lugar inglesa de Magdalena. El novo hijo de Don Pablo M. Quitofora.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r52" type="paragraph" custom="readingOrder {index:52;} structure {type:Text;}">
+      <Coords points="1015,1027 1259,1027 1259,1076 1015,1076" />
+      <TextEquiv conf="0.9634">
+        <Unicode>• • •
+hijo de Melecio Castaños y
+ma ha sido bautizado en San</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r53" type="paragraph" custom="readingOrder {index:53;} structure {type:Text;}">
+      <Coords points="1015,1076 1259,1076 1259,1249 1015,1249" />
+      <TextEquiv conf="0.8154">
+        <Unicode>sepecio de la que en vida se dodo Doña Luisa Chinchilla Vda, * 2:00, tendiendo lugar esta cartoje, mez en ele, pariendo al corteguere desde la Iglesia de Reco-ner C Cementerio de La Loma.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r54" type="heading" custom="readingOrder {index:54;} structure {type:SectionHeader;}">
+      <Coords points="983,1286 1251,1286 1251,1346 983,1346" />
+      <TextEquiv conf="0.8992">
+        <Unicode>Notas Deportivas</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r55" type="paragraph" custom="readingOrder {index:55;} structure {type:Text;}">
+      <Coords points="1015,1348 1259,1348 1259,1361 1015,1361" />
+      <TextEquiv conf="0.5062">
+        <Unicode>Man Roger</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r56" type="paragraph" custom="readingOrder {index:56;} structure {type:Text;}">
+      <Coords points="1015,1361 1259,1361 1259,1509 1015,1509" />
+      <TextEquiv conf="0.9163">
+        <Unicode>Dr. Reyes gana en el
+come mensual de golf
+Dr. Francisco P. Reyes gane
+torneco mensual medallista con
+condente al mes de abril con
+condente de 68. 51 jugadores par
+teron en el referido torneco
+ual.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r57" type="paragraph" custom="readingOrder {index:57;} structure {type:Text;}">
+      <Coords points="1015,1509 1259,1509 1259,1583 1015,1583" />
+      <TextEquiv conf="0.9157">
+        <Unicode>M vence al Toyo Menka
+ha en baloncesto, 67-26
+formidable quinteto de la
+M batia a Toyo Menka.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r58" type="paragraph" custom="readingOrder {index:58;} structure {type:Text;}">
+      <Coords points="1015,1583 1259,1583 1259,1658 1015,1658" />
+      <TextEquiv conf="0.9667">
+        <Unicode>M batio al Toyo Menka Kai decisivamente por el recuento de 57-26, en relación con la inter-comercial de baloncesto ZMG.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r59" type="paragraph" custom="readingOrder {index:59;} structure {type:Text;}">
+      <Coords points="1015,1658 1259,1658 1259,1732 1015,1732" />
+      <TextEquiv conf="0.9460">
+        <Unicode>T.M.C.A.
+o Inter-buro entre Sanidad,
+bajo y Bienestar Público
+diferentes burós bajo el Mi</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r60" type="paragraph" custom="readingOrder {index:60;} structure {type:Text;}">
+      <Coords points="1015,1732 1259,1732 1259,1856 1015,1856" />
+      <TextEquiv conf="0.8792">
+        <Unicode>Uno de las diferentes buros bajo el director de Sanidad, Trabajo Publico comenzarán su estar público comenzarán su trabajo inter-buró este tarde en el campo de la anterior escuela inicial. Benjamin T. Tirona ha nombrado como oficial atle-</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r61" type="paragraph" custom="readingOrder {index:61;} structure {type:Text;}">
+      <Coords points="1015,1856 1259,1856 1259,1930 1015,1930" />
+      <TextEquiv conf="0.9219">
+        <Unicode>Auglí de Manila triunfa en encuentro en Pampangu special a LA VANGUARDIA) ngau, Pampanga, 20 de abril.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r62" type="paragraph" custom="readingOrder {index:62;} structure {type:Text;}">
+      <Coords points="1015,1930 1259,1930 1259,2053 1015,2053" />
+      <TextEquiv conf="0.9361">
+        <Unicode>de una muchedumbre calculado, uno unos 5,000 espectadores, Clensosoy, pugil invasor de Manfia, una bien merecida decisión. Speedy Garcy, uno de los prometedores pugiles de la banga, el miercoles pasado en</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r63" type="paragraph" custom="readingOrder {index:63;} structure {type:Text;}">
+      <Coords points="1015,2053 1259,2053 1259,2103 1015,2103" />
+      <TextEquiv conf="0.8832">
+        <Unicode>Las Públicas derrota a la
+capi en 3 últimas partidos</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r64" type="paragraph" custom="readingOrder {index:64;} structure {type:Text;}">
+      <Coords points="1015,2103 1259,2103 1259,2152 1015,2152" />
+      <TextEquiv conf="0.8494">
+        <Unicode>papi en 3 últimos partidos
+ando los últimos tres partidos
+quedaban de su serie ayer tar
+clase. Dübleker, Aimfe, etc.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r65" type="paragraph" custom="readingOrder {index:65;} structure {type:Text;}">
+      <Coords points="1015,2152 1259,2152 1259,2202 1015,2202" />
+      <TextEquiv conf="0.9762">
+        <Unicode>Obras Públicas triunfo sobre
+El Deporte de Mil Sensaciones</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r66" type="paragraph" custom="readingOrder {index:66;} structure {type:Text;}">
+      <Coords points="1015,2202 1259,2202 1259,2227 1015,2227" />
+      <TextEquiv conf="0.7276">
+        <Unicode>JAI-AIAI</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r67" type="paragraph" custom="readingOrder {index:67;} structure {type:Text;}">
+      <Coords points="1015,2227 1259,2227 1259,2301 1015,2301" />
+      <TextEquiv conf="0.9585">
+        <Unicode>JAI-ALAI
+CODAS LAS TARDES MENOS
+LOS DOMINGOS
+unes al Viernes desde las 3 p.m.
+desde las 2 p. m.—Hoy Abril 26</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r68" type="paragraph" custom="readingOrder {index:68;} structure {type:Text;}">
+      <Coords points="1015,2301 1259,2301 1259,2350 1015,2350" />
+      <TextEquiv conf="0.9310">
+        <Unicode>Artidos Individuales de 5 puntos
+pos 1-6: Marcos, Arancl, Mondi-
+bal, Renteria, Eugenio, Marcne.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r69" type="paragraph" custom="readingOrder {index:69;} structure {type:Text;}">
+      <Coords points="1015,2350 1259,2350 1259,2400 1015,2400" />
+      <TextEquiv conf="0.9449">
+        <Unicode>Dobles de 5 puntos—7 y 8
+Partidos Individuales de 5 puntos</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r70" type="paragraph" custom="readingOrder {index:70;} structure {type:Text;}">
+      <Coords points="1015,2400 1259,2400 1259,2449 1015,2449" />
+      <TextEquiv conf="0.9450">
+        <Unicode>ABADOS DESDE 2:00 P. M.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r71" type="heading" custom="readingOrder {index:71;} structure {type:SectionHeader;}">
+      <Coords points="1259,37 1583,37 1583,136 1259,136" />
+      <TextEquiv conf="0.9722">
+        <Unicode>CASA Y COMIDA SE
+OFRECE A OBREROS</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r72" type="paragraph" custom="readingOrder {index:72;} structure {type:Text;}">
+      <Coords points="1259,136 1583,136 1583,285 1259,285" />
+      <TextEquiv conf="0.9619">
+        <Unicode>La agencia de reclutamiento de obreros anunció ayer, que los obreros empleados en las construcciones de las Fuerzas Imperiales Japoneses que deciden quedarse a vivir en los sitios donde están asignados a trabajer tendrán líbre alojamiento y comida.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r73" type="paragraph" custom="readingOrder {index:73;} structure {type:Text;}">
+      <Coords points="1259,285 1583,285 1583,532 1259,532" />
+      <TextEquiv conf="0.9722">
+        <Unicode>Estos obreros podrán visitar a sus familias una vez a la semana. Los obreros que preferen regresar a sus casas después del trabajo diario tendrán derecho a una ración diaria gratuita de unos 600 gramos de arroz, u otros cereales. Estos obreros tendrán en cambio que pagar su transportación para ir al lugar del trabajo y para volver a sus casas. En caso de que el ejercito decida dar a los inismios comida, sus raciones de arroz serán reducidas pronorcionalmente.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r74" type="paragraph" custom="readingOrder {index:74;} structure {type:Text;}">
+      <Coords points="1259,532 1583,532 1583,829 1259,829" />
+      <TextEquiv conf="0.9697">
+        <Unicode>En vista de las oportunidades que se ofrecen para ganar un honrado medio de vivir, cientos de obreros de Manila han socicitado trabajo. Todos los obreros ordinarios reclutados en Manila, tendrán derecho a un jornal diario de P3.30. Los obreros expeito en algún ramo del trabajo tendrán P4.80 al día. Los obreros de Manila que estén interesados en trabajar en los proyectos en provincias recibiran una bonificación adicional de P0.50 o si eran trasladados de una isela a otra y P0.25 si son trasladados de un sítio a otro dentro de</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r75" type="paragraph" custom="readingOrder {index:75;} structure {type:Text;}">
+      <Coords points="1259,829 1583,829 1583,903 1259,903" />
+      <TextEquiv conf="0.9479">
+        <Unicode>Otra bonificación adicional equivalente al 10%del jornal básico por hora se pagará por itabajes preciosos en extréo de la hora</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r76" type="heading" custom="readingOrder {index:76;} structure {type:SectionHeader;}">
+      <Coords points="1259,928 1583,928 1583,977 1259,977" />
+      <TextEquiv conf="0.9555">
+        <Unicode>SE ELEVAN LOS DERECHOS</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r77" type="heading" custom="readingOrder {index:77;} structure {type:SectionHeader;}">
+      <Coords points="1259,977 1583,977 1583,1027 1259,1027" />
+      <TextEquiv conf="0.8714">
+        <Unicode>SOLE LLEVAN LUO DERECHOS
+SOBRE GIROS POSTALES</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r78" type="paragraph" custom="readingOrder {index:78;} structure {type:Text;}">
+      <Coords points="1259,1027 1583,1027 1583,1249 1259,1249" />
+      <TextEquiv conf="0.9704">
+        <Unicode>Para hacer frente al alto costo del mantienimiento del servicio de giros postales, el Director de Comunicaciones, con la aprobación del Ministro de Obras Públicas y Comunicaciones, ha preserito los siguientes tipos de derechos para los giros postales expedides en Filipinas, con efectividad el 1-o de mayo de este año;
+Para giros que no excedan de P5, P10; de P5 a P10, P0.15; de</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r79" type="paragraph" custom="readingOrder {index:79;} structure {type:Text;}">
+      <Coords points="1259,1249 1583,1249 1583,1373 1259,1373" />
+      <TextEquiv conf="0.9943">
+        <Unicode>P10 a P20, P0.20; de P20 a P30
+P0.30; de P30 a P40, P0.40; de
+P40 a P50, P0.50; de P50 a P60,
+P0.60; de P60 a P70, P0.70; de
+P70 a P80, P0.80; de P80 a P90,
+P0.90; de P90 a P100, P1.00; de
+P100 a P120, P1.10; de P120 a</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r80" type="heading" custom="readingOrder {index:80;} structure {type:SectionHeader;}">
+      <Coords points="1259,1398 1583,1398 1583,1472 1259,1472" />
+      <TextEquiv conf="0.9395">
+        <Unicode>P1.60.
+Nuevos vocales para la
+provincia de Tayabas</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r81" type="paragraph" custom="readingOrder {index:81;} structure {type:Text;}">
+      <Coords points="1259,1472 1583,1472 1583,1571 1259,1571" />
+      <TextEquiv conf="0.9618">
+        <Unicode>Los miembros de la junta principal de Tayabas fueron nombrados ayer por el Presidente Jose P. Laurel. Ellos son Tomas Umall de Tlaong y Jose Nieva de Macdeller.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r82" type="paragraph" custom="readingOrder {index:82;} structure {type:Text;}">
+      <Coords points="1259,1571 1583,1571 1583,1769 1259,1769" />
+      <TextEquiv conf="0.9503">
+        <Unicode>la Kalibapi por 4 contra 1, en torneo gubernamental de tenis. Floredo, OP, ganó a Relosa, K, por 4-6. 6-1 y 6-0. Deyro, OP, vencí a D. Rosal, K, por 50-7, y 6-1. Guevara-Luna, OP, derrotaro a D. Laudines-Tamayo, K, por 4-1. 6-3. Mañana el Ministerio de Hecienda jugará con el Ministerio de Asuntos Domésticos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r83" type="heading" custom="readingOrder {index:83;} structure {type:SectionHeader;}">
+      <Coords points="1259,1769 1583,1769 1583,1806 1259,1806" />
+      <TextEquiv conf="0.9164">
+        <Unicode>Asuntos Domesticos.
+Anuncios Clasificados</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r84" type="paragraph" custom="readingOrder {index:84;} structure {type:Text;}">
+      <Coords points="1259,1806 1583,1806 1583,1856 1259,1856" />
+      <TextEquiv conf="0.8480">
+        <Unicode>Anuncios clasmcados
+Terifa: P0.80 Linea</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r85" type="paragraph" custom="readingOrder {index:85;} structure {type:Text;}">
+      <Coords points="1259,1856 1583,1856 1583,1917 1259,1917" />
+      <TextEquiv conf="0.9614">
+        <Unicode>Se Vende Bienes Raices
+P30,000-Chalet c/150 lote, Sampaioc.
+P60,000-Residencia c/272 lote, Paco.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r86" type="paragraph" custom="readingOrder {index:86;} structure {type:Text;}">
+      <Coords points="1259,1917 1583,1917 1583,1992 1259,1992" />
+      <TextEquiv conf="0.9314">
+        <Unicode>P60,000-Residencia c/272 lote, Paco,
+P60,000-Rec. c/1000 lote, Mandaluyong,
+Gonzalez, 624 Rizal Ave. Tel. 2-80-64.
+Propiedad residencial San Juan, casa 2
+pisos, man de 1000 m.c. de solar,
+595,000. Duóe directo Tel. 2-46-38.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r87" type="paragraph" custom="readingOrder {index:87;} structure {type:Text;}">
+      <Coords points="1259,1992 1583,1992 1583,2053 1259,2053" />
+      <TextEquiv conf="0.9475">
+        <Unicode>n. P85,000. Dueño directo Tel. 2-46-38.
+(26/4—H.n.a.)
+6 800 m.c. Calle Apo, Sta. Mova Heights,
+n. Lecedescar, 34 Limasana.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r88" type="paragraph" custom="readingOrder {index:88;} structure {type:Text;}">
+      <Coords points="1259,2053 1583,2053 1583,2103 1259,2103" />
+      <TextEquiv conf="0.8836">
+        <Unicode>Se Desea Alquilar
+Casa residencial de primera class con</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r89" type="paragraph" custom="readingOrder {index:89;} structure {type:Text;}">
+      <Coords points="1259,2103 1583,2103 1583,2152 1259,2152" />
+      <TextEquiv conf="0.8998">
+        <Unicode>Casa residencial de primera glase con
+3 o 4 dormiterlos, para un Ejecu
+tivo de la Taiwan Denryoh, Kaisya
+(Meralco). Llamo al Sr. Crowley.
+Tel 2.10.11. (15.1/4 bed)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r90" type="paragraph" custom="readingOrder {index:90;} structure {type:Text;}">
+      <Coords points="1259,2152 1583,2152 1583,2202 1259,2202" />
+      <TextEquiv conf="0.9669">
+        <Unicode>e Tel. 2-19-11. (15/4 h.n.a.)
+Servicios Misceláneos</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r91" type="paragraph" custom="readingOrder {index:91;} structure {type:Text;}">
+      <Coords points="1259,2202 1583,2202 1583,2227 1259,2227" />
+      <TextEquiv conf="0.9624">
+        <Unicode>Especialistas en RCA y Philco. T-23648
+(-29/4)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r92" type="paragraph" custom="readingOrder {index:92;} structure {type:Text;}">
+      <Coords points="1259,2227 1583,2227 1583,2301 1259,2301" />
+      <TextEquiv conf="0.9599">
+        <Unicode>Se Necesitan
+Camareras. Pueden conseguir buenas propinas, sueldo y comision. 4½ Mabini.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r93" type="paragraph" custom="readingOrder {index:93;} structure {type:Text;}">
+      <Coords points="1259,2301 1583,2301 1583,2350 1259,2350" />
+      <TextEquiv conf="0.9055">
+        <Unicode>BANGO HIPOTECARIO DE
+HIPERMA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r94" type="paragraph" custom="readingOrder {index:94;} structure {type:Text;}">
+      <Coords points="1259,2350 1583,2350 1583,2400 1259,2400" />
+      <TextEquiv conf="0.9770">
+        <Unicode>FILIPINAS
+3-9 Plaza Cervontes, Manula
+PRESTAMOS HIPOTECARIOS</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r95" type="paragraph" custom="readingOrder {index:95;} structure {type:Text;}">
+      <Coords points="1259,2400 1583,2400 1583,2449 1259,2449" />
+      <TextEquiv conf="0.9270">
+        <Unicode>CUENTAS DE AHORRO
+Desde Un Paso en adecanto</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

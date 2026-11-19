@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:56:01</Created>
+    <LastChange>2026-11-18T10:56:01</LastChange>
+  </Metadata>
+  <Page imageFilename="Fémina_30-06-1923_P14.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+        <RegionRefIndexed index="21" regionRef="r21" />
+        <RegionRefIndexed index="22" regionRef="r22" />
+        <RegionRefIndexed index="23" regionRef="r23" />
+        <RegionRefIndexed index="24" regionRef="r24" />
+        <RegionRefIndexed index="25" regionRef="r25" />
+        <RegionRefIndexed index="26" regionRef="r26" />
+        <RegionRefIndexed index="27" regionRef="r27" />
+        <RegionRefIndexed index="28" regionRef="r28" />
+        <RegionRefIndexed index="29" regionRef="r29" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="129,123 377,123 377,182 129,182" />
+      <TextEquiv conf="0.9410">
+        <Unicode>FEMINA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="heading" custom="readingOrder {index:1;} structure {type:SectionHeader;}">
+      <Coords points="565,365 1735,365 1735,456 565,456" />
+      <TextEquiv conf="0.9128">
+        <Unicode>Farmacia "La Salud"</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="781,484 1500,484 1500,533 781,533" />
+      <TextEquiv conf="0.9804">
+        <Unicode>DE EDO. ARISTIDES DEPRAT</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="523,551 1772,551 1772,614 523,614" />
+      <TextEquiv conf="0.9637">
+        <Unicode>“Padre Billini” esquina “Santomé”. Santo Domingo, R. D.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="216,656 2095,656 2095,758 216,758" />
+      <TextEquiv conf="0.9743">
+        <Unicode>Constante surtido de drogas, patentizados, productos químicos y cualquier artículo de tocador y novedad.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="216,751 2090,751 2090,852 216,852" />
+      <TextEquiv conf="0.9911">
+        <Unicode>Las recetas son preparadas con cuidadosa atención a cargo de un experto con diez y seis años de práctica. Precios bajos es nuestro lema.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="216,842 2092,842 2092,940 216,940" />
+      <TextEquiv conf="0.9969">
+        <Unicode>Comprando Ud. en esta farmacia sus medicinas, no se verá apurado cuando le falte el efectivo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="heading" custom="readingOrder {index:7;} structure {type:SectionHeader;}">
+      <Coords points="293,1102 1021,1102 1021,1298 293,1298" />
+      <TextEquiv conf="0.9046">
+        <Unicode>Farmacia
+“Central”</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="364,1337 940,1337 940,1393 364,1393" />
+      <TextEquiv conf="0.9909">
+        <Unicode>Del Lic. J. B. Marrero S.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="216,1452 1106,1452 1106,1508 216,1508" />
+      <TextEquiv conf="0.9951">
+        <Unicode>Frente al Parque Colón, - Sto. Dgo., - R. D.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="305,1565 1016,1565 1016,1694 305,1694" />
+      <TextEquiv conf="0.9636">
+        <Unicode>Existencia de Productos frescos
+Europeos y Americanos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="heading" custom="readingOrder {index:11;} structure {type:SectionHeader;}">
+      <Coords points="1192,1077 2092,1077 2092,1165 1192,1165" />
+      <TextEquiv conf="0.9450">
+        <Unicode>Ureña &amp; Aguiar</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="1289,1189 1983,1189 1983,1249 1289,1249" />
+      <TextEquiv conf="0.9643">
+        <Unicode>Importadores, Comisionistas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="1262,1291 2015,1291 2015,1435 1262,1435" />
+      <TextEquiv conf="0.9945">
+        <Unicode>Representantes de Casas
+Americanas y Europeas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="1240,1494 2045,1494 2045,1551 1240,1551" />
+      <TextEquiv conf="0.9838">
+        <Unicode>Oficina: “Arzobispo Meriño” No. 77.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="1264,1596 2020,1596 2020,1726 1264,1726" />
+      <TextEquiv conf="0.9973">
+        <Unicode>P. O. Box No. 223.
+Santo Domingo, Rep. Dominicana.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="heading" custom="readingOrder {index:16;} structure {type:SectionHeader;}">
+      <Coords points="218,1866 1101,1866 1101,1961 218,1961" />
+      <TextEquiv conf="0.9734">
+        <Unicode>El Guante Rojo</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="471,1975 850,1975 850,2038 471,2038" />
+      <TextEquiv conf="0.9738">
+        <Unicode>de José E. Fernández</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="563,2077 756,2077 756,2129 563,2129" />
+      <TextEquiv conf="0.9826">
+        <Unicode>(TASITO)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="350,2185 964,2185 964,2242 350,2242" />
+      <TextEquiv conf="0.9940">
+        <Unicode>Establecimieto de Fantasía.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="paragraph" custom="readingOrder {index:20;} structure {type:Text;}">
+      <Coords points="357,2284 957,2284 957,2340 357,2340" />
+      <TextEquiv conf="0.9990">
+        <Unicode>Calle Rafael Deligne No. 37</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r21" type="paragraph" custom="readingOrder {index:21;} structure {type:Text;}">
+      <Coords points="667,2392 1049,2392 1049,2445 667,2445" />
+      <TextEquiv conf="0.9665">
+        <Unicode>S. P. de Macorís.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r22" type="heading" custom="readingOrder {index:22;} structure {type:SectionHeader;}">
+      <Coords points="345,2554 974,2554 974,2750 345,2750" />
+      <TextEquiv conf="0.9882">
+        <Unicode>Lic. Quiterio Berroa
+ABOGADO</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r23" type="paragraph" custom="readingOrder {index:23;} structure {type:Text;}">
+      <Coords points="275,2806 1039,2806 1039,2863 275,2863" />
+      <TextEquiv conf="0.9871">
+        <Unicode>Colón No. 15 San Pedro de Macorís</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r24" type="paragraph" custom="readingOrder {index:24;} structure {type:Text;}">
+      <Coords points="216,2901 1106,2901 1106,3185 216,3185" />
+      <TextEquiv conf="0.9940">
+        <Unicode>CONSULTAS: Redacción de minutas de actos judiciales, de contratos, de memoriales. Traducción en estos idiomas: español, inglés, francés.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r25" type="heading" custom="readingOrder {index:25;} structure {type:SectionHeader;}">
+      <Coords points="1438,2557 1854,2557 1854,2659 1438,2659" />
+      <TextEquiv conf="0.9240">
+        <Unicode>“Café Nada!”</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r26" type="paragraph" custom="readingOrder {index:26;} structure {type:Text;}">
+      <Coords points="1289,2733 2001,2733 2001,2796 1289,2796" />
+      <TextEquiv conf="0.9957">
+        <Unicode>El mejor surtido en licores.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r27" type="paragraph" custom="readingOrder {index:27;} structure {type:Text;}">
+      <Coords points="1232,2845 2065,2845 2065,2908 1232,2908" />
+      <TextEquiv conf="0.9972">
+        <Unicode>Ventas al por mayor y al detalle.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r28" type="paragraph" custom="readingOrder {index:28;} structure {type:Text;}">
+      <Coords points="1282,2985 2015,2985 2015,3045 1282,3045" />
+      <TextEquiv conf="0.9625">
+        <Unicode>Avenida España esq. Hostos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r29" type="paragraph" custom="readingOrder {index:29;} structure {type:Text;}">
+      <Coords points="1604,3094 2040,3094 2040,3154 1604,3154" />
+      <TextEquiv conf="0.9478">
+        <Unicode>S. P. de Macorís.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

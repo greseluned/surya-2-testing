@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:58:13</Created>
+    <LastChange>2026-11-18T10:58:13</LastChange>
+  </Metadata>
+  <Page imageFilename="0272_Semana-0272.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+        <RegionRefIndexed index="21" regionRef="r21" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="107,280 414,280 414,333 107,333" />
+      <TextEquiv conf="0.9733">
+        <Unicode>SEMANA — 8</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="2025,270 2401,270 2401,330 2025,330" />
+      <TextEquiv conf="0.9536">
+        <Unicode>6 de Enerc, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r2" custom="readingOrder {index:2;} structure {type:Picture;}">
+      <Coords points="97,382 2376,382 2376,1921 97,1921" />
+    </ImageRegion>
+    <TextRegion id="r3" type="caption" custom="readingOrder {index:3;} structure {type:Caption;}">
+      <Coords points="771,1949 1727,1949 1727,2002 771,2002" />
+      <TextEquiv conf="0.9824">
+        <Unicode>La abuela, satisfecha, se puso a dar cuerpo a la "idea".</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="104,2083 810,2083 810,2584 104,2584" />
+      <TextEquiv conf="0.9927">
+        <Unicode>abiertos pensaba en los niños—criaturas de Dios—que estarían durmiendo cor la sonrisa en los labios, esperando ansiosos el amanecer para ir a correr y ver los regalos traídos por los Reyes. Pensaba en los hombres-niños que ya no creerían en los Reyes Magos, pero que todavía conservaban muy adentro el recuerdo de la Divina Ilusion y la sentían una y otra vez rediviva a lo largo de la Vida. Y pensaba en los nietos...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="109,2580 813,2580 813,3211 109,3211" />
+      <TextEquiv conf="0.9914">
+        <Unicode>Tenían razón. Al día siguiente se iban a marchar definitivamente, y ella estaba ya resignada a volver a su antigua soledad, porque comprendía que tampoco podían estar con ella para siempre. La despedida tenía que venir. Ya había sabido mostrarse brava. Esta misma noche, durante la cena, ya anunciada la marcha de todos para el día siguiente, ella había sugerido que debían coronar con algo memorable la estancia con la abuela. Los nietos, muy conforines con la idea, se rompían la cabeza pensando en "algo memorable" hasta que Estrella, muy traviesa y también muy ima</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="890,2083 1598,2083 1598,2170 890,2170" />
+      <TextEquiv conf="0.9640">
+        <Unicode>gigativa, se dio un golpetazõ en la frente y exclamó:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="927,2167 1313,2167 1313,2216 927,2216" />
+      <TextEquiv conf="0.9938">
+        <Unicode>—Ya, ya lo tengo...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="890,2209 1596,2209 1596,2293 890,2293" />
+      <TextEquiv conf="0.9561">
+        <Unicode>—¡Psé! Alguna tontería—la desdeñó Juan...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="890,2289 1596,2289 1596,2377 890,2377" />
+      <TextEquiv conf="0.9552">
+        <Unicode>Le sacó la lengua Estrella. ; El envidioso!...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="890,2377 1596,2377 1596,2465 890,2465" />
+      <TextEquiv conf="0.9927">
+        <Unicode>Y, pues, sí, tenía una idea, una espléndida idea...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="890,2461 1596,2461 1596,2549 890,2549" />
+      <TextEquiv conf="0.9869">
+        <Unicode>—Vamos, vamos, niña...¿qué es?
+—preguntó la abuela.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="890,2545 1598,2545 1598,2672 890,2672" />
+      <TextEquiv conf="0.9969">
+        <Unicode>—Pues, esto; que nosotras, las chicas, vamos a poner nuestros zapatos en las ventanas y los chicos...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="890,2665 1596,2665 1596,2798 890,2798" />
+      <TextEquiv conf="0.9792">
+        <Unicode>—¡De Reyes Magos!... ¡Magnífico!
+...—aplaudió Enrique.—Yo voy a ser
+Melchor...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="927,2794 1281,2794 1281,2847 927,2847" />
+      <TextEquiv conf="0.9568">
+        <Unicode>—Y yo, Gaspar...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="927,2840 1286,2840 1286,2885 927,2885" />
+      <TextEquiv conf="0.9534">
+        <Unicode>—Y yo, Baltazar...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="890,2878 1596,2878 1596,3089 890,3089" />
+      <TextEquiv conf="0.9949">
+        <Unicode>Y así blanqueaban a esta hora los zapatos en las ventanas del comedor. Del comedor precisamente porque eran las ventanas más accesibles para los Reyes Magos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="890,3085 1596,3085 1596,3215 890,3215" />
+      <TextEquiv conf="0.9901">
+        <Unicode>Y la abuela le daba vueltas en la cabeza a una idea traviesa, una idea picaresca. ¡Oh, su lejana juventud!... Sólo</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="1673,2083 2401,2083 2401,2423 1673,2423" />
+      <TextEquiv conf="0.9833">
+        <Unicode>con pensar en la "idea", se sentía remozada, devuelta a las energías juveniles. S:, sí, lo haría, ¿Por qué no? Sería una broma y sí, por alguna casualidad cuajaba, mejor que mejor. Así habría contr.buído a la felicidad de sus nietos; así habría hecho renacer la Divina Ilusión...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="1673,2419 2401,2419 2401,2587 1673,2587" />
+      <TextEquiv conf="0.9874">
+        <Unicode>Saltó del lecho, muy quedamenté. Encendió la luz. Rebuscó en los cajones. Luego, satisfecha, se puso a dar cuerpo a "la idea".</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="paragraph" custom="readingOrder {index:20;} structure {type:Text;}">
+      <Coords points="1673,2630 2401,2630 2401,2798 1673,2798" />
+      <TextEquiv conf="0.9928">
+        <Unicode>Al día siguiente, durante el desayúno, la abuela fue mirando, uno por uno a los -nietos. Y ¡temblaba!... ¡temblaba!...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r21" type="paragraph" custom="readingOrder {index:21;} structure {type:Text;}">
+      <Coords points="1673,2794 2401,2794 2401,3215 1673,3215" />
+      <TextEquiv conf="0.9869">
+        <Unicode>Ellos, muy extrañados. Ellas, muy serias. Y dentro de la seriedad, la Divina Ilusión palpitando en promesas de felicidad. Una Divina Ilusión, tan clara, tan evidente, que la abuela se sentía rejuvenecer. Y era obra suya, jobra de sus sesenta años! Porque ella, la noche pcasada, la noche de Reyes, había querido ser una Maga y había colocado en los zapatos... jartas de amor!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

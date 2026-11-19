@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:57:49</Created>
+    <LastChange>2026-11-18T10:57:49</LastChange>
+  </Metadata>
+  <Page imageFilename="0083_Semana-0083.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+        <RegionRefIndexed index="21" regionRef="r21" />
+        <RegionRefIndexed index="22" regionRef="r22" />
+        <RegionRefIndexed index="23" regionRef="r23" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="89,217 476,217 476,270 89,270" />
+      <TextEquiv conf="0.9703">
+        <Unicode>10 de Marzo, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="2086,217 2401,217 2401,266 2086,266" />
+      <TextEquiv conf="0.9839">
+        <Unicode>SEMANA—39</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="87,319 795,319 795,515 87,515" />
+      <TextEquiv conf="0.9959">
+        <Unicode>MAGNO PROGRAMA DE LA CRUZ
+ROJA PARA PRESTAR MAYORES
+AUXILIOS EN CASOS DE DESASTRE.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="193,564 694,564 694,656 193,656" />
+      <TextEquiv conf="0.9619">
+        <Unicode>Por DAVID BRIGGS,
+Corresponsal de REUTERS.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="87,705 800,705 800,1104 87,1104" />
+      <TextEquiv conf="0.9885">
+        <Unicode>W A S H I N G T O N, 7 de Marzo — La Cruz Roja norteamericana está estableciendo cadenas de radiotransmisoras de alta potencia para ayudar a combatir las penalidades humanas de rivadas de huracanes, incendios en los bosques e inundaciones. las causas principales de magnos desastres en los Estados Unidos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="87,1101 800,1101 800,1588 87,1588" />
+      <TextEquiv conf="0.9940">
+        <Unicode>Estas cadenas de radiotransmisores, que complementarán los Medios ordinarios a que tiene acceso la Cruz Roja, se consideran como de suma utilidad para dirigir los trabajos de salvamento en areas de desastres, para informar al exterior cuando el viento, el fuego o el agua hayan trastornado las comunicaciones, y para transmitir mensajes entre miembros de familias separadas por el desastre.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="87,1585 800,1585 800,1893 87,1893" />
+      <TextEquiv conf="0.9949">
+        <Unicode>La importancia de estas facilidades quedó de manfiesto cuando la Cruz Roja anunció recientemente que durante los dos últimos años había prestado más ayuda en los desastres internos que en cualquier tiempo desde que se fundó en 1881.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="87,1893 800,1893 800,2114 87,2114" />
+      <TextEquiv conf="0.9676">
+        <Unicode>Ya se han establecido en Washington, Chicago y San Francisco tres estaciones de radio para comunicarse y proporcionar socorro a areas distantes victimas de un desastre.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="87,2114 803,2114 803,2377 87,2377" />
+      <TextEquiv conf="0.9827">
+        <Unicode>Además miles de estaciones de aficcionados al radio en todo el país han sido registradas y organizadas para proporcionar informaciones radiofonicas locales dondequiera que pueda ocurrir el desastre.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="87,2377 805,2377 805,2861 87,2861" />
+      <TextEquiv conf="0.9913">
+        <Unicode>Para complementar esta organizacion, la Cruz Roja ha comprado seis estaciones de radio moviles montadas en coches, y las ha destacado en puntos estratégicos en todo el país. Estas unidades pueden entrar a cualquiera área azotada por un desastre, en la que los caminos estén en condiciones transitables, y pueden ser trasladadas a aviones cuando solamente se dispone de este medio para llegar a la zona afectada.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="87,2857 805,2857 805,3124 87,3124" />
+      <TextEquiv conf="0.9893">
+        <Unicode>Apenas cerca de la tercera parte gastada por la Cruz Roja en labor de socorro es destinada a trabajos en el sitio de los hechos, tales como comunicaciones, rescate, alojamiento y suministro de medicinas alimentos y ropa.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="87,3124 808,3124 808,3254 87,3254" />
+      <TextEquiv conf="0.9831">
+        <Unicode>Las autoridades de la defensa nacional están apoyando otro plan de la Cruz. Roja, consistente en ampliar un "banco</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="heading" custom="readingOrder {index:12;} structure {type:SectionHeader;}">
+      <Coords points="890,319 2292,319 2292,375 890,375" />
+      <TextEquiv conf="0.9770">
+        <Unicode>“RALLY” AUTOMOVILÍSTICO LISBOA-MONTECARLO</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r13" custom="readingOrder {index:13;} structure {type:Picture;}">
+      <Coords points="890,414 2381,414 2381,1423 890,1423" />
+    </ImageRegion>
+    <TextRegion id="r14" type="caption" custom="readingOrder {index:14;} structure {type:Caption;}">
+      <Coords points="1068,1448 2191,1448 2191,1494 1068,1494" />
+      <TextEquiv conf="0.9985">
+        <Unicode>Alguno de los coches que toman parte en la prueba deportiva.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="875,1557 1591,1557 1591,1778 875,1778" />
+      <TextEquiv conf="0.9891">
+        <Unicode>de sangre", ya que ven la necesidad de contar con abundantes reservas de sangre para el caso de que los Estados Unidos fueran atacados con armas atomicas. REUTERS — — —</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="875,1869 1591,1869 1591,1995 875,1995" />
+      <TextEquiv conf="0.9779">
+        <Unicode>CIEN PERSONAS DIARIAS MUEREN
+EN YUGOESLAVIA POR LA TU-
+BERCULOSIS.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="984,2051 1487,2051 1487,2142 984,2142" />
+      <TextEquiv conf="0.9708">
+        <Unicode>Por RONALD PRESTON
+Corresponsal de REUTERS.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="875,2202 1596,2202 1596,3254 875,3254" />
+      <TextEquiv conf="0.9916">
+        <Unicode>BELGRADO, 7 de Marzo. (REUTERS).—Mas de cien personas mueren diariamente en Yugoeslavia como resultado de la épidemia de tuberculosis que se ha abatido sobre la Europa orjental, destrozada por la guerra. El grado de incidencia de esta enfermedad en Yugoeslavia es solo inferior al de Polonia, en donde 50.000 personas murieron víctimas de la peste blanca en 1946. Otros países afectados por la epidemia tuberculosa son Grecia, Austria, Alemania, Checoeslovaquia, Hungría y algunas partes de Italia, por este orden. Estos hechos fueron revelados aqui por el doctor Paul Anderson, de la Cruz Roja Danesa, que está en Yugoeslavia desde agosto pasado organizando una campaña de las Naciones Unidas contra la fatídica “plaga o peste blanca”, que mata entre cuatro y cinco millones de personas en el mundo cadá año, lo cual representa una muerte cada siete segundos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="1665,1557 2386,1557 2386,1865 1665,1865" />
+      <TextEquiv conf="0.9908">
+        <Unicode>El doctor Anderson se halla a la cabeza de un equipo anti, tuberculoso compuesto de dos doctores daneses, cuatro enfermeras, 30 doctores yugoeslavos y unos 21 vehículos. Este equipo empezó a trabajar en el pasado mes de septiembre.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="paragraph" custom="readingOrder {index:20;} structure {type:Text;}">
+      <Coords points="1673,2058 2386,2058 2386,2205 1673,2205" />
+      <TextEquiv conf="0.9875">
+        <Unicode>TIRANTES RELACIONES ENTRE
+LOS ALEMANES Y EL GOBIERNO
+MILITAR BRITANICO.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r21" type="paragraph" custom="readingOrder {index:21;} structure {type:Text;}">
+      <Coords points="1774,2265 2275,2265 2275,2381 1774,2381" />
+      <TextEquiv conf="0.9708">
+        <Unicode>Por GUY BETTANY,
+Corresponsal de REUTERS.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r22" type="paragraph" custom="readingOrder {index:22;} structure {type:Text;}">
+      <Coords points="1665,2461 2386,2461 2386,2857 1665,2857" />
+      <TextEquiv conf="0.9952">
+        <Unicode>DUSSELDORF, Alemania, 7 de Marzo. — Desde hace varias semanas se han venido deteriorando las relaciones entre el gobierno militar británico y el gobierno alemán de Westfalia en el norte del Rhin, el estado más populoso de las tres zonas occidentales de Alemania, según dijeron aquí fuentes bien informadas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r23" type="paragraph" custom="readingOrder {index:23;} structure {type:Text;}">
+      <Coords points="1665,2857 2386,2857 2386,3254 1665,3254" />
+      <TextEquiv conf="0.9927">
+        <Unicode>Algunos alemanes hablan hasta de una crisis que se ha suscitado y que ha dado por resultado una pérdida mutua de la confianza. Este estado de cosas vino a ponerse de manifiesto durante la última sesión del Landtag (Asamblea provincial), y especialmente en ocasión de la dura carta que dirigió el Comisionado regional, mayor general W. H.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

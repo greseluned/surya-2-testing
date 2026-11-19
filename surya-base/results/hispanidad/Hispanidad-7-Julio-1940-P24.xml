@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:56:59</Created>
+    <LastChange>2026-11-18T10:56:59</LastChange>
+  </Metadata>
+  <Page imageFilename="Hispanidad-7-Julio-1940-P24.jpg" imageWidth="6954" imageHeight="9417">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="243,433 3345,433 3345,1149 243,1149" />
+      <TextEquiv conf="0.9938">
+        <Unicode>Las Cortes de Burgos formularon una petición en 1379 contra los muchos hombres y mujeres que vagaban por el reino “pediendo é en otras maneras, é non quieren trabajar nin deprender oficios, por lo cual se fasen muchos hurtos e otros males de las tales personas, e se yerman muchas heredades”, mandando a los alcaldes que les obligasen a trabajar.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="243,1168 3352,1168 3352,1413 243,1413" />
+      <TextEquiv conf="0.9978">
+        <Unicode>En 1401 las Ordenanzas de Toledo impusieron a los vagos la pena de perder las orejas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="243,1394 3366,1394 3366,2496 243,2496" />
+      <TextEquiv conf="0.9944">
+        <Unicode>Las Cortes de Valladolid en 1555 rogaron al rey que en cada pueblo crease un "Padre de Fobres" para que buscase empleo a los que careciesen de él, que ha de ser "persona diputada que tenga cargo de buscarles en que entiendan, poniendo unos a oficio y a otros dándoles cada día en que trabajen, así en obras como en otras cosas conforme a su disposición y a la que tuviese tal villa o ciudad. Porque allende que ellos son mal inclinados a trabajar, tienen muy buena escusa con decir que nadie los querrá llevar, y proveyéndolos de esta manera podrán ser socorridos</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="3435,433 4200,433 4200,565 3435,565" />
+      <TextEquiv conf="0.8591">
+        <Unicode>y mantenidos''.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="3435,546 6530,546 6530,1752 3435,1752" />
+      <TextEquiv conf="0.9905">
+        <Unicode>La doctrina de las leyes de España en los diversos tiempos y lugares formó en esta ocasión el nervio de los argumentos de Vives. Brujas era ciudad española, rica, y en ella, como en las de España, abundaban los mendigos fingidos y verdaderos, “y no está bien que en una ciudad rica toleren los Magistrados que ciudadano alguno sea mal tratado de la miseria y del hambre”, antes bien han de proveer que a todos los desempleados se les busque ocupación, pues es duro que unos sufran el peso del frío y del calor para que otros “coman el pan folgado” a expenses de la caridad ajena.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="3435,1761 6530,1761 6530,2486 3435,2486" />
+      <TextEquiv conf="0.9948">
+        <Unicode>Vives a la vez que justo es caritativo, y así como niega el pan a los que pudiendo no trabajan para ganarlo, así también al que está imposibilitado exige que se le atienda en una institución al cuidado del Estado o de otras corporaciones privadas; más no puede tolerar que se les deje vagabundos y baldíos por las calles ostentando su miseria y deprimiendo el ánimo de los compasivos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r6" custom="readingOrder {index:6;} structure {type:Picture;}">
+      <Coords points="1912,3287 4937,3287 4937,7835 1912,7835" />
+    </ImageRegion>
+    <TextRegion id="r7" type="footer" custom="readingOrder {index:7;} structure {type:PageFooter;}">
+      <Coords points="320,8720 501,8720 501,8861 320,8861" />
+      <TextEquiv conf="0.9474">
+        <Unicode>18</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="footer" custom="readingOrder {index:8;} structure {type:PageFooter;}">
+      <Coords points="118,9031 1224,9031 1224,9257 118,9257" />
+      <TextEquiv conf="0.9640">
+        <Unicode>MCD 2018</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

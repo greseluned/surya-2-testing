@@ -1,0 +1,276 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:56:22</Created>
+    <LastChange>2026-11-18T10:56:22</LastChange>
+  </Metadata>
+  <Page imageFilename="Fémina_31-10-1923_P12.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+        <RegionRefIndexed index="21" regionRef="r21" />
+        <RegionRefIndexed index="22" regionRef="r22" />
+        <RegionRefIndexed index="23" regionRef="r23" />
+        <RegionRefIndexed index="24" regionRef="r24" />
+        <RegionRefIndexed index="25" regionRef="r25" />
+        <RegionRefIndexed index="26" regionRef="r26" />
+        <RegionRefIndexed index="27" regionRef="r27" />
+        <RegionRefIndexed index="28" regionRef="r28" />
+        <RegionRefIndexed index="29" regionRef="r29" />
+        <RegionRefIndexed index="30" regionRef="r30" />
+        <RegionRefIndexed index="31" regionRef="r31" />
+        <RegionRefIndexed index="32" regionRef="r32" />
+        <RegionRefIndexed index="33" regionRef="r33" />
+        <RegionRefIndexed index="34" regionRef="r34" />
+        <RegionRefIndexed index="35" regionRef="r35" />
+        <RegionRefIndexed index="36" regionRef="r36" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="310,137 565,137 565,193 310,193" />
+      <TextEquiv conf="0.9324">
+        <Unicode>Femina</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="2110,137 2313,137 2313,189 2110,189" />
+      <TextEquiv conf="0.9535">
+        <Unicode>Página 8</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="649,235 1289,235 1289,291 649,291" />
+      <TextEquiv conf="0.9984">
+        <Unicode>Santo Domingo, Oct. 18, 1923.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="270,312 818,312 818,361 270,361" />
+      <TextEquiv conf="0.9720">
+        <Unicode>Srta. Petronila A. Gómez</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="270,382 476,382 476,431 270,431" />
+      <TextEquiv conf="0.9805">
+        <Unicode>Señorita:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="270,453 1294,453 1294,814 270,814" />
+      <TextEquiv conf="0.9925">
+        <Unicode>. Yo ruego a usted publique en su revista «Fémina», órgano único en este nuestro país, defensor de los derechos femeninos, este trabajo que adjunto, (1) y cuyo autor es el magnífico escritor español Cristobal de Castro. Le estaré altamente agradecida si atendiendo a mi súplica, da Ud. a conocer a nuestro público este artículo que nos hace tan merecida justicia.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="270,807 1294,807 1294,1038 270,1038" />
+      <TextEquiv conf="0.9927">
+        <Unicode>Señorita: Estoy mas que segura de que dicho artículo conmoverá a usted; en cuanto a mí creo: «Que cuando el feminismo triunfe del todo, el mundo será tan perfecto, como lo sería el cuerpo si ambas manos fueran igualmente diestras».</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="689,1035 1073,1035 1073,1087 689,1087" />
+      <TextEquiv conf="0.9327">
+        <Unicode>De Ud., servidora</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="692,1102 1249,1102 1249,1158 692,1158" />
+      <TextEquiv conf="0.9935">
+        <Unicode>Mignon Coiscou Henriquez.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="270,1168 1294,1168 1294,1235 270,1235" />
+      <TextEquiv conf="0.9764">
+        <Unicode>[1] Se refiere al magnífico trabajo que hemos publicado en el sitio del Editorial.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="270,1340 982,1340 982,1442 270,1442" />
+      <TextEquiv conf="0.9977">
+        <Unicode>Srta. Mignon Coiscou Henríquez,
+Santo Domingo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="270,1456 729,1456 729,1512 270,1512" />
+      <TextEquiv conf="0.9847">
+        <Unicode>Distinguida señorita:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="270,1529 1294,1529 1294,1673 270,1673" />
+      <TextEquiv conf="0.9991">
+        <Unicode>El artículo recomendado por usted ha sido colocado en el lugar del Editorial, pues, en verdad, dicho trabajo es importante.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="270,1666 1297,1666 1297,1894 270,1894" />
+      <TextEquiv conf="0.9956">
+        <Unicode>Señorita: La obra de emancipación social y política de la mujer, necesita de elementos, que, como usted, conozcan el importantísimo papel que está llamada a desempeñar la mujer, tanto dentro del hogar, como fuera de él.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="630,1887 940,1887 940,1940 630,1940" />
+      <TextEquiv conf="0.9796">
+        <Unicode>De Ud., s.s.s.,</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="845,1957 1254,1957 1254,2007 845,2007" />
+      <TextEquiv conf="0.9913">
+        <Unicode>Petronila A. Gómez.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="heading" custom="readingOrder {index:16;} structure {type:SectionHeader;}">
+      <Coords points="1512,228 2182,228 2182,316 1512,316" />
+      <TextEquiv conf="0.9847">
+        <Unicode>Licdo. Don Eladio Sánchez.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="1329,382 2358,382 2358,652 1329,652" />
+      <TextEquiv conf="0.9890">
+        <Unicode>En página de honor hemos publicado el grabado del prominente ciudadano Ledo. Don Eladio Sánchez. Falta en esa página citar su limpia hoja de servicios como político; pero a Don Eladio le sobra la modestia y no quiso facilitarnos dichos datos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="1329,649 2358,649 2358,1056 1329,1056" />
+      <TextEquiv conf="0.9969">
+        <Unicode>Sinembargo, hemos podido averiguar, que aparte del Maestro Normal y el Agrimensor Público, se ha elevado por escala a los dignos puestos de Presidente del Ayuntamiento, Gobernador de la Provincia, Diputado al Congreso Nacional, Secretario de Estado de Hacienda y Comercio, cargos que ha ido desempeñando por una bonita escala, que bien podríamos llamar: escala de honor.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="1329,1052 2353,1052 2353,1144 1329,1144" />
+      <TextEquiv conf="0.9946">
+        <Unicode>Actualmente es Presidente de la Junta Provincial de la Alianza.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="paragraph" custom="readingOrder {index:20;} structure {type:Text;}">
+      <Coords points="1329,1137 2358,1137 2358,1231 1329,1231" />
+      <TextEquiv conf="0.9943">
+        <Unicode>Saludamos respetuosamente al connotado ciudadano.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r21" type="heading" custom="readingOrder {index:21;} structure {type:SectionHeader;}">
+      <Coords points="1522,1287 2152,1287 2152,1375 1522,1375" />
+      <TextEquiv conf="0.9935">
+        <Unicode>2 de Noviembre.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r22" type="paragraph" custom="readingOrder {index:22;} structure {type:Text;}">
+      <Coords points="1329,1452 2362,1452 2362,1947 1329,1947" />
+      <TextEquiv conf="0.9947">
+        <Unicode>Día de entregarnos a hondas reflexiones. Día en que nuestras ansias mueren, porque todo lo grande a que podamos aspirar nos parece deleznable o inútil al desenvolvimiento de nuestra vida. Día en que debemos meditar sobre aquella sublime máxima de Jesucristo: "No hagas a otro lo que no quisieras te hicieran a tí". En que debemos pensar en equilibrar nuestras facultades físicas, morales e intelectuales en el cultivo de la virtud y en el ejercicio del bien a nuestros semejantes.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r23" type="paragraph" custom="readingOrder {index:23;} structure {type:Text;}">
+      <Coords points="2040,1957 2313,1957 2313,2007 2040,2007" />
+      <TextEquiv conf="0.9888">
+        <Unicode>P. A. Gómez.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r24" type="heading" custom="readingOrder {index:24;} structure {type:SectionHeader;}">
+      <Coords points="545,2059 2092,2059 2092,2129 545,2129" />
+      <TextEquiv conf="0.9519">
+        <Unicode>SECCION BIBLIOGRAFICA.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r25" type="paragraph" custom="readingOrder {index:25;} structure {type:Text;}">
+      <Coords points="280,2200 1301,2200 1301,2385 280,2385" />
+      <TextEquiv conf="0.9837">
+        <Unicode>La cuestión límites.— Con este título ha llegado a nuestra mesa de redacción un libro cuyo autor es el ilustrado jurisconsulto Don Moisés García Mella.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r26" type="paragraph" custom="readingOrder {index:26;} structure {type:Text;}">
+      <Coords points="280,2382 1306,2382 1306,2526 280,2526" />
+      <TextEquiv conf="0.9983">
+        <Unicode>Dicho libro trata de la cuestión de los límites fronterizos, que separa esta República de la vecina república de Haití.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r27" type="paragraph" custom="readingOrder {index:27;} structure {type:Text;}">
+      <Coords points="280,2519 1301,2519 1301,2785 280,2785" />
+      <TextEquiv conf="0.9966">
+        <Unicode>Dadas las deliberaciones a que ha estado subordinada tan trascendertal cuestión, este libro tiene que ser muy importante, y requiere por tanto que se lea con exclusiva atención. Ya nos ocuparemos detenidamente, y damos las gracias por el obsequio.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r28" type="paragraph" custom="readingOrder {index:28;} structure {type:Text;}">
+      <Coords points="280,2866 974,2866 974,3034 280,3034" />
+      <TextEquiv conf="0.9978">
+        <Unicode>Sr. Dn. Ml. de Jesus Lluveres,
+Director General de Agricultura.
+Santo Domingo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r29" type="paragraph" custom="readingOrder {index:29;} structure {type:Text;}">
+      <Coords points="280,3048 580,3048 580,3105 280,3105" />
+      <TextEquiv conf="0.9618">
+        <Unicode>Muy Sr. mfo:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r30" type="paragraph" custom="readingOrder {index:30;} structure {type:Text;}">
+      <Coords points="325,3129 1304,3129 1304,3182 325,3182" />
+      <TextEquiv conf="0.9990">
+        <Unicode>Acusamos a Ud. recibo de su atenta de fecha</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r31" type="paragraph" custom="readingOrder {index:31;} structure {type:Text;}">
+      <Coords points="1329,2200 2362,2200 2362,2438 1329,2438" />
+      <TextEquiv conf="0.9848">
+        <Unicode>23 del mes que finaliza, y damos a usted las gracias por el envío de los tres ejemplares de su interesante revista de Agricultura, correspondientes a los meses de Julio, Agosto y Stbre. pdos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r32" type="paragraph" custom="readingOrder {index:32;} structure {type:Text;}">
+      <Coords points="1329,2431 2362,2431 2362,2529 1329,2529" />
+      <TextEquiv conf="0.9883">
+        <Unicode>Tendremos mucho gusto en dejarle complacido, estableciendo el cange con nuestro periódico.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r33" type="paragraph" custom="readingOrder {index:33;} structure {type:Text;}">
+      <Coords points="1329,2631 2362,2631 2362,2820 1329,2820" />
+      <TextEquiv conf="0.9937">
+        <Unicode>“De mi Huerto” — «A Petronila A. Gómez, porque amerita sus cualidades virtuosas e intelectivas frente al movimiento feminista de su leída revista.» — El Autor.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r34" type="paragraph" custom="readingOrder {index:34;} structure {type:Text;}">
+      <Coords points="1329,2817 2362,2817 2362,2999 1329,2999" />
+      <TextEquiv conf="0.9945">
+        <Unicode>Con esta dedicatoria, que agradecemos, hemos recibido el interesante libro intitulado "De mi Huerto", de la pluma fácil y galana del atildado escritor Don Joaquin Inchaustegui.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r35" type="paragraph" custom="readingOrder {index:35;} structure {type:Text;}">
+      <Coords points="1329,2989 2362,2989 2362,3129 1329,3129" />
+      <TextEquiv conf="0.9821">
+        <Unicode>En merecimiento a ése trabajo de su autor, publicamos en otro lugar de esta edición unas notas bibliográficas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r36" type="paragraph" custom="readingOrder {index:36;} structure {type:Text;}">
+      <Coords points="1381,3133 1872,3133 1872,3182 1381,3182" />
+      <TextEquiv conf="0.9975">
+        <Unicode>Felicitamos a su autor.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

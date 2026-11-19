@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:58:01</Created>
+    <LastChange>2026-11-18T10:58:01</LastChange>
+  </Metadata>
+  <Page imageFilename="0209_Semana-0209.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="107,270 471,270 471,326 107,326" />
+      <TextEquiv conf="0.9761">
+        <Unicode>12 de Mayo, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="2057,270 2364,270 2364,323 2057,323" />
+      <TextEquiv conf="0.8430">
+        <Unicode>SEMANA—33</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="107,379 731,379 731,442 107,442" />
+      <TextEquiv conf="0.9796">
+        <Unicode>Galería de Profesores . . .</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="203,428 724,428 724,480 203,480" />
+      <TextEquiv conf="0.9712">
+        <Unicode>(Viene de la página 16.)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="107,477 815,477 815,1371 107,1371" />
+      <TextEquiv conf="0.9921">
+        <Unicode>poner en contacto con las que hemos de intercambiar nuestros productos y establecer intensas corrientes comerciales;... ¿Y habríamos de realizar tan grande y no interrumpida labor de todos los días, valiéndonos de intérpretes y traductores? ¿No sería vergonzoso para nosotros el que esas 21 naciones de Centro y Sud-América y las Antillas que son nuestras hermanas por la civilización, por las costumbres, por la religión, y por el ideal viesen que siendo hijas de la misma madre no hablamos el mismo lenguaje que España nos legó como rica herencia?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="107,1374 815,1374 815,2184 107,2184" />
+      <TextEquiv conf="0.9950">
+        <Unicode>No, queridos compañeros; han de ver que redoblamos nuestro esfuerzo para evitar que el desconocimiento de un lenguaje que se habla en el vasto y luminoso orbe latino nos inhabiiite para convivir con millones y millones de hombres y mujeres de habla hispana en los altos niveles del comercio y de la cultura que ellos alcanzan y que nosotros, los filipinos, alcanzamos también por nuestra tradición, por nuestra historia, y por las virtudes de laboriosidad y amor al progreso que nos son comunes.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="107,2188 813,2188 813,3043 107,3043" />
+      <TextEquiv conf="0.9942">
+        <Unicode>El otro aspecto que me favorece en esta ocasión es también enseñanza provechosa para la juventud estudiantil, pues una vez más se despliega ante sus ojos este hermoso cuadro de intenso compañerismo con el que os dignáis horrar mi humilde persona haciéndome deudora a vosotros, de eterno agradecimiento:... también nuestros jóvenes verán que el estudio y la observancia de las normas y disciplinas universitarias les alcanzarán algún día el afectuoso y sincero parabién de sus contempráneos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="107,3047 810,3047 810,3208 107,3208" />
+      <TextEquiv conf="0.9919">
+        <Unicode>Gracias, queridos compañeros, gracias otra vez con la palabra y con el corazón.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r8" custom="readingOrder {index:8;} structure {type:Picture;}">
+      <Coords points="1075,463 2178,463 2178,2503 1075,2503" />
+    </ImageRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="1521,2335 2188,2335 2188,2496 1521,2496" />
+      <TextEquiv conf="0.9932">
+        <Unicode>LOS CUATRO PRODUCTOS
+IMPRESCINDIBLES PARA EL
+HOGAR.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="1135,2570 2161,2570 2161,2630 1135,2630" />
+      <TextEquiv conf="0.9779">
+        <Unicode>PHILIPPINE NET &amp; BRAID MFG. CO., INC.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="1469,2619 1802,2619 1802,2658 1469,2658" />
+      <TextEquiv conf="0.8831">
+        <Unicode>NET &amp; DICAID
+1236 Azcarraga, Manila</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="heading" custom="readingOrder {index:12;} structure {type:SectionHeader;}">
+      <Coords points="887,2756 1355,2756 1355,2819 887,2819" />
+      <TextEquiv conf="0.9930">
+        <Unicode>¿Donde Ha Ido . . .</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="981,2808 1497,2808 1497,2861 981,2861" />
+      <TextEquiv conf="0.9739">
+        <Unicode>(Viene de la página 17.)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="882,2857 1593,2857 1593,3215 882,3215" />
+      <TextEquiv conf="0.9969">
+        <Unicode>dónde ha tomado sus datos? ¿dónde se halla hoy tan importante documento? Rizal, que no oculta su ansiedad por conocerlo; y Retana, que se había afanado en lo mismo; ¿cómo hacerlos frente, con sola una afirmación, sin pruebas ni</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="1660,2756 2371,2756 2371,3215 1660,3215" />
+      <TextEquiv conf="0.9941">
+        <Unicode>mención de circunstancias?—Como estudiantes de la Historia, no ponemos en duda la veracidad de Artigas; mas, bajo ias presentes condiciones, no nos basta una afirmación escueta. ¡Pruebas; pruebas!; y lo triste es que Artigas ha pasado a mejor vida; ya la discusión con él es imposible.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

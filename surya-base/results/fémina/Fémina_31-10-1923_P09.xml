@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:56:22</Created>
+    <LastChange>2026-11-18T10:56:22</LastChange>
+  </Metadata>
+  <Page imageFilename="Fémina_31-10-1923_P09.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="285,130 473,130 473,186 285,186" />
+      <TextEquiv conf="0.9876">
+        <Unicode>Página 5</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="1983,140 2234,140 2234,196 1983,196" />
+      <TextEquiv conf="0.9457">
+        <Unicode>Femina</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r2" custom="readingOrder {index:2;} structure {type:Picture;}">
+      <Coords points="439,298 2028,298 2028,1758 439,1758" />
+    </ImageRegion>
+    <TextRegion id="r3" type="heading" custom="readingOrder {index:3;} structure {type:SectionHeader;}">
+      <Coords points="1197,779 1676,779 1676,863 1197,863" />
+      <TextEquiv conf="0.9267">
+        <Unicode>BREVE Y FRAGIL.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="979,912 1728,912 1728,1842 979,1842" />
+      <TextEquiv conf="0.9931">
+        <Unicode>¡Oh! grácil
+rosa
+frágil,
+Primavera •
+fundió para tu ser, todo su aroma
+y su belleza
+toda;
+porque en los delicados
+milagros
+de su espléndida floresta
+faltaba
+un hada
+azul que presidiera
+aquella
+pomipa agreste.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="977,1880 1854,1880 1854,2192 977,2192" />
+      <TextEquiv conf="0.9949">
+        <Unicode>Y dicen que su antojo fue su muerte, porque se halló más grácil tu belleza que su belleza misma, y se murió de irresistible envidia la maga Primavera.....</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="1388,2217 1822,2217 1822,2280 1388,2280" />
+      <TextEquiv conf="0.9951">
+        <Unicode>Enrique CAMBIER.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="977,2301 1544,2301 1544,2364 977,2364" />
+      <TextEquiv conf="0.9983">
+        <Unicode>Macorís de Oriente, 1923.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="226,2470 786,2470 786,2536 226,2536" />
+      <TextEquiv conf="0.9998">
+        <Unicode>mas fuese de su agrado.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="226,2526 1230,2526 1230,2792 226,2792" />
+      <TextEquiv conf="0.9994">
+        <Unicode>Abril que en aquellos días había leído la obra de Lamartine titulada... donde figura una joven con el nombre de Flor Daliza, lo recogió y se lo puso a los artículos de la Srta. Josefina Moll.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="697,2806 1175,2806 1175,2859 697,2859" />
+      <TextEquiv conf="0.9979">
+        <Unicode>María Luisa de Angelis.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="heading" custom="readingOrder {index:11;} structure {type:SectionHeader;}">
+      <Coords points="459,2908 984,2908 984,2985 459,2985" />
+      <TextEquiv conf="0.9580">
+        <Unicode>“EL PRECIO”</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="858,2989 1175,2989 1175,3034 858,3034" />
+      <TextEquiv conf="0.9909">
+        <Unicode>Para FEMINA.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="221,3048 1225,3048 1225,3157 221,3157" />
+      <TextEquiv conf="0.9884">
+        <Unicode>Ciertos jóvenes estudiantes se encontraron sin maestro en vísperas de examen. Pensaron en</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="1264,2477 2263,2477 2263,2789 1264,2789" />
+      <TextEquiv conf="0.9770">
+        <Unicode>tonces en el sabio viejo que viviá en las afueras de la ciudad. Podría darle las lecciones por menos interés que cualquier otro.. Una tarde vinieron donde el sabio, y después de contarles sus deseços— “Sí,” dijo el anciano; pero no le dijo mas. Luego Ernesto le habló—¿Y qué desearía Ud. por estas lecciones?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="1264,2810 2263,2810 2263,2992 1264,2992" />
+      <TextEquiv conf="0.9844">
+        <Unicode>—Todos, impacientes aguardaban:. Calló el viejo un momento; y a poco repuso con dulzura: “Que seais buenos”. Los jóvenes bajaron la cabeza; pensaban que era demasiado caro....</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="1832,3031 2211,3031 2211,3084 1832,3084" />
+      <TextEquiv conf="0.9790">
+        <Unicode>MIGNON COISCOU.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="1264,3101 1661,3101 1661,3154 1264,3154" />
+      <TextEquiv conf="0.9954">
+        <Unicode>New York de 1920.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

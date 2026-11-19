@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:57:34</Created>
+    <LastChange>2026-11-18T10:57:34</LastChange>
+  </Metadata>
+  <Page imageFilename="0002_La_malasia0002.jpg" imageWidth="2480" imageHeight="3507">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="389,235 417,235 417,270 389,270" />
+      <TextEquiv conf="0.9314">
+        <Unicode>2</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="1128,224 1354,224 1354,270 1128,270" />
+      <TextEquiv conf="0.9111">
+        <Unicode>LA MALASIA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="419,403 1099,403 1099,487 419,487" />
+      <TextEquiv conf="0.9627">
+        <Unicode>NUESTRO PROPOSITO</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="308,572 1200,572 1200,1119 308,1119" />
+      <TextEquiv conf="0.9966">
+        <Unicode>Al pretender ocupar un sitio, siquiera el más humilde, en el estadio de la prensa filipina, lo hacemos impulsados por la noble idea de aportar un grano de arena más al edificio de nuestra regeneración social y política; y contribuir á la difusion en nuestro pueblo de la simiente de los modernos conocimientos que constituyen la firme base del engrandecimiento de una nación.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="300,1112 1190,1112 1190,2322 300,2322" />
+      <TextEquiv conf="0.9971">
+        <Unicode>Las ciencias, las artes, la industria, la agricultura, las letras etc. etc., todo lo que constituye algun eslabón, digámoslo así, de esa gran cadena intelectual de los conocimientos humanos, hallarán preferente sitio en las columnas de nuestra publicación Empero, consecuentes con las modernas corrientes del progreso, sobre todo en los países anglo-sajones, debemos procurar que nuestro proceder sea de distinto modo que el de nuestros ex-dominadores. Procurarémos que lo que desarrollemos en los dominios del pensamiento, del cerebro, se extienda hasta llegar á las fronteras de la práctica, de lo experimental, para ser más útil y fecunda en resultados positivos nuestra labor en pró del engrandecimiento de nuestra Pátria. Procurémos que nos aplaudan y admiren, más por los hechos que por los dichos. Los pueblos únicamente prosperan y se engrandecen procediendo del primer modo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="298,2315 1185,2315 1185,3037 298,3037" />
+      <TextEquiv conf="0.9910">
+        <Unicode>Aortunadamente, á nuestro lado tenemos á una Nación que posee, en el más alto grado, el sentido práctico. Todos sabemos que la mayor parte de los inventos realizados en Norte-América han tenido su orígen en la mente de sabios europeos; porque éstos, por causas más ó menos conocidas, no consiguieron salir del campo de las lucubraciones científicas, muriendo así muchas grandes ideas en el mismo sitio en que nacieran, para revivir, después, cual ave fénix, en la jóven América; pero no ya en las regiones del idealismo</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="1280,340 2163,340 2163,438 1280,438" />
+      <TextEquiv conf="0.9933">
+        <Unicode>sino en los secundos y útiles campos de la experiencia.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="1280,431 2168,431 2168,726 1280,726" />
+      <TextEquiv conf="0.9945">
+        <Unicode>Así quisiéramos ver algún día á nuestro pueblo: abrazar los nobles pensamientos, sustentar las más brillantes teorías; pero teorías y pensamientos de inmediata aplicación á la práctica.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="1272,719 2163,719 2163,1554 1272,1554" />
+      <TextEquiv conf="0.9929">
+        <Unicode>Precisa hacer un molde por este estilo para nuestro pueblo. El es dócil y se adaptará con maravillosa facilidadá la forma que se le dé. En la actualidad tenemos varios ejemplos que patentizan esta afirmación. Se funda una asociación industrial, comercial ó agrícola, pues allá van: los unos aportando su concurso material y su inteligencia los otros; se abre un Club, pues allí, ricos y pobres, se lanzan en tropel ansiosos de disfrutar los benéficos resultados de los ejercicios intelectuales y corporales; éstos últimos como factor importantísimo para la formación de un pueblo fuerte, robusto y lozano.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="1267,1547 2155,1547 2155,2129 1267,2129" />
+      <TextEquiv conf="0.9947">
+        <Unicode>Mientras las demás naciones discuten la conveniencia ó nó de dejarnos gobernar por nosotros mismos, debemos todos comulgar en un solo ideal, robustecer y asianzar nuestra nacionalidad y los derechos á ella inherentes, para su engrandecimiento moral, material é intelectual, por medio del común concurso de las ciencias, artes, industria, comercio, agricultura y otros ramos más del humano saber.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="1267,2125 2153,2125 2153,2991 1267,2991" />
+      <TextEquiv conf="0.9952">
+        <Unicode>No importa que ciertas naciones nos nieguen por ahora el reconocimiento de nuestros más legítimos derechos; pronto se convencerán de que no hay fuerza humana capaz de oponerse contra el irresistible empuje dimanado del desarrollo de las leyes que rigen el Cosmos. Además, la gran nación de Washington y Franklin que nos vé, nos observa en todos nuestros actos, apreciando nuestra sensatéz, cordura, aptitud y enérgica resolución, no ha de regatear, así lo creemos, nuestros derechos y aspiraciones, mostrándose así, una vez más, consecuente con aquel principio del inmortal Monroe, América para los americanos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="1309,2984 2148,2984 2148,3037 1309,3037" />
+      <TextEquiv conf="0.9928">
+        <Unicode>Trabajar, pues, empleando todos los</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

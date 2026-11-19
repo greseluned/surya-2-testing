@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:58:13</Created>
+    <LastChange>2026-11-18T10:58:13</LastChange>
+  </Metadata>
+  <Page imageFilename="0242_Semana-0242.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="461,698 2002,698 2002,968 461,968" />
+      <TextEquiv conf="0.9955">
+        <Unicode>Teniendo por cosa muy desusada ver llegar a la ermita en época tan intempestiva en que no solían acudir a la misma romeros, a aquellos dos paladines de tan ostentosos atuendos bélicos v al anciano Litio, atraído por la curiosidad, fué a recibirlos, a darles la bienvenida y hacerles los honores ofreciéndoles cobijo en sus humildes aposentos si así lo deseaban, al par que los invitó a compartir con él su frugal desayuno, diciendo:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="461,961 2002,961 2002,1315 461,1315" />
+      <TextEquiv conf="0.9969">
+        <Unicode>—Pues mi casa y mi pobre hacienda son para hospedar peregrinos, y aunque no hallarán vuestras mercedes en esta humilde ermita los alimentos aderezados con mucho aparato de cocina, ya que juzgo que les es perentorio atender al cuidado del estómago, dígnense pasar al refectorio, donde unas lonjas de jamón os harán la salva, y en el transcurso de la comida, por vía de recreación, podremos gastar un poco de parolina, haciendo bueno el refrán de que la conversación con persona leída es media vida.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="461,1315 2002,1315 2002,1455 461,1455" />
+      <TextEquiv conf="0.9890">
+        <Unicode>Lo cual fué acogido por Rutenio con gran gozo de su ánimo, porque en ello consistía, en resumen de cuentas, la meta de sus ambiciones, exclamando con sorna:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="461,1451 2002,1451 2002,1543 461,1543" />
+      <TextEquiv conf="0.9919">
+        <Unicode>—Al mucho porfiar, ¿quién se resiste? O al oír: “Toma”, ¿quién no se asoma?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="461,1543 2005,1543 2005,1942 461,1942" />
+      <TextEquiv conf="0.9978">
+        <Unicode>Ya sentados a la rústica y única mesa que poseía el eremita, tras intercambiarse algunas frases corteses entre Litio y el anciano Rhodon, animado el apuesto doncel a poner los ojos atentamente en la serenidad que se reflejaba en el sonrosado y dulce rostro del ermitaño, del que no se podía menos sino pensar que su conciencia, corriendo pareja con él, había de ser lo más escrupulosa y recta que imaginar pudiese, comenzó de lo primero y, después de darle pormenorizada cuenta de los sucesos acacidos, añadió, tan y mientras se rasgaban de dolor las entrañas paternales del ermitaño:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="461,1942 2007,1942 2007,2258 461,2258" />
+      <TextEquiv conf="0.9982">
+        <Unicode>—Por lo que ha oído vuestra reverencia, ya dará por vistas que desde aquel día no he tenido un punto de sosiego, que vengo precisamente a holgar de oír la razón ajena, a pedirle parecer en negocio tan importante y, en confesión, que me ilumine, pues estábame concomiendo por descargarle mi pecho, siendo así que tengo sentimiento al haberme dejado embaucar, aceptando la ayuda que me ha prestado ese Hydorargyros, a quien tengo por nigromante.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="461,2254 2007,2254 2007,2700 461,2700" />
+      <TextEquiv conf="0.9936">
+        <Unicode>"Y pues a la rueda de mi alma son estos hechos tropezones y barrancos, creo haber cometido un gran yerro que habrá de hacerme aparecer ante vuestros ojos cual consumado hereje. No embargante, os confieso que ha mucho hube de abrenunciar a Satanás y a todas sus pompas, por no ocupar los pensamientos como tantos otros que por saber que es tanta la piedad de Dios, la convierten en licencia y no en provecho espiritual, creyendo a cierraojos que al ser pronunciadas sobre ellos las palabras absolutivas del confesor, no quedan debiendo nada para este mundo y para el otro. mas, puesto que mi amigo y consejero Litio me dió cuenta de la bondad y preclaro juicio que encierra vuestro corazón, e inteligencia que</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="footer" custom="readingOrder {index:7;} structure {type:PageFooter;}">
+      <Coords points="483,2742 567,2742 567,2794 483,2794" />
+      <TextEquiv conf="0.8065">
+        <Unicode>128</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

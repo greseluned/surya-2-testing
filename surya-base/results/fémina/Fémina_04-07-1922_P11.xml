@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:55:47</Created>
+    <LastChange>2026-11-18T10:55:47</LastChange>
+  </Metadata>
+  <Page imageFilename="Fémina_04-07-1922_P11.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="heading" custom="readingOrder {index:0;} structure {type:SectionHeader;}">
+      <Coords points="350,351 1244,351 1244,512 350,512" />
+      <TextEquiv conf="0.9832">
+        <Unicode>Fémina</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="635,586 1842,586 1842,677 635,677" />
+      <TextEquiv conf="0.9366">
+        <Unicode>Revista Calante y de Interreses Generales.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="1044,996 1420,996 1420,1056 1044,1056" />
+      <TextEquiv conf="0.9559">
+        <Unicode>SUMARIO:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="533,1147 1956,1147 1956,2070 533,2070" />
+      <TextEquiv conf="0.9943">
+        <Unicode>Perfeccionando el Hogar, Editorial.
+La Canción de! Bosque, Evangelina Rodriguez.
+La Viejecita, Manuel E. Suncar.
+Voz de Aliento, M. L. Angelis de Canino.
+Loreley, Armando Oscar.
+Canción Bohemia, Patín Maceo.
+Sublime Amor, Petronila A. Gómez.
+Mi Raza, B. Portela Alvarez.
+Romántica, José Martinez Conde</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="694,2210 1812,2210 1812,2498 694,2498" />
+      <TextEquiv conf="0.9956">
+        <Unicode>POR EL MUNDO SOCIAL, CRONICA GALANTE
+y
+FOTOGRABADOS.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r5" custom="readingOrder {index:5;} structure {type:Picture;}">
+      <Coords points="1088,2603 1418,2603 1418,2708 1088,2708" />
+    </ImageRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="709,2957 1815,2957 1815,3024 709,3024" />
+      <TextEquiv conf="0.9950">
+        <Unicode>SAN PEDRO DE MACORIS, R. D.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

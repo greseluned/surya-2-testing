@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:56:22</Created>
+    <LastChange>2026-11-18T10:56:22</LastChange>
+  </Metadata>
+  <Page imageFilename="Hispanidad-4-Abril-1940-P29.jpg" imageWidth="6904" imageHeight="9325">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="heading" custom="readingOrder {index:0;} structure {type:SectionHeader;}">
+      <Coords points="394,5586 3279,5586 3279,8187 394,8187" />
+      <TextEquiv conf="0.9711">
+        <Unicode>La Obra de
+Hispanidad
+en
+Filipinas</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="heading" custom="readingOrder {index:1;} structure {type:SectionHeader;}">
+      <Coords points="3894,5455 6372,5455 6372,5875 3894,5875" />
+      <TextEquiv conf="0.9979">
+        <Unicode>La Universidad de Sto Tomás
+de Manila</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="3590,5996 6676,5996 6676,7012 3590,7012" />
+      <TextEquiv conf="0.9936">
+        <Unicode>Con estas fotos a la vista, alguien se preguntará: ¿ésto es Hispanidad o es propaganda? Es lo uno y lo otro. Propaganda... ¿por qué no? Se trata de dar a conocer a los españoles de la Península y a los de Filipinas y a los Filipinos y a quienquiera que tenga interés en saberlo lo que España ha hecho y hace en estas Islas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="3590,6994 6697,6994 6697,8747 3590,8747" />
+      <TextEquiv conf="0.9942">
+        <Unicode>Claro que da la casualidad de que los directores de esta revista tienen bastante que ver con la Universidad de Sto. Tomás; pero ¿dejará por ésto de ser obra de España y muy gloriosa por cierto? Sea pues propaganda o información, a gusto del consumidor. Solo advertimos a los impacientes y suspicaces—y no dejará de haberlos,—que ni la Universidad se atribuye la exclusiva de la obra de España en Filipinas, ni los directores de esta revista se olvidarán de lo mucho que la Universidad de Sto. Tomás, no ha podido hacer, y que otros españoles han hecho. Es cuestión de tiempo y oportunidad.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="footer" custom="readingOrder {index:4;} structure {type:PageFooter;}">
+      <Coords points="117,8933 1222,8933 1222,9166 117,9166" />
+      <TextEquiv conf="0.9611">
+        <Unicode>MCD 2018</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

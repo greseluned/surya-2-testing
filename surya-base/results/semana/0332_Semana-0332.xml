@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:58:31</Created>
+    <LastChange>2026-11-18T10:58:31</LastChange>
+  </Metadata>
+  <Page imageFilename="0332_Semana-0332.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="491,743 1990,743 1990,838 491,838" />
+      <TextEquiv conf="0.9902">
+        <Unicode>mate, mi buen amigo Rutenio. Dime, pues muero de impaciencia, ¿cómo está mi adorada? ¿Hace mucho que la viste? ¿Sigue tan hermosa?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="491,827 1995,827 1995,1343 491,1343" />
+      <TextEquiv conf="0.9982">
+        <Unicode>—¡Poco a poco, señor enamorado! —replicó con su habitual tono chancero Rutenio—. ¡Vamos por partes! ¡No queráis recoger en un vaso toda el agua del mar! La señora de vuestros pensamientos está o debe de estar en su jardín, donde está que no hay más que ver de guapa. De hacer mucho, no lo hace que he visto recogiendo margaritas procurando el ornato de las rubias trenzas de su cabello, y, en lo tocante a si sigue o no tan hermosa, está firme el pueblo en que ha menguado su belleza, en virtud a que en el tiempo que estuvo vuestra merced ausente no ha habido rondador alguno que haya dado finiquito de sus días por su persona, aunque daré yo mi alcaldada en esto, al ser de parecer que, por el contrario, los que pasan hacen que madure esta verde fruta, siendo así que corren parejas sus gracias y encantos, por ser flor que promete fruto.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="575,1336 1849,1336 1849,1385 575,1385" />
+      <TextEquiv conf="0.9971">
+        <Unicode>—¡Que nunca has de hablar en serio! —comentó el mancebo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="488,1378 1987,1378 1987,1592 488,1592" />
+      <TextEquiv conf="0.9967">
+        <Unicode>—¿Y para qué? —respondió el pastor—. ¡Menudo peso se me ha quitado de encima viéndome al fin libre de esta maligna peste de amor que antes me traía a mal traer y que incluso iba mermando hasta mi afición a empinar la bota!, lo cual, y entre nosotros, ya se comentaba en el pueblo como síntoma funesto.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="488,1585 1987,1585 1987,1718 488,1718" />
+      <TextEquiv conf="0.9917">
+        <Unicode>Y a propósito de comentarios, puesto que viene como anillo al dedo, ¿sabe lo que de vuesa merced por ahí se ruge en la aldea a causa de sus amores?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="483,1714 1987,1714 1987,2661 483,2661" />
+      <TextEquiv conf="0.9975">
+        <Unicode>—¡Qué murmuran de mí los censuristas? ¡A malas lenguas, tijeras para cortallas, Rutenio, pues cada necio tras su fuego dice mal del bien ajeno! —atajó con sequedad el doncel sin querer prestarle oídos—. Con mordazas habrían de refrenar la ímproba murmuración, siendo así que la malevolencia abusa de las alusiones para herir cobardemente a los que no se atreven a atacar rostro a rostro; que los maldicientes, Rutenio, al paso que son gente colmada de maldad, una vez descubiertos siempre hallan a la mano excusa en los equívocos a que se presta el lenguaje, dando a las palabras otro diferente viso, pues jamás hablan palabra que no tenga dos caras como las monedas. Por otra parte, ya sabes buen amigo, me gusta que me hablen de talenquera, no-a lumbre de pajas, de gorja o papo, y, puesto que soy hombre de pocas palabras, he de tener inimicicia grande de andar en dísmeles, dísteles, carpiéndome o trabándome de cuestión con otras personas, averiguando chismerías y razones y dichos, que así se urden mentiras, cuestiones, revueltas y pleitos, por salir de tales murmuraciones primero las nuevas que los sucesos. Ten entendido, además, que si Dios da licencia a la murmuración, es para mayor ludibrio nuestro, ya que con harta frecuencia suele el murmurador, por la divina disposición, cacr en lo mismo que baldona; mas, siendo lógico que al ser mía en todo y por todo tamaña beldad como la que prometida me es en matrimonio, se desenfrenen los mordaces y detractores, se atraviesen causas de envidia y odio y se arrojen sus lenguas contra mi honra, no debes prestar</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="footer" custom="readingOrder {index:6;} structure {type:PageFooter;}">
+      <Coords points="488,2693 550,2693 550,2742 488,2742" />
+      <TextEquiv conf="0.7909">
+        <Unicode>42</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

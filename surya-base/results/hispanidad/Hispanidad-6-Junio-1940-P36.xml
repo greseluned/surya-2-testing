@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:56:59</Created>
+    <LastChange>2026-11-18T10:56:59</LastChange>
+  </Metadata>
+  <Page imageFilename="Hispanidad-6-Junio-1940-P36.jpg" imageWidth="6942" imageHeight="9433">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <ImageRegion id="r0" custom="readingOrder {index:0;} structure {type:Picture;}">
+      <Coords points="0,0 3568,0 3568,3783 0,3783" />
+    </ImageRegion>
+    <TextRegion id="r1" type="caption" custom="readingOrder {index:1;} structure {type:Caption;}">
+      <Coords points="167,3849 3096,3849 3096,3981 167,3981" />
+      <TextEquiv conf="0.9981">
+        <Unicode>Vista de uno de los patios del Colegio con un grupo de niñas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="354,5226 2777,5226 2777,6716 354,6716" />
+      <TextEquiv conf="0.9712">
+        <Unicode>COLEGIO
+DE
+STA. ROSA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="35,7697 3138,7697 3138,8188 35,8188" />
+      <TextEquiv conf="0.9976">
+        <Unicode>En el año 1750 arribaba a las playas manilenses una dama española, Paula de la Santísima Trinidad, terciaria dominica. Venía movida por el nobilísimo propósito de enseñar a las niñas pobres en las Islas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="35,8310 3145,8310 3145,8924 35,8924" />
+      <TextEquiv conf="0.9959">
+        <Unicode>Establecida en Manila, adquirió en alquiler una casa donde reunía a muchas niñas pobres, instruyéndolas, no sólo en el Catecismo, sino también en todos aquellos conocimientos de que, según las exigencias de la época, debía estar dotada, toda joven de esmerada educación, ta-</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="3610,641 6685,641 6685,915 3610,915" />
+      <TextEquiv conf="0.9770">
+        <Unicode>les como la lectura, la escritura, el bordado, y otras industrias propias de la mujer.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="3610,1028 6685,1028 6685,1273 3610,1273" />
+      <TextEquiv conf="0.9978">
+        <Unicode>Así es como se fundó la Institución conocida hoy como Colegio de Santa Rosa.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="3610,1387 6685,1387 6685,2236 3610,2236" />
+      <TextEquiv conf="0.9970">
+        <Unicode>Según documentos existentes en el Archivo del Colegio, hacia el año 1764, regió la Hermana Paula una pequeña escuela con más de cien alumnas, llevando a cabo, entre otras mejoras, la construcción de una Capilla en la parte interior del edificio. Fervorosa dominica, puso su escuela bajo el patronato de una célebre figura de la misma Orden, Santa Rosa de Lima.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="3610,2358 6685,2358 6685,3207 3610,3207" />
+      <TextEquiv conf="0.9982">
+        <Unicode>A la muerte de la Hermana Paula, la Institución fué confiada a una de aquellas damas que, colaborando con la fundadora, terminaban sus días como terciarias de la Orden de Sto. Domingo. En 1866, extinguido el pequeño grupo de colaboradoras de la Hermana Paula, pasó a las Hermanas de la Caridad, que hasta el día de hoy dirigen con éxito tan benemérita Institución.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="3610,3320 6685,3320 6685,3934 3610,3934" />
+      <TextEquiv conf="0.9942">
+        <Unicode>Tales mejoras se han hecho en el edificio, que es hoy uno de los mejores en las Islas. Cuenta con un muy selecto cuadro de maestras. Aprobados por el Gobierno, se dan en él los siguientes cursos: Primaria, Intermedia, Segunda Enseñanza, Comercio, Secretariado y Normal.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="3610,4056 6685,4056 6685,4415 3610,4415" />
+      <TextEquiv conf="0.9926">
+        <Unicode>Y entre los cursos especiales: Castellano, Piano, Cultura de la Voz, Mecanografía, Corte, Decoración Interior, Pintura Decorativa, Cocina y Dibujo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="3610,4537 6685,4537 6685,5018 3610,5018" />
+      <TextEquiv conf="0.9894">
+        <Unicode>Las Hermanas se consagran también a la obra misionera, enseñando el Catecismo en las escuelas públicas y prestando generosa ayuda a los enfermos y menesterosos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="4547,6565 5998,6565 5998,6697 4547,6697" />
+      <TextEquiv conf="0.9845">
+        <Unicode>Nuevo auditorium del Colegio</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r13" custom="readingOrder {index:13;} structure {type:Picture;}">
+      <Coords points="3193,6811 6942,6811 6942,9433 3193,9433" />
+    </ImageRegion>
+    <TextRegion id="r14" type="footer" custom="readingOrder {index:14;} structure {type:PageFooter;}">
+      <Coords points="118,9056 1222,9056 1222,9273 118,9273" />
+      <TextEquiv conf="0.9485">
+        <Unicode>MCD 2018</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

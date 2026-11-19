@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:58:13</Created>
+    <LastChange>2026-11-18T10:58:13</LastChange>
+  </Metadata>
+  <Page imageFilename="0285_Semana-0285.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="486,761 1985,761 1985,985 486,985" />
+      <TextEquiv conf="0.9978">
+        <Unicode>—¿Qué queréis o esperáis, señor, de un pobre labrador destripaterrones hecho a cultivar la tierra y a descubrir sus entrañas, a labrar el campo y con el sudor del rostro a ganar el pan de su comida? —dijo el cabrero—. En el campo me crié, en él apaciento el rebaño, y a la labranza del campo acostumbrado, no salen de él mis pensamientos y ambiciones.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="486,971 1985,971 1985,1276 486,1276" />
+      <TextEquiv conf="0.9807">
+        <Unicode>der campo acostumbrado, no salen de el inis pensamientos y ambiciones. Sonrióse de nuevo el anónimo doncel, y, picada su curiosidad, quiso convencerse a ojos vistas de tan extraña como sorprendente nueva. Se acercó al sonoro manantial que allí afloraba, a las peñas y a los multiplices árboles que circundaban el acogedor bosquecillo, donde tantos y tantos despechados amantes dejaron grabadas sus amorosas inscripciones, leyendo las de todos ellos, aunque, por lo patético, lo que más poderosamente llevó su atención fué el siguiente</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="1115,1315 1336,1315 1336,1367 1115,1367" />
+      <TextEquiv conf="0.9336">
+        <Unicode>SONETO:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="776,1399 1695,1399 1695,2016 776,2016" />
+      <TextEquiv conf="0.9916">
+        <Unicode>¡En mal hora mis ojos te miraran,
+pues que al verte quedaron tan rendidos
+que el frío razonar de los sentidos
+no fué parte a evitar que te adoraran
+y, aun sabiendo que muchos se mataran
+por cerrar a sus quejas tus oidos,
+escucha de este amante los gemidos
+que su amor por ti, Aurea, te declaran!
+¡No te culpo, pastora inigualada,
+de la beldad que encierra tu persona
+y que fué la causante de mis males;
+antes bien, creo que estás envenenada,
+que el mirar de tus ojos inficiona
+pues que son sus destellos criminales!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="478,2051 1982,2051 1982,2275 478,2275" />
+      <TextEquiv conf="0.9878">
+        <Unicode>No satisfecha su curiosidad, acercóse a otro de aquellos mudos heraldos que decían sin lengua de la hermosura y dureza de corazón de la pastora. Áureza, el que parecía sangrar de dolor por los amargos versos que un despechado grabó en su corteza a punta de cuchillo y que decían de tal suerte, a manera de</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="heading" custom="readingOrder {index:5;} structure {type:SectionHeader;}">
+      <Coords points="1088,2286 1348,2286 1348,2335 1088,2335" />
+      <TextEquiv conf="0.9391">
+        <Unicode>EPITAFIO:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="771,2374 1640,2374 1640,2559 771,2559" />
+      <TextEquiv conf="0.9838">
+        <Unicode>¡Oh, cruel Aurea, divina y seductora, por millares de amantes codiciada, sin que ninguno viera al fin lograda colmar en ti su sed abrasadora!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="771,2549 1643,2549 1643,2682 771,2682" />
+      <TextEquiv conf="0.9824">
+        <Unicode>¡Yace al pie de esta encina acogedora un mortal, que la suerte infortunada le condujo a esta última morada</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="footer" custom="readingOrder {index:8;} structure {type:PageFooter;}">
+      <Coords points="1935,2724 1980,2724 1980,2770 1935,2770" />
+      <TextEquiv conf="0.8875">
+        <Unicode>7.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

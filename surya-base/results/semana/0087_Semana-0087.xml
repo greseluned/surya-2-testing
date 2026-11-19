@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:57:49</Created>
+    <LastChange>2026-11-18T10:57:49</LastChange>
+  </Metadata>
+  <Page imageFilename="0087_Semana-0087.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="545,424 1906,424 1906,561 545,561" />
+      <TextEquiv conf="0.9681">
+        <Unicode>Obre Vd. con acierto</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="971,680 1564,680 1564,855 971,855" />
+      <TextEquiv conf="0.9653">
+        <Unicode>Aprovéchese de
+nuestros</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="463,950 2000,950 2000,1115 463,1115" />
+      <TextEquiv conf="0.9274">
+        <Unicode>EQUIPOS DE INCENERÍA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="657,1171 1779,1171 1779,1238 657,1238" />
+      <TextEquiv conf="0.9399">
+        <Unicode>MAQUINARIA AGRICOLA E INDUSTRIAL</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="572,1480 1296,1480 1296,1662 572,1662" />
+      <TextEquiv conf="0.9504">
+        <Unicode>Así también como de nuestras VENTAS INMEDIATAS regulares en—</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="674,1802 1202,1802 1202,1914 674,1914" />
+      <TextEquiv conf="0.9702">
+        <Unicode>SUNKEN GARDEN
+(En frente del "City Hall")</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="582,1991 1301,1991 1301,2209 582,2209" />
+      <TextEquiv conf="0.9943">
+        <Unicode>Vigile nuestras subastas regulares o entre en negociaciones para los artículos que necesite en nuestras bases y depósitos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="1767,1487 2200,1487 2200,1620 1767,1620" />
+      <TextEquiv conf="0.9606">
+        <Unicode>* Jose C. Zulueta
+Presidente</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="1767,1816 2210,1816 2210,1949 1767,1949" />
+      <TextEquiv conf="0.9665">
+        <Unicode>* Jose E. Romero
+Comisionado</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="1762,2146 2183,2146 2183,2275 1762,2275" />
+      <TextEquiv conf="0.9361">
+        <Unicode>* Angel Llanes
+Designado Comisionado.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="981,2454 1943,2454 1943,2517 981,2517" />
+      <TextEquiv conf="0.9886">
+        <Unicode>—VENTA INMEDIATA ESPECIAL—</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="1053,2542 1873,2542 1873,2647 1053,2647" />
+      <TextEquiv conf="0.9982">
+        <Unicode>Para modestos empleados del gobierno
+los sábados de 2 a 4 p. m. en el</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="1209,2668 1717,2668 1717,2724 1209,2724" />
+      <TextEquiv conf="0.9144">
+        <Unicode>SUNKEN GARDEN</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="233,2826 2248,2826 2248,2973 233,2973" />
+      <TextEquiv conf="0.9969">
+        <Unicode>SURPLUS PROPERTY COMMISSION</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="810,2994 1586,2994 1586,3127 810,3127" />
+      <TextEquiv conf="0.9796">
+        <Unicode>Segundo Piso, City Hall, Manila
+TEL. No. 3-21-11</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

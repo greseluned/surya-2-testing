@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:58:31</Created>
+    <LastChange>2026-11-18T10:58:31</LastChange>
+  </Metadata>
+  <Page imageFilename="0335_Semana-0335.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+        <RegionRefIndexed index="21" regionRef="r21" />
+        <RegionRefIndexed index="22" regionRef="r22" />
+        <RegionRefIndexed index="23" regionRef="r23" />
+        <RegionRefIndexed index="24" regionRef="r24" />
+        <RegionRefIndexed index="25" regionRef="r25" />
+        <RegionRefIndexed index="26" regionRef="r26" />
+        <RegionRefIndexed index="27" regionRef="r27" />
+        <RegionRefIndexed index="28" regionRef="r28" />
+        <RegionRefIndexed index="29" regionRef="r29" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="99,252 488,252 488,316 99,316" />
+      <TextEquiv conf="0.9813">
+        <Unicode>3 de Febrero, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="2062,252 2376,252 2376,309 2062,309" />
+      <TextEquiv conf="0.8896">
+        <Unicode>SEMAÑA—27</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="99,358 716,358 716,417 99,417" />
+      <TextEquiv conf="0.9276">
+        <Unicode>RAMÓN DEL VALLE...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="260,410 649,410 649,456 260,456" />
+      <TextEquiv conf="0.9763">
+        <Unicode>(Viene de la pag. 15)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="99,452 805,452 805,817 99,817" />
+      <TextEquiv conf="0.9644">
+        <Unicode>(Venta de la pag. 12)
+preparación de sus' escritos. Personalmente era, como buen gallego, austero, frugal, impasible y estoico én las adversidades de la vida, y generoso en la miseria, en la que puede decirse pasó casi toda su existencia.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="99,817 803,817 803,1392 99,1392" />
+      <TextEquiv conf="0.9965">
+        <Unicode>Su dignidad era admirable y su conducta personal, un reflejo de aquellos señores feudales gallegos, tan magistralmente descritos por él: orgullosos y, al mismo tiempo, humanos, sin avergonzarse de su humilde posición social. Demostrando siempre gran valor para declararse por lo que él creía justo sin preocuparse de la opinión ajena.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="99,1392 800,1392 800,1764 99,1764" />
+      <TextEquiv conf="0.9882">
+        <Unicode>Fué don Ramón del Vallè Inclán el que mejor representó, entre los literatos españoles, el llamado modernismo, comparándose con Rubén Darío por el colorido, armonía y ritmo musical de sus soberbios escritos, ya en verso, ya en prosa,</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="885,358 1591,358 1591,456 885,456" />
+      <TextEquiv conf="0.9783">
+        <Unicode>aunque puede decirse que en todas
+sus obras, fué un lírico acabado.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="885,456 1593,456 1593,1080 885,1080" />
+      <TextEquiv conf="0.9859">
+        <Unicode>“Voces de gesta”, es su mejor composición épica—gallega que no tuvo parangón en la historia de las letras. “Divinas palabras”, constituyó su mejor novela picaresca de marcado ambiente regional, en la que Valle Inclán pinta de una manera inimitable las típicas romerías, los caminos milenarios, los mendigos y las legendarias supersiciones de la vieja y hermosa Galicia.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="867,1083 1596,1083 1596,1760 867,1760" />
+      <TextEquiv conf="0.9942">
+        <Unicode>Entre sus innumerables y valiosas obras, como las más representativas de este maravilloso y pulcro estilista: "Sonata de primavera", "Sonata de estío", "Sonata de otoño" y "Sonata de invierno"; "Luces de Bohemia", "Los cuernos de don Friolera", "La media noche", "La guerra Carlista", "Tablado de Marionetas", "Cuento de abril", "Tragedia de Ensueño", "Visión estelar", "Claves líricas". "Lámpára maravillosa", "Las ga-</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="1668,358 2384,358 2384,789 1668,789" />
+      <TextEquiv conf="0.9930">
+        <Unicode>las del difunto”, “Sacrilegio”, “Cara Plata”, “Martes de Carnaval”, “Pipa de Kif”, “La hija del capitán”, “El yerno de las almas”, “Tramoya romántica”, “Jardín umbrío”, “Corte de amor”, y “Retablo de la ávaricia, la lujuria y la muerte”.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="1668,796 2391,796 2391,1455 1668,1455" />
+      <TextEquiv conf="0.9949">
+        <Unicode>A medida que don Ramón ayanzaba en edad, iba perdiendo su volumen físico y al final de su vida sólo quedaba de él esa fibra de espíritu inmortal que enseñará a las futuras generaciones, a buscar esa estela luminosa de lo estético y armónico, en el que fué tan insuperable maestro, con su inimitable y revolucionaria pureza de lengua.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="1668,1458 2384,1458 2384,1760 1668,1760" />
+      <TextEquiv conf="0.9699">
+        <Unicode>Valle Inclán, que había vivido rodeado de una misteriosa aureola de idealismó, murió en Santiago de Compostela, el 5 de Enero de 1936. a los 69 años de edad.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="heading" custom="readingOrder {index:13;} structure {type:SectionHeader;}">
+      <Coords points="139,1872 875,1872 875,1932 139,1932" />
+      <TextEquiv conf="0.9821">
+        <Unicode>USE EL TRADICIONAL SERVICIO ELIZALDE...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="heading" custom="readingOrder {index:14;} structure {type:SectionHeader;}">
+      <Coords points="592,1942 694,1942 694,1988 592,1988" />
+      <TextEquiv conf="0.8600">
+        <Unicode>ViA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="other" custom="readingOrder {index:15;} structure {type:ListGroup;}">
+      <Coords points="139,1998 1145,1998 1145,2861 139,2861" />
+      <TextEquiv conf="0.9955">
+        <Unicode>TSS "MAYON"—Sale para Cebú, Maribojoc, Zamboanga, Cotabato y Davao—cada quince días.
+MS "BOWLINE KNOT"—Sale para Cebú, Maribojoc, Zamboanga, Cotabato y Davao—cada quince días.
+MS "VIZCAYA"—Sale para Iloílo todos los martes.
+MS "BAZTAN—Sale para Cebú y Cagayán de Misamis todos los martes.
+MS "LANAO"—Sale para Pulupandan todos los martes.
+MS "VENUS"—Sale para Cebú Misamis y Jiménez—todos los jueves.
+MS "ELCANO"—Sale para Iloílo y Pulupandan todos los sábados.
+MS "BISAYAS"—Sale para Iloílo y Pulupandan—todos los sábados.
+MS "SORSOGON"—Sale para Bulan, Legazpi y Virac—todas las semanas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="139,2850 1140,2850 1140,2945 139,2945" />
+      <TextEquiv conf="0.9488">
+        <Unicode>Todas las salidas desde el Pier 6, North Harbor
+Soliciten fletes y pasaje en</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="139,2942 1135,2942 1135,3036 139,3036" />
+      <TextEquiv conf="0.9897">
+        <Unicode>Manila Steamship Co., Inc.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="496,3061 786,3061 786,3113 496,3113" />
+      <TextEquiv conf="0.9697">
+        <Unicode>Elizalde Bldg.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="151,3124 622,3124 622,3173 151,3173" />
+      <TextEquiv conf="0.9511">
+        <Unicode>Muelle de la Industria</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="paragraph" custom="readingOrder {index:20;} structure {type:Text;}">
+      <Coords points="895,3120 1145,3120 1145,3169 895,3169" />
+      <TextEquiv conf="0.9661">
+        <Unicode>Tel. 2-69-31</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r21" type="heading" custom="readingOrder {index:21;} structure {type:SectionHeader;}">
+      <Coords points="1355,1893 2285,1893 2285,1981 1355,1981" />
+      <TextEquiv conf="0.9427">
+        <Unicode>A LAS RUINAS DE MANILA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r22" type="paragraph" custom="readingOrder {index:22;} structure {type:Text;}">
+      <Coords points="1422,2023 2223,2023 2223,2079 1422,2079" />
+      <TextEquiv conf="0.9826">
+        <Unicode>Por el Dr. FRANCISCO VILLANUEVA, Jr.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r23" type="paragraph" custom="readingOrder {index:23;} structure {type:Text;}">
+      <Coords points="1274,2226 2193,2226 2193,2454 1274,2454" />
+      <TextEquiv conf="0.9894">
+        <Unicode>Voz de aflicción y gemidos de recóndita tristeza Broten, cual gotas de hiel, de la cítara doliente, Al ver, trocada en pavesas, la urbe ideal, cuya belleza Antaño lo proclamara perla del mar del Oriente.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r24" type="paragraph" custom="readingOrder {index:24;} structure {type:Text;}">
+      <Coords points="1274,2493 2312,2493 2312,2714 1274,2714" />
+      <TextEquiv conf="0.9840">
+        <Unicode>Cual fieras de apocalíptica, enfurecida, cuadriga, Fueron las hordas vandálicas del Zipango, cruel e hirsuto, Que, al descubrir sú piel negra, tinta en barbarie e intriga. Sembraron, de sangre, el suelo, y, muestros pechos, de luto.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r25" type="paragraph" custom="readingOrder {index:25;} structure {type:Text;}">
+      <Coords points="1274,2752 2121,2752 2121,2861 1274,2861" />
+      <TextEquiv conf="0.9610">
+        <Unicode>Tras la píra funeraria, soledad aterradora,
+Zonas de desolación, miseria conmovedora.....</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r26" type="paragraph" custom="readingOrder {index:26;} structure {type:Text;}">
+      <Coords points="1274,2868 2188,2868 2188,2920 1274,2920" />
+      <TextEquiv conf="0.9612">
+        <Unicode>¡Y aún sigue vertiendo llanto el alma de la Nación!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r27" type="paragraph" custom="readingOrder {index:27;} structure {type:Text;}">
+      <Coords points="1274,2963 2183,2963 2183,3008 1274,3008" />
+      <TextEquiv conf="0.9762">
+        <Unicode>Pero presto se erguirá la Némesis.vengadora...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r28" type="paragraph" custom="readingOrder {index:28;} structure {type:Text;}">
+      <Coords points="1274,3015 2134,3015 2134,3061 1274,3061" />
+      <TextEquiv conf="0.9623">
+        <Unicode>Y Manila, como el Fénix, resurgirá, triunfadora,</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r29" type="paragraph" custom="readingOrder {index:29;} structure {type:Text;}">
+      <Coords points="1274,3078 2131,3078 2131,3131 1274,3131" />
+      <TextEquiv conf="0.9777">
+        <Unicode>En la gloriosa epopeya de su santa redención....!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

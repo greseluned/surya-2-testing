@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:55:47</Created>
+    <LastChange>2026-11-18T10:55:47</LastChange>
+  </Metadata>
+  <Page imageFilename="Fémina_10-10-1922_P04.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="154,119 412,119 412,175 154,175" />
+      <TextEquiv conf="0.9227">
+        <Unicode>Fémina</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="1978,98 2182,98 2182,154 1978,154" />
+      <TextEquiv conf="0.9848">
+        <Unicode>Página 4</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="1041,652 1844,652 1844,747 1041,747" />
+      <TextEquiv conf="0.9790">
+        <Unicode>PARRAFOS</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="1792,849 2139,849 2139,902 1792,902" />
+      <TextEquiv conf="0.9773">
+        <Unicode>Para FEMINA.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r4" custom="readingOrder {index:4;} structure {type:Picture;}">
+      <Coords points="674,965 873,965 873,1287 674,1287" />
+    </ImageRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="659,975 2241,975 2241,1796 659,1796" />
+      <TextEquiv conf="0.9951">
+        <Unicode>AS generaciones futuras al volver los ojos atrás no habrán de explicarse la razón por qué en pleno siglo XX no está aceptado por todos los pueblos de la tierra la participación de la mujer en todos los asuntos con las mismas facultades y capacidad que el hombre. La diferencia de sexo no es un motivo que justifica que ella no pueda disfrutar de los mismos derechos, por ejemplo, los del Estado. cuando está dotada de una naturaleza idénticamente igual a la del compañero con el cual comparte sus sinsabores y sus alegrías. La tradición, empero, la conserva aún limitada y restringida a los caprichos del otro sexo, cuando podía estar a su lado sumando sus esfuerzos al adelanto y progreso universal.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="662,1810 2241,1810 2241,2080 662,2080" />
+      <TextEquiv conf="0.9970">
+        <Unicode>Espontáneamente la mujer se abre paso por su propia iniciativa y su influencia de algunos años a esta parte se hace sentir en las letras, las ciencias, el comercio, las industrias y hasta en las mas arriesgadas empresas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="662,2094 2248,2094 2248,2905 662,2905" />
+      <TextEquiv conf="0.9944">
+        <Unicode>Es un egoísmo del hombre, como lo es en la cuestión de raza el desconocimiento que el blanco ha querido hacer de las facultades del negro, el empeño de no querer aceptar que no existen diferencias entre el varón y la hembra y que ambos han de tener ante la sociedad y sus diferentes faces el mismo alcance intelectivo, la misma faerza muscular y las mismas aspiraciones al logro de sus propósitos e ideales. Hay quien la crea mas débil en su estructura física, pero esto solamente lo piensan quienes no tienen en cuenta que la falta de ejercicio agota las energías de la carne y del espíritu. Si el hombre estuviera en iguales condiciones que la mujer no habría quienes treparan a los altos andamios ni atizaran los hornos de las calderas.....</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="1780,2936 2189,2936 2189,2992 1780,2992" />
+      <TextEquiv conf="0.9503">
+        <Unicode>FELIX M. PEREZ.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="669,3024 803,3024 803,3080 669,3080" />
+      <TextEquiv conf="0.9752">
+        <Unicode>1922.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:56:59</Created>
+    <LastChange>2026-11-18T10:56:59</LastChange>
+  </Metadata>
+  <Page imageFilename="Hispanidad-5-Mayo-1940-P23.jpg" imageWidth="6983" imageHeight="9404">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="heading" custom="readingOrder {index:0;} structure {type:SectionHeader;}">
+      <Coords points="999,1006 2919,1006 2919,2154 999,2154" />
+      <TextEquiv conf="0.9675">
+        <Unicode>La gran figura
+del
+General Manso</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="heading" custom="readingOrder {index:1;} structure {type:SectionHeader;}">
+      <Coords points="691,3094 3170,3094 3170,3320 691,3320" />
+      <TextEquiv conf="0.9576">
+        <Unicode>Recuerdo del Dos de Mayo</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r2" custom="readingOrder {index:2;} structure {type:Picture;}">
+      <Coords points="3680,395 6557,395 6557,3837 3680,3837" />
+    </ImageRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="468,4016 2423,4016 2423,5539 468,5539" />
+      <TextEquiv conf="0.9974">
+        <Unicode>La epopeya del “Dos de Mayo” no es exclusivamente española. Como muchas de las que le precedieron en los fastos de la Historia, y como tantas otras de las que posteriormente se han inscrito en sus inmortales registros, la fecha que el día 2 del presente mes se ha conmemorado en España, es cifra perenne de una enseñanza universal.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="482,5539 2423,5539 2423,7335 482,7335" />
+      <TextEquiv conf="0.9984">
+        <Unicode>Cuando “aquel génio de ambición” — de que nos dice López García en su épico canto—después de romper en Ulm y Austerlitz la coalición inglesa, “cantando guerra hizo al mundo sepulcro de su nación”, el famoso estadista inglés Guillermo Pitt, dijo a Lord Wellington y a otros estadistas: “España será la primera nación en donde se encienda la única guerra patriótica que puede libertar a Europa”.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="482,7335 2430,7335 2430,8595 482,8595" />
+      <TextEquiv conf="0.9860">
+        <Unicode>Cumplióse la profecia, y con ella, como en otros muchos momentos trágicos de la Historia, cumplióse una vez más el designio salvador que la Providencia ha señalado a nuestra Patria; el levantamiento del pueblo español contra la tiranía extranjera, fué el primer peldaño de fatal escala por</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="2563,4016 4497,4016 4497,4288 2563,4288" />
+      <TextEquiv conf="0.9935">
+        <Unicode>donde el gigante corso rodó hasta Santa Elena.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="2563,4288 4497,4288 4497,5830 2563,5830" />
+      <TextEquiv conf="0.9945">
+        <Unicode>Glorioso recuerdo el del “Dos de Mayo” de 1908, porque el ejemplo de nuestros heróicos abuelos inflama el patriotismo santo de los hijos de España y exalta el entusiasmo con que todos ellos, hombres, mujeres y niños, viejos y jóvenes, se aprestan a lanzarse a la lid y a verter su sangre, cuando el honor, la independencia o la grandeza de España están en peligro.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="2563,5821 4504,5821 4504,7617 2563,7617" />
+      <TextEquiv conf="0.9960">
+        <Unicode>Quien pretendiese borrar del registro de los Inmortales los nombres de Daoiz, Velarde, Ruiz y otros cien y otros mil víctimas del Dos de Mayo; quien no rinda veneración a los que en las luctuosas jornadas de 1806-1809 cayeron por Dios y por España... es un mónstruo sin entrañas y sin honor, un miserable proscrito que no merece el nombre de español ni el respeto de las conciencias honradas de todas partes del mundo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="2563,7617 4518,7617 4518,8586 2563,8586" />
+      <TextEquiv conf="0.9932">
+        <Unicode>Lo ocurrido en Madrid el dia dos de mayo de 1908, es, repetimos, universalmente conocido, y bastará un sucinto recuerdo para poner al corriente aun al menos versado en el estudio de la historia. La noche había transcurrido</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="4623,4016 6592,4016 6592,4984 4623,4984" />
+      <TextEquiv conf="0.9989">
+        <Unicode>sin alteración alguna en la vida normal del vecindario madrileño, que durmió tranquilo confiando demasiado como siempre, en la buena fe de las tropas que, con Murat al frente, habían invadido la entonces coronada villa.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="4623,4984 6592,4984 6592,7739 4623,7739" />
+      <TextEquiv conf="0.9956">
+        <Unicode>Al amanecer, sin embargo, empezó a propagarse la noticia de que el dia anterior, y valiéndose de diplomáticas argucias, las autoridades francesas habían conducido a Francia a los reyes y a su primogénito, el que después había de ser Fernando “el Deseado”. Súpose también, que se había preparado el traslado a Francia del resto de la real familia. El público acudió a palacio y allí, viendo al infante que estaba llorando en una de las galerías, y diciendo a gritos “no quiero... no quiero que me llevan...” aumentó la inquietud del pueblo al convencerse todos de que Napoleón trataba de uncir también España a su imperial carroza.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="4623,7730 6613,7730 6613,8586 4623,8586" />
+      <TextEquiv conf="0.9948">
+        <Unicode>Un suboficial francés trató de agredir a un grupo de artesanos que protestaban en voz alta del atropello; los mozos repelieron la agresión desarmando al sargento, y aquella fué la chispa que encen-</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="footer" custom="readingOrder {index:13;} structure {type:PageFooter;}">
+      <Coords points="6459,8689 6634,8689 6634,8812 6459,8812" />
+      <TextEquiv conf="0.9551">
+        <Unicode>13</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="footer" custom="readingOrder {index:14;} structure {type:PageFooter;}">
+      <Coords points="119,9018 1229,9018 1229,9244 119,9244" />
+      <TextEquiv conf="0.9535">
+        <Unicode>MCD 2018</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

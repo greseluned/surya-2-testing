@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:56:59</Created>
+    <LastChange>2026-11-18T10:56:59</LastChange>
+  </Metadata>
+  <Page imageFilename="Hispanidad-6-Junio-1940-P17.jpg" imageWidth="6942" imageHeight="9433">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="382,236 1860,236 1860,387 382,387" />
+      <TextEquiv conf="0.9923">
+        <Unicode>ni eso tiene razón de ser.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="382,509 3471,509 3471,2971 382,2971" />
+      <TextEquiv conf="0.9920">
+        <Unicode>Cuando no había medios de comunicación, cada pueblo se creó una civilización particular; pero luego, cuando los diferentes países se fueron conociendo unos a otros, comenzaron por examinar y comparar las diversas civilizaciones, y, convencidos de que la europea era la mejor, terminaron por adoptarla en todas partes. En muchas naciones chocó con civilizaciones milenarias, y, por lo mismo, difíciles de desarraigar. Pero terminaron todas por sumergirse en estratos inferiores, sirviendo sólo de relleno, y dentro de poco serán del todo absorbidas por la europea, no quedando de ellas más que el recuerdo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="382,3113 3471,3113 3471,4311 382,4311" />
+      <TextEquiv conf="0.9989">
+        <Unicode>El marxismo es la negación de toda civilización, puesto que empieza por despojar al hombre de la porción más noble de su ser, que es la espiritual, sosteniendo que Dios es una invención de los tiempos barbaros, la religión el opio del pueblo, la virtud un prejuicio burgués y el alma, una excrecencia del cuerpo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="382,4452 3471,4452 3471,5235 382,5235" />
+      <TextEquiv conf="0.9773">
+        <Unicode>Faltando Dios, tiene que faltar toda base de de-
+recho, viniendo a ser la fuerza la única norma de
+gobierno. De ahí esas “depuraciones” en masa, que
+no tendrán fin hasta que no termine el régimen.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="382,5367 3471,5367 3471,7405 382,7405" />
+      <TextEquiv conf="0.9933">
+        <Unicode>Por otra parte, faltando un Legislador supremo, los hombres pierden todo derecho a ser obedecidos, constituyéndose el individuo en centro del mundo, no teniendo otra norma de conducta que su interés particular. De ahí esa desorganización en todos los servicios; de ahí esa nulidad total para las empresas comunes, que ha venido a poner de manifiesto la guerra con Finlandia, guerra que un Zar cualquiera hubiera terminado en quince días sin sufrir el menor revés. Hablo sólo de Rusia, porque este pueblo se ha con-</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="3554,208 6609,208 6609,1198 3554,1198" />
+      <TextEquiv conf="0.9868">
+        <Unicode>vertido en guía, faro y modelo del comunismo en todo el mundo. Pero éste es el mismo en todas partes. Dondequiera que logra afianzar su planta, imprime su sello de sangre y lodo, dejando una estela de abandono y ruinas humeantes.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="3554,1321 6609,1321 6609,2953 3554,2953" />
+      <TextEquiv conf="0.9975">
+        <Unicode>En los días ya lejanos de mi vida estudiantil oí decir a un conferenciante que “la civilización del corazón es el corazón de la civilización”, fórmula que, en síntesis, viene a expresar más claramente lo mismo que dejo apuntado, pues la civilización del corazón no es otra cosa que la fé y la virtud, sin las cuales no queda más que un simulacro de civilización tomado prestado a la civilización que fundó el cristianismo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="3554,3056 6609,3056 6609,5103 3554,5103" />
+      <TextEquiv conf="0.9977">
+        <Unicode>Stalin, educado a lo moderna, es muy inferior, en punto a civilización, a un ignorante y rudo campesino que profese y practique la religión cristiana, e incluso a cualquiera otra religión, pues, mientras éste tiene educado el corazón, que es el corazón de la civilización, aquel, por el contrario, poseido del odio que inculca el marxismo y con miras del todo terrenas, tiene un corazón más vacío de civilización que incluso un salvaje del bosque, el cual sólo por atavismo y falta de medios se ve condenado a su triste situación.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="3797,5169 4547,5169 4547,5301 3797,5301" />
+      <TextEquiv conf="0.9116">
+        <Unicode>En resumen.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="3554,5405 6609,5405 6609,6839 3554,6839" />
+      <TextEquiv conf="0.9908">
+        <Unicode>Hemos de proclamar muy alto que los nacionalistas con su triunfo “salvaron la civilización,” por de pronto en España, y muy probablemente en los países vecinos, a los cuales hubiera sido muy difícil sustraerse al contagio del comunismo, si éste hubiera logrado sentar sus reales en la península e instalarse en ella a sus anchas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="5075,6943 6144,6943 6144,7367 5075,7367" />
+      <TextEquiv conf="0.9853">
+        <Unicode>Eduardo González
+Kien-An, Tunkin.
+Abril 30, 1940</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="footer" custom="readingOrder {index:11;} structure {type:PageFooter;}">
+      <Coords points="6491,8810 6595,8810 6595,8933 6491,8933" />
+      <TextEquiv conf="0.9079">
+        <Unicode>9</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="footer" custom="readingOrder {index:12;} structure {type:PageFooter;}">
+      <Coords points="118,9046 1222,9046 1222,9273 118,9273" />
+      <TextEquiv conf="0.9381">
+        <Unicode>MCD 2018</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

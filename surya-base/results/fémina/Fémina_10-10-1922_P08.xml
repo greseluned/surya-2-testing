@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:55:47</Created>
+    <LastChange>2026-11-18T10:55:47</LastChange>
+  </Metadata>
+  <Page imageFilename="Fémina_10-10-1922_P08.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="208,123 464,123 464,179 208,179" />
+      <TextEquiv conf="0.9119">
+        <Unicode>Fémina</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="2013,91 2224,91 2224,147 2013,147" />
+      <TextEquiv conf="0.9902">
+        <Unicode>Página 8</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="573,533 1869,533 1869,631 573,631" />
+      <TextEquiv conf="0.9597">
+        <Unicode>Himuo a Nuestra Señora de La Altagracia.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="heading" custom="readingOrder {index:3;} structure {type:SectionHeader;}">
+      <Coords points="808,733 1639,733 1639,796 808,796" />
+      <TextEquiv conf="0.9694">
+        <Unicode>LEMA: COMO JESUS...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="heading" custom="readingOrder {index:4;} structure {type:SectionHeader;}">
+      <Coords points="972,895 1487,895 1487,944 972,944" />
+      <TextEquiv conf="0.9520">
+        <Unicode>PRIMER PREMIO.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="900,1077 1557,1077 1557,1305 900,1305" />
+      <TextEquiv conf="0.9910">
+        <Unicode>iOh Madre de la Altagracia,
+fuente de amor y de luz,
+tu corazón lleva encima
+el peso de nuestra cruz.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="531,1382 1133,1382 1133,1673 531,1673" />
+      <TextEquiv conf="0.9814">
+        <Unicode>Virgen misericordiosa,
+—transparente manantial
+al que da cada rosal
+la más tempranera rosa
+por mirarse en su cristal;—</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="538,1740 1150,1740 1150,2035 538,2035" />
+      <TextEquiv conf="0.9840">
+        <Unicode>Con el fervor de los sanos
+de corazón, van a tí^
+los ejércitos cristianos
+para comer, en tus manos,
+el sacro pan del Rabí.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="545,2101 1207,2101 1207,2396 545,2396" />
+      <TextEquiv conf="0.9941">
+        <Unicode>Llama resplandecedora,
+por la escala de los ruegos
+van a buscar, de hora en hora,
+tu luz santificadora
+las pupilas de los ciegos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="553,2463 1175,2463 1175,2754 553,2754" />
+      <TextEquiv conf="0.9732">
+        <Unicode>Desde el lejendario altar °
+que alzaron nuestros abuelos
+a tu pureza sin par,
+sienten las almas bajar
+la bendición de los cielos. —</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="1282,1372 1884,1372 1884,1663 1282,1663" />
+      <TextEquiv conf="0.9823">
+        <Unicode>Y fué en ese altar, un día,
+a la benéfica luz
+de una alta sabiduría,
+do tejió tu mano pía
+el pabellón de la cruz.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="1289,1729 1958,1729 1958,2024 1289,2024" />
+      <TextEquiv conf="0.9958">
+        <Unicode>Por eso, si un yugo oprime
+nuestra cara libertad,
+apenas la Patria gime:
+pues que la ampara el sublime
+poder de tu santidad. -</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="1294,2080 1936,2080 1936,2368 1294,2368" />
+      <TextEquiv conf="0.9932">
+        <Unicode>Y, por eso, nuestros brazos
+están soldando, al calor
+de tu celestial amor,
+los rutilantes pedazos
+de nuestro escudo de honor.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="1301,2431 1963,2431 1963,2663 1301,2663" />
+      <TextEquiv conf="0.9985">
+        <Unicode>¡Oh Madre de la Altagracia,
+fuente de amor y de luz,
+tu corazón lleva encima
+el peso de nuestra cruz.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="1616,2673 1911,2673 1911,2733 1616,2733" />
+      <TextEquiv conf="0.9652">
+        <Unicode>Emilio A. Morel.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="1160,2761 1973,2761 1973,2820 1160,2820" />
+      <TextEquiv conf="0.9980">
+        <Unicode>Santo Domingo, R. D. Junio 18-1922</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:56:01</Created>
+    <LastChange>2026-11-18T10:56:01</LastChange>
+  </Metadata>
+  <Page imageFilename="Fémina_15-11-1923_P02.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+        <RegionRefIndexed index="21" regionRef="r21" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="1465,56 2211,56 2211,200 1465,200" />
+      <TextEquiv conf="0.9718">
+        <Unicode>Archivo General de la Nación
+MEMEROTECA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="heading" custom="readingOrder {index:1;} structure {type:SectionHeader;}">
+      <Coords points="764,260 1606,260 1606,386 764,386" />
+      <TextEquiv conf="0.9857">
+        <Unicode>FEMINA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="488,481 1884,481 1884,603 488,603" />
+      <TextEquiv conf="0.9951">
+        <Unicode>REVISTA DE LITERATURA, CIENCIAS Y ARTES
+CONSAGRADA A LA MUJER.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="721,652 1663,652 1663,824 721,824" />
+      <TextEquiv conf="0.9781">
+        <Unicode>DIRECTORA-ADMINISTRADORA:
+PETRONILA ANGELICA GOMEZ
+Maestra Normal.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="283,877 2085,877 2085,1066 283,1066" />
+      <TextEquiv conf="0.9930">
+        <Unicode>REDACTORES:
+MARIA L. ANGELIS DE CANINO,
+PETRONILA A. GOMEZ, CONSUELO MONTALVO DE FRIAS.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="191,1144 389,1144 389,1203 191,1203" />
+      <TextEquiv conf="0.7857">
+        <Unicode>Upo 2 †</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="771,1147 1651,1147 1651,1210 771,1210" />
+      <TextEquiv conf="0.9145">
+        <Unicode>San Tedero de Macozio, Noviembre 15 de 1923</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="1976,1158 2177,1158 2177,1214 1976,1214" />
+      <TextEquiv conf="0.8781">
+        <Unicode>† Geo. 31</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="heading" custom="readingOrder {index:8;} structure {type:SectionHeader;}">
+      <Coords points="253,1277 2110,1277 2110,1386 253,1386" />
+      <TextEquiv conf="0.9779">
+        <Unicode>SOLUCIONANDO UN PROBLEMA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r9" custom="readingOrder {index:9;} structure {type:Picture;}">
+      <Coords points="159,1491 352,1491 352,1810 159,1810" />
+    </ImageRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="136,1508 1163,1508 1163,2266 136,2266" />
+      <TextEquiv conf="0.9930">
+        <Unicode>P LENAMENTE convencidas de la necesidad de fomentar en Santo Domingo la noble causa que con tesonero afán hemos venido sustentando limitadas a nuestra trilogía periodística, venimos hoy armadas del derecho a convocar a todas las nobles damas que alienten como nosotras en sus almas la hermosa idea redentora que anidó en nuestros corazones; el sublime pensamiento de penetrar en la psicología dominicana para llenar las páginas en blanco que dejara en ella la mediocridad y el pesimismo de nuestra pretérita generación.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="136,2305 1158,2305 1158,2421 136,2421" />
+      <TextEquiv conf="0.9995">
+        <Unicode>Somos optimistas y por tanto, confiamos en el triunfo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="136,2466 1158,2466 1158,2684 136,2684" />
+      <TextEquiv conf="0.9724">
+        <Unicode>Si álguien nos llama visionarias, no importa. ¡Visionario fué llamado Colón antes de legar al mundo la hermosa realidad de un hemisferio....!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="136,2726 1155,2726 1155,3006 136,3006" />
+      <TextEquiv conf="0.9973">
+        <Unicode>Visionarios fueron también llamados otros autores de obras monumentales que han dado al mundo luces y a los hombres provecho, cuando tuvieron en embrión el proyecto de sus creaciones.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="136,3048 1155,3048 1155,3220 136,3220" />
+      <TextEquiv conf="0.9937">
+        <Unicode>Nada de extraño tendrá que creamos realizable este sueño de una moribunda noche del siglo veinte.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="1200,1515 2219,1515 2219,1894 1200,1894" />
+      <TextEquiv conf="0.9941">
+        <Unicode>Es preciso poner en práctica el hermoso plan de vida activa que daremos-a conocer a nuestras compañeras en la primera asamblea que tenga lugar en esta república, para poner en relieve nuestras actitudes, para impartir con entereza nuestro pensar y corregir las deficiencias del medio.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="1200,1950 2216,1950 2216,2119 1200,2119" />
+      <TextEquiv conf="0.9972">
+        <Unicode>¡Sedientas estamos de ciencia, de libertad y de progreso, y a la fuente viva venimos a mitigar nuestra sed!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="1200,2171 2216,2171 2216,2396 1200,2396" />
+      <TextEquiv conf="0.9960">
+        <Unicode>El cielo nos ofrece fosforescencias en sus astros luminosos, y la tierra nos brinda su frugífero suelo para cosechar el fruto que dará sustento a nuestro espíritu soñador.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="1200,2449 2211,2449 2211,2666 1200,2666" />
+      <TextEquiv conf="0.9940">
+        <Unicode>Luego, pletóricas de rica savia, verteremos en nuevos surcos la fecundante semilla que haga brotar en la nueva era la explendidez de una pradera en flor.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="1200,2708 2211,2708 2211,2877 1200,2877" />
+      <TextEquiv conf="0.9939">
+        <Unicode>Venid pues, a compartir con nosotras, queridas compañeras, el delicioso festín de la unión femenina.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="paragraph" custom="readingOrder {index:20;} structure {type:Text;}">
+      <Coords points="1200,2926 2209,2926 2209,3094 1200,3094" />
+      <TextEquiv conf="0.9980">
+        <Unicode>Y brindaremos en delicada copa por la libertad de nuestra patria y por el triunfo de la causa de la mujer.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r21" type="paragraph" custom="readingOrder {index:21;} structure {type:Text;}">
+      <Coords points="1396,3168 2144,3168 2144,3224 1396,3224" />
+      <TextEquiv conf="0.9678">
+        <Unicode>CONSUELO MONTALVO DE FRIAS.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

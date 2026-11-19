@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:58:13</Created>
+    <LastChange>2026-11-18T10:58:13</LastChange>
+  </Metadata>
+  <Page imageFilename="0278_Semana-0278.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="352,295 686,295 686,351 352,351" />
+      <TextEquiv conf="0.9074">
+        <Unicode>SEMANA — 14</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="2022,295 2401,295 2401,351 2022,351" />
+      <TextEquiv conf="0.9564">
+        <Unicode>6 de Enero, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r2" custom="readingOrder {index:2;} structure {type:Picture;}">
+      <Coords points="37,221 1160,221 1160,1062 37,1062" />
+    </ImageRegion>
+    <TextRegion id="r3" type="heading" custom="readingOrder {index:3;} structure {type:SectionHeader;}">
+      <Coords points="823,680 2446,680 2446,982 823,982" />
+      <TextEquiv conf="0.9925">
+        <Unicode>Notas de Malacañang</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="59,1097 786,1097 786,1792 59,1792" />
+      <TextEquiv conf="0.9942">
+        <Unicode>En honor del cuerpo diplomático, se celebró en el Palacio de Malacañán, el día 29 de Diciembre, una brillantísima recepción, que se vió lucidísima, y en la que, como es costumbre, los más sobresalientes miembros de dicho cuerpo, encabezados por el Excmo Sr. Presidente Don Elpidio Quirino y su bella hija, la Srta Vicky, primera dama de Filipinas, bailaron el tradicional rigodón.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="67,1781 776,1781 776,1890 67,1890" />
+      <TextEquiv conf="0.9735">
+        <Unicode>Véanse algunas fotos del
+simpático acto.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="322,1984 538,1984 538,2026 322,2026" />
+      <TextEquiv conf="0.7538">
+        <Unicode>A horizontal black line with three small circles of different sizes positioned along its length.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="131,2128 709,2128 709,2244 131,2244" />
+      <TextEquiv conf="0.9732">
+        <Unicode>BAILANDO EL RIGODÓN
+DE HONOR.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r8" custom="readingOrder {index:8;} structure {type:Picture;}">
+      <Coords points="845,1101 2337,1101 2337,2265 845,2265" />
+    </ImageRegion>
+    <ImageRegion id="r9" custom="readingOrder {index:9;} structure {type:Picture;}">
+      <Coords points="57,2335 1695,2335 1695,3268 57,3268" />
+    </ImageRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="2007,2454 2136,2454 2136,2496 2007,2496" />
+      <TextEquiv conf="0.7866">
+        <Unicode>A horizontal row of three black arrow symbols: a left-pointing arrow, a central right-pointing arrow, and a right-pointing arrow.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="1834,2630 2312,2630 2312,2731 1834,2731" />
+      <TextEquiv conf="0.9770">
+        <Unicode>Centro del Rigodón de
+Honor.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="1809,2770 2344,2770 2344,2984 1809,2984" />
+      <TextEquiv conf="0.9796">
+        <Unicode>La Srta. Quirino, el Speaker Pérez, la Señora de Aguilar y el Presidente Quirino.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="1987,3141 2131,3141 2131,3176 1987,3176" />
+      <TextEquiv conf="0.8119">
+        <Unicode>A horizontal black line featuring a double-headed arrow in the center.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

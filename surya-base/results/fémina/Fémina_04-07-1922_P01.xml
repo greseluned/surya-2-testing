@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:55:35</Created>
+    <LastChange>2026-11-18T10:55:35</LastChange>
+  </Metadata>
+  <Page imageFilename="Fémina_04-07-1922_P01.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+        <RegionRefIndexed index="21" regionRef="r21" />
+        <RegionRefIndexed index="22" regionRef="r22" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="1574,0 2120,0 2120,53 1574,53" />
+      <TextEquiv conf="0.8892">
+        <Unicode>Archivo General de</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="heading" custom="readingOrder {index:1;} structure {type:SectionHeader;}">
+      <Coords points="786,126 1629,126 1629,253 786,253" />
+      <TextEquiv conf="0.9914">
+        <Unicode>FEMINA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="1787,60 2003,60 2003,109 1787,109" />
+      <TextEquiv conf="0.7729">
+        <Unicode>WEMERO</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="451,351 1983,351 1983,414 451,414" />
+      <TextEquiv conf="0.9877">
+        <Unicode>REVISTA GALANTE Y DE INTERESES GENERALES.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="853,453 1579,453 1579,509 853,509" />
+      <TextEquiv conf="0.9862">
+        <Unicode>DIRECTORA-ADMINISTRADORA:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="754,516 1693,516 1693,572 754,572" />
+      <TextEquiv conf="0.9734">
+        <Unicode>PETRONILA ANGELICA GOMEZ</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="1044,572 1391,572 1391,624 1044,624" />
+      <TextEquiv conf="0.9792">
+        <Unicode>Maestra Normal.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="1059,681 1386,681 1386,737 1059,737" />
+      <TextEquiv conf="0.9746">
+        <Unicode>REDACTORES:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="925,751 1522,751 1522,803 925,803" />
+      <TextEquiv conf="0.9966">
+        <Unicode>V. VALERA REYES,</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="327,786 2120,786 2120,863 327,863" />
+      <TextEquiv conf="0.9812">
+        <Unicode>V. VALERA REYES,
+PETRONILA A. GOMEZ, CONSUELO MONTALVO DE FRIAS.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="243,937 434,937 434,993 243,993" />
+      <TextEquiv conf="0.7025">
+        <Unicode>Āñō 1 †</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="848,919 1609,919 1609,982 848,982" />
+      <TextEquiv conf="0.9517">
+        <Unicode>San Tedro de Macozía, Julio 15 de 1922</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="2018,912 2214,912 2214,965 2018,965" />
+      <TextEquiv conf="0.9712">
+        <Unicode>} No. 1</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="heading" custom="readingOrder {index:13;} structure {type:SectionHeader;}">
+      <Coords points="818,1063 1644,1063 1644,1147 818,1147" />
+      <TextEquiv conf="0.9298">
+        <Unicode>YA ES HORA.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="206,1249 1225,1249 1225,1821 206,1821" />
+      <TextEquiv conf="0.9915">
+        <Unicode>A PARECE esta revista científico-literaria y de intereses generales en momentos bien aflictivos para la familia dominicana; aparece cuando sobre el santo suelo de la Patria soplan las ráfagas del mas insólito imperialismo; aparece cuando mas necesaria es una labor de cooperación, y cuando se necesita edificar con acciones y pensamientos de noble civismo y abnegación sin límites.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="213,1803 1240,1803 1240,2824 213,2824" />
+      <TextEquiv conf="0.9961">
+        <Unicode>Verdad es que hasta ahora hemos podido, gracias a nuestra conducta loada con calor por los pueblos hermanos enclavados en el vasto continente colombino, impedir los designios, de la fuerza interventora que ha detentado nuestra preciosa soberanía por mas de seis años de dura servidumbre; cierto que a pesar de nuestra disparidad de criterios y de nuestras lamentables desavenencias en el modus procedendi para la reivindicación de nuestros derechos, hemos mantenido en alto la bandera de la rebeldía cívica; cierto, es verdad, todo ello; pero a nadie se le oculta que si hubiera existido un solo pensamiento, una sola acción para el logro de nuestro anhelo nos hubiésemos ahorrado muchos disgustos y no pocos entorpecimientos que han obrado en nuestro daño.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="233,2806 1244,2806 1244,3084 233,3084" />
+      <TextEquiv conf="0.9958">
+        <Unicode>Hemos resistido con gallarda rebeldía; pero sin unidad de acción, sin unidad de pensamientos, sin cooperación disciplinada. Negarlo equivaldría a negar lo evidente.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="285,3070 1247,3070 1247,3140 285,3140" />
+      <TextEquiv conf="0.9869">
+        <Unicode>La única identidad nuestra solo ha con-</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="1252,1245 2286,1245 2286,1635 1252,1635" />
+      <TextEquiv conf="0.9627">
+        <Unicode>sistido en oponer como infranqueable vallo-a los aviesos tanteos del ocupante, nuestri-rotunda negativa. Somos el pueblo una NO, como nos llama la prensa sur-amestora na. En lo único que hemos estado demen-mún acuerdo, es en no ceder un solo 1 metro de nuestros inalienables derecho tau</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="1262,1621 2281,1621 2281,2319 1262,2319" />
+      <TextEquiv conf="0.9973">
+        <Unicode>Pero a nuestro entender eso no basta, ya, preciso procurar poner en juego nuestras actividades colectivas con una orientación exclusiva y absoluta; es preciso tratar de que no haya un solo elemento social que permanezca inactivo en la ardua tarea de romper nuestras cadenas, y de ahí que hayamos concebido el propósito de publicar una revista en que, laborando por la unificación nacional, ofrezca ancho campo a la mujer dominicana, para que tan poderoso agente produzca sin el menor estorbo, su acción fecunda y bienhechora.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="paragraph" custom="readingOrder {index:20;} structure {type:Text;}">
+      <Coords points="1269,2305 2286,2305 2286,2638 1269,2638" />
+      <TextEquiv conf="0.9760">
+        <Unicode>La mujer nuestra, deseosa de arrimar el hombro a la causa nacional, solo ha podido hasta el presente prestar una ayuda material y secundaria, cuando bien podría co. su inteligencia difundir virtud y cultura en las masas populares.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r21" type="paragraph" custom="readingOrder {index:21;} structure {type:Text;}">
+      <Coords points="1277,2627 2291,2627 2291,2957 1277,2957" />
+      <TextEquiv conf="0.9941">
+        <Unicode>La mujer dominicana merece ocupar en esta hora adversa el puesto intelectual que merece. Y ese puesto de insigne distinción, ese lugar señalado para actuar en bien de la libertad y la cultura de su pueblo, viene a brindárselo esta humilde revista.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r22" type="paragraph" custom="readingOrder {index:22;} structure {type:Text;}">
+      <Coords points="1282,2943 2293,2943 2293,3115 1282,3115" />
+      <TextEquiv conf="0.9821">
+        <Unicode>¡Ojalá que los resultados superen a nuestras esperanzas en honra y bienestar de la Patria!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

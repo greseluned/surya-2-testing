@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:58:13</Created>
+    <LastChange>2026-11-18T10:58:13</LastChange>
+  </Metadata>
+  <Page imageFilename="0221_Semana-0221.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="heading" custom="readingOrder {index:0;} structure {type:SectionHeader;}">
+      <Coords points="47,91 1497,91 1497,501 47,501" />
+      <TextEquiv conf="0.9727">
+        <Unicode>SEMANA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="1603,333 2129,333 2129,417 1603,417" />
+      <TextEquiv conf="0.9680">
+        <Unicode>Vol. I Num. 24</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="218,533 1529,533 1529,621 218,621" />
+      <TextEquiv conf="0.9699">
+        <Unicode>REVISTA ILUSTRADA HISPANO-FILIPINA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r3" custom="readingOrder {index:3;} structure {type:Picture;}">
+      <Coords points="644,996 1858,996 1858,2517 644,2517" />
+    </ImageRegion>
+    <TextRegion id="r4" type="caption" custom="readingOrder {index:4;} structure {type:Caption;}">
+      <Coords points="657,2542 1841,2542 1841,2658 657,2658" />
+      <TextEquiv conf="0.9796">
+        <Unicode>Rector Magnífico de la Universidad Católica de Filipinas</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="footer" custom="readingOrder {index:5;} structure {type:PageFooter;}">
+      <Coords points="92,3310 778,3310 778,3397 92,3397" />
+      <TextEquiv conf="0.9818">
+        <Unicode>Manila, 2 Junio, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="footer" custom="readingOrder {index:6;} structure {type:PageFooter;}">
+      <Coords points="1975,3268 2446,3268 2446,3390 1975,3390" />
+      <TextEquiv conf="0.9452">
+        <Unicode>30 Ctvos</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:56:01</Created>
+    <LastChange>2026-11-18T10:56:01</LastChange>
+  </Metadata>
+  <Page imageFilename="Fémina_30-06-1923_P13.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="159,32 999,32 999,165 159,165" />
+      <TextEquiv conf="0.9885">
+        <Unicode>FEMINA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="1532,32 2033,32 2033,172 1532,172" />
+      <TextEquiv conf="0.7973">
+        <Unicode>Archivo General de
+NEHEYOT</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r2" custom="readingOrder {index:2;} structure {type:Picture;}">
+      <Coords points="186,53 2392,53 2392,2007 186,2007" />
+    </ImageRegion>
+    <ImageRegion id="r3" custom="readingOrder {index:3;} structure {type:Picture;}">
+      <Coords points="540,1021 2001,1021 2001,3112 540,3112" />
+    </ImageRegion>
+    <TextRegion id="r4" type="caption" custom="readingOrder {index:4;} structure {type:Caption;}">
+      <Coords points="721,3182 1770,3182 1770,3357 721,3357" />
+      <TextEquiv conf="0.9745">
+        <Unicode>Sra. Curiqueta M. de Cruzada
+Entusiasta i distinguida co'aboradora de nuestra revista.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

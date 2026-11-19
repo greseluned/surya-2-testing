@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:55:35</Created>
+    <LastChange>2026-11-18T10:55:35</LastChange>
+  </Metadata>
+  <Page imageFilename="Filipinas-30-Abril-1909-P24.jpg" imageWidth="1773" imageHeight="2730">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+        <RegionRefIndexed index="21" regionRef="r21" />
+        <RegionRefIndexed index="22" regionRef="r22" />
+        <RegionRefIndexed index="23" regionRef="r23" />
+        <RegionRefIndexed index="24" regionRef="r24" />
+        <RegionRefIndexed index="25" regionRef="r25" />
+        <RegionRefIndexed index="26" regionRef="r26" />
+        <RegionRefIndexed index="27" regionRef="r27" />
+        <RegionRefIndexed index="28" regionRef="r28" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="heading" custom="readingOrder {index:0;} structure {type:SectionHeader;}">
+      <Coords points="289,150 1394,150 1394,325 289,325" />
+      <TextEquiv conf="0.9820">
+        <Unicode>FILIPINAS</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="112,344 1585,344 1585,464 112,464" />
+      <TextEquiv conf="0.9954">
+        <Unicode>LINGUHANG PAHAYAGANG PINAGLALATHALAAN NG MGA DUNONG, KATHA, TULA, PANGAGAMOT, PAG-ILAG SA SAKÍT AT IBA PANG KAALAMANG PINAKIKINABANGAN.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="383,478 1268,478 1268,530 383,530" />
+      <TextEquiv conf="0.9198">
+        <Unicode>Talaganĝ iniuukol lamanĝ sa mga babae.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="108,538 1585,538 1585,663 108,663" />
+      <TextEquiv conf="0.9658">
+        <Unicode>Nagtátayo ng bahay ang mga babaeng marunong kahi't walang sukat pagkunan: ngnuni't ang babaeng haling, bukod sa hindi nakapagtatayo ng bahay na dating wala, sinisira pa ng kanyang mga kamay ang dating nakatayo na. (Prov. XVIII.)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="183,669 706,669 706,710 183,710" />
+      <TextEquiv conf="0.9895">
+        <Unicode>Namamatnugot: CONSTANCIA POBLETE.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="979,669 1512,669 1512,707 979,707" />
+      <TextEquiv conf="0.9936">
+        <Unicode>Nangangasiwa: FRANCISCA GESMUNDO.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="679,721 1011,721 1011,762 679,762" />
+      <TextEquiv conf="0.9735">
+        <Unicode>TELEFONO blg. 934.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="223,778 1472,778 1472,819 223,819" />
+      <TextEquiv conf="0.9928">
+        <Unicode>ILALATHALA SA TOWING IKA 8, 15, 22 AT KATAPUSANG ARAW NANG BAWA'T BUAN.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="183,857 328,857 328,909 183,909" />
+      <TextEquiv conf="0.9683">
+        <Unicode>AÑO I.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="472,857 1223,857 1223,906 472,906" />
+      <TextEquiv conf="0.9989">
+        <Unicode>Maynila, Viernes, ika 30 ng Abril ng 1909.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="1394,857 1555,857 1555,901 1394,901" />
+      <TextEquiv conf="0.9869">
+        <Unicode>NÚM. 4..</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="heading" custom="readingOrder {index:11;} structure {type:SectionHeader;}">
+      <Coords points="206,1007 745,1007 745,1125 206,1125" />
+      <TextEquiv conf="0.9713">
+        <Unicode>Ang Bayan at ang
+Babae</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="heading" custom="readingOrder {index:12;} structure {type:SectionHeader;}">
+      <Coords points="452,1209 504,1209 504,1248 452,1248" />
+      <TextEquiv conf="0.8949">
+        <Unicode>II.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="113,1261 837,1261 837,1357 113,1357" />
+      <TextEquiv conf="0.9922">
+        <Unicode>¿Dapat bagang magsikap sa pag-gawa ang mga babae?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="105,1390 837,1390 837,1963 105,1963" />
+      <TextEquiv conf="0.9796">
+        <Unicode>Samantala'y nagbubuhay mayaman ang bunying "colegialang" araw-araw ay nagbibihis..., ang sabi namin sa unang kasulatang ANG BAYAN AT ANG BABAE ang tinutukoy; at sa gayong pagsasalita'y nakisunod kami, hindi sa ganáp at tunay na kahulugán ng sinasalita, kung di sa karaniwang sawikaín ng madla. Pagka pinagwiwikaan ng kapantay na kasambahay ó ng makapangyayari sa sangbahayan ang isang babaeng nagatamad ó gumugugol sa walang kabuluhan, ang karaniwang sabihi'y:—"Nagbubuhay mayaman;" ó kung dili kaya'y: "Pára kang mayaman;" "pára kang señora." At kung lalaki ang pinagwiwikaan, ang sinasalita'y:—"Pára kang kastila;" ó kung dili kaya'y; "pára kang mayaman."</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="101,1955 837,1955 837,2159 101,2159" />
+      <TextEquiv conf="0.9796">
+        <Unicode>Ganitó ang pinagkaratihang salitain dito sa atin ng mga mamamay+n, sapagka't ng una'y nakikitang ang mayayaman at ang mga castila, ang siya manding mga walang gawa at naka-gugugol sa pagbili ng kahi't di kinakailangan sa pamumuhay.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="98,2149 833,2149 833,2326 98,2326" />
+      <TextEquiv conf="0.9900">
+        <Unicode>Karaniwang tinatawag na "señora" ang babaeng castila; datapus't di pinagkaratihan tawaging "señora" ang babaeng tagalog, kahit may asawa, ó asawa nĝ mayaman ó may katungkulang mataas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="137,2315 833,2315 833,2394 137,2394" />
+      <TextEquiv conf="0.9225">
+        <Unicode>Ngayong nasaysay na namin ang dahil at sinabi
+-(Sa kabila ang katapusán.)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="heading" custom="readingOrder {index:18;} structure {type:SectionHeader;}">
+      <Coords points="931,1024 1504,1024 1504,1092 931,1092" />
+      <TextEquiv conf="0.9619">
+        <Unicode>Ang Kahalagahan ng Pahayagan</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="865,1196 1580,1196 1580,1267 865,1267" />
+      <TextEquiv conf="0.9529">
+        <Unicode>Guinoong namamatnugot nang pahayagang
+"FiLIPINAS."</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="paragraph" custom="readingOrder {index:20;} structure {type:Text;}">
+      <Coords points="897,1264 1229,1264 1229,1305 897,1305" />
+      <TextEquiv conf="0.9706">
+        <Unicode>Mutya kong kababae:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r21" type="paragraph" custom="readingOrder {index:21;} structure {type:Text;}">
+      <Coords points="865,1297 1589,1297 1589,1564 865,1564" />
+      <TextEquiv conf="0.9815">
+        <Unicode>Walang pagkasyahan ako sa galak sa pagkabalita, kong kayó po'y naglalathala ng isáng páhayagang talagang ukol sa babae at doo'y inilalaman po ninyo, sa karaniwang raananalita, ang mga karununĝan, ang mga kathang aliwan, ang mga dunong na ukol sa pangagamot, sa pag-ilag sa sakit, sa pagluluto at sa mga iba't ibang bagay na álam na pinakikinabanĝan sa pamumuhay.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r22" type="paragraph" custom="readingOrder {index:22;} structure {type:Text;}">
+      <Coords points="865,1556 1589,1556 1589,1633 865,1633" />
+      <TextEquiv conf="0.9788">
+        <Unicode>Bahagya ang aking káya, nguni't kusa kong itinutulong po sa inyo ang bahagyang iyan.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r23" type="paragraph" custom="readingOrder {index:23;} structure {type:Text;}">
+      <Coords points="865,1627 1596,1627 1596,1731 865,1731" />
+      <TextEquiv conf="0.9827">
+        <Unicode>Nag-atang po kayo ng pasaning malabis ng bigat, at pinakananais kong maisadsad nawaninyo sa dalampasigan ng kaganapan.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r24" type="paragraph" custom="readingOrder {index:24;} structure {type:Text;}">
+      <Coords points="865,1723 1599,1723 1599,1862 865,1862" />
+      <TextEquiv conf="0.9605">
+        <Unicode>Masaklap sabihin, ngunit marapatilathala ang katototanan kahi't anong kapaitan, at ng kung mangyayari'y mabigyang kagamutan ang saki't na pangpatáy sa mga adhikang makabayan.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r25" type="paragraph" custom="readingOrder {index:25;} structure {type:Text;}">
+      <Coords points="865,1856 1605,1856 1605,2094 865,2094" />
+      <TextEquiv conf="0.9813">
+        <Unicode>Karaniwang hindi binibigyang kahulugan ng mga filipino, lalong-lalo na ng mga babae, ang kadakilaan ng páhayagan. Akala nila'y ang páhayaga'y wala kung di isang kalakal, isang hanap-buhay ng naglalathala ng páhayagan, at ang páhayaga'y sisidlan lamang ng mga balitang kasinung alingan, ng mga kathang walang</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r26" type="paragraph" custom="readingOrder {index:26;} structure {type:Text;}">
+      <Coords points="1028,2088 1454,2088 1454,2129 1028,2129" />
+      <TextEquiv conf="0.9397">
+        <Unicode>(Na sa kabila-ang karuqtong.)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r27" type="paragraph" custom="readingOrder {index:27;} structure {type:Text;}">
+      <Coords points="890,2170 1562,2170 1562,2250 890,2250" />
+      <TextEquiv conf="0.9419">
+        <Unicode>“LA PERLA” FABRICA DE BISCOCHOS
+Y DULCES - - - -</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r28" type="paragraph" custom="readingOrder {index:28;} structure {type:Text;}">
+      <Coords points="933,2296 1528,2296 1528,2340 933,2340" />
+      <TextEquiv conf="0.9987">
+        <Unicode>Plaza de Santa Cruz Núms. 96 y 98.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

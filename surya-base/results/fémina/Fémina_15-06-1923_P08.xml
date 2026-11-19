@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:55:47</Created>
+    <LastChange>2026-11-18T10:55:47</LastChange>
+  </Metadata>
+  <Page imageFilename="Fémina_15-06-1923_P08.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="141,182 404,182 404,239 141,239" />
+      <TextEquiv conf="0.9066">
+        <Unicode>Femina</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="1993,179 2199,179 2199,232 1993,232" />
+      <TextEquiv conf="0.9566">
+        <Unicode>Página 8</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="166,509 268,509 268,2578 166,2578" />
+      <TextEquiv conf="0.9593">
+        <Unicode>De los encuentros del Domingo 20 de Mayo pdo. entre el “Macorís” y “Santiago”</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r3" custom="readingOrder {index:3;} structure {type:Picture;}">
+      <Coords points="330,368 1780,368 1780,2719 330,2719" />
+    </ImageRegion>
+    <TextRegion id="r4" type="caption" custom="readingOrder {index:4;} structure {type:Caption;}">
+      <Coords points="1720,1607 1770,1607 1770,1768 1720,1768" />
+      <TextEquiv conf="0.7077">
+        <Unicode>2025</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="1827,298 2167,298 2167,2785 1827,2785" />
+      <TextEquiv conf="0.9814">
+        <Unicode>De izquierda a derecha.—Batería del “Santiago,” Pitchers: Sijo, Pajarito, Felicito y Fico. — Catcher: Valerio. Cuadro de jugadores de la potente novena “Macorís”, que el domingo 20 de Mayo pdo. midió sus fuerzas con el no menos potente team “Santiago”. — El Umpire Frey. re declara safe en home al corredor Valerio del “Santiago”, en el empate del 90. inning. — Polanco, central field por sus compañeros.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="heading" custom="readingOrder {index:6;} structure {type:SectionHeader;}">
+      <Coords points="518,2894 1830,2894 1830,2982 518,2982" />
+      <TextEquiv conf="0.9628">
+        <Unicode>-: Mussolini y el Voto Femenino :-</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="107,3062 1158,3062 1158,3259 107,3259" />
+      <TextEquiv conf="0.9942">
+        <Unicode>Benito Mussolini concedió una audiencia a Regina Tersulzi que que llevaba la representación de un comité del Congreso de la Alianza Internacional del Sufragio.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="154,3248 1158,3248 1158,3305 154,3305" />
+      <TextEquiv conf="0.9554">
+        <Unicode>Mussolini mostró interés por este asunto y di-</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="1195,3062 2256,3062 2256,3217 1195,3217" />
+      <TextEquiv conf="0.9980">
+        <Unicode>jo que en su oportunidad buscará los medios para que se acepten las demandas de las mujeres sufragistas de Italia.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="1492,3248 2214,3248 2214,3305 1492,3305" />
+      <TextEquiv conf="0.9831">
+        <Unicode>(De “Feminismo Internacional”)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

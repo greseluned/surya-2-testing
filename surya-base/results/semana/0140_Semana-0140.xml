@@ -1,0 +1,252 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:58:01</Created>
+    <LastChange>2026-11-18T10:58:01</LastChange>
+  </Metadata>
+  <Page imageFilename="0140_Semana-0140.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+        <RegionRefIndexed index="21" regionRef="r21" />
+        <RegionRefIndexed index="22" regionRef="r22" />
+        <RegionRefIndexed index="23" regionRef="r23" />
+        <RegionRefIndexed index="24" regionRef="r24" />
+        <RegionRefIndexed index="25" regionRef="r25" />
+        <RegionRefIndexed index="26" regionRef="r26" />
+        <RegionRefIndexed index="27" regionRef="r27" />
+        <RegionRefIndexed index="28" regionRef="r28" />
+        <RegionRefIndexed index="29" regionRef="r29" />
+        <RegionRefIndexed index="30" regionRef="r30" />
+        <RegionRefIndexed index="31" regionRef="r31" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="126,287 406,287 406,337 126,337" />
+      <TextEquiv conf="0.9583">
+        <Unicode>8—SEMANA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="2049,287 2401,287 2401,340 2049,340" />
+      <TextEquiv conf="0.9948">
+        <Unicode>5 de Mayo, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="126,386 1021,386 1021,600 126,600" />
+      <TextEquiv conf="0.9931">
+        <Unicode>Ignota corre el agua subterránea hasta que, gracias al humano ingenio, bajo el subsuelo surge subitánea; así, glorioso, apareció tu genio.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="116,589 1123,589 1123,806 116,806" />
+      <TextEquiv conf="0.9893">
+        <Unicode>Y fué cuando otra vez tembló la tierra al paso audaz del triunfador Emilio, cuando la mano que rigió la guerra te levantó al poder desde tu exilio.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="119,799 1075,799 1075,1013 119,1013" />
+      <TextEquiv conf="0.9824">
+        <Unicode>Todo el nuevo fervor del patriotismo que exaltaba un éspíritu halagüeno, la intuición, la acuidad, el dinamismo mental pusiste en tu grandioso empeño.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="119,1006 1048,1006 1048,1217 119,1217" />
+      <TextEquiv conf="0.9910">
+        <Unicode>Y tu obra demostró que, si fecundo fué tu pueblo en heroísmos de batalla, también podía presentar al mundo un estadista de tu enorme talla.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="116,1210 961,1210 961,1427 116,1427" />
+      <TextEquiv conf="0.9956">
+        <Unicode>La flor ilustre que cuidó tu mano tronchóla el soplo de enemigo cierzo; mas la medida del valor humano no el éxito la da, sino el esfuerzo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="116,1420 1063,1420 1063,1627 116,1627" />
+      <TextEquiv conf="0.9898">
+        <Unicode>No queda del ayer para el fenicio
+mas que la huella del sangriento agravio,
+y para el pueblo el noble sacrificio
+y tus laureles de patriota y sabio.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="112,1620 1066,1620 1066,1837 112,1837" />
+      <TextEquiv conf="0.9985">
+        <Unicode>Será execrado el triunfo de la fuerza en nuestra actualidad de cautiverio, mientras la ley de la justicia ejerza en la conciencia universal su imperio.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="112,1827 1108,1827 1108,2037 112,2037" />
+      <TextEquiv conf="0.9956">
+        <Unicode>Mas no murió la causa independiente. Faltóla el brazo, pero tiene asilo en las almas, y flota en el presente como la cesta bíblica del Nilo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="109,2033 1068,2033 1068,2247 109,2247" />
+      <TextEquiv conf="0.9990">
+        <Unicode>No es fácil, no, que el ideal sucumba bajo la acción del tiempo o la violencia, pues, como el trigo de la egipcia tumba, en sí contiene secular potencia.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="107,2240 1023,2240 1023,2454 107,2454" />
+      <TextEquiv conf="0.9903">
+        <Unicode>Y ha de surgir en el futuro ignoto, llevado a plenitud por el destino, como la flor del legendario loto, como el cofre del Padre Florentino.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="104,2447 1068,2447 1068,2654 104,2654" />
+      <TextEquiv conf="0.9863">
+        <Unicode>Porque supo de triunfos y derrotas,
+porque tuvo su cruz y su calvario,
+la sangre le ofrecieron los patriotas
+y tú el cerebro, ¡oh gran Apolinario!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="102,2651 1056,2651 1056,2878 102,2878" />
+      <TextEquiv conf="0.9895">
+        <Unicode>Era de hierro y de cristal tu mente, grandes ideas modeló su fragua; tuvo el vuelo del águila potente y la profunda claridad del agua.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="97,2871 937,2871 937,3096 97,3096" />
+      <TextEquiv conf="0.9918">
+        <Unicode>La vida concentró sus energías en tu cerebro luminoso y triste. Ninguna falta de los pies tenías para los altos vuelos que emprendiste</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="97,3089 1018,3089 1018,3204 97,3204" />
+      <TextEquiv conf="0.9748">
+        <Unicode>Fuiste toda una mente geométrica,
+fórmula abstracta, puro pensamiento,</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="1298,386 2262,386 2262,494 1298,494" />
+      <TextEquiv conf="0.9845">
+        <Unicode>que nos hablaba en nuestra noche tétrica
+con una voz de sibilino acento.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="1298,491 2161,491 2161,600 1298,600" />
+      <TextEquiv conf="0.9977">
+        <Unicode>A la tienda llegó del adversario, razonador, sin altivez ni reto.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="1298,589 2116,589 2116,705 1298,705" />
+      <TextEquiv conf="0.9809">
+        <Unicode>Si no cambió su juicio refractario, mucho fué que ganara su respeto.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="1298,698 2134,698 2134,908 1298,908" />
+      <TextEquiv conf="0.9975">
+        <Unicode>Buscó el retiro de rural sosiego y prosiguió su ruta sin desmayo. Para trazar su rúbrica de fuego, tras densa nube se recoge el rayo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="paragraph" custom="readingOrder {index:20;} structure {type:Text;}">
+      <Coords points="1298,898 2243,898 2243,1111 1298,1111" />
+      <TextEquiv conf="0.9851">
+        <Unicode>Sobre el rojo fulgor del exterminio, sobre el mortal estruendo de las balas, en el azur, su nàtural dominio, serenamente desplegó las alas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r21" type="paragraph" custom="readingOrder {index:21;} structure {type:Text;}">
+      <Coords points="1291,1104 2148,1104 2148,1315 1291,1315" />
+      <TextEquiv conf="0.9925">
+        <Unicode>Allí alumbró la senda tenebrosa en su función de numen y atalaya; allí engendró la concepción grandiosa de una fecunda comunión malaya.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r22" type="paragraph" custom="readingOrder {index:22;} structure {type:Text;}">
+      <Coords points="1291,1308 2297,1308 2297,1522 1291,1522" />
+      <TextEquiv conf="0.9780">
+        <Unicode>Tu inteligencia en su carnal encierro, era un poder supremo y absorbente. ¿Qué fué tu misma voluntad de hierro sino una fuerza que forjó tu mente?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r23" type="paragraph" custom="readingOrder {index:23;} structure {type:Text;}">
+      <Coords points="1286,1515 2391,1515 2391,1728 1286,1728" />
+      <TextEquiv conf="0.9975">
+        <Unicode>Y este fué el timbre, el sello más glorioso que señaló tu espléndida carrera; rimaste el pensamiento vigoroso con la indomable voluntad austera.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r24" type="paragraph" custom="readingOrder {index:24;} structure {type:Text;}">
+      <Coords points="1284,1721 2384,1721 2384,1935 1284,1935" />
+      <TextEquiv conf="0.9901">
+        <Unicode>Aquí estás ya en lo eterno de la piedra,
+genio vindicador de nuestra raza.
+A tu columna, con amor de hiedra,
+nuestra ferviente admiración se abraza.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r25" type="paragraph" custom="readingOrder {index:25;} structure {type:Text;}">
+      <Coords points="1281,1928 2253,1928 2253,2142 1281,2142" />
+      <TextEquiv conf="0.9972">
+        <Unicode>Gentes futuras cantarán tu nombre, y al contemplar tu busto en el espacio dirán:—“Fué un alto pensador, un hombre justo y tenaz como el varón de Horacio”.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r26" type="paragraph" custom="readingOrder {index:26;} structure {type:Text;}">
+      <Coords points="1281,2132 2290,2132 2290,2342 1281,2342" />
+      <TextEquiv conf="0.9981">
+        <Unicode>Patria, que ves, gozosa, en tu sorpresa, los saltos de gigante de tu raza, y vives entre un iris de promesa y un nubarrón lejano de amenaza;</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r27" type="paragraph" custom="readingOrder {index:27;} structure {type:Text;}">
+      <Coords points="1276,2331 2223,2331 2223,2545 1276,2545" />
+      <TextEquiv conf="0.9940">
+        <Unicode>Patria fecunda en héroes y licurgos,
+nadie habrá que tus méritos no estime;
+pues siendo madre de Rizal y Burgos,
+pariste un paralítico sublime.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r28" type="paragraph" custom="readingOrder {index:28;} structure {type:Text;}">
+      <Coords points="1276,2542 2176,2542 2176,2749 1276,2749" />
+      <TextEquiv conf="0.9980">
+        <Unicode>Mabini fué un excelso paradigma. En sus virtudes tu virtud renueva. Así saldrás, gallarda y sin estigma, de los rojos crisoles de la prueba.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r29" type="paragraph" custom="readingOrder {index:29;} structure {type:Text;}">
+      <Coords points="1274,2742 2277,2742 2277,2956 1274,2956" />
+      <TextEquiv conf="0.9940">
+        <Unicode>Y aunque contemples en casual desfile el torpe halago y la esperanza trunca, sabrás sentir, cuando tu fe vacile, toda la fuerza del vocablo “nunca”.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r30" type="paragraph" custom="readingOrder {index:30;} structure {type:Text;}">
+      <Coords points="1269,2949 2176,2949 2176,3159 1269,3159" />
+      <TextEquiv conf="0.9978">
+        <Unicode>Pero, si indigna de tus dioses lares perpetuamente has de vivir cautiva, fuera mejor que tus contiguos mares en un abrazo te sepulten viva.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r31" type="paragraph" custom="readingOrder {index:31;} structure {type:Text;}">
+      <Coords points="1707,3148 2277,3148 2277,3208 1707,3208" />
+      <TextEquiv conf="0.9533">
+        <Unicode>—CECILIO APÓSTOL.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

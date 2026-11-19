@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:57:34</Created>
+    <LastChange>2026-11-18T10:57:34</LastChange>
+  </Metadata>
+  <Page imageFilename="0010_Semana-0010.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="94,259 404,259 404,312 94,312" />
+      <TextEquiv conf="0.9462">
+        <Unicode>SEMANA—10</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="1982,259 2411,259 2411,316 1982,316" />
+      <TextEquiv conf="0.9671">
+        <Unicode>10 de Febrero, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="198,435 1432,435 1432,785 198,785" />
+      <TextEquiv conf="0.9974">
+        <Unicode>Las Mil Mejores Poesías
+de la Lengua Española</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="1688,417 2297,417 2297,526 1688,526" />
+      <TextEquiv conf="0.9912">
+        <Unicode>RAMÓN DE CAMPOAMOR
+(1817-1901)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="1742,593 2287,593 2287,656 1742,656" />
+      <TextEquiv conf="0.9663">
+        <Unicode>EL TREN EXPRESO</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="1854,719 2173,719 2173,775 1854,775" />
+      <TextEquiv conf="0.9543">
+        <Unicode>(Continuación)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="heading" custom="readingOrder {index:6;} structure {type:SectionHeader;}">
+      <Coords points="600,901 704,901 704,950 600,950" />
+      <TextEquiv conf="0.8813">
+        <Unicode>VIII</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="94,985 934,985 934,1602 94,1602" />
+      <TextEquiv conf="0.9936">
+        <Unicode>De pronto, atronadora,
+entre un humo que surcan llamaradas,
+despide la feroz locomotora
+un torrente de notas aflautadas,
+para anunciar al despuntar la aurora,
+una estación, que en feria convertía
+el vulgo con su eterna gritería,
+la cual, susurradora y esplendente,
+con las luces de gas brillaba enfrente,
+y al llegar, un gemido
+lanzado, prolongado y lastimero,
+el tren en la estación entró seguido,
+cual si entrase un reptil en su agujero.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="heading" custom="readingOrder {index:8;} structure {type:SectionHeader;}">
+      <Coords points="439,1676 857,1676 857,1728 439,1728" />
+      <TextEquiv conf="0.9361">
+        <Unicode>CANTO SEGUNDO</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="heading" custom="readingOrder {index:9;} structure {type:SectionHeader;}">
+      <Coords points="555,1764 743,1764 743,1813 555,1813" />
+      <TextEquiv conf="0.9432">
+        <Unicode>EL DíA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="heading" custom="readingOrder {index:10;} structure {type:SectionHeader;}">
+      <Coords points="632,1848 664,1848 664,1893 632,1893" />
+      <TextEquiv conf="0.9043">
+        <Unicode>I
+A black capital letter 'I' centered on a white background.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="94,1932 1031,1932 1031,2489 94,2489" />
+      <TextEquiv conf="0.9933">
+        <Unicode>Y continuando la infeliz historia, que aun vaga como un sueño en mi memoria, veo al fin, a la luz del alborada, que el rubio de oro de su pelo brilla cual la paja de trigo calcinada por agosto en los campos de Castilla, y con semblante cariñoso y serio, y una expresión del todo religiosa, como llevando a cabo algún misterio, después de un —¡Ay, Dios mío!—, me dijo señalando un cementerio: —¡Los que duermen allí no tienen frio!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="heading" custom="readingOrder {index:12;} structure {type:SectionHeader;}">
+      <Coords points="620,2573 672,2573 672,2619 620,2619" />
+      <TextEquiv conf="0.8291">
+        <Unicode>II</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="94,2658 1018,2658 1018,3257 94,3257" />
+      <TextEquiv conf="0.9851">
+        <Unicode>El humo, en ondulante movimiento,
+dividiéndose a un lado y otro lado.
+se tiende por el viento
+cual la crin de un caballo desbocado.
+Ayer era otra fauna, hoy otra flora;
+verdura y aridez, calor y frío;
+andar tantos kilómetros por hora
+causa al alma el mareo del vacío;
+pues salvando el abismo, el llano, el monte,
+con un ciego correr que al rayo excede.
+en loco desvarío,
+sucede un horizonte a otro horizonte,
+mu A estación a otra estación sucede.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="heading" custom="readingOrder {index:14;} structure {type:SectionHeader;}">
+      <Coords points="1804,901 1881,901 1881,947 1804,947" />
+      <TextEquiv conf="0.8210">
+        <Unicode>III</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="1286,985 2371,985 2371,1634 1286,1634" />
+      <TextEquiv conf="0.9879">
+        <Unicode>Más ciego cada vez por la hermosura de la mujer aquélla, al fin la hablé con la mayor ternura, a pesar de mis muchos desengaños; porque al viajar en tren con una bella va, aunque un poco al azar y a la ventura, muy de prisa el amor a los treinta años.—¿Y dónde vais ahora?—pregunté a la viajera.—Marcho, olvidada de mi amor primero—me respondió sincera—, a esperar el olvido un año entero.—Pero..., ¿y después—le pregunté—, señora?—Después...—me contestó—, lo que Dios quiera!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="heading" custom="readingOrder {index:16;} structure {type:SectionHeader;}">
+      <Coords points="1804,1739 1873,1739 1873,1785 1804,1785" />
+      <TextEquiv conf="0.9241">
+        <Unicode>IV</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="1286,1841 2153,1841 2153,3166 1286,3166" />
+      <TextEquiv conf="0.9960">
+        <Unicode>Y porque así sus penas distraía, las mías le conté con alegría, y un cuento amontoné sobre otro cuento, mientras ella, abstrayéndose, veía las gradaciones de color que hacía la luz descomponiéndose en el viento. Y haciendo yo castillos en el aire, o, como dicen ellos, en España, la referí, no sé si con donaire, los cuentos que contó Mari-Castaña. En mis cuadros risueños, pintando múcho amor y mucha pena, como el que tiene la cabeza llena de heroínas francesas y de ensueños, había cada llama capaz de poner fuego al mundo entero: y no faltaba nunca un caballero que, por gustar solícito a su dama, la sirviese, siendo héroe, de escudero. Y ya de un nuevo amor en los umbrales, cual si fuese el aliento nuestro idioma, más bien que con la voz, con las señales, esta verdad tan grande como un templo la convertí en axioma: que para dos que se aman tiernamente, ella y yo, por ejemplo, es cosa ya olvidada, por sabida, que un árbol, una piedra y una fuente pueden ser el edén de nuestra vida.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="1663,3194 1943,3194 1943,3247 1663,3247" />
+      <TextEquiv conf="0.9510">
+        <Unicode>(Continuará)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

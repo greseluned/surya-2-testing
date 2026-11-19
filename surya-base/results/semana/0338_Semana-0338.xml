@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:58:31</Created>
+    <LastChange>2026-11-18T10:58:31</LastChange>
+  </Metadata>
+  <Page imageFilename="0338_Semana-0338.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+        <RegionRefIndexed index="21" regionRef="r21" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="99,266 404,266 404,319 99,319" />
+      <TextEquiv conf="0.9388">
+        <Unicode>SEMANA—30</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="1977,270 2376,270 2376,326 1977,326" />
+      <TextEquiv conf="0.9828">
+        <Unicode>3 de Febrero, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="488,396 1985,396 1985,529 488,529" />
+      <TextEquiv conf="0.9614">
+        <Unicode>El Junco Chino</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="94,610 803,610 803,1402 94,1402" />
+      <TextEquiv conf="0.9837">
+        <Unicode>Cuando llega en China la época de las altas aguas,• los “juncos” pintorescos que aún surcan el río Azul, rara vez caminan por medio de remo o vela. La corriente es tan violenta entonces, que hace necesario un equipo de haladores que remolque la embarcación desde tierra... Como la maniobra es rápida, los equipos o cuadrillas de haladores se relevan con frecuencia, formando grupos de hasta doscientas personas --hombres, mujeres y ñiños-- que tiran con gran destreza, de la sirga.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="92,1402 800,1402 800,1820 92,1820" />
+      <TextEquiv conf="0.9818">
+        <Unicode>Generalmente, estos equipos están compuestos de una treintena de individuos, más un jefe o capataz que grita y amenaza para estimular a los ménos animosos; pero su función termina ahí. El jefe del equipo jamás tira del cable que arrastra el 'junco'.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="92,1820 798,1820 798,2181 92,2181" />
+      <TextEquiv conf="0.9870">
+        <Unicode>Al lado del capataz va siempre un sujeto especial, cuya función consiste en librar la sirga o maroma cada vez que un obstáculo cualquiera se interpone entre la embarcación y la orilla, paralizando así la acción de los haladores.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="92,2181 798,2181 798,2794 92,2794" />
+      <TextEquiv conf="0.9971">
+        <Unicode>El hombre encargado de librar la cuerda sigue a sus compañeros a distancia, casi desnudo, siempre dispuesto a intervenir, a arrojarse al agua en todo momento, luchando a brazo partido con los altos y espesos cañaverales, escalando los arrecifes más abruptos, volviendo de sus heróicas misiones con las manos y los pies detrozados, cubierta la epidermis de arañazos y heridas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="92,2798 798,2798 798,3211 92,3211" />
+      <TextEquiv conf="0.9970">
+        <Unicode>En el equipo del viejo Lou, el joven Tchang era el encargado de la ruda tarea que acaba de ser descrita. Como no se le había juzgado lo suficiente robusto para ser admitido entre los que tiran del cable y era, en cambio, muy ágil e inteligente, dábase el caso de reunir</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="882,610 1591,610 1591,764 882,764" />
+      <TextEquiv conf="0.9639">
+        <Unicode>terang todas las cualidades necesarias para ejercer cargo tan temerario y audaz.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="882,768 1611,768 1611,1395 882,1395" />
+      <TextEquiv conf="0.9751">
+        <Unicode>Cuanto sus camarádas le vieron, tembiar, creyeron que era de pavor; pero Ichang saoba bien que ese tembior obédecia a una inquietuo motivada por la fiebre y el rastidio. Así, pues, soportó sonriente las bromas de los fuertes y de los grandes sin enfadarse jamás, pues conservaba la esperanza de poderles demostrar cuán equivocados estaban estos rudos haladores que se buriaban de él.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="880,1395 1586,1395 1586,2023 880,2023" />
+      <TextEquiv conf="0.9901">
+        <Unicode>Un día que el “junco” surcaba pintorescamente el río Azul por mitad de su gran cauce, se enganchó la sirga en la punta de un peñasco que emergía del agua a regular altura y a gran distancia de la escarpada ribera. La maroma quedó sólidamente retenida, presa, sujeta por las enormes tenazas de granito e inútiles fueron todos los esfuerzos que los membrudos haladores chinos hicieron por retirarla.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="877,2023 1586,2023 1586,2850 877,2850" />
+      <TextEquiv conf="0.9917">
+        <Unicode>La intervención de Tchang se hacía inevitable. Ya se había despejado de su blusa verde y entrába en el agua; pero las corrientes y contracorrientes levantaban olas impetuosas, formando remolinos donde el temerario que se aventurara a intentar el cruce perecería irremediablemente. El río Azul, magnífico en su furor, rugía y se encrespaba de una manera inconcebible. Más que por los elementos de la Naturaleza, parecía impulsado por un monstruo fluvial de esos que suele producir la acalorada fantasía de los poetas de Oriente.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="877,2850 1586,2850 1586,3211 877,3211" />
+      <TextEquiv conf="0.9951">
+        <Unicode>Ningún hombre, por valiente y diestro que fuese, podría ganar a nado el maldito arrecife que se alzaba a cien metros de la crilla. En tanto, al otro lado de la roca, el "junco" estaba quieto, arrastrado por el descenso vertiginoso de las</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="1665,617 2376,617 2376,824 1665,824" />
+      <TextEquiv conf="0.9972">
+        <Unicode>aguas que tirabap con furia del cable tensa, amenazando con arrancarlo de las manos membrudas de los haladores.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="1665,824 2391,824 2391,1294 1665,1294" />
+      <TextEquiv conf="0.9889">
+        <Unicode>La embarcación llevaba a bordo un alto dignatario chino, mercader de oro y coral, y a su bellísima hija, graciosa y frágil como sus muñequita, la qe había entrevisto Tchang aquella mañana mismo, al tiempo de embarcar y bajo el beso. tibio dél primer rayo de sol. ; Cómo lo envidió Tchang!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="1710,1294 2260,1294 2260,1350 1710,1350" />
+      <TextEquiv conf="0.9903">
+        <Unicode>Era necesario apresurarse.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="1665,1350 2376,1350 2376,1820 1665,1820" />
+      <TextEquiv conf="0.9977">
+        <Unicode>—No seas loco, muchacho; tú no podrás ganar jamás esa maldita roca que va a ser la perdición del “junco” y sus tripulantes — díjole el viejo capataz Lou, muy agitado y poniendo una mano en el hombro de Tchang, el cual había tenido que regresar a la orilla, después de un ensayo infructuoso.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="1665,1820 2376,1820 2376,2181 1665,2181" />
+      <TextEquiv conf="0.9838">
+        <Unicode>—A nado, no, respetable jefe; pero ya he ideado otro medio—respondió el múchacho —Mire: que tiren los haladores de la sirga con todas sus fuerzas y yo me deslizaré por ella como un acróbata hasta llegar al peñón . .</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="1665,2181 2376,2181 2376,2493 1665,2493" />
+      <TextEquiv conf="0.9955">
+        <Unicode>Bien pensado, Tchang; pero dime, ¿cómo vas a volver luego tú?. La sirga es lo único que te une con tierra y una vez soltada quedarás abandonado sobe la roca que te servirá de estrecha prisión.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="1665,2493 2376,2493 2376,2644 1665,2644" />
+      <TextEquiv conf="0.9790">
+        <Unicode>—¡Bah! Lo que importa ahora es salvar el “junco”; luego ya veremos...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="paragraph" custom="readingOrder {index:20;} structure {type:Text;}">
+      <Coords points="1665,2644 2376,2644 2376,2854 1665,2854" />
+      <TextEquiv conf="0.9695">
+        <Unicode>Y Tchang no se detuò y pensarlo más, probanço así el verdadero heroismo, que razona poco y no renuncia a la esperanza jamás.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r21" type="paragraph" custom="readingOrder {index:21;} structure {type:Text;}">
+      <Coords points="1665,2854 2376,2854 2376,3211 1665,3211" />
+      <TextEquiv conf="0.9928">
+        <Unicode>Del puente de la embarcación, en peligro inminente de ser arrastrada por las olas, llegó un toque angustioso de trompeta en demanda de auxilio y de socorro. La cuerda no podía resistir mucho tiempo: rozada y mordida por las aspere-</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

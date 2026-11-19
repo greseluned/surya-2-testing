@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:58:40</Created>
+    <LastChange>2026-11-18T10:58:40</LastChange>
+  </Metadata>
+  <Page imageFilename="Sorpresas-Chicago_Pag40.jpg" imageWidth="2570" imageHeight="3439">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+        <RegionRefIndexed index="21" regionRef="r21" />
+        <RegionRefIndexed index="22" regionRef="r22" />
+        <RegionRefIndexed index="23" regionRef="r23" />
+        <RegionRefIndexed index="24" regionRef="r24" />
+        <RegionRefIndexed index="25" regionRef="r25" />
+        <RegionRefIndexed index="26" regionRef="r26" />
+        <RegionRefIndexed index="27" regionRef="r27" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="154,234 887,234 887,1830 154,1830" />
+      <TextEquiv conf="0.9958">
+        <Unicode>choen trecho unos carteles nos ruegan que hablemos en vez baja y recomienda á las señoras que cuando sienta la necesidad de gritar lo hagan «tres doucement». En vez de mesas hay atauddes y los sirvientes, vestidos también rigurosamente de negro, cumplen su cometido deslizándose como fantasmas. En el fondo una pequeña puertecita dá acceso á la Cámara de transfiguración, la cuota de entrada es de un franco; una vez pagada esta, un individuo con hábito y capuchon negros nos conduce por un pasillo iluminado con los consabidos hachones; el pasillo se halla iluminado á derecha é izquierda por columnas vestidas de negro, y en el espacio que queda entre las columnas se ven esqueletos que en las actitudes mas grotescas parecen burlarse de los que por delante de ellos desfilan. Por fin entramos en la Cámara de transfiguración: esta tiene todo el aspecto de una cripta que recibe la luz por una claraboya. En el centro, y precisamente debajo de la claraboya, un ataud descubierto y vacío colocado sobre un catafalco parece esperar á su ocupante; el individuo del hábito monástico nos invita á sentarnos en las sillas colocadas delante del catafalco y pregunta quien quiere tener el placer de ser transfigurado. No falta alguno que por querer seguir lo broma hasta el fin se ofrece á ello sonriendo y cuando un individuo de estas condiciones no se presenta entonces se echa mano de un empleado de la casa.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="154,1826 882,1826 882,2658 154,2658" />
+      <TextEquiv conf="0.9874">
+        <Unicode>El que desea ser transfigurado es colocado dentro del ataud, al mismo tiempo un harmunium situado en una estancia contigua empieza con un gori gorí y job prodigiol el individuo metido dentro del ataud comienza á paldecer, sus ojos van hundiéndose, la sonrisa que contraía por sus labios se transforma en horrible mueca y así gradualmente y al compas de la música fúnebre parece que presencia nos el proceso de putreficción de un cidaver hasta que sin darnos cuenta de ello el ataud lo vemos ocupado por un esqueleto Como de sobra se habrá supuesto el lector, la transformación del hombre vivo en descarnado esqueleto se obtiene por me dio de los efectos de una linterna mágica colocada en la claraboya, pero á pesar de todo el espectáculo es de los que ponen</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="917,248 1645,248 1645,1001 917,1001" />
+      <TextEquiv conf="0.9856">
+        <Unicode>los cabellos de punta. A lo mejor, durante la transfiguración una 6 mas nerviosas «petites» que forman parte de la concurrencia, única clase de seres pertenecientes al sexo débil que frecuentan el café, em ieza á dar horribles alaridos, apesar de las recomendaciones degritar «tres doucement» y tiene que ser conducida fuera presa de un violento ataque de nerv.os, consecuencia del terrible espectáculo de la transfiguración. Por mi parte confieso que las sensaciones que experimentó en la Cámara de transfiguración distaban mucho de ser agradables y lo mismo creo que sucedió con los que conmigo presenciaban el espectáculo, pues aparentamente sus rostros lo demostraban.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="917,997 1647,997 1647,1355 917,1355" />
+      <TextEquiv conf="0.9847">
+        <Unicode>A pesar de lo desagradable y lúgubre de la diversión, el caso es que el café y la cánara están siempre llenos de gente ávida de sufrir emociones fuertes y que á la época de mi marcha de París el «Cabaret du néant» estaba en su apogeo y por noticias ultimamente recibidas sé que continúa estando muy concurrido.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="966,1352 1388,1352 1388,1396 966,1396" />
+      <TextEquiv conf="0.9706">
+        <Unicode>Maila—Diciembre-94.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="1262,1400 1557,1400 1557,1444 1262,1444" />
+      <TextEquiv conf="0.9569">
+        <Unicode>ROUGE ET NOIR.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="heading" custom="readingOrder {index:6;} structure {type:SectionHeader;}">
+      <Coords points="1054,1479 1493,1479 1493,1523 1054,1523" />
+      <TextEquiv conf="0.8968">
+        <Unicode>RECETA DE COCANA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="917,1565 1629,1565 1629,1750 917,1750" />
+      <TextEquiv conf="0.9779">
+        <Unicode>Morcillas.—Es uno de los aprovechamientos más agradables y fáciles del cerdo, para los aficionados á la olla española y potaje asturiano.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="917,1744 1629,1744 1629,2655 917,2655" />
+      <TextEquiv conf="0.9905">
+        <Unicode>Cuando matan la res, se va recogiendo la sangre en un tebritlo (barreño vidriado) revolviéndola para que no se cuaje; se tiene ya dispuesta gran cantidad de cebolla picada, cocida con sal y escurrida, y tan pronto está listo el redaño, deél se separa y pica, no muy menudo, una buená cantidad, que se echa en la sangre, lo mismo que la cebolla; se revuelvey sazona todo consal, pimienta, un poco de canela, co ninos y orégano molido (algunas agregan más especias y un poco de pimenton picante) y después de preparado los intestinos, se cortan esto: del tamaño conveniente y se rellenan á medias, porque hincha el contenido al coserse. Se tienen algunos minutos las morcillas en agua hirviendo, sacándolas de cuando en cuando para pincharlas con alfileres, á fin de evitar que revienten; y ya están listas las morcillas á la asturiana.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="1678,254 2406,254 2406,478 1678,478" />
+      <TextEquiv conf="0.9789">
+        <Unicode>Las estre neñs se distinguen en que, en lugar de cebolla se les echa carne picada, de la llanada degolladura, quiene más grasa, y se cargan de pimenton picante.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="1678,475 2406,475 2406,657 1678,657" />
+      <TextEquiv conf="0.9860">
+        <Unicode>Una vez cocidas las morcillas se cuelgan en sitio ventilado si se quiere conservar las algunos dias. Mucho tiempo, sólo se conservan bien en grasa.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="heading" custom="readingOrder {index:11;} structure {type:SectionHeader;}">
+      <Coords points="1843,684 2269,684 2269,750 1843,750" />
+      <TextEquiv conf="0.9354">
+        <Unicode>TIJERETAZO 5</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="1768,791 2328,791 2328,1245 1768,1245" />
+      <TextEquiv conf="0.9962">
+        <Unicode>Fuí al baile como un cadete,
+y allí, francas y resueltas,
+me llamaron viejo, siete
+colegialas desenvueltas.
+¡Qué de cinturas esbeltas!
+¡qué trajes! ¡qué animación!
+¡qué música! ¡qué telón!
+¡qué regalos tan bonitos!
+y en algunos señoritos..
+¡qué ausencia de educación!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="1727,1272 2100,1272 2100,1324 1727,1324" />
+      <TextEquiv conf="0.9023">
+        <Unicode>En un teatro casero: * *</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="1678,1321 2406,1321 2406,1455 1678,1455" />
+      <TextEquiv conf="0.9833">
+        <Unicode>Al terminar la representación, uno de los concurrentes se dirige á la condesa, felicitándola por su triunfo artístico.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="1678,1451 2406,1451 2406,1589 1678,1589" />
+      <TextEquiv conf="0.9697">
+        <Unicode>—|Ah! no lo creaustel—dice la condesa;—para hacer bien ese papel se necesita ser jóven y hermosa.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="1678,1579 2406,1579 2406,1720 1678,1720" />
+      <TextEquiv conf="0.9362">
+        <Unicode>—Pues usted es u ia prueba de lo contrario,—contesta galantemente el individuo.
+* * *</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="1704,1720 2352,1720 2352,1902 1704,1902" />
+      <TextEquiv conf="0.9702">
+        <Unicode>¡Mírame! De tus ojos mariposa,
+está en ellos la luz de mi existencia;
+cuando no me iluminan, me pirece
+que vuelve el universo á las tinieblas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="1678,1902 2375,1902 2375,2081 1678,2081" />
+      <TextEquiv conf="0.9442">
+        <Unicode>Y tú, mís desdeñosa cada día,
+los apartas de mí, jquiés lo creyeral
+Me diste amor y fe.. todo lo grande,
+y eso que estan pequeño me lo niegas!...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="1663,2101 2398,2101 2398,2198 1663,2198" />
+      <TextEquiv conf="0.9496">
+        <Unicode>Un señor muy rico había hecho un
+viajo instructivo á Luglaterra.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="paragraph" custom="readingOrder {index:20;} structure {type:Text;}">
+      <Coords points="1704,2194 2246,2194 2246,2242 1704,2242" />
+      <TextEquiv conf="0.9142">
+        <Unicode>A su vuelta le preganiò uno:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r21" type="paragraph" custom="readingOrder {index:21;} structure {type:Text;}">
+      <Coords points="1663,2235 2398,2235 2398,2373 1663,2373" />
+      <TextEquiv conf="0.9792">
+        <Unicode>—¡Hombrel Usted que ha estado en el extranjero, me podría decir qué es un luterano?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r22" type="paragraph" custom="readingOrder {index:22;} structure {type:Text;}">
+      <Coords points="1704,2366 2393,2366 2393,2418 1704,2418" />
+      <TextEquiv conf="0.9538">
+        <Unicode>—Eso lo sube un chico de la escuela.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r23" type="paragraph" custom="readingOrder {index:23;} structure {type:Text;}">
+      <Coords points="1704,2414 2249,2414 2249,2466 1704,2466" />
+      <TextEquiv conf="0.9675">
+        <Unicode>—¿Sí? Puez yo deseo saberlo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r24" type="paragraph" custom="readingOrder {index:24;} structure {type:Text;}">
+      <Coords points="1704,2459 2308,2459 2308,2504 1704,2504" />
+      <TextEquiv conf="0.9910">
+        <Unicode>—Luterano es el que lleva luto.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r25" type="paragraph" custom="readingOrder {index:25;} structure {type:Text;}">
+      <Coords points="1930,2507 2128,2507 2128,2555 1930,2555" />
+      <TextEquiv conf="0.9434">
+        <Unicode>CÁMARA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r26" custom="readingOrder {index:26;} structure {type:Picture;}">
+      <Coords points="314,2844 571,2844 571,3322 314,3322" />
+    </ImageRegion>
+    <ImageRegion id="r27" custom="readingOrder {index:27;} structure {type:Picture;}">
+      <Coords points="1963,2903 2238,2903 2238,3315 1963,3315" />
+    </ImageRegion>
+  </Page>
+</PcGts>

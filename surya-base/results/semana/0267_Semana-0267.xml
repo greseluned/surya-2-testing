@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:58:13</Created>
+    <LastChange>2026-11-18T10:58:13</LastChange>
+  </Metadata>
+  <Page imageFilename="0267_Semana-0267.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="87,182 446,182 446,242 87,242" />
+      <TextEquiv conf="0.9717">
+        <Unicode>6 de Enero, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="2057,196 2389,196 2389,252 2057,252" />
+      <TextEquiv conf="0.9550">
+        <Unicode>SEMANA — 3</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r2" custom="readingOrder {index:2;} structure {type:Picture;}">
+      <Coords points="265,165 2285,165 2285,2531 265,2531" />
+    </ImageRegion>
+    <TextRegion id="r3" type="heading" custom="readingOrder {index:3;} structure {type:SectionHeader;}">
+      <Coords points="976,2538 1512,2538 1512,2777 976,2777" />
+      <TextEquiv conf="0.9718">
+        <Unicode>TABU</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="92,2777 1556,2777 1556,2938 92,2938" />
+      <TextEquiv conf="0.9464">
+        <Unicode>el perfume "prohibido"</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="570,2980 1412,2980 1412,3141 570,3141" />
+      <TextEquiv conf="0.8377">
+        <Unicode>de Dana</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="830,3152 1539,3152 1539,3334 830,3334" />
+      <TextEquiv conf="0.9884">
+        <Unicode>LUIS P. PELLICER
+Representante y Distribuidor Exclusivo
+P. O. Box 2583, Manila
+Tel. 5-11-01</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r7" custom="readingOrder {index:7;} structure {type:Picture;}">
+      <Coords points="1601,2566 2082,2566 2082,3247 1601,3247" />
+    </ImageRegion>
+  </Page>
+</PcGts>

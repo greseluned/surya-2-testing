@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:56:01</Created>
+    <LastChange>2026-11-18T10:56:01</LastChange>
+  </Metadata>
+  <Page imageFilename="Fémina_30-06-1923_P03.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+        <RegionRefIndexed index="21" regionRef="r21" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="330,235 518,235 518,291 330,291" />
+      <TextEquiv conf="0.9700">
+        <Unicode>Página 3</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="2043,232 2298,232 2298,288 2043,288" />
+      <TextEquiv conf="0.8604">
+        <Unicode>Fémina</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="654,386 1991,386 1991,477 654,477" />
+      <TextEquiv conf="0.9867">
+        <Unicode>ELSA Y GISELA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="954,491 1676,491 1676,533 954,533" />
+      <TextEquiv conf="0.9535">
+        <Unicode>PSICOLOGIA FEMENINA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="1185,537 1440,537 1440,575 1185,575" />
+      <TextEquiv conf="0.9800">
+        <Unicode>Para FEMINA.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="288,674 1299,674 1299,940 288,940" />
+      <TextEquiv conf="0.9942">
+        <Unicode>DE sobremesa—hablábamos del carácter raro de algunas mujeres, y de la influencia que en ellas ejercía el medio ambiente en que se agitaban; y dijo la Sra. de Pérez, recientemente llegada de París:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="288,937 1299,937 1299,1252 288,1252" />
+      <TextEquiv conf="0.9928">
+        <Unicode>—¿Carácter raro? influencia del medio ambiente?... en dos amiguitas que tuve en París podríase estudiar esos dos temas psicológicos, que no siempre influyen en el desenvolvimiento moral de la vida femenina.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="288,1249 1301,1249 1301,1677 288,1677" />
+      <TextEquiv conf="0.9975">
+        <Unicode>Elsa y Gisela, las amigas de que os hablo, eran, en belleza y carácter diametralmente opuestas. Gisela, blanca, rubia, de ojos azules y lánguidos, pequeñita, delgada: flor de invernadero. Elsa, morena, de ojos negros, abrasadores; alta, de formas llenas y esculturales: una belleza regia. Gisela, dulce y tierna; Elsa, impetuosa y ardiente.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="288,1673 1304,1673 1304,2207 288,2207" />
+      <TextEquiv conf="0.9976">
+        <Unicode>Gisela, al nacer, había perdido su madre y fué adoptada por una tía paterna célibe y religiosa hasta el fanatismo. Su casa, grande y vetusta, parecía un claustro: poca servidumbre; severo y anticuado el mobiliario. Allí transcurrió la infancia de la huérfana, quien no tuvo, para sus juegos, más compañía que la de un viejo gáto de Angora, que se revolcaba con ella sobre las mullidas alfombras, y jugaba al escondite</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="heading" custom="readingOrder {index:9;} structure {type:SectionHeader;}">
+      <Coords points="506,2273 1088,2273 1088,2333 506,2333" />
+      <TextEquiv conf="0.9158">
+        <Unicode>Acerca de Urbanidad.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="heading" custom="readingOrder {index:10;} structure {type:SectionHeader;}">
+      <Coords points="521,2382 1076,2382 1076,2428 521,2428" />
+      <TextEquiv conf="0.9765">
+        <Unicode>Continuación de la pág. 1.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="288,2466 1304,2466 1304,2733 288,2733" />
+      <TextEquiv conf="0.9961">
+        <Unicode>te importante sobre todo para la mujer, que a mi ver, sin religión ní moral, es como una flor sin perfume, que no halla en sus horas de nostalgia y desconsuelo, una gota cristalina que refresque su corazón impío.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="288,2729 1304,2729 1304,3045 288,3045" />
+      <TextEquiv conf="0.9992">
+        <Unicode>Seamos verdaderas cristianas y hagamos que florezca en nuestro suelo la cultura y el progreso, pero sin desviarnos de nuestro Dios, para que Él vele por nuestra patria y escuche los ruegos que hacemos por nuestra ansiada libertad.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="689,3101 1247,3101 1247,3157 689,3157" />
+      <TextEquiv conf="0.9878">
+        <Unicode>CONSUELO M. DE FRIAS.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="835,3175 1091,3175 1091,3238 835,3238" />
+      <TextEquiv conf="0.9949">
+        <Unicode>(Magnolia)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="1334,674 2345,674 2345,1200 1334,1200" />
+      <TextEquiv conf="0.9988">
+        <Unicode>con rara inteligencia. La tía, muy rígida, vigilaba continuamente la niña, pasando, como una sombra, por los amplios salones, con el rosario en la mano, murmurando sus letanías. Gisela no oyó jamás resonar una carcajada bajo aquel severo techo, y cuando ella, en sus juegos con el gato, dejaba escapar un chillido, la tía aparecía enseguida, con un dedo sobre los labios, imponiéndola silencio.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="1334,1200 2345,1200 2345,1568 1334,1568" />
+      <TextEquiv conf="0.9944">
+        <Unicode>Yo conocí esta pobre criatura un día en que hube de visitar a la tía para interesarla en una obra piadosa y me causó tanta lástima su pálida fisonomía de anémica, que empleé toda mi influencia para lograr de su tutora el permiso de llevarla a pasear algunas veces en mi coche.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="1445,1568 2159,1568 2159,1624 1445,1624" />
+      <TextEquiv conf="0.9924">
+        <Unicode>—Y de Elsa ¿qué nos cuentas?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="1334,1628 2345,1628 2345,2364 1334,2364" />
+      <TextEquiv conf="0.9927">
+        <Unicode>—Oh! Elsa era libre como un pájaro en los bosques. Huérfana también de madre, su padre, un opulento banquero, adorábala y la tenía alojada en un precioso hotelo, con una numerosa servidumbre para su uso particular. Yo la veía en todas partes, acompañada de su aya; en la Gran Opera; en el Hipódromo; en el Bosque de Bologne. Hablal a con tanto desenfado y reía tan ruidosamente con una amable carcajada de chiquilla feliz, que daba gusto oirla. Venía a mi casa muy amenudo, y me asociaba a todas sus correrías de muchacha libre y rica.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="1334,2375 2345,2375 2345,2747 1334,2747" />
+      <TextEquiv conf="0.9991">
+        <Unicode>¿Cómo creeis, amigos míos, que se encauzaron al porvenir aquellas dos vidas tan distintas? Pensais que Gisela, bajo la influencia de su tía se haría monja, y que Elsa, dada la libertad de sus costumbres, cometería alguna calaverada, de esas que comprometen el honor de una mujer?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="paragraph" custom="readingOrder {index:20;} structure {type:Text;}">
+      <Coords points="1334,2754 2345,2754 2345,3178 1334,3178" />
+      <TextEquiv conf="0.9971">
+        <Unicode>Oh! nó: no lo creais: Gisela huyó con un amante, y fué después la mas célebre demi-mondaine de París. Elsa, por el contrario, hizo un brillante matrimonio con un inglés archimillonario, que no tenía más defecto que padecer la tradicional enfermedad de su país: el spleen. A veces, huyendo de la brillante vida de Londres, se deste-</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r21" type="paragraph" custom="readingOrder {index:21;} structure {type:Text;}">
+      <Coords points="1609,3196 2075,3196 2075,3241 1609,3241" />
+      <TextEquiv conf="0.9884">
+        <Unicode>Concluye en la pág. 5.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

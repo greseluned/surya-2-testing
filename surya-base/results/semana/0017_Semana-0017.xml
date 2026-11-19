@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:57:49</Created>
+    <LastChange>2026-11-18T10:57:49</LastChange>
+  </Metadata>
+  <Page imageFilename="0017_Semana-0017.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="102,224 528,224 528,280 102,280" />
+      <TextEquiv conf="0.9901">
+        <Unicode>10 de Febrero, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="2091,224 2426,224 2426,280 2091,280" />
+      <TextEquiv conf="0.9322">
+        <Unicode>SEMANA—17</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="97,333 567,333 567,389 97,389" />
+      <TextEquiv conf="0.9318">
+        <Unicode>EL VATICANO...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="255,386 652,386 652,431 255,431" />
+      <TextEquiv conf="0.9570">
+        <Unicode>(Viene de la pag. 12)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="97,424 810,424 810,582 97,582" />
+      <TextEquiv conf="0.9919">
+        <Unicode>Moscú en el pasado mes de julio bajo a la presidencia del patriarca Alexei de Moscú.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="97,586 810,586 810,1010 97,1010" />
+      <TextEquiv conf="0.9950">
+        <Unicode>La persecución en Hungría, en donde el 70 por ciento de los católicos pertenecen al rito latino, es diferente en cierto modo, según se dice aquí, de la que se practica, por ejemplo, en Rumanía, en donde la mayoría de los católicos pertenecen al rito bizantino.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="97,1013 818,1013 818,1963 97,1963" />
+      <TextEquiv conf="0.9948">
+        <Unicode>El gobierno comunista de Hungría, al decir de los círculos del Vaticano, tiene necésidad de un gran proceso legal contra la Iglesia basándose en acusaciones de alta traición y escándalos financieros. Las acusaciones que la autoridades húngaras han lanzado contra el Cardenal Mindszenty, se añade, son totalmente falsas. El gobierno húngaro conoció perfectamente de todas las diversas actividades del cardenal Mindszenty y simplemente fué contra él porque decidió que había llegado el momento de iniciar su nueva y mortal ola de persecución contra la Iglesia en Hungría.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="97,1963 823,1963 823,2956 97,2956" />
+      <TextEquiv conf="0.9979">
+        <Unicode>Los círculos del Vaticano también subrayan que el gobierno húngaro siempre alentó las conversaciones con el Cardenal Mindszenty para el restablecimiento de las relaciones diplomáticas con la Santa Sede y para la concertación de un acuerdo de naturaleza general sobre asuntos económicos y jurídicos que afectaban a la Iglesia. Sin embargo, siempre que hubo la oportunidad de suscribir un acuerdo con el gobierno húngaro, por una u otra razón, se demoraba la firma, con lo que se pone de manifiesto que todas las conversaciones se llevaban a cabo con el único propósito de ocultar las verdaderas intenciones húngaras.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="109,2956 823,2956 823,3222 109,3222" />
+      <TextEquiv conf="0.9987">
+        <Unicode>El lugar del Cardenal Primado como jefe de la Iglesia católica en Hungría será tomado por Monseñor Josef Grosz, de 61 años de edad, Arzobispo de Colocza, ó, en</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="892,333 1608,333 1608,484 892,484" />
+      <TextEquiv conf="0.9918">
+        <Unicode>el caso de que continúe mal de salud, por monseñor Julius Czapik, Arzobispo de Agria.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="892,484 1611,484 1611,1171 892,1171" />
+      <TextEquiv conf="0.9934">
+        <Unicode>Las acusaciones lanzadas contra el Cardenal Mindszenty son muy graves y traen consigo sentencias muy fuertes de acuerdo con la nueva Constitución comunista de Hungría. Aparte de la pérdida de todos los derechos como ciudadano, la Constitución húngara prevee la pena de muerte por el delito de alta traición. La impresión general en el Vaticano es que la Secretaría de Estado de la Santa Sede desea mantener reserva ab-</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="1685,333 2426,333 2426,1167 1685,1167" />
+      <TextEquiv conf="0.9954">
+        <Unicode>soluta en relación con este grave incidente. La situación es aún muy confusa y en círculos bien informados del Vaticano se dice que antes de que se tome alguna acción en definitiva, debe obtenerse un cuadro mucho más claro de lo que exactamente ha pasado y está pasando en Hungría. En esferas del Vaticano no se excluye la posibilidad de que Su Santidad convoque a un Consistorio de Cardenales para que se pueda protestar oficialmente contra la detención de un miembro del Sagrado Colegio de Cardenales. —REUTERS</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="902,1276 1494,1276 1494,1336 902,1336" />
+      <TextEquiv conf="0.9054">
+        <Unicode>ASI ES LA NATURALEZA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="1772,1269 2401,1269 2401,1332 1772,1332" />
+      <TextEquiv conf="0.9632">
+        <Unicode>FOR CHUCK THORNDIKE,</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r14" custom="readingOrder {index:14;} structure {type:Picture;}">
+      <Coords points="897,1332 2401,1332 2401,2899 897,2899" />
+    </ImageRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="912,2840 1578,2840 1578,3211 912,3211" />
+      <TextEquiv conf="0.9912">
+        <Unicode>La ESPONJA EXCLUSIVA
+SOLAMENTE EN UNA PARTE DE LOS ESTADOS
+UNIDOS PUEDEN HALLARSE ESTAS ESPONJAS
+MULTICOLORES Y ES LA MÁS GRANDE CRÍA
+DEL MUNDO, CON UN NEGOCIO ANUAL DE
+# 1.500,000, EN TARPON SPRINGS.
+FLORIDA.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="1640,2913 2364,2913 2364,3176 1640,3176" />
+      <TextEquiv conf="0.9724">
+        <Unicode>EL PEZ Luna
+SOLAMENTE TIENE UN CUARTO DE PULGADA
+DE ANCHO.¡SU TRANSPARENCIA, QUE DEJA VER
+SUS HUESOS Y ÓRGANOS INTERNOS, LE PAN
+UN ASPECTO DE ALGO FANTASMAGÓRICO!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="1990,3197 2401,3197 2401,3226 1990,3226" />
+      <TextEquiv conf="0.8662">
+        <Unicode>EDITORS PRESS SERVICE. INC. NIHOA TOM.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

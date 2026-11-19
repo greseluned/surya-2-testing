@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:57:49</Created>
+    <LastChange>2026-11-18T10:57:49</LastChange>
+  </Metadata>
+  <Page imageFilename="0076_Semana-0076.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="84,256 394,256 394,309 84,309" />
+      <TextEquiv conf="0.9289">
+        <Unicode>SEMANA—32</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="2000,256 2401,256 2401,312 2000,312" />
+      <TextEquiv conf="0.9832">
+        <Unicode>10 de Marzo, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="243,365 2240,365 2240,505 243,505" />
+      <TextEquiv conf="0.9902">
+        <Unicode>Acentuación ortográfica</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="82,564 800,564 800,2019 82,2019" />
+      <TextEquiv conf="0.9870">
+        <Unicode>Al acento agudo en la escritura castellana, se le trata con “cuidadeso descuido”, aquí en Filipinas, o como quisiera llamarla un promiñente escriba y patriota asianista.—Lapu-Lapu. Tengo para mi humide mi, sin embargo, que exclusivistas y proteccionistas tocados de ultranacionalismo (cuando la fórmula salvadora seria hoy el acercamiento interhumano con proyección a la universalidad), no deben temer que ese acento de marca hispán, ni ese apelativo español Feipe, trocado en Filipi al filipinizarse, fuere algo foráneo que traiga la mosca del Meditarráneo. Por lo menos, y hablando en general, el mal uso de ese acento escrito aquí, demuestra cierta mentalidad paralela entre Oriente y Occidente, para darle un mentís a míster Kipling. Por indolencia, los hispanófilos filipinos no pintan ese chisme ortográfico, siguiendo las concisas, precisas y facilísimas reglas de acentuación que la Academia dictó. Esto fue hace 50 años.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="heading" custom="readingOrder {index:4;} structure {type:SectionHeader;}">
+      <Coords points="939,673 1526,673 1526,736 939,736" />
+      <TextEquiv conf="0.9918">
+        <Unicode>Por Juan Costas-Beitia</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="877,831 1596,831 1596,1820 877,1820" />
+      <TextEquiv conf="0.9914">
+        <Unicode>que es su período renovador; cada medio siglo la Academia tiene un acceso de inspiración meridional, implementada con acción septentrional: prucba irrecusable de dinamismo atroz, en unos académicos que por ser inmortales (según Daudet dijo de los académiciens franceses), gozan de una eternidad por delante para esperar. Por otra parte y por desidia o lo que sea, los españoles radica los en este moreno lar, hacen lo mismito: hacer caso cmiso del acento al escribir la lengua de Cervantes, Rodó y Rizal... de bello y amado nervio... de apostólico, claro, recto y cuasi perfecto brío. Así pues, ¡patas!.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="877,1820 1593,1820 1593,2023 877,2023" />
+      <TextEquiv conf="0.9744">
+        <Unicode>Por predominante influencia saxo-americana, eliminamos este signo preciso de sonoridad, porque el mismo no lo estampa aún el por:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="1673,557 2401,557 2401,666 1673,666" />
+      <TextEquiv conf="0.9750">
+        <Unicode>todos conceptos tremebundo y anárquico “spelling”.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="1673,666 2401,666 2401,1700 1673,1700" />
+      <TextEquiv conf="0.9959">
+        <Unicode>Y digo aún, porque antes de mucho ese potente por tolenante y hospitaliario idicma de síspir, Rusvelt y Matahma Carlos P. Rómulo, ahijará dicho acento, cuando, por mor de la hegemonía lingüística internacional, simplifique spelling y pronunciation siguiendo la lógica maciza y sencillez trasparente de la ortografía y prosodia del hispánico contemporáneo. Así el inglés dará un tranco hacia avante, definitivo. Empero la armoniosa fabla de Don Quijote (y de Sancho Panza) cuyos acentos se han venido oyendo en este solar occánico (nó-asiático) por varias centurias, no marcharía tan a la zaga, si sus amantes nos uniéramos con acentuada puntualidad.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="1673,1700 2401,1700 2401,2998 1673,2998" />
+      <TextEquiv conf="0.9946">
+        <Unicode>Los hispanistas de acción debiéramos velar porque no se importen aquí linotipias sin acento, ni ñ, ni abre-interrogación, ni abre-admiración. Para uso futuro, necesitamos también de otros signos indicadores de perfección: los acentos grave y circunflejo para el tagalo; la ü y la i con diéresis. v. si fuere posible, el subpunto preconizado por Benot. El tagalo ya con veste ortográfica sencilla y sensata, necesitará de los acentos grave y circunflejo para bien marcar las vocales finales con sonido gutural. El inglés simplificado hispánicamente, habrá menester también de esos dos acentos (además del agudo) no tanto para uso semántico, como para deslinde histórico y diláctico. Así, pues, el importar o importar linotipias con acentuación habal, no sería imposición patriotera estéril, sino anticipación trilingual de fecundo porvenir.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="1673,2998 2401,2998 2401,3219 1673,3219" />
+      <TextEquiv conf="0.9590">
+        <Unicode>Las Remingtons, Underwoods y demás tipiadoras ya no arriban a estas playas con esas tres marcas de la conquista fonética (¿ ; n̄).</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="heading" custom="readingOrder {index:11;} structure {type:SectionHeader;}">
+      <Coords points="159,2104 1514,2104 1514,2163 159,2163" />
+      <TextEquiv conf="0.9765">
+        <Unicode>LA TÍPICA FIESTA DE SAN ANTÓN EN MADRID</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="396,2163 1274,2163 1274,2216 396,2216" />
+      <TextEquiv conf="0.9935">
+        <Unicode>(Vease nuestra edicion del 24 de Febrero 1949)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r13" custom="readingOrder {index:13;} structure {type:Picture;}">
+      <Coords points="149,2237 1633,2237 1633,3131 149,3131" />
+    </ImageRegion>
+    <TextRegion id="r14" type="caption" custom="readingOrder {index:14;} structure {type:Caption;}">
+      <Coords points="156,3145 1648,3145 1648,3229 156,3229" />
+      <TextEquiv conf="0.9948">
+        <Unicode>Un miembro de la escolta móra del Jefe del Estado que acudió con su típico arreo a las fiestas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

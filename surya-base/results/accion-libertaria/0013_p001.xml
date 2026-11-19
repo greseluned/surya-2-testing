@@ -1,0 +1,424 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:55:20</Created>
+    <LastChange>2026-11-18T10:55:20</LastChange>
+  </Metadata>
+  <Page imageFilename="0013_p001.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+        <RegionRefIndexed index="21" regionRef="r21" />
+        <RegionRefIndexed index="22" regionRef="r22" />
+        <RegionRefIndexed index="23" regionRef="r23" />
+        <RegionRefIndexed index="24" regionRef="r24" />
+        <RegionRefIndexed index="25" regionRef="r25" />
+        <RegionRefIndexed index="26" regionRef="r26" />
+        <RegionRefIndexed index="27" regionRef="r27" />
+        <RegionRefIndexed index="28" regionRef="r28" />
+        <RegionRefIndexed index="29" regionRef="r29" />
+        <RegionRefIndexed index="30" regionRef="r30" />
+        <RegionRefIndexed index="31" regionRef="r31" />
+        <RegionRefIndexed index="32" regionRef="r32" />
+        <RegionRefIndexed index="33" regionRef="r33" />
+        <RegionRefIndexed index="34" regionRef="r34" />
+        <RegionRefIndexed index="35" regionRef="r35" />
+        <RegionRefIndexed index="36" regionRef="r36" />
+        <RegionRefIndexed index="37" regionRef="r37" />
+        <RegionRefIndexed index="38" regionRef="r38" />
+        <RegionRefIndexed index="39" regionRef="r39" />
+        <RegionRefIndexed index="40" regionRef="r40" />
+        <RegionRefIndexed index="41" regionRef="r41" />
+        <RegionRefIndexed index="42" regionRef="r42" />
+        <RegionRefIndexed index="43" regionRef="r43" />
+        <RegionRefIndexed index="44" regionRef="r44" />
+        <RegionRefIndexed index="45" regionRef="r45" />
+        <RegionRefIndexed index="46" regionRef="r46" />
+        <RegionRefIndexed index="47" regionRef="r47" />
+        <RegionRefIndexed index="48" regionRef="r48" />
+        <RegionRefIndexed index="49" regionRef="r49" />
+        <RegionRefIndexed index="50" regionRef="r50" />
+        <RegionRefIndexed index="51" regionRef="r51" />
+        <RegionRefIndexed index="52" regionRef="r52" />
+        <RegionRefIndexed index="53" regionRef="r53" />
+        <RegionRefIndexed index="54" regionRef="r54" />
+        <RegionRefIndexed index="55" regionRef="r55" />
+        <RegionRefIndexed index="56" regionRef="r56" />
+        <RegionRefIndexed index="57" regionRef="r57" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="heading" custom="readingOrder {index:0;} structure {type:SectionHeader;}">
+      <Coords points="473,330 2077,330 2077,484 473,484" />
+      <TextEquiv conf="0.9676">
+        <Unicode>ACCION LIBERTARIA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="heading" custom="readingOrder {index:1;} structure {type:SectionHeader;}">
+      <Coords points="1002,498 1557,498 1557,547 1002,547" />
+      <TextEquiv conf="0.9410">
+        <Unicode>PERIODICO QUINCENAL</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="387,554 526,554 526,607 387,607" />
+      <TextEquiv conf="0.9699">
+        <Unicode>5 CTS.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="776,547 1867,547 1867,607 776,607" />
+      <TextEquiv conf="0.9844">
+        <Unicode>Acogido a la franquicia postal e inscripto como correspondencia de segunda clase en la Administración de Correos de la Habana</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="1993,554 2132,554 2132,607 1993,607" />
+      <TextEquiv conf="0.9617">
+        <Unicode>5 CTS.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="419,631 776,631 776,670 419,670" />
+      <TextEquiv conf="0.9986">
+        <Unicode>Director: FRANCISCO VEGA.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="949,631 1616,631 1616,670 949,670" />
+      <TextEquiv conf="0.9885">
+        <Unicode>REDACCION Y ADMINISTRACION: ZULUETA 37, ALTOS</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="1812,631 2139,631 2139,670 1812,670" />
+      <TextEquiv conf="0.9887">
+        <Unicode>Admor.: JOSE TRUJILLO.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="402,716 503,716 503,754 402,754" />
+      <TextEquiv conf="0.9409">
+        <Unicode>Año I.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="1044,716 1505,716 1505,754 1044,754" />
+      <TextEquiv conf="0.9956">
+        <Unicode>HABANA, MARZO 20 DE 1924</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="1604,702 1842,702 1842,782 1604,782" />
+      <TextEquiv conf="0.9619">
+        <Unicode>Int. Institut
+Soc. Geschiedenheit
+Amsterdam</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="2030,716 2152,716 2152,754 2030,754" />
+      <TextEquiv conf="0.9445">
+        <Unicode>Núm 5.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="heading" custom="readingOrder {index:12;} structure {type:SectionHeader;}">
+      <Coords points="379,800 1274,800 1274,926 379,926" />
+      <TextEquiv conf="0.9618">
+        <Unicode>LA FEDERACION ANTICLERICAL
+Y NOSOTROS</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="379,961 818,961 818,1144 379,1144" />
+      <TextEquiv conf="0.9911">
+        <Unicode>Merced a la labor realizada por la incansable propagandista del libre pensamiento, señora Belén de Sárraga, , ha quedado organizada en la Habana la "Federación Anti-Clerical de Cuba".</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="379,1140 826,1140 826,1522 379,1522" />
+      <TextEquiv conf="0.9819">
+        <Unicode>Cuas : Los elementos integrantes de esta nueva organización, (masones, espiritistas, teosofistas, protestantes, en sus varias denominaciones y católicos anti-clericales, no pasan de ser, en su mayoría, meros enemigos de la iglesia católica, no por lo que en esencia los puede diferenciar de ella, si no por ser la iglesia de Roma la que ha sabido extender y hacer arraigar en ciertas partes del mundo, su poderío absorbente que imposibilita el crecimiento y desarrollo de las otras religiones.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="379,1515 830,1515 830,2007 379,2007" />
+      <TextEquiv conf="0.9877">
+        <Unicode>Bien es verdad, que, para conseguir este poderio, no fian las asociaciones clericales romanas, solamente en la bondad del credo por ellas sustentado; si no que aprovechándose de todos los infinitos recursos que la mente humana ha sabido concebir, no han tenido escrúpulos en realizar hasta los de peor jaez, siempre que les reportase la consecución de sus deseos. Por algo han elevado a la categoría de inconcusa la frase jesuítica de "el fin justifica los medios", lo que ha motivado que la conciencia honrada universal, se haya alzado en más de una ocasión contra los desmanes de la clerecia ensoberbecida. Casos concretos, que todo</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="833,961 1277,961 1277,1144 833,1144" />
+      <TextEquiv conf="0.9984">
+        <Unicode>el mundo conoce, el asunto Dreyfus, en Francia y el de Ferrer en España, que levantaron un clamor de protesta general, a la que nos sumamos decidida y enérgicamente los anarquistas de todas partes.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="833,1140 1279,1140 1279,1375 833,1375" />
+      <TextEquiv conf="0.9857">
+        <Unicode>Mas, no pueden ser casos de esta indole, de por sí sólos, los que nos induzcan a formar en organizaciones que no tienen más misión que la de socavar la grandeza prepotente de una de las varias religiones que en la actualidad, se disputan la supremacía espiritual humana.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="833,1372 1282,1372 1282,1603 833,1603" />
+      <TextEquiv conf="0.9943">
+        <Unicode>Para nosotros, ateos a la manera de Bakounine, no es lo primordial el combatir los efectos que de la religión católica dimanan, no. Lo que hacemos es ir al fondo de la cuestión y atacar dura y despiadadamente a lo que es origen de todas las religiones: la idea de Dios.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="833,1596 1284,1596 1284,2003 833,2003" />
+      <TextEquiv conf="0.9934">
+        <Unicode>Y como esta actitud nuestra, clara y francamente definida, pudiera ser motivo de rozamientos, que impidieran el crecimiento de la Federación Anti-Clerical a que sus creadores aspiran, es causa suficiente y poderosa, para que nosotros nos abstengamos de formar en ella; dando no obstante la seguridad de que en todas las luchas que contra el clericalismo se inicien y puedan tener su escenario en la vía pública, no faltará la cooperación decidida y viril de los anarquistas de Cuba.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="paragraph" custom="readingOrder {index:20;} structure {type:Text;}">
+      <Coords points="1287,800 1728,800 1728,919 1287,919" />
+      <TextEquiv conf="0.9953">
+        <Unicode>si mienten, si enseñan una moral falsa y convencional, es porque están funcionalmente en la necesidad de oprimir, de explotar y de mentir.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r21" type="paragraph" custom="readingOrder {index:21;} structure {type:Text;}">
+      <Coords points="1287,916 1728,916 1728,1263 1287,1263" />
+      <TextEquiv conf="0.9880">
+        <Unicode>En la tragedia que se representa, es el fin del Gobierno, cualquiera que sea pacer la guerra, recaudar los impuestos, golpear a los que infringen la Ley y masacrar a los que se rebelan; es el fin del capitalismo, cualquiera que sea, explotar el trabajo y vivir como parásito; es el fin del sacerdote y del profesor de moral, cualesquiera que sean, ahogar el pensamiento, obsecurecer la conciencia y encadenar la voluntad.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r22" type="paragraph" custom="readingOrder {index:22;} structure {type:Text;}">
+      <Coords points="1287,1256 1728,1256 1728,1498 1287,1498" />
+      <TextEquiv conf="0.9881">
+        <Unicode>He ahí por qué combatimos a los titiriteros, cualesquiera que sean, de los partidos; cualesquiera que sean, su único esfuerzo tienede a persuadir a las masas, cuyos sufragios mendigan, que todo marcha de mal en peor porque ellos no gobiernan y que todo marcharía bien si ellos gobernaran.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r23" type="paragraph" custom="readingOrder {index:23;} structure {type:Text;}">
+      <Coords points="1287,1491 1733,1491 1733,1666 1287,1666" />
+      <TextEquiv conf="0.9968">
+        <Unicode>Tercera consecuencia. Se infiere de lo dicho que, siempre lógicos, somos los adversarios de la Autoridad que se ejerce con la misma razón y en el mismo grado que de la Autoridad que se sufre.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r24" type="paragraph" custom="readingOrder {index:24;} structure {type:Text;}">
+      <Coords points="1287,1663 1733,1663 1733,1814 1287,1814" />
+      <TextEquiv conf="0.9941">
+        <Unicode>No querer obedecer, pero querer mandar, no es ser anarquista. No permitir explotar su trabajo, pero consentir en explotar el trabajo ajeno, no es ser anarquista.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r25" type="paragraph" custom="readingOrder {index:25;} structure {type:Text;}">
+      <Coords points="1287,1810 1735,1810 1735,2357 1287,2357" />
+      <TextEquiv conf="0.9936">
+        <Unicode>El libertario rehusa dar órdenes, así como rehusa recibirlas. Experimenta por la condición de jefe tanta repugnancia como por la de subalterno. No da su consentimiento para constreñir o explotar a los otros ni ser él mismo explotado u obligado. Está a igual distancia del amo y del esclavo. Puedo aun declarar, que en último análisis, acordamos a los que se resignan a la sumisión, circunstancias atenuantes que rehusamos formalmente a los que consienten en mandar; pues los primeros se encuentran a veces en la necesidad—es para ellos, en ciertos casos, cuestión de vida o muerte—de renunciar a la rebeldía, mientras que nadie es constreñido a mandar, ejercer función de jefe o de amo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r26" type="paragraph" custom="readingOrder {index:26;} structure {type:Text;}">
+      <Coords points="1311,2350 1735,2350 1735,2385 1311,2385" />
+      <TextEquiv conf="0.9969">
+        <Unicode>Aquí se pone de manifiesto la pro-</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r27" type="paragraph" custom="readingOrder {index:27;} structure {type:Text;}">
+      <Coords points="1735,800 2182,800 2182,1094 1735,1094" />
+      <TextEquiv conf="0.9928">
+        <Unicode>funda oposición, la distancia infranqueable que separa a las agrupaciones anarquistas de todos los partidos políticos que se dicen revolucionarios o pasan por tales. Pues, del primero al último, del más blanco al más rojo, todos los partidos políticos luchan por desplazar del poder al Partido que lo ejerece y convertirse en los amos, a su vez.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r28" type="paragraph" custom="readingOrder {index:28;} structure {type:Text;}">
+      <Coords points="1735,1087 2182,1087 2182,1263 1735,1263" />
+      <TextEquiv conf="0.9966">
+        <Unicode>Cuarta consecuencia. No queremos solamente abolir todas las formas de la Autoridad; queremos destruirlas todas simultáneamente y proclamamos que esta destrucción total y simultánea es indispensable.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r29" type="paragraph" custom="readingOrder {index:29;} structure {type:Text;}">
+      <Coords points="1760,1256 1894,1256 1894,1294 1760,1294" />
+      <TextEquiv conf="0.9530">
+        <Unicode>nea es indisp
+¿Por qué?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r30" type="paragraph" custom="readingOrder {index:30;} structure {type:Text;}">
+      <Coords points="1735,1287 2182,1287 2182,1554 1735,1554" />
+      <TextEquiv conf="0.9942">
+        <Unicode>Porque todas las formas de la Autoridad se parecen; están indisolublemente ligadas las unas a las otras. Son cómplices y solidarias. Dejar subsistir una sola es favorecer la resurrección de todas. Maldición a las generaciones que no tengan el valor de ir hasta la total extirpación del gérmen morboso, del foco de infección!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r31" type="paragraph" custom="readingOrder {index:31;} structure {type:Text;}">
+      <Coords points="1735,1554 2182,1554 2182,1821 1735,1821" />
+      <TextEquiv conf="0.9977">
+        <Unicode>Verán pronto reaparecer la podredumbre. Inofensivo al principio, por falta de apariencia, imperceptible y como sin fuerza, el germen se desarrollará, se fortificará y cuando el mal, habiendo pérfidamente crecido en la sombra, estalle en plena luz, será menester recomenzar la lucha para derribarla definitivamente.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r32" type="paragraph" custom="readingOrder {index:32;} structure {type:Text;}">
+      <Coords points="1735,1821 2182,1821 2182,1912 1735,1912" />
+      <TextEquiv conf="0.9886">
+        <Unicode>¡No! ¡No! Nada de lados mal eseulpidos, nada de medias tintas, nada de concesiones. Todo o nada.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r33" type="paragraph" custom="readingOrder {index:33;} structure {type:Text;}">
+      <Coords points="1735,1908 2186,1908 2186,2147 1735,2147" />
+      <TextEquiv conf="0.9854">
+        <Unicode>La guerra está declarada entre los dos principios que se disputan el imperio del mundo: Autoridad o libertad. El democratismo sueña con una conciliación imposible; la experiencia ha demostrado el absurdo de una asociación entre estos dos principios que se excluyen.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r34" type="paragraph" custom="readingOrder {index:34;} structure {type:Text;}">
+      <Coords points="1772,2147 1998,2147 1998,2182 1772,2182" />
+      <TextEquiv conf="0.9602">
+        <Unicode>Es menester elegir.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r35" type="paragraph" custom="readingOrder {index:35;} structure {type:Text;}">
+      <Coords points="1735,2182 2186,2182 2186,2245 1735,2245" />
+      <TextEquiv conf="0.9831">
+        <Unicode>Unicamente los anarquistas se promuncian en favor de la Libertad.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r36" type="paragraph" custom="readingOrder {index:36;} structure {type:Text;}">
+      <Coords points="1772,2242 2186,2242 2186,2273 1772,2273" />
+      <TextEquiv conf="0.9974">
+        <Unicode>Tienen en contra al mundo entero.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r37" type="paragraph" custom="readingOrder {index:37;} structure {type:Text;}">
+      <Coords points="1735,2270 2186,2270 2186,2333 1735,2333" />
+      <TextEquiv conf="0.9869">
+        <Unicode>¡No importa! Vencerán. Diremos pronto por qué y cómo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r38" type="paragraph" custom="readingOrder {index:38;} structure {type:Text;}">
+      <Coords points="1944,2333 2164,2333 2164,2371 1944,2371" />
+      <TextEquiv conf="0.9950">
+        <Unicode>Sebastián FAURE.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r39" type="heading" custom="readingOrder {index:39;} structure {type:SectionHeader;}">
+      <Coords points="409,2070 1264,2070 1264,2119 409,2119" />
+      <TextEquiv conf="0.9486">
+        <Unicode>LO QUE NOSOTROS QUEREMOS</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r40" type="heading" custom="readingOrder {index:40;} structure {type:SectionHeader;}">
+      <Coords points="761,2150 915,2150 915,2189 761,2189" />
+      <TextEquiv conf="0.9819">
+        <Unicode>(Conclusión).</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r41" type="paragraph" custom="readingOrder {index:41;} structure {type:Text;}">
+      <Coords points="392,2196 826,2196 826,2287 392,2287" />
+      <TextEquiv conf="0.9996">
+        <Unicode>La tesis anarquista impone, en la práctica, algunas consecuencias que es menester señalar.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r42" type="paragraph" custom="readingOrder {index:42;} structure {type:Text;}">
+      <Coords points="392,2280 828,2280 828,2491 392,2491" />
+      <TextEquiv conf="0.9863">
+        <Unicode>La rápida exposición de estos corolarios, bastará para situar a los anarquistas frente a todas las otras tesis y también a precisar los rasgos por los cuales nosotros nos diferenciamos de todas las otras escuelas filosófico-sociales.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r43" type="paragraph" custom="readingOrder {index:43;} structure {type:Text;}">
+      <Coords points="392,2491 828,2491 828,2810 392,2810" />
+      <TextEquiv conf="0.9905">
+        <Unicode>Primera consecuencia. El que niega y combate la autoridad moral: la Religión, sin negar y combatir las otras dos, no es un verdadero anarquista, y, si se me permite decir, un anarquista integral, puesto que, siendo enemigo de la autoridad moral y de las obligaciones que implica, queda partidario de la autoridad política: el Estado, y de la autoridad económica: la Propiedad.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r44" type="paragraph" custom="readingOrder {index:44;} structure {type:Text;}">
+      <Coords points="392,2810 830,2810 830,2957 392,2957" />
+      <TextEquiv conf="0.9958">
+        <Unicode>Pasa lo mismo y por el mismo motivo con aquel que niega y combate la propiedad, pero admite y sostiene la legitimidad y la beneficencia del Estado y la Religión.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r45" type="paragraph" custom="readingOrder {index:45;} structure {type:Text;}">
+      <Coords points="392,2954 830,2954 830,3013 392,3013" />
+      <TextEquiv conf="0.9832">
+        <Unicode>Y ocurre también lo mismo con aquel que niega y combate el Estado, pero</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r46" type="paragraph" custom="readingOrder {index:46;} structure {type:Text;}">
+      <Coords points="843,2196 1284,2196 1284,2259 843,2259" />
+      <TextEquiv conf="0.9998">
+        <Unicode>admite y sostiene la Religión y la Propiedad.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r47" type="paragraph" custom="readingOrder {index:47;} structure {type:Text;}">
+      <Coords points="843,2252 1284,2252 1284,2459 843,2459" />
+      <TextEquiv conf="0.9951">
+        <Unicode>El anarquista integral hace frente con la misma conviceción y ataca con igual ardor todas las formas y manifestaciones de la Autoridad y se yergue con igual vigor contra todas las obligaciones que comportan ésta o aquéllas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r48" type="paragraph" custom="readingOrder {index:48;} structure {type:Text;}">
+      <Coords points="843,2456 1287,2456 1287,2719 843,2719" />
+      <TextEquiv conf="0.9939">
+        <Unicode>Pues, de hecho y de derecho, el anarquismo es antirreligioso, anticapitalista (el capitalismo es la fase históricamente contemporánea de la propiedad) y antiestatista. Afronta el triple combate contra la autoridad. No ahorra sus golpes ni al Estado, ni a la Propiedad, ni a la Religión. Quiere suprimir a los tres juntos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r49" type="paragraph" custom="readingOrder {index:49;} structure {type:Text;}">
+      <Coords points="843,2715 1287,2715 1287,3010 843,3010" />
+      <TextEquiv conf="0.9945">
+        <Unicode>Segunda consecuencia. Los anarquistas no creen en la eficacia de un simple cambio en el personal que ejerce la Autoridad. Consideran que los gobernantes y los poseedores, los sacerdotes y los moralistas son hombres como los otros, que no son, por naturaleza, ni peores ni mejores que el común de los mortales, y que, si encarcelan, si matan, si viven del trabajo ajeno,</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r50" type="heading" custom="readingOrder {index:50;} structure {type:SectionHeader;}">
+      <Coords points="1331,2421 1701,2421 1701,2470 1331,2470" />
+      <TextEquiv conf="0.9584">
+        <Unicode>COMENTARIOS</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r51" type="paragraph" custom="readingOrder {index:51;} structure {type:Text;}">
+      <Coords points="1299,2501 1738,2501 1738,2592 1299,2592" />
+      <TextEquiv conf="0.9984">
+        <Unicode>Por la prensa diaria ha rodado en días pasados, un cable, que no tiene desperdicio.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r52" type="paragraph" custom="readingOrder {index:52;} structure {type:Text;}">
+      <Coords points="1299,2589 1738,2589 1738,2799 1299,2799" />
+      <TextEquiv conf="0.9864">
+        <Unicode>En Rusia, en la Rusia de los Soviets y de la dictadura del proletariado, donde, al decir de sus panegiristas, se realiza la más estupenda de las campañas educacionales, ha sido creado, similar al que funciona en el Vaticano, el Indice Rojo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r53" type="paragraph" custom="readingOrder {index:53;} structure {type:Text;}">
+      <Coords points="1299,2799 1738,2799 1738,2978 1299,2978" />
+      <TextEquiv conf="0.9913">
+        <Unicode>En él, están incluídas las mismas que en el de la Roma papal, incluyendo la Biblia, no sabemos si la católica, o la que ha sido traducida por los protestantes, a todos los idiomas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r54" type="paragraph" custom="readingOrder {index:54;} structure {type:Text;}">
+      <Coords points="1321,2975 1738,2975 1738,3010 1321,3010" />
+      <TextEquiv conf="0.9886">
+        <Unicode>Spencer, Nieztsche, Einstein, algu-</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r55" type="paragraph" custom="readingOrder {index:55;} structure {type:Text;}">
+      <Coords points="1748,2417 2191,2417 2191,2596 1748,2596" />
+      <TextEquiv conf="0.9948">
+        <Unicode>nas de las obras de Tolstoi, (ya anteriormente había sido impedida la inculeación y divulgación de los libros de Kropotkine), han sido declarados no gratos por los señores que dirigen los asuntos públicos de Rusia.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r56" type="paragraph" custom="readingOrder {index:56;} structure {type:Text;}">
+      <Coords points="1748,2592 2191,2592 2191,2831 1748,2831" />
+      <TextEquiv conf="0.9895">
+        <Unicode>Esto es; que todo lo que tienda a crear un verdadero valor espiritual en los hombres, apartándoles de la ovejuna rebañería, es lesivo para el principio carneril que precisa para su sostenimiento todo estado político, desde el más conservador, hasta el más comunista o bolshevique.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r57" type="paragraph" custom="readingOrder {index:57;} structure {type:Text;}">
+      <Coords points="1748,2831 2191,2831 2191,3006 1748,3006" />
+      <TextEquiv conf="0.9902">
+        <Unicode>Y es altamente doloroso haber empleado tantas energías, tantos esfuerzos, para llegar a conclusiones que en nada se diferencian de las que predominaban en tiempos de la tiranía zarista.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

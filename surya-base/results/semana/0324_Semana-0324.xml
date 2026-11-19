@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:58:31</Created>
+    <LastChange>2026-11-18T10:58:31</LastChange>
+  </Metadata>
+  <Page imageFilename="0324_Semana-0324.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+        <RegionRefIndexed index="21" regionRef="r21" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="92,270 399,270 399,323 92,323" />
+      <TextEquiv conf="0.9351">
+        <Unicode>SEMANA—16</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="1970,270 2364,270 2364,323 1970,323" />
+      <TextEquiv conf="0.9669">
+        <Unicode>3 de Febrero, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="317,470 2153,470 2153,638 317,638" />
+      <TextEquiv conf="0.9839">
+        <Unicode>La Historia de Mi Vida</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="1014,698 1462,698 1462,768 1014,768" />
+      <TextEquiv conf="0.9362">
+        <Unicode>• Por Joe Louis:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="heading" custom="readingOrder {index:4;} structure {type:SectionHeader;}">
+      <Coords points="369,813 530,813 530,866 369,866" />
+      <TextEquiv conf="0.8664">
+        <Unicode>—III—</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="92,866 805,866 805,1960 92,1960" />
+      <TextEquiv conf="0.9960">
+        <Unicode>Hay quienes creen que yo dedico ahora mucho tiempo a los placeres. Quizá sea así. Pero durante mi infancia en Alabama no era mucho lo que podía hacer para divertirme. Tan pronto como un muchacho era suficientemente grande se veía obligado a trabajar en el campo, desde las primeras horas de la mañana hasta el anochecer. Por las noches había que permanecer en la casa y acostarse temprano, porque todo el mundo tenía que levantarse temprano para el trabajo el día siguiente. El placer más grande que recuerdo haber tenido en mis días de Alabama me lo dieron las visitas que hacía con mi padrastro a Camp Hill, una población que tenía tiendas a lo largo de su calle principal.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="139,1960 798,1960 798,2012 139,2012" />
+      <TextEquiv conf="0.9756">
+        <Unicode>Mi padrastro nos daba una bue-</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="880,813 1593,813 1593,1757 880,1757" />
+      <TextEquiv conf="0.9981">
+        <Unicode>na cantidad de consejos antes de ponernos la mano encima, y esto último lo hacía contra su propio hijo Pat tan rápidamente como contra mí. En la finca comíamos bien: teníamos abundancia de maíz, papas, tocino, gallinas y pescado. Pero lo que recuerdo más claramente es cómo Pat y yo esperábamos los sábados por la noche, fuera de la casa, en el vagón, porque mi padrastro nos traía galletas y queso, lo que constituía una fiesta para nosotros. Pero teníamos que comerlo en el vagón, en esto era estricto, pues no deseaba que nos viéramos en dificultades sobre el particular.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="880,1760 1588,1760 1588,2016 880,2016" />
+      <TextEquiv conf="0.9881">
+        <Unicode>Los muchachos que vivían en aquellas regiones no poseían mucho, pero se sentían felices. Nosotros no conocimos el cinematógrafo sino cuando llegamos a Detroit. Los</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="1665,813 2376,813 2376,1444 1665,1444" />
+      <TextEquiv conf="0.9977">
+        <Unicode>mejores tiempos que teníamos eran los de buscar huevos, para la Pascua, y el acontecimiento más grande era la colocación de nuestras medias en la chimenea para Nochebuena. Sabíamos de San Nicolás, pero no acostumbrábamos instalar árboles de Navidad como se hace en el norte. Lo que encontrábamos al día siguiente en las medias eran manzanas y naranjas, y grandes dulces de menta.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="1665,1444 2376,1444 2376,2016 1665,2016" />
+      <TextEquiv conf="0.9971">
+        <Unicode>Antes de que pase a decir cómo fué que nos trasladamos a Detroit cuando tenía doce años, quiero decir otra cosa: en todos los años que pasé en Alabama nunca oí hablar de razas ni cosas por el estilo. Que yo recuerde, nadie hablaba de esto jamás. Si se habló de linchamientos, nunca llegué a oirlo. No era como ahora. No supe de esto sino cuando llegamos a Detroit. En</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="heading" custom="readingOrder {index:11;} structure {type:SectionHeader;}">
+      <Coords points="892,2146 1591,2146 1591,2202 892,2202" />
+      <TextEquiv conf="0.9005">
+        <Unicode>RUINAS DE INTRAMUROS</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="heading" custom="readingOrder {index:12;} structure {type:SectionHeader;}">
+      <Coords points="491,2303 1987,2303 1987,2440 491,2440" />
+      <TextEquiv conf="0.9524">
+        <Unicode>Las Puertas De Las Hurallas</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="92,2535 1197,2535 1197,2805 92,2805" />
+      <TextEquiv conf="0.9965">
+        <Unicode>Viejas puertas del Parián, Postigo y Santa Lucía, Puerta Real de la Ermita y la de Isabel Segunda, Carcomidas por los siglos, que se elevan todavía Como veraces testigos de una leyenda rotunda....</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="92,2854 1197,2854 1197,3120 92,3120" />
+      <TextEquiv conf="0.9987">
+        <Unicode>Viejas puertas las que vieron las brillantes
+armaduras
+De los tercios españoles, argonautas de aventuras
+Cruzar bajo sus arcadas como una visión
+homérica</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="92,3117 1197,3117 1197,3226 92,3226" />
+      <TextEquiv conf="0.9901">
+        <Unicode>Para contener las huestes de Limahong y
+América.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="1274,2535 2369,2535 2369,2749 1274,2749" />
+      <TextEquiv conf="0.9824">
+        <Unicode>Por sus dinteles pasaron muchos nobles .
+caballeros,
+Sacerdotes y guerreros de penachos altaneros, .
+Portando los estandartes de la Cruz del Salvador.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="1274,2794 1975,2794 1975,2854 1274,2854" />
+      <TextEquiv conf="0.9902">
+        <Unicode>Viejas puertas de Intramuros.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="1274,2847 2369,2847 2369,2963 1274,2963" />
+      <TextEquiv conf="0.9805">
+        <Unicode>¡La ciudadela española que fué herida hasta en sus muros...!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="1274,2952 2369,2952 2369,3061 1274,3061" />
+      <TextEquiv conf="0.9825">
+        <Unicode>Sólo quedan vuestras ruinas recordando su
+dolor...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="paragraph" custom="readingOrder {index:20;} structure {type:Text;}">
+      <Coords points="1274,3162 1821,3162 1821,3229 1274,3229" />
+      <TextEquiv conf="0.9952">
+        <Unicode>Manila, Enero de 1949.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r21" type="paragraph" custom="readingOrder {index:21;} structure {type:Text;}">
+      <Coords points="2032,3124 2364,3124 2364,3176 2032,3176" />
+      <TextEquiv conf="0.9426">
+        <Unicode>FELGOMAR.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

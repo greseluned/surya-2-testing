@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:58:13</Created>
+    <LastChange>2026-11-18T10:58:13</LastChange>
+  </Metadata>
+  <Page imageFilename="0291_Semana-0291.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="79,270 446,270 446,330 79,330" />
+      <TextEquiv conf="0.9722">
+        <Unicode>6 de Enero, 1949.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="2017,270 2354,270 2354,326 2017,326" />
+      <TextEquiv conf="0.9478">
+        <Unicode>SEMANA — 27.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="634,491 1769,491 1769,750 634,750" />
+      <TextEquiv conf="0.9732">
+        <Unicode>ACTUALIDAD LOCAL</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="heading" custom="readingOrder {index:3;} structure {type:SectionHeader;}">
+      <Coords points="488,894 1970,894 1970,1038 488,1038" />
+      <TextEquiv conf="0.9556">
+        <Unicode>Ecos de Sociedad</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="87,1203 1197,1203 1197,1416 87,1416" />
+      <TextEquiv conf="0.9983">
+        <Unicode>Las hermanas Nida y Dely Villongco, de la alta sociedad de Manila, han llegado a Manila después de un largo viaje por el extranjero, habiendo residido por bastante tiempo en América.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="87,1413 1209,1413 1209,1574 87,1574" />
+      <TextEquiv conf="0.9986">
+        <Unicode>Dely llegó a Manila hace poco, en compañía de su madre, la distinguida viuda del difunto médico y propietario, Dr. Teófilo Villongco.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="1274,1203 2374,1203 2374,1466 1274,1466" />
+      <TextEquiv conf="0.9989">
+        <Unicode>La otra hermana, Nida llegó con varios meses de anterioridad después de haberse graduado de bachiller en artes en el colegio de Mary Knoil, de Ravenhill, Baltimore, donde se especializó después en literatura inglesa y en música.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="1274,1462 2374,1462 2374,1571 1274,1571" />
+      <TextEquiv conf="0.9667">
+        <Unicode>Las fotografías que publicamos son del X'OR STUDIO" (Malayan Colleges Building, Dasmariñas).</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r8" custom="readingOrder {index:8;} structure {type:Picture;}">
+      <Coords points="141,1620 1132,1620 1132,3159 141,3159" />
+    </ImageRegion>
+    <TextRegion id="r9" type="caption" custom="readingOrder {index:9;} structure {type:Caption;}">
+      <Coords points="275,3176 820,3176 820,3236 275,3236" />
+      <TextEquiv conf="0.9558">
+        <Unicode>Srta. DELY VILLONGCO</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r10" custom="readingOrder {index:10;} structure {type:Picture;}">
+      <Coords points="1484,1620 2166,1620 2166,3159 1484,3159" />
+    </ImageRegion>
+    <TextRegion id="r11" type="caption" custom="readingOrder {index:11;} structure {type:Caption;}">
+      <Coords points="1561,3176 2099,3176 2099,3233 1561,3233" />
+      <TextEquiv conf="0.9752">
+        <Unicode>Srta. NIDA VILLONGCO</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

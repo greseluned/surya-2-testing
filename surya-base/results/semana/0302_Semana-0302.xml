@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:58:30</Created>
+    <LastChange>2026-11-18T10:58:30</LastChange>
+  </Metadata>
+  <Page imageFilename="0302_Semana-0302.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="87,277 421,277 421,333 87,333" />
+      <TextEquiv conf="0.9445">
+        <Unicode>' SEMANA — 38</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="2007,252 2364,252 2364,309 2007,309" />
+      <TextEquiv conf="0.9827">
+        <Unicode>6 de Enero, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="684,424 1831,424 1831,568 684,568" />
+      <TextEquiv conf="0.9613">
+        <Unicode>“AÑORANZA”</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="107,722 1212,722 1212,1287 107,1287" />
+      <TextEquiv conf="0.9819">
+        <Unicode>Por haber sido testigo presencial de esto hecho que hubiera podido hacer al caso a Madama de Stael, a Ventura de la Vega o a Tassara como argumento para uno de sus románticos escritos y que, aparte de que te hará cosquillas en el ánima, moverá a ver por vista de ojos la grandeza y excelcitud de nuestra semi-fenecida lengta romance, cúmpleme poner en memoria y puntual relación el caso, dándote seguro, lector, que mi intento y pretensión estará cifrado en presentar.o en estilo casto, limpio y liso para que te sea grato, no buscando otra gala para ataviarlo sino ia sencillez que es anexa al suceso de que se trata y que acunteció como ahora diré.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="206,1280 1207,1280 1207,1336 206,1336" />
+      <TextEquiv conf="0.9836">
+        <Unicode>Vaya, pues, por delante sin más otro preámbulo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="102,1329 1209,1329 1209,1634 102,1634" />
+      <TextEquiv conf="0.9913">
+        <Unicode>Un amigo mío, residente en ésta, casado y sin hijos, tiene desde hace unos cuantos meses un perrito tan sumamente cariñoso, juguetón e inteligence, que creo no andaría muy desencaminado al dejar asentado como cosa schre la que no se puede tener la menor duda, de que lo quiere como hubiera podido hace lo al hijo que Naturaleza le ha negado hasta el presente.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="102,1627 1207,1627 1207,2233 102,2233" />
+      <TextEquiv conf="0.9837">
+        <Unicode>En efecto; Terry: que por tal atienide este zalámero "amigo del hombre" auñque para mí tengo que no pertenece a otra más raza que a la canina, es a saber; que no es ni más ni menos que lo que se dice un "canis vulgaris", desvélase en cumplir a lás mil maravulas, su encomienda de servir de diversión y ser dulzura que endulce con sus contínuas monerías el vacio del tal matrimonio, mas, como suele ocurrir con la mayoría de los perros, Terry da preeminencias y ventajas a su amo, pues a fe que es locura lo que siene, el animalito cada vez que aquél vuelve a casa, dando muestras de su contenido con saitos prodigiosos a su alrededor, haciéndole, en fin, todo género de carantoñas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="102,2230 1204,2230 1204,2742 102,2742" />
+      <TextEquiv conf="0.9939">
+        <Unicode>Por ser así, que son muchas las personas amantes de los mamíferos domésticos y puesto caso que cada una cree ver en el suyo un cúmu.o tal de gracias y lindezas que no lo trocaría por los tesoros del mundo, no será difícil llevar al ánimo del que leyere las cualidades que mi amigc cree ver en su Terry y cómo éste hace figura, correspondencia y consonancia al cariño de su amo. Por consiguiente, rehuyo pasar adelante y levantar hasta el mismísimo cielo tales pormenores, con la mira puesta en no hacer áspero y fragoso el camino de esta lecura al referir señas por menudo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="107,2742 1204,2742 1204,2920 107,2920" />
+      <TextEquiv conf="0.9992">
+        <Unicode>Pues bien; poco há, con ocasión de celebrarse las fiestas en un pueblecito cercano, de donde es oriundo el matrimonio de que tratamos, fuí invitado por ellos a pasar en él un par de días.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="102,2913 1204,2913 1204,3222 102,3222" />
+      <TextEquiv conf="0.9952">
+        <Unicode>Lógicamente se ocupó los pensamientos en un principio en buscar los medios de llevar al perrito, mas, dificultades de transporte, aglomeración de feriantes en los trenes y otras causas, de las que excusado sería dar cuenta muy por entero, echaron luego por tierra el prístino intento, resolviéndose al fin y a la postre, aunque no sin harto sentimiento de mi amigo, en dejar</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="1289,708 2386,708 2386,806 1289,806" />
+      <TextEquiv conf="0.9828">
+        <Unicode>a Terry en casa, bien provisto no embargante de agua, comida y lecho cómodo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="1289,796 2401,796 2401,1280 1289,1280" />
+      <TextEquiv conf="0.9944">
+        <Unicode>Ocioso sería ocupar la lengua en poner en memoria que tanto en el viaje de ida como en el transcurso de los dos días que en el pueblo permanecimos, no se nos apartó un instante del pensamiento el recuerdo del cariñoso faldero al echar menos su presencia; que a mis amigos todo se les fué en suspirar por él, no viendo la hora de tenerlo consigo, atormentándoles de contínuo lo que hubiera pódido pasarle, y que al paso y medida que nos acercábamos de nuevo a la capital, a ese mismo les apretaba el ansia, picándoles tábanos por verlo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="1289,1273 2386,1273 2386,1374 1289,1374" />
+      <TextEquiv conf="0.9947">
+        <Unicode>No pudé alejar de mí la curiosidad y quise al regreso ver en qué paraba todo aquello.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="1289,1371 2386,1371 2386,1634 1289,1634" />
+      <TextEquiv conf="0.9924">
+        <Unicode>Faltaría a la verdad si no diera por constante el hecho de que vivísima conmoción afectuosa me acuciaba en el momento de abrirse la puerta, pues, aunque no tan apasicnadamente como mis amigos, llegué a tomarle cariño a aquel perrito que siempre me prodigó sus caricias.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="1289,1630 2386,1630 2386,1942 1289,1942" />
+      <TextEquiv conf="0.9908">
+        <Unicode>Estando hecho-a verle deshacerse en zalemas cuando en otras ocasiones había acompañado a mi amigo a su domicilio, tenía por bien seguro, y no era para menos, que el alborozo de Terry liegaría al paroxismo, mas, ¿cuál no sería nuestra sorpresa al echar de ver que, con todo y llamarlo repetidamente, no daba señales de vida?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="1373,1946 1982,1946 1982,1998 1373,1998" />
+      <TextEquiv conf="0.9850">
+        <Unicode>Por fin; dimos al poco con él.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="1289,1991 2386,1991 2386,2300 1289,2300" />
+      <TextEquiv conf="0.9835">
+        <Unicode>Echado en el más apartado rincón de la casa, sin haber probado nada de cuanto le dejaron, ni bebido una sed de agua; f.aco, con grandes surcos bajo los ojos, tan desconocido que parecía otro y sin prestar atención a las voces con que le llamaban, yacía el noble animalito, al parecer insensible, transfigurado de todo en todo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="1289,2300 2386,2300 2386,2696 1289,2696" />
+      <TextEquiv conf="0.9980">
+        <Unicode>Mudo de sorpresa, no supe quitar los ojos y la atención a cómo mi amigo ponía todo su estuerzo y diligencia para hacerle volver en sí, logrando por último llevar a buen puerto su ambiciosa pretensión, pues, rehecho un tanto el perrito, al venir en conocimiento de que era su amo el que le acariciaba, puso su intento en volver a sus cabriolas y alharacas aunque no pudo pasar del intento, siendo así que las patas ie fallaron y dió ccn su cuerpo en el suelo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="1289,2693 2386,2693 2386,3005 1289,3005" />
+      <TextEquiv conf="0.9963">
+        <Unicode>Entre gruñidos que más aire tenían de lamentos humanos que no proferidos por un can, consiguió al fin mi amigo que probase el agua y más tarde algunos bocados, pero cada vez que se apartaba de Terry, dejaba éste de comer, estimando en más, con todo y el hambre que debía de sentir, en no ser expelido de la presencia de su amo por miedo a perderlo de nuevo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="1289,2998 2386,2998 2386,3180 1289,3180" />
+      <TextEquiv conf="0.9852">
+        <Unicode>Quien' dijo que los perros tienen la simpatía en el rabo, estuvo,sin duda alguna en lo cierto, pues desechada y olvidada la melancolía, expresó con él su alegrón.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="paragraph" custom="readingOrder {index:20;} structure {type:Text;}">
+      <Coords points="1373,3173 2386,3173 2386,3229 1373,3229" />
+      <TextEquiv conf="0.9547">
+        <Unicode>No cabiendo de contenido en su pellejo, dando sal-</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

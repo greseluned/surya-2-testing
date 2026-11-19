@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:56:01</Created>
+    <LastChange>2026-11-18T10:56:01</LastChange>
+  </Metadata>
+  <Page imageFilename="Fémina_15-12-1923_P04.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="307,119 560,119 560,179 307,179" />
+      <TextEquiv conf="0.9259">
+        <Unicode>Fémina</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="2087,130 2288,130 2288,186 2087,186" />
+      <TextEquiv conf="0.9865">
+        <Unicode>Página 4</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="439,217 2159,217 2159,330 439,330" />
+      <TextEquiv conf="0.9693">
+        <Unicode>EN LA CALLE DE LA AMARGURA Y DE LA GLORIA....</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="962,431 1639,431 1639,481 962,481" />
+      <TextEquiv conf="0.9747">
+        <Unicode>A EMILIANO TEJERA.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="315,575 637,575 637,635 315,635" />
+      <TextEquiv conf="0.9096">
+        <Unicode>Eran las seis.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="258,645 1277,645 1277,1491 258,1491" />
+      <TextEquiv conf="0.9929">
+        <Unicode>Acababa yo de leer, en úna hoja periódica, dos pensamientos que me eran muy conocidos: el uno, efusivo, del alma prócera de Fco. Gregorio Billini; el otro, reflexivo, del alma apostólica de Eugenio María de Hostos. Este apóstrofe luminoso del soñador estadista: “27 de Febrero de 1844! si yo fuera el patriotismo nacional, guardaría tus fiestas para los dias en que brillara la virtud!» Este voto de austera moral y de civismo del moralista y maestro.—«Que no se exhumen ni del suelo del cadalso ni del suelo del destierro los restos de los que, en servicio de la patria, fueron grandes en el pensamiento y en la acción!”</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="258,1487 1272,1487 1272,1656 258,1656" />
+      <TextEquiv conf="0.9950">
+        <Unicode>Y, a solas conmigo mismo, quedéme como inmergido en un piélago de rememoraciones, añoranzas y nostalgias.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="709,1677 791,1677 791,1743 709,1743" />
+      <TextEquiv conf="0.7601">
+        <Unicode>A triangular arrangement of three identical dark cross-like or floral symbols on a light background.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="258,1754 1272,1754 1272,2385 258,2385" />
+      <TextEquiv conf="0.9932">
+        <Unicode>El estampido del cañón vino entonces a sacarme de aquel momento de sombras. Era la primera salva, la de la víspera, anunciadora del próximo dia aniversario de la Independencia. Simultáneamente sonó el clarín de la Guardia Republicana, con el toque de saludo a la bandera, y me puse de pie y de cara al sur, para ver como descendía del asta erecta, flameando al beso de la brisa del cercano mar cantor, la gloriosa enseña de los Trinitarios y los Febreristas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="709,2417 791,2417 791,2484 709,2484" />
+      <TextEquiv conf="0.7458">
+        <Unicode>Three identical cross-shaped symbols, each containing a small black dot at the center, are arranged in a triangular formation on a gray background.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="258,2491 1272,2491 1272,2915 258,2915" />
+      <TextEquiv conf="0.9989">
+        <Unicode>El sol, ya casi oculto entre los cendales del crepúsculo vespertino, había estallado en un incendio de oro y púrpura. Parecía un inmenso oriflama, evanescente, y a poco iba borrándose en el seno de las sombras. Era la hora en que la tarde se pone sus velos de viuda de sol: sus velos de profunda melancolía.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="258,2919 1272,2919 1272,3140 258,3140" />
+      <TextEquiv conf="0.9969">
+        <Unicode>“Asómese—dijo una voz cariñosa—ya salen de Regina.” Acerquéme al balcón inmediato. Del vecino templo venía un grupo con los restos del prócer Pedro Ale—</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="1304,582 2328,582 2328,1333 1304,1333" />
+      <TextEquiv conf="0.9963">
+        <Unicode>jandrino Pina. Cuatro niñas, delante, conducían la urna cineraria bajo los pliegues de la bandera nacional; cinco jóvenes, detrás, servíanle de escolta cívica. Eran nueve los del piadoso grupo. Diríase un símbolo o un delicado homenaje Al pasar por frente al balcón, en donde yo estaba de pié, descubierto, con las manos en cruz sobre el pecho, como movidos por un mismo resorte—acaso el corazón sin mancilla—los cinco jóvenes de la escolta de honor se descubrieron, mientras yo me inclinaba conmovido. Fueron o son discípulos míos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="1304,1330 2328,1330 2328,1915 1304,1915" />
+      <TextEquiv conf="0.9955">
+        <Unicode>El grupo se alejaba, a lo largo de la calle José Reyes, y tuve por un instante la ilusión de que las marciales notas de su himno—del himno nacional dominicano—se oían, apagadas, cual si viniesen de muy lejos; pero sus estrofas, ahora sin sonido, vibraban en lo íntimo de mi emoción patriótica, a modo de cordial ofrenda al vehemente tribuno e insigne prócer de la Independencia y de la Restauración de la República.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="1755,1940 1842,1940 1842,2003 1755,2003" />
+      <TextEquiv conf="0.7699">
+        <Unicode>Three identical black cross-shaped symbols are arranged in a triangular formation on a light gray background.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="1304,2014 2328,2014 2328,2392 1304,2392" />
+      <TextEquiv conf="0.9988">
+        <Unicode>El grupo seguía alejándose, calle arriba, y, al llegar al cruce de ésta con la histórica de la Separación, llegaba allí también el séquito que, desde la ría del Ozama, acompañaba la urna portadora de los restos del bizarro periodista que fué el prócer trinitario José M. Serra.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="1356,2392 1963,2392 1963,2445 1356,2445" />
+      <TextEquiv conf="0.9572">
+        <Unicode>¿Acuerdo o coincidencia?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="1304,2449 2328,2449 2328,2880 1304,2880" />
+      <TextEquiv conf="0.9914">
+        <Unicode>Engaz alborozo y honda tristeza, a la par. sacudieron de raíz todo mi ser, al notar el para mí inesperado encentro de las dos urnas cinerarias en esa principal arteria de la ciudad antigua, en la misma calle donde se alza el baluarte épico, tantas veces, joh·dolor! convertida en calle de la amargura para «los tristes destinos».</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="1304,2880 2328,2880 2328,3154 1304,3154" />
+      <TextEquiv conf="0.9877">
+        <Unicode>Pina y Serra, los trinitarios evangelistas del venerable Maestro de nacionalidad y de patria, de Duarte el Fundador, después de las proscripciones, del exilio, de la dispersión, de toda suerte de inju-</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

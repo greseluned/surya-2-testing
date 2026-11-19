@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:55:35</Created>
+    <LastChange>2026-11-18T10:55:35</LastChange>
+  </Metadata>
+  <Page imageFilename="Excelsior-10-09-1932_p065.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <ImageRegion id="r0" custom="readingOrder {index:0;} structure {type:Picture;}">
+      <Coords points="196,259 2280,259 2280,803 196,803" />
+    </ImageRegion>
+    <TextRegion id="r1" type="heading" custom="readingOrder {index:1;} structure {type:SectionHeader;}">
+      <Coords points="870,470 1549,470 1549,586 870,586" />
+      <TextEquiv conf="0.9594">
+        <Unicode>Confesión</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="1175,617 1251,617 1251,663 1175,663" />
+      <TextEquiv conf="0.9848">
+        <Unicode>por</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="976,691 1455,691 1455,743 976,743" />
+      <TextEquiv conf="0.9592">
+        <Unicode>VICTOR DE TAGLE</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="203,880 1222,880 1222,1322 203,1322" />
+      <TextEquiv conf="0.9945">
+        <Unicode>En el momento de mi nacimiento, vió la luz un sentimental, uno de esos seres que todo lo sienten y todo lo ven, un ser romántico o desgraciado como lo llaman los "otros", los que atados a la prosaica, sórdida tarea de ganarse el pan, se olvidan de ver y sentir. Pues para mi, solo se vive cuando se siente y no concibo la vida si ésta no la fecunda el sentimiento.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="208,1332 1224,1332 1224,1893 208,1893" />
+      <TextEquiv conf="0.9944">
+        <Unicode>, El sentimentalismo preséntase en diversas formas y matices y uno de los más elevados a mi modo de ver, es el sentimiento de bondad que despierta en el corazón del hombre el amor casto y generoso de la mujer con quien se sueña. Es por esa disposición del alma—inexplicable e inexplicada—por la que, mediante graduaciones sucesivas, el hombre saborea los pocos, acaso los únicos placeres inefables que le es dado gozar en la tierra.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="213,1900 1227,1900 1227,2177 213,2177" />
+      <TextEquiv conf="0.9928">
+        <Unicode>¡Los misterios del amor!.... ¡Dichosos aquellos que, dominados por este sentimiento, tal vez la ilusión más alta de cuantas del cielo emanan, gus'en rendidos del sublime misterio que es el amor!...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="213,2188 1229,2188 1229,2538 213,2538" />
+      <TextEquiv conf="0.9972">
+        <Unicode>Por las circunstancias, mi vida se desgrana en el silencio áspero del convencionalismo mundano, sin el cariño de una mujer, sin alguien que me prodigue todo su amor, exquisito aroma embriagador que se esfuma en hermosos sueños.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="218,2549 1229,2549 1229,2836 218,2836" />
+      <TextEquiv conf="0.9940">
+        <Unicode>El hombre, aun aquel a quien más domine la fantasía, ve deshojarse sus ilusiones a medida que los años pasan ya que las amarguras del mundo se recrudecen al peso de la experiencia.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="221,2843 1234,2843 1234,3201 221,3201" />
+      <TextEquiv conf="0.9934">
+        <Unicode>Y si el tedio no me consume, es porque una mujer generosísima, ennoblece tristezas y alumbra doradas esperanzas. Ella que es templo de emociones dulcísimas, disipa con sus hechizos la niegrura de mi pena y hace florecer mi espíritu a la vida del ideal; vida hermosá como el albor</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="1264,880 2285,880 2285,982 1264,982" />
+      <TextEquiv conf="0.9919">
+        <Unicode>diáfano de una mañana acariciada por los primeros resplandores de la aurora.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="1264,989 2285,989 2285,1262 1264,1262" />
+      <TextEquiv conf="0.9676">
+        <Unicode>¡Cruel destino el de los series que no amin!
+¡Envidiable el de dos corazones que palpitan al
+unisono! El hombre que no ha bebido las míeles de una mujer enamorada, es un hombre que no ha vivido.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="1264,1273 2285,1273 2285,1998 1264,1998" />
+      <TextEquiv conf="0.9923">
+        <Unicode>Puede haber gustado las zalamerias mal sentidas de tal o cual lúbrica mujer; pero ;existe algo comparable al encanto de un idilio? Ni la ciencia, tan extensa, ni el arte, tan bello, sugestionan a un hombre en la medida que lo hace la mujer que se incendia con el fuego del amor... La mujer, que es arrullo, engrandece el hogar; la mujer, que es poesía, santifica la vida... La mujer, pasión febril deificada, es la suma de todas las bellezas, la esencia de todos los perfumes... Es la mujer el beso de la gloria, el luminar inextinguible del cielo de los altos ideales.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="1266,2009 2285,2009 2285,3019 1266,3019" />
+      <TextEquiv conf="0.9954">
+        <Unicode>Dechado de sentimientos generosos, arquetipo de divina hermosura, santa, porque es madre. Así vemos que el artista que sueña, y el pobre que anhela, y el sabio que descubre, y el poeta que gime, todos los que en el mundo ven o sienten, encuentran cumplida satisfacción a sus ansias en el corazón de la mujer, porque ella que es pajaro y flor canta como el ruiseñor en la enramada el alba evangélica del amor, perfuma con ambrosía de los dioses todos los horizontes de la vida. Cuando la mujer se duerme, cesan las divinas músicas del alma; cuando se despierta, brillan los soles de la dicha; cuando llora es estremece la naturaleza; cuando pasa, florecen los vergeles y la creación se rinde a su andar de soberana de la bondad, de la verdad y de la belleza.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="1274,3029 2285,3029 2285,3204 1274,3204" />
+      <TextEquiv conf="0.9960">
+        <Unicode>¡Todo mi amor, mi ser, para la divina mujer que me apasiona, que me arrulla, que me purifica y que me inspira!...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

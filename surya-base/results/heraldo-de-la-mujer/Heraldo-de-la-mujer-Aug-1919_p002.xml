@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:56:22</Created>
+    <LastChange>2026-11-18T10:56:22</LastChange>
+  </Metadata>
+  <Page imageFilename="Heraldo-de-la-mujer-Aug-1919_p002.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="heading" custom="readingOrder {index:0;} structure {type:SectionHeader;}">
+      <Coords points="640,638 1998,638 1998,947 640,947" />
+      <TextEquiv conf="0.9623">
+        <Unicode>PARIS BAZAR
+P. GIUSTI &amp; CO.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r1" custom="readingOrder {index:1;} structure {type:Picture;}">
+      <Coords points="786,972 1849,972 1849,1494 786,1494" />
+    </ImageRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="466,1498 2177,1498 2177,1600 466,1600" />
+      <TextEquiv conf="0.9708">
+        <Unicode>ARTICULOS QUE SE RECOMIENDAN POR SI SOLOS</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="466,1631 2177,1631 2177,1979 466,1979" />
+      <TextEquiv conf="0.9981">
+        <Unicode>Trajes, Faldas, Kimonas, Blusas, Batas, Abanicos,
+Sombrillas, Sombreros elegantísimos, Velos
+para la cara, Guantes, Cintas, Encajes, Bordados,
+Adornos de todas clases, Camisas de hilo
+españolas, Corsets, Pañuelos,</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="heading" custom="readingOrder {index:4;} structure {type:SectionHeader;}">
+      <Coords points="627,2007 2028,2007 2028,2189 627,2189" />
+      <TextEquiv conf="0.9801">
+        <Unicode>TELAS FINAS DE SEDA Y ALGODON,
+OBJETOS PARA REGALO</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="972,2189 1711,2189 1711,2375 972,2375" />
+      <TextEquiv conf="0.9953">
+        <Unicode>TODO NUEVO, PRIMOROSO,
+TODO CHIC, TODO PRECIOSO,
+VENGA USTED Y LO VERÁ</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="379,2554 2266,2554 2266,2827 379,2827" />
+      <TextEquiv conf="0.9957">
+        <Unicode>“HERALDO DE LA MUJER”, es el periódico femenino por excelencia. El visita los hogares de las mujeres más cultas, y de los hombres más ilustrados. Toda puertorriqueña debe ser suscriptora del periódico que coadyuva a la cultura de la mujer y defiende sus derechos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="379,2831 2266,2831 2266,2968 379,2968" />
+      <TextEquiv conf="0.9993">
+        <Unicode>Es deber de la mujer moderna ilustrarse y vivir con su época y con su siglo. Y es deber del hombre ayudarla en tan nobles empeños.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="footer" custom="readingOrder {index:8;} structure {type:PageFooter;}">
+      <Coords points="1029,3115 1450,3115 1450,3168 1029,3168" />
+      <TextEquiv conf="0.9867">
+        <Unicode>Ayuntamiento de Madrid</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

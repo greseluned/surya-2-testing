@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:58:01</Created>
+    <LastChange>2026-11-18T10:58:01</LastChange>
+  </Metadata>
+  <Page imageFilename="0155_Semana-0155.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <ImageRegion id="r0" custom="readingOrder {index:0;} structure {type:Picture;}">
+      <Coords points="483,747 1968,747 1968,1234 483,1234" />
+    </ImageRegion>
+    <TextRegion id="r1" type="heading" custom="readingOrder {index:1;} structure {type:SectionHeader;}">
+      <Coords points="1031,1848 1467,1848 1467,1904 1031,1904" />
+      <TextEquiv conf="0.9734">
+        <Unicode>CAPÍTULO XV</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="530,1932 1945,1932 1945,2023 530,2023" />
+      <TextEquiv conf="0.9936">
+        <Unicode>EN EL QUE EL MAGO HYDORARGYROS DECLARA ESPECIFICAMENTE SU CIENCIA.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="491,2069 1982,2069 1982,2328 491,2328" />
+      <TextEquiv conf="0.9963">
+        <Unicode>—Si ahora no caben estos, al parecer, misterios en vuestro entendimiento, estadme atentos y entraréis a ver el secreto que se esconde debajo de este nudo, penetrando al punto la alteza de la verdad de que no hay nada de misterioso en todo aquello a que vuestros ojos dieron alcance, pues todo cuanto aquí veis lo he hecho por mis pulgares, por mi mano y sin ayuda de otro alguno.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="491,2317 1982,2317 1982,2542 491,2542" />
+      <TextEquiv conf="0.9886">
+        <Unicode>"Tomando como por base el que cada día es una parte más. en el adelantamiento hacia lo desconocido, ¿qué mucho será el que en un núcleo de personas privilegiadas por su inteligencia haya quien se afane por hallar nuevos conceptos y conocimientos nuevos para ampliar esta rama del saber y las posibilidades del linaje humano?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="491,2535 1982,2535 1982,2745 491,2745" />
+      <TextEquiv conf="0.9887">
+        <Unicode>"Solamente en la gama de los conocimientos físicos de la Naturaleza y en su desenvolvimiento, estas postreras décadas trajeron una renovación tan revolucionaria, que precisaríase que la vida de los hombres se dilatase indefinidamente a lo largo de años y años para seguir sus huélligas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:57:49</Created>
+    <LastChange>2026-11-18T10:57:49</LastChange>
+  </Metadata>
+  <Page imageFilename="0056_Semana-0056.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="62,259 377,259 377,316 62,316" />
+      <TextEquiv conf="0.9080">
+        <Unicode>SEMANA—12</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="1980,259 2376,259 2376,316 1980,316" />
+      <TextEquiv conf="0.9602">
+        <Unicode>10 de Marzo, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="67,358 7813,358 7813,466 67,466" />
+      <TextEquiv conf="0.9730">
+        <Unicode>ahora por primera vez en la Histo- En la especialidad de electrici- una ventanilla circular, y en las de ria de España. dad, un cuadro de distribución tallado de madera y moldeado de</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="349,466 515,466 515,501 349,501" />
+      <TextEquiv conf="0.9552">
+        <Unicode>* * *</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="67,512 788,512 788,1090 67,1090" />
+      <TextEquiv conf="0.9958">
+        <Unicode>Las ventajas de este concurso de Formación Profesional son múltiples. Se fomenta, por un lado, una mayor capacitación en los operarios, con el consiguiente reflejo en el volumen y perfeccionamiento de la producción, y de otre, se recompensa con trofeos y premios a los mejores, participantes, a manera de estímulo para su perfeccionamiento profesional.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="67,1087 786,1087 786,1399 67,1399" />
+      <TextEquiv conf="0.9843">
+        <Unicode>La fase final del Concurso tuvo lugar en Madrid. En la Institución Sindical "Virgen de la Paloma", tuyos talleres fueron cedidos con este objeto a la Organización juvenil.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="67,1399 790,1399 790,2279 67,2279" />
+      <TextEquiv conf="0.9912">
+        <Unicode>El culto y experto ingeniero director de dicha Institución madrilena, avezado en estas tareas docentes, ha sido el primer sorprendido por el alto nivél profesional alcanzado. Téngase en cuenta que estos muchachos concursantes están comprendidos entre los catorce y los veinte años de edad. Y los que han presenciado sus prácticas eliminatorias, —entre ellos los corresponsales extranjeros— han podido comprobar que el trabajo que realizan no es precisamente el que corresponde a su categoría, sino a la de Oficiales, y de acreditada competencia.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="62,2275 776,2275 776,2384 62,2384" />
+      <TextEquiv conf="0.9423">
+        <Unicode>La labor que en esta fase hará desarrollado es la siguiente:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="860,358 1578,358 1578,982 860,982" />
+      <TextEquiv conf="0.9949">
+        <Unicode>En la especialidad de electricidad, un cuadro de distribución para taller de baños galvánicos y un transformador de radio; en la de fresa, el acoplamiento de un embrague; en la de torno, una válvula impulsora y un eje de cigüeñal; en la de ajuste, una escuadra y un pentágono; en la de cerrajería, un farol con soporte y una lámpara de seis luces; en la de carpintería, una cubrerradiadores y</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r9" custom="readingOrder {index:9;} structure {type:Picture;}">
+      <Coords points="885,1143 1556,1143 1556,2251 885,2251" />
+    </ImageRegion>
+    <TextRegion id="r10" type="caption" custom="readingOrder {index:10;} structure {type:Caption;}">
+      <Coords points="855,2282 1569,2282 1569,2405 855,2405" />
+      <TextEquiv conf="0.9751">
+        <Unicode>Uno de los aprendices premiados trabajando en la obra que le ha valido el título de “El mejor Aprendiz de España”.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="1653,358 2384,358 2384,561 1653,561" />
+      <TextEquiv conf="0.9902">
+        <Unicode>una ventanilla circular, y en las de tallado de madera y moldeado de escayola, sendos artísticos relieves ornamentales.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="1938,617 2101,617 2101,652 1938,652" />
+      <TextEquiv conf="0.9465">
+        <Unicode>* * *</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="1653,708 2384,708 2384,964 1653,964" />
+      <TextEquiv conf="0.9790">
+        <Unicode>El Generalismo Franco, en su residencia de El Pardo, entregó personalmente los trofeos a estos mejores catorce aprendices de España.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="1653,964 2384,964 2384,1227 1653,1227" />
+      <TextEquiv conf="0.9898">
+        <Unicode>Con un grupo de muchachos campesinos llegaron hasta allí, hasta el despacho del Jefe del Estado, los mejores entre los mejores de esta juventud laboriosa.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="1653,1227 2384,1227 2384,1795 1653,1795" />
+      <TextEquiv conf="0.9873">
+        <Unicode>Tres cosas recogía cada muchacho de manos de Franco: un título que lo proclamaba, ante la faz de España, como el mejor aprendiz; un premio en dinero, de dos mil pesetas, y un trofeo, en mármol y bronce, original del artista Fernando Chausa, y que representa una rueda dentada, símbolo del trabajo, llevada por las alas de la victoria.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="1653,1795 2384,1795 2384,2388 1653,2388" />
+      <TextEquiv conf="0.9978">
+        <Unicode>Cada uno de ellos recibía el premio y un cálido apreton de manos. Uno a uno. Franco observó el trabajo que sirvió a cada muchacho para obtener su título. Y la pregunta estaba siempre a flor de labios para conocer el número de horas invertidas, los años de aprendizaje, la edad, la empresa o la escuela donde aprendieron y trabajaron.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="heading" custom="readingOrder {index:17;} structure {type:SectionHeader;}">
+      <Coords points="664,2510 1767,2510 1767,2566 664,2566" />
+      <TextEquiv conf="0.9547">
+        <Unicode>A TODOS LOS ESPAÑOLES EN FILIPINÁS</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="141,2580 2309,2580 2309,2871 141,2871" />
+      <TextEquiv conf="0.9941">
+        <Unicode>Se les participa que, nombrados que hemos sido por su Excelencia el ministro de España en Filipinas, comité para recaudar fondos de la colonia española en este país para la CRUZ ROJA NACIONAL FILIPINA, rogamos a todos los españoles envíen sus óbolos, grandes o pequeños, a cualquiera de los miembros del comité, abajo nombrados. Habiéndose asignado a la colonia española, suma bastante elevada, rogamos a nuestros compatriotas, la mayor generosidad posibile, al obieto de alcanzar la cifra señalada a los españoles, Nuestra recaudación se cerrará el 12 de Marzo actual. IGNACIO PLANAS (Compañía Tabacalera): JOSÉ M. MALDONADO, (Lizárraga Hermanos); ANTONIO CAMPOS RUEDA (425-427 Juan Luna); Rev. Padre EMETERIO IZQUIERDO O. P. (Universidad de Santo Tomás); FRANCISCO MARTI (101 Chaco Bldg.)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="141,2899 1222,2899 1222,2952 141,2952" />
+      <TextEquiv conf="0.9388">
+        <Unicode>Sr. Dn. .....</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="paragraph" custom="readingOrder {index:20;} structure {type:Text;}">
+      <Coords points="141,2977 2302,2977 2302,3180 141,3180" />
+      <TextEquiv conf="0.9917">
+        <Unicode>Con la presente le remito cheque..... billetes..... por P..... cantidad con que contribuyo a la cuota señalada por la Cruz Roja Nacional Filipina a la colonia española en este país para levantar fondos en esta campaña de 1949 para dicha institución. Sírvase enviarme el correspondiente recibo oficial de su tesorero. Suyo atto. S. S. .....</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

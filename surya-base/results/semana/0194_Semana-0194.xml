@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:58:01</Created>
+    <LastChange>2026-11-18T10:58:01</LastChange>
+  </Metadata>
+  <Page imageFilename="0194_Semana-0194.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+        <RegionRefIndexed index="21" regionRef="r21" />
+        <RegionRefIndexed index="22" regionRef="r22" />
+        <RegionRefIndexed index="23" regionRef="r23" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="102,273 409,273 409,326 102,326" />
+      <TextEquiv conf="0.9098">
+        <Unicode>SEMANA—18</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="2005,273 2364,273 2364,330 2005,330" />
+      <TextEquiv conf="0.9884">
+        <Unicode>12 de Mayo, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="203,501 1403,501 1403,859 203,859" />
+      <TextEquiv conf="0.9955">
+        <Unicode>Las mil mejores poesías
+de la lengua española</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="1633,522 2213,522 2213,635 1633,635" />
+      <TextEquiv conf="0.9857">
+        <Unicode>BALTASAR DE ALCÁZAR
+(1530-1606)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="1683,719 2163,719 2163,827 1683,827" />
+      <TextEquiv conf="0.9563">
+        <Unicode>SU MODO DE VIVIR
+EN LA VEJEZ</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="102,1094 676,1094 676,1325 102,1325" />
+      <TextEquiv conf="0.9890">
+        <Unicode>Deseáis, señor Sarmiento,
+saber en estos mis años,
+sujetos a tantos daños,
+cómo me porto y sustento.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="102,1371 748,1371 748,1599 102,1599" />
+      <TextEquiv conf="0.9969">
+        <Unicode>Yo os lo diré en brevedad,
+porque la historia es bien breve
+y el daros gusto se os debe
+con toda puntualidad.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="102,1637 674,1637 674,1876 102,1876" />
+      <TextEquiv conf="0.9922">
+        <Unicode>Salido el sol por Oriente
+de rayos acompañado,
+me dan un huevo pasado
+por agua, blando y caliente.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="102,1914 743,1914 743,2149 102,2149" />
+      <TextEquiv conf="0.9934">
+        <Unicode>Con dos tragos del que suelo llamar yo néctar divino, y a quien otros llaman vino porque nos vino del cielo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="102,2188 657,2188 657,2423 102,2423" />
+      <TextEquiv conf="0.9867">
+        <Unicode>Cuando el luminoso vaso toca en la meridional, distando por un igual del Oriente y del ocaso,</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="102,2465 629,2465 629,2689 102,2689" />
+      <TextEquiv conf="0.9933">
+        <Unicode>me dan asada y cocida
+de una gruesa gentil ave,
+con tres veces del suave.
+licor que alegra la vida.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="102,2728 681,2728 681,3197 102,3197" />
+      <TextEquiv conf="0.9938">
+        <Unicode>Después en cayendo viene a dar en el mar Hesperio, desamparando el imperio que en este horizonte tiene; me suelen dar a comer tostadas en vino mulso, que el enflaquecido pulso restituyen a su ser.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="882,1094 1521,1094 1521,1322 882,1322" />
+      <TextEquiv conf="0.9940">
+        <Unicode>Luego me cierran la puerta,
+yo me entrego al dulce sueño,
+dormido soy de otro dueño;
+no sé de mí nueva cierta.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="882,1388 1526,1388 1526,1623 882,1623" />
+      <TextEquiv conf="0.9750">
+        <Unicode>Hasta que habiendo sol nuevo
+me cuentan cómo he dormido:
+y así de nuevo le pido,
+que me dan néctar y huevo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="882,1686 1514,1686 1514,1928 882,1928" />
+      <TextEquiv conf="0.9958">
+        <Unicode>Ser vieja la casa es esto:
+veo que se va cayendo,
+voile puntabes poniendo
+por que no caiga tam presto.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="882,1991 1499,1991 1499,2233 882,2233" />
+      <TextEquiv conf="0.9942">
+        <Unicode>Mas todo es vano artificio;
+presto me dicen mis males
+que han de faltar los puntales
+y allanarse el edificio.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="heading" custom="readingOrder {index:16;} structure {type:SectionHeader;}">
+      <Coords points="1802,1094 2238,1094 2238,1143 1802,1143" />
+      <TextEquiv conf="0.9290">
+        <Unicode>EL DOS DE MAYO</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="1663,1210 2369,1210 2369,1718 1663,1718" />
+      <TextEquiv conf="0.9951">
+        <Unicode>La famosa poesía de Bernardo López García, reproducida en nuestro número anterior, la copiamos de la obra del P. Vicente Agustí, "Florilegio de Autores Castellanos", pero luego hemos advertido que en dicha obra aparece omitida la segunda décima que es la que a continuación reproducimos. Dice así:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="1663,1739 2337,1739 2337,2251 1663,2251" />
+      <TextEquiv conf="0.9859">
+        <Unicode>Lloras porque te insultaron
+los que su amor te ofrecieron...
+; A tí, a quien siempre temieron
+porque tu gloria admiraron;
+a tí, por quien se inclinaron
+los mundos de zona a zona;
+a tí, soberbia matrona,
+que, libre de extraño yugo,
+no has tenido más verdugo
+que el peso de tu corona!...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="heading" custom="readingOrder {index:19;} structure {type:SectionHeader;}">
+      <Coords points="1217,2409 2057,2409 2057,2521 1217,2521" />
+      <TextEquiv conf="0.9541">
+        <Unicode>FOOT-BALL</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="paragraph" custom="readingOrder {index:20;} structure {type:Text;}">
+      <Coords points="1152,2559 2037,2559 2037,2721 1152,2721" />
+      <TextEquiv conf="0.9896">
+        <Unicode>Resultados De La Segunda Vuelta Del
+Campeonato Nacional De Copa.
+España.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r21" type="other" custom="readingOrder {index:21;} structure {type:Table;}">
+      <Coords points="1041,2745 2161,2745 2161,2959 1041,2959" />
+      <TextEquiv conf="0.9925">
+        <Unicode>Tarragona 2 A. Bilbao 0
+Madrid 5 Español 1
+R. Sociedad 1 Valencia 2
+Barcelona 6 Granada 2</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r22" type="paragraph" custom="readingOrder {index:22;} structure {type:Text;}">
+      <Coords points="1291,2973 1784,2973 1784,3033 1291,3033" />
+      <TextEquiv conf="0.9631">
+        <Unicode>Pasan a la Semifinal</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r23" type="other" custom="readingOrder {index:23;} structure {type:Table;}">
+      <Coords points="1088,3033 1982,3033 1982,3148 1088,3148" />
+      <TextEquiv conf="0.9347">
+        <Unicode>Valencia A. Bilbao
+Español Barcelona.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

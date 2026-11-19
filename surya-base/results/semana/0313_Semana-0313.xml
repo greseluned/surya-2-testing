@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:58:30</Created>
+    <LastChange>2026-11-18T10:58:30</LastChange>
+  </Metadata>
+  <Page imageFilename="0313_Semana-0313.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+        <RegionRefIndexed index="21" regionRef="r21" />
+        <RegionRefIndexed index="22" regionRef="r22" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="107,277 496,277 496,333 107,333" />
+      <TextEquiv conf="0.9609">
+        <Unicode>3 de Febrero, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="2091,277 2381,277 2381,330 2091,330" />
+      <TextEquiv conf="0.9119">
+        <Unicode>SEMANA—5</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="92,375 862,375 862,589 92,589" />
+      <TextEquiv conf="0.9968">
+        <Unicode>Pero antes, en las tierras de Visayas
+En vano pretendieron lo imposible,
+Dominar tus altivas atalayas,
+A Dagohoy, el héroe irreductible.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="92,635 952,635 952,848 92,848" />
+      <TextEquiv conf="0.9920">
+        <Unicode>El mundo, atónito, admiró tus lides,
+Tu gesto altivo cuando tú te enojas,
+Cómo te honraron bravos adalides
+En pos de Quezon y de Osmeña y Roxas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="92,898 937,898 937,1122 92,1122" />
+      <TextEquiv conf="0.9903">
+        <Unicode>Envuelto en llamas del rugiente infierno,
+Recordando la historia de Malasia,
+Por tu futuro bienestar eterno, ·
+A Dios pedía tu exclusión del Asia.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="92,1175 860,1175 860,1402 92,1402" />
+      <TextEquiv conf="0.9929">
+        <Unicode>Nó fué tu noble corazón exiguo
+Al afrontar el bárbaro interludio:
+Si fué gigante tu blasón antiguo,
+¡Lo fué también tu colosal postludio!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="92,1455 870,1455 870,1683 92,1683" />
+      <TextEquiv conf="0.9788">
+        <Unicode>En la dúplice guerra contra España Y América, tu sólido prestigio No se manchó con la inmoral hazaña Que fué la marca del tercer litigio.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="92,1753 820,1753 820,1963 92,1963" />
+      <TextEquiv conf="0.9970">
+        <Unicode>¡No eres asiática! Progenie ilustre
+Del malásico imperio Shri-Visaya,
+Es del Malayo tu nativo lustre
+Y tu gesta con sangre lo subraya.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="92,2033 979,2033 979,2254 92,2254" />
+      <TextEquiv conf="0.9937">
+        <Unicode>Ya no cabe en los folios de la historia
+La magnitud de tu gentil hazaña;
+Cada encuentro fué timbre de tu gloria,
+De América al Japón, después de España.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="92,2310 867,2310 867,2535 92,2535" />
+      <TextEquiv conf="0.9896">
+        <Unicode>Hoy dominas las cúspides serenas
+De tu nación sin restricción alguna;
+Así te concibieron sin cadenas,
+Rizal y Del Pilar, Jaena y Luna.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="92,2591 969,2591 969,2815 92,2815" />
+      <TextEquiv conf="0.9929">
+        <Unicode>Con la lira de Apóstol y Guerrero,
+¿Quién no te cantó, enseña bendecida?
+¿Quién, por vengarte, no empuñó el acero,
+Quién, por quererte, no te dá la vida?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="1291,375 2230,375 2230,578 1291,578" />
+      <TextEquiv conf="0.9968">
+        <Unicode>Rizal Mabini, Plaridel, Jaena,
+Magbanua, Bugallón, Hernández, Salas: —
+Ya con la pluma, ya de pie en la arena, . . .
+Jamás temieron las traidoras balas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="1291,635 2069,635 2069,845 1291,845" />
+      <TextEquiv conf="0.9908">
+        <Unicode>Yo mismo fuí soldado en la contienda
+Que conmovió el catorce a la Europa,
+Cuando entonces América a su tienda
+Incorporó la filipina tropa.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="1291,894 2139,894 2139,1104 1291,1104" />
+      <TextEquiv conf="0.9944">
+        <Unicode>Yo fuí teniente del audaz combate Democrático contra la autocracia, Cuando allá en Marne se probó el quilate Pobre de la germánica eficacia.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="1291,1153 2089,1153 2089,1364 1291,1364" />
+      <TextEquiv conf="0.9952">
+        <Unicode>En época ulterior rugió el Decálogo
+Con la potencia que el ciclón encierra;
+El mismo gesto y el valor análogo
+Al afrontar la japonesa guerra.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="1291,1416 2034,1416 2034,1620 1291,1620" />
+      <TextEquiv conf="0.9961">
+        <Unicode>Este es el día por Rizal preescrito. Ya la idea venció a la fuerza bruta, Gozas de libertad, que no es un mito, Nadie tu honor ni tu poder disputa.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r16" custom="readingOrder {index:16;} structure {type:Picture;}">
+      <Coords points="1284,1707 2376,1707 2376,2545 1284,2545" />
+    </ImageRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="1281,2577 2381,2577 2381,2833 1281,2833" />
+      <TextEquiv conf="0.9894">
+        <Unicode>Fuerzas de infantería de los Estados Unidos en persecución de los japoneses ocultos en los bosques después de establecer en Lingayén cabezas de puente. Estas fuerzas avanzaron hacia el sur a través de la meseta central de Luzón, obligando a los japoneses a retirarse de toda el area. El 3 de febrero entraron en Manila y ocuparon el campo de Santo Tomás, poniendo en libertad a millares de prisioneros aliados.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="heading" custom="readingOrder {index:18;} structure {type:SectionHeader;}">
+      <Coords points="776,2931 1725,2931 1725,2987 776,2987" />
+      <TextEquiv conf="0.9745">
+        <Unicode>PROGRAMA DE RADIO DE PERFUMES DANA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="798,2973 1700,2973 1700,3022 798,3022" />
+      <TextEquiv conf="0.9445">
+        <Unicode>SINTONICE diariamente con las siguientes emisoras:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="paragraph" custom="readingOrder {index:20;} structure {type:Text;}">
+      <Coords points="114,3022 1214,3022 1214,3180 114,3180" />
+      <TextEquiv conf="0.9903">
+        <Unicode>Emisora DZFM—Todos los días y en espeial los lunes—noche de aficionados a las 8:00 p.m. con el famoso trío Lopita, Lopito y Ticman como principales protagonistas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r21" type="paragraph" custom="readingOrder {index:21;} structure {type:Text;}">
+      <Coords points="1281,3029 2374,3029 2374,3117 1281,3117" />
+      <TextEquiv conf="0.9841">
+        <Unicode>Emisora DZPI — Todos los días durante el programa del
+Women's Club.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r22" type="paragraph" custom="readingOrder {index:22;} structure {type:Text;}">
+      <Coords points="1281,3138 1992,3138 1992,3187 1281,3187" />
+      <TextEquiv conf="0.9830">
+        <Unicode>Emisora DZBU—En Cebú—diariamente.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

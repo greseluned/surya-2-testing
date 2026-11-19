@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:56:01</Created>
+    <LastChange>2026-11-18T10:56:01</LastChange>
+  </Metadata>
+  <Page imageFilename="Fémina_15-11-1923_P07.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="302,172 558,172 558,225 302,225" />
+      <TextEquiv conf="0.9095">
+        <Unicode>Fémina</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="2100,179 2305,179 2305,232 2100,232" />
+      <TextEquiv conf="0.9577">
+        <Unicode>Página 6</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="258,270 1282,270 1282,491 258,491" />
+      <TextEquiv conf="0.9946">
+        <Unicode>vendió en conjunto, sin abrir un solo envase (está era condición que exigía el nuevo comprador, para tener un monopolio exclusivo), a diez centavos cada banano.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="258,488 1282,488 1282,1080 258,1080" />
+      <TextEquiv conf="0.9936">
+        <Unicode>El especuladar que compró se prometía vender a doce o a quince centavos, seguro en la gran demanda. Pero éste recibió análogas proposiciones de compra de otros especuladores. Aun cambiaron de este modo tres veces más de depósito durante una semana, aumentando escandalosamente el precio cada vez. El último especulador compró a razón de quince centavos cada uno, prometiéndose una gran ganancia al vender a veinte.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="258,1077 1282,1077 1282,1831 258,1831" />
+      <TextEquiv conf="0.9946">
+        <Unicode>Al abrir los envases encontró que ya un setenta y cinco por ciento estaban dañados. Chasqueado por la pérdida, pudo separar la cuarta parte [5,000 bananos] ann sanos, pero amenazando dañarse pronto. Para aminorar la pérdida creyó necesario fijar el tipo de detalle a cincuenta centavos cada fruto, y como el pueblo pobre no podría comprarlos, se apresuró a anunciarlo por teléfono a los hogares de los ricos, en estos términos: "Acabo de recibir una pequeña cantidad de bananos maduros. La demanda es grande y la existencia poca. Haga su pedido en el acto".</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="258,1824 1282,1824 1282,2414 258,2414" />
+      <TextEquiv conf="0.9954">
+        <Unicode>Dos millonarios se dieron prisa en regañar a los jefes de sus respectivas cocinas porque no les tenían bananos a la mesa, y les dieron orden de acaparar esa “pequeña cantidad” que ofrecía el comerciante X, para que en todos esos días no faltara tan raro plato en su mesa.... Los cocineros dieron en seguida orden por teléfono al especulador de “dejar por su cuenta la existencia que hubiera, sin detenerse en precio”.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="258,2410 1282,2410 1282,2782 258,2782" />
+      <TextEquiv conf="0.9980">
+        <Unicode>El especulador creyó oportuno repartir la cantidad entre los dos solicitantes, porque comprendía que los cocineros aludidos no tenían idea de la verdadera cantidad: 2,500 plátanos fueron a guardarse aquel día a la bodega de cada millonario de aquellos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="258,2785 1284,2785 1284,3220 258,3220" />
+      <TextEquiv conf="0.9949">
+        <Unicode>Ellos pensaban cenar bananos aquella tarde, mientras millones de pobres tenían que conformarse con haber visto el anuncio en los periódicos. Pero la cena se quedó confeccionada, porque habiendo recibido una invitación de unos colegas, tuvieron que partir con sus familias a una poseción minera lejana.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="1314,270 2348,270 2348,656 1314,656" />
+      <TextEquiv conf="0.9954">
+        <Unicode>Mientras hubo bananos sanos, los cocineros confeccionaron excelentes platos en espera de sus señores, pero que, muy a su pesar, tuvieron que echárselos a los ejemplares mimados de las perreras, que al fin, no pudiendo engullirlo todo, lo despreciaban, desparramándolos por el suelo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="1314,691 2355,691 2355,1235 1314,1235" />
+      <TextEquiv conf="0.9918">
+        <Unicode>Una profunda ironía había en ésto: a pesar de sus iniquidades, Dios deparó a este pueblo 20,000 bananos hermosos y sazonados, que pudo consumir al nunca soñado precio de medio centavo cada uno; pero el egoista capital y la especulación se opusieron a ello, prefiriendo obrar de modo que varios perros desparramaron a lo más una o dos docenas de los frutos, que venían a costar cerca de cien pesos cada uno.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="1314,1266 2345,1266 2345,1652 1314,1652" />
+      <TextEquiv conf="0.9845">
+        <Unicode>Los pobres obreros regresaban de las fábricas o de las fincas de los potentados, famélicos y hambrientos, viéndose diezmados por la epidemia que tenía su origen en lo poco variada, abundante y nutritiva de la alimentación, consistentes en insustanciales salazones y conservas pasadas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="1314,1670 2345,1670 2345,2052 1314,2052" />
+      <TextEquiv conf="0.9932">
+        <Unicode>Todos murmuraban; algunos maldecían por vez primera su condición de jornaleros:—Vamos a perecer por cándidos,—decían;—no da resultado ser obrero laborioso y honrado; es necesario ser rico a toda costa, aunque sea por medio del robo, de la guerra o del saqueo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="1314,2073 2345,2073 2345,2403 1314,2403" />
+      <TextEquiv conf="0.9994">
+        <Unicode>En aquel estado, varios de ellos recojieron en la calle algunas hojitas que una piadosa mano había arrojado profusamente desde la torre de un templo. En ellas se leían algunos versículos del Evangelio según San Mateo:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="1314,2421 2345,2421 2345,3231 1314,3231" />
+      <TextEquiv conf="0.9932">
+        <Unicode>.... “Oireis guerras y rumores de guerras. No os turbeis, porque conviene que esto suceda: mas, aún no será el fin. Porque se levantará gente contra gente.... y habrá pestílencias y hambres.... Y muchos entonces se escandalizarán de haber sido inocentes y honestos; y se traicionarán unos a otros, y se aborrecerán entre sí ... Y a causa de multiplicarse la iniquidad y de estar aparentemente triunfante, la caridad de muchos se enfriará, y querrán imitar la impiedad para ser poderosos como otros. Mas, el que a pesar de todo, perseverase en el bien hasta el fin, este será salvo” .... (Mateo, XXIV: 6·13).</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:56:01</Created>
+    <LastChange>2026-11-18T10:56:01</LastChange>
+  </Metadata>
+  <Page imageFilename="Fémina_15-10-1923_P02.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+        <RegionRefIndexed index="21" regionRef="r21" />
+        <RegionRefIndexed index="22" regionRef="r22" />
+        <RegionRefIndexed index="23" regionRef="r23" />
+        <RegionRefIndexed index="24" regionRef="r24" />
+        <RegionRefIndexed index="25" regionRef="r25" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="1621,77 2358,77 2358,144 1621,144" />
+      <TextEquiv conf="0.8980">
+        <Unicode>Archivo General de la Nación</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="heading" custom="readingOrder {index:1;} structure {type:SectionHeader;}">
+      <Coords points="761,249 1592,249 1592,375 761,375" />
+      <TextEquiv conf="0.9888">
+        <Unicode>FEMINA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="491,446 1867,446 1867,558 491,558" />
+      <TextEquiv conf="0.9875">
+        <Unicode>REVISTA DE LITERATURA, CIENCIAS Y ARTES
+CONSAGRADA A LA MUJER.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="724,610 1646,610 1646,779 724,779" />
+      <TextEquiv conf="0.9581">
+        <Unicode>DIRECTORA-ADMINISTRADORA:
+PETRONILA ANGELICA GOMEZ
+Maestra Normal.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="290,831 2067,831 2067,996 290,996" />
+      <TextEquiv conf="0.9955">
+        <Unicode>REDACTORES:
+MARIA L. ANGELIS DE CANINO,
+PETRONILA A. GOMEZ, CONSUELO MONTALVO DE FRIAS.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="201,1049 397,1049 397,1102 201,1102" />
+      <TextEquiv conf="0.7852">
+        <Unicode>Clão 2</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="803,1049 1604,1049 1604,1102 803,1102" />
+      <TextEquiv conf="0.9692">
+        <Unicode>San Tedro de Macotis, Octubre 15 de 1923</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="1953,1049 2157,1049 2157,1102 1953,1102" />
+      <TextEquiv conf="0.9194">
+        <Unicode>†. Ulo. 29</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="heading" custom="readingOrder {index:8;} structure {type:SectionHeader;}">
+      <Coords points="151,1179 984,1179 984,1266 151,1266" />
+      <TextEquiv conf="0.9336">
+        <Unicode>INVEROSIMILITUDES.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="heading" custom="readingOrder {index:9;} structure {type:SectionHeader;}">
+      <Coords points="372,1308 1996,1308 1996,1396 372,1396" />
+      <TextEquiv conf="0.9664">
+        <Unicode>LOS MUERTOS HABLAN.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="615,1442 1743,1442 1743,1558 615,1558" />
+      <TextEquiv conf="0.9911">
+        <Unicode>Diálogo animado entre Jose Marti
+y Eugenio Ma. de Hostos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="151,1631 1163,1631 1163,1754 151,1754" />
+      <TextEquiv conf="0.9891">
+        <Unicode>Martí—Hermano Eugenio María; qué pasa en la Patria Central nuestra?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="151,1743 1163,1743 1163,1849 151,1849" />
+      <TextEquiv conf="0.9867">
+        <Unicode>Hostos—Nada de anormal, porque lo normal allí es lo anormal.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="151,1842 1160,1842 1160,2003 151,2003" />
+      <TextEquiv conf="0.9954">
+        <Unicode>Martí—Sí; pero me parece escuchar un grito desusado entre las gentes que suelen ser indiferentes.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="151,2000 1160,2000 1160,2322 151,2322" />
+      <TextEquiv conf="0.9883">
+        <Unicode>Hostos—Escrito está en mi “Moral Social” todo cuanto ha de pasar en nuestras Patrias, puesto que cuando Tú y Yó escribíamos para estas Patrias, el Yó trascendental de “álguien que está muy alto” ponía en nuestros lápices su soplo divino.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="151,2315 1160,2315 1160,2582 151,2582" />
+      <TextEquiv conf="0.9773">
+        <Unicode>Martí—Y.... qué quisiste tú decir a las gentes cuando hablaste en tu precioso Código de Moral de “que no puede haber reacción del Derecho en los pueblos donde no ha habido acción del Derecho?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="151,2575 1158,2575 1158,2736 151,2736" />
+      <TextEquiv conf="0.9896">
+        <Unicode>Hostos—Sencillamente; eso, que no puede haber reacción donde no ha habido acción....</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="151,2733 1160,2733 1160,2999 151,2999" />
+      <TextEquiv conf="0.9913">
+        <Unicode>Martí—Sí; pero el Derecho—como basamenta de felicidad en la equidad—ha de crearse en estos pueblos só pena de que sean convertidos los hombres en tigres o chacales.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="151,2996 1160,2996 1160,3164 151,3164" />
+      <TextEquiv conf="0.9969">
+        <Unicode>Hostos—Efectivamente; se han de hermanar las voluntades y fundir las almas todas en una gran alma nacional.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="1197,1631 2199,1631 2199,1754 1197,1754" />
+      <TextEquiv conf="0.9863">
+        <Unicode>Martí—¿Y quién hará ese milagro en esta Era que no es la de Moisés y de Jesús?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="paragraph" custom="readingOrder {index:20;} structure {type:Text;}">
+      <Coords points="1197,1743 2199,1743 2199,1901 1197,1901" />
+      <TextEquiv conf="0.9965">
+        <Unicode>. Hostos—Operará mejor que Moisés y que Jesús, la Ley Fatal de la común necesidad obediente siempre a la gran casualidad.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r21" type="paragraph" custom="readingOrder {index:21;} structure {type:Text;}">
+      <Coords points="1197,1894 2199,1894 2199,2056 1197,2056" />
+      <TextEquiv conf="0.9872">
+        <Unicode>Martí—¡Crees tú — Hermano Eugenio María — que se hermanarán todos estos pueblos?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r22" type="paragraph" custom="readingOrder {index:22;} structure {type:Text;}">
+      <Coords points="1197,2052 2199,2052 2199,2315 1197,2315" />
+      <TextEquiv conf="0.9982">
+        <Unicode>Hostos—Con más sólidos vínculos que los que quiso atar Bolívar en el 1822, cuando—como visionario—vió la garganta de Darien próxima a ser abierta en canal entre mar y mar.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r23" type="paragraph" custom="readingOrder {index:23;} structure {type:Text;}">
+      <Coords points="1197,2312 2199,2312 2199,2898 1197,2898" />
+      <TextEquiv conf="0.9854">
+        <Unicode>Martí—Tienes razón; yo creo también que la común necesidad reunirá a las 20 Repúblicas del Habla Común en una Potencia de primer orden que se denominará Los Estados Unidos de la América Latina que será la balanza del Nuevo Mundo y el balancín del desquiciado Mundo que hoy arde en guerra insana, y en donde también—Tú lo dijiste—se habrán de crear—por Ley Fatal—Los Estados Unidos de Europa, tal vez mañana....</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r24" type="paragraph" custom="readingOrder {index:24;} structure {type:Text;}">
+      <Coords points="1197,2891 2199,2891 2199,3105 1197,3105" />
+      <TextEquiv conf="0.9883">
+        <Unicode>Hostos—Y.... tú ves hoy a la Antilla Central anonadada?... Pues... ahí será—precisamente—donde se habrán de reunir en breve los Plenipotenciarios de todas las</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r25" type="paragraph" custom="readingOrder {index:25;} structure {type:Text;}">
+      <Coords points="1646,3105 2152,3105 2152,3157 1646,3157" />
+      <TextEquiv conf="0.9474">
+        <Unicode>(Cortinúu en la pág. 8a.)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

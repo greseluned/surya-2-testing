@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:55:35</Created>
+    <LastChange>2026-11-18T10:55:35</LastChange>
+  </Metadata>
+  <Page imageFilename="Filipinas-30-Abril-1909-P30.jpg" imageWidth="1778" imageHeight="2729">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="722,180 933,180 933,227 722,227" />
+      <TextEquiv conf="0.8784">
+        <Unicode>“FILIPINAſS”</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r1" custom="readingOrder {index:1;} structure {type:Figure;}">
+      <Coords points="87,273 1565,273 1565,1239 87,1239" />
+    </ImageRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="427,1384 1259,1384 1259,1610 427,1610" />
+      <TextEquiv conf="0.9701">
+        <Unicode>CAMAS, CAMAS
+DE
+HIERRO Y METAL</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="160,1670 1531,1670 1531,1755 160,1755" />
+      <TextEquiv conf="0.9801">
+        <Unicode>Si compra Vd. una cama que sea modelo QUIROGA son las más bonitas, fuertes y baratas. Fábrica y despacho Crespo, 22 y 24.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="706,1736 1403,1736 1403,1782 706,1782" />
+      <TextEquiv conf="0.9885">
+        <Unicode>4. Quiapo—Manila—P. O. Box 200.—Tel. 1495.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r5" custom="readingOrder {index:5;} structure {type:Figure;}">
+      <Coords points="87,1924 1607,1924 1607,2421 87,2421" />
+    </ImageRegion>
+  </Page>
+</PcGts>

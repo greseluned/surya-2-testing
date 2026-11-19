@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:55:35</Created>
+    <LastChange>2026-11-18T10:55:35</LastChange>
+  </Metadata>
+  <Page imageFilename="Filipinas-22-Abril-1909-P11.jpg" imageWidth="1820" imageHeight="2740">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+        <RegionRefIndexed index="21" regionRef="r21" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="843,277 1059,277 1059,315 843,315" />
+      <TextEquiv conf="0.9035">
+        <Unicode>“FILIPINAS”</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="heading" custom="readingOrder {index:1;} structure {type:SectionHeader;}">
+      <Coords points="262,389 1178,389 1178,458 262,458" />
+      <TextEquiv conf="0.9560">
+        <Unicode>“MANILA FILATELICA”</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="641,523 1638,523 1638,619 641,619" />
+      <TextEquiv conf="0.9867">
+        <Unicode>Es el título de una librería genuinamente filipina, que á pesar de su poquefiez, figura como la mejor de esta capital por su clientela distinguida é ilustrada.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="641,608 1638,608 1638,732 641,732" />
+      <TextEquiv conf="0.9820">
+        <Unicode>En ta misma se hállan en venta obras de Derecho—Legislación—Jurisprudencia—Científicas—Filosóficas—Parlamenterias—Fotilícas—Socialistas Históricas—Literarias—Poéticas—Médicas—Escolares—Ciencias ocultas—Magias—Hipnotismo, Magnetismo—Sugestión y Espiritismo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="255,754 1638,754 1638,806 255,806" />
+      <TextEquiv conf="0.9260">
+        <Unicode>Calle Sofer, 453 :- :- :- Apartado 70</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r5" custom="readingOrder {index:5;} structure {type:Picture;}">
+      <Coords points="486,937 1392,937 1392,1408 486,1408" />
+    </ImageRegion>
+    <TextRegion id="r6" type="heading" custom="readingOrder {index:6;} structure {type:SectionHeader;}">
+      <Coords points="244,1537 894,1537 894,1658 244,1658" />
+      <TextEquiv conf="0.9926">
+        <Unicode>La Campana</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="heading" custom="readingOrder {index:7;} structure {type:SectionHeader;}">
+      <Coords points="368,1693 757,1693 757,1737 368,1737" />
+      <TextEquiv conf="0.9504">
+        <Unicode>CONFITERIA Y REPOSTERIA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="235,1781 890,1781 890,1940 235,1940" />
+      <TextEquiv conf="0.9794">
+        <Unicode>Gran surtido en Dülces finos,
+Horchata de Almendras helada,
+Sorbetes, Merengues helados.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="heading" custom="readingOrder {index:9;} structure {type:SectionHeader;}">
+      <Coords points="996,1526 1638,1526 1638,1592 996,1592" />
+      <TextEquiv conf="0.9554">
+        <Unicode>Agua de Sibul</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="996,1595 1638,1595 1638,1680 996,1680" />
+      <TextEquiv conf="0.9278">
+        <Unicode>Contra las dispepsias, infartos hepáticos y
+cretarros ágastro-intestinales crónicos</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="996,1682 1638,1682 1638,1765 996,1765" />
+      <TextEquiv conf="0.9806">
+        <Unicode>Embotellada en el mismo manantial, venden las principales farmacias.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="heading" custom="readingOrder {index:12;} structure {type:SectionHeader;}">
+      <Coords points="1196,1778 1434,1778 1434,1814 1196,1814" />
+      <TextEquiv conf="0.9345">
+        <Unicode>DEPOSITO</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="1096,1822 1534,1822 1534,1880 1096,1880" />
+      <TextEquiv conf="0.9377">
+        <Unicode>"EL GUADALETE"</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="1370,1896 1638,1896 1638,1943 1370,1943" />
+      <TextEquiv conf="0.9632">
+        <Unicode>CRESPO, 78</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="heading" custom="readingOrder {index:15;} structure {type:SectionHeader;}">
+      <Coords points="226,2077 890,2077 890,2151 226,2151" />
+      <TextEquiv conf="0.9020">
+        <Unicode>“EL SOL”</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="heading" custom="readingOrder {index:16;} structure {type:SectionHeader;}">
+      <Coords points="280,2255 824,2255 824,2367 280,2367" />
+      <TextEquiv conf="0.9107">
+        <Unicode>Almacen de Comesi-
+tibles y bebidas :</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="213,2450 888,2450 888,2491 213,2491" />
+      <TextEquiv conf="0.9877">
+        <Unicode>Calle de Enrile, esquina Alcala, Santa Cruz</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="heading" custom="readingOrder {index:18;} structure {type:SectionHeader;}">
+      <Coords points="1028,2077 1616,2077 1616,2140 1028,2140" />
+      <TextEquiv conf="0.9425">
+        <Unicode>Francisco Carreon</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="977,2148 1649,2148 1649,2326 977,2326" />
+      <TextEquiv conf="0.9863">
+        <Unicode>Vende piedras de Maycawayan de varias dimensiones para construcciones de casas, muelle, mojones de terrenos, y puertas de pesqueras, conducciones en bancas 6, wagones de la Manila Railroad Comp. en todas las Estaciones de sus líneas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="heading" custom="readingOrder {index:20;} structure {type:SectionHeader;}">
+      <Coords points="1201,2354 1445,2354 1445,2398 1201,2398" />
+      <TextEquiv conf="0.9226">
+        <Unicode>DESPACHO</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r21" type="paragraph" custom="readingOrder {index:21;} structure {type:Text;}">
+      <Coords points="996,2406 1649,2406 1649,2485 996,2485" />
+      <TextEquiv conf="0.9766">
+        <Unicode>Meycawayan, Bulacan; I. F. 6. Sacristia
+No. 50, Binondo. Manila.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

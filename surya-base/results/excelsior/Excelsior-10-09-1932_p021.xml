@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:55:20</Created>
+    <LastChange>2026-11-18T10:55:20</LastChange>
+  </Metadata>
+  <Page imageFilename="Excelsior-10-09-1932_p021.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <ImageRegion id="r0" custom="readingOrder {index:0;} structure {type:Picture;}">
+      <Coords points="230,302 1645,302 1645,1322 230,1322" />
+    </ImageRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="1695,361 2248,361 2248,1224 1695,1224" />
+      <TextEquiv conf="0.9877">
+        <Unicode>¡Un tribunal en una barca! Uno de los más pintorescos tribunales del mundo es sin duda alguna este llamado “Medway Court”, del Almiraniazgo inglés, que cuenta nada menos con más de dos siglos de existencia o antigücdad y, de acuerdo con la costumbre establecida, celebra sus sesiones y administra justicia en una barca anclada en el rio Medway, de Rochester. En la fotografía se ve al alguacil de la ciudad declarando abierta la sesión del curioso tribunal.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="248,1385 1192,1385 1192,1981 248,1981" />
+      <TextEquiv conf="0.9908">
+        <Unicode>(Foto inferior). Una puerta de hierro que se dice y afirma es la más segura del mundo. Esta puerta, fabricada en Italia, está construida con treinta y ocho metales diferentes y no hacen mella en la misma ni la fuerza ni la acción de agentes químicos. Pesa cincuenta y nueve toneladas, aproximadamente, y es la puerta de hierro mayor del mundo. Se haila instalada en el Banco di Chiavari e Della Riviera Liguri, de la famosa "calle de los bancos" como se denomina la Via Garibaldi, de Genova. Apesar del enorme peso de la puerta, puede ser abierta por un niño.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r3" custom="readingOrder {index:3;} structure {type:Picture;}">
+      <Coords points="1286,1311 2248,1311 2248,2745 1286,2745" />
+    </ImageRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="1326,2787 2277,2787 2277,3176 1326,3176" />
+      <TextEquiv conf="0.9845">
+        <Unicode>La recrudescencia de los Hohenzol.erns: El Príncipe August Whilhelm, tomó parte en la grandiosa manifestación celebra la en Berlin y organizada por los Nazis (el partido fascista alemán) y el cuerpo de estudiantes para protes ar contra la vigencia del Tratado de Versalles. (En la foto): El Príncipe August Wilhelm y el comandante Schmit presenciando el desfile de la manifestación.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r5" custom="readingOrder {index:5;} structure {type:Picture;}">
+      <Coords points="245,2030 1239,2030 1239,3187 245,3187" />
+    </ImageRegion>
+  </Page>
+</PcGts>

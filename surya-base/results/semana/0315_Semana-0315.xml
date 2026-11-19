@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:58:31</Created>
+    <LastChange>2026-11-18T10:58:31</LastChange>
+  </Metadata>
+  <Page imageFilename="0315_Semana-0315.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="97,259 488,259 488,316 97,316" />
+      <TextEquiv conf="0.9779">
+        <Unicode>3 de Febrero, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="2086,256 2369,256 2369,309 2086,309" />
+      <TextEquiv conf="0.9331">
+        <Unicode>SEMANA—7</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="97,361 892,361 892,564 97,564" />
+      <TextEquiv conf="0.9908">
+        <Unicode>Hoy más que nunca tu nación reclama Unidad de propósitos de enmienda, Para mantener firme tu proclama Al calor de tu tríplice leyenda.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="97,621 850,621 850,831 97,831" />
+      <TextEquiv conf="0.9917">
+        <Unicode>Culto al hogar sujeto a organismos
+De la raza por digno paradigma;
+Y destruídos odiosos barbarismos,
+Del esclavo borrar el torpe estigma.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="97,887 949,887 949,1101 97,1101" />
+      <TextEquiv conf="0.9702">
+        <Unicode>No hay timbre más brillante que el destello
+!Del sol que alumbra el arrozal nativo
+Ser filipino compatriota es sello
+Mejor que ser asiático1 nocivo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="92,1157 907,1157 907,1367 92,1367" />
+      <TextEquiv conf="0.9946">
+        <Unicode>Así, camino de las altas cumbres,
+En marcha con tus héroes nacionales,
+Habrá una patria de radiantes lumbres,
+Un altar a tus hijos inmortales.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="92,1427 924,1427 924,1630 92,1630" />
+      <TextEquiv conf="0.9874">
+        <Unicode>Cuántes cayeron en la negra noche Quemando en tu crisol sus áureas galas, Vuelen contigo en tu broncíneo coche. Hacia lo eterno las inmensas alas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="92,1690 860,1690 860,1904 92,1904" />
+      <TextEquiv conf="0.9922">
+        <Unicode>Y rompan de sus tumbas el mutismo,
+Aquellos que murieron por quererte,
+A la luz del patriótico exorcismo
+Canten de júbilo al volver a verte.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="92,1960 895,1960 895,2174 92,2174" />
+      <TextEquiv conf="0.9877">
+        <Unicode>Haya paz en tus·fúlgidos eriales
+Por tu vuelta a la cumbre sempiterna;
+Hoy riges los destinos nacionales,
+Soberana, no como subalterna.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="82,2223 927,2223 927,2437 82,2437" />
+      <TextEquiv conf="0.9880">
+        <Unicode>En tus aras crepite roja hoguera
+Y te alces a los cielos majestuosa;
+Ya los muertos despiertan de su espera,
+¡Tu asta se clave en lo hondo de su fosa!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="57,2486 999,2486 999,2696 57,2696" />
+      <TextEquiv conf="0.9848">
+        <Unicode>Canten los vates himnos de victoria
+Así que inicias la triunfal jornada;
+Viva tu gesta inmarçesible gloria,
+¡Dios te bendiga! ¡Entrégame la espada! .</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="79,2742 1001,2742 1001,2959 79,2959" />
+      <TextEquiv conf="0.9845">
+        <Unicode>¡Canten los pueblos salmos de optimismo!
+¡Y con ambas Américas la alianza,
+Alentando el patriota fe en sí mismo
+¡Tendrás la fuerza que el rencor no alcanza!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="79,2998 897,2998 897,3215 79,3215" />
+      <TextEquiv conf="0.9963">
+        <Unicode>Pues la historia demuestra que aislada
+No basta tu valor de fuerte dique
+A repeler la insaciedad malvada,
+De Limahong al último cacique.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r13" custom="readingOrder {index:13;} structure {type:Picture;}">
+      <Coords points="1279,393 2369,393 2369,1182 1279,1182" />
+    </ImageRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="1274,1203 2369,1203 2369,1630 1274,1630" />
+      <TextEquiv conf="0.9929">
+        <Unicode>Buques norteamericanos de desembarque con tropas de infantería acercándose a las playas del sur de Corregidor mientras a lo lejos los aviones dejan caer a paracaidistas el 15 de febrero de 1945 sobre lo más alto de la histórica fortaleza, en una operación triple. En menos de una hora las dos fuerzas combatientes se pusieron en comunicación y aunque superadas en una proporción de dos a uno, vencieron a la guarnición japonesa y se posesionaron de la Isla en lo que el General MacArthur calificó de "una de las más brillantes operaciones de la historia militar." Los japoneses, el primero de marzo de 1945, habían perdido ya 4,215 soldados cuando los norteamericanos completaban la posesión de la Isla-Fortaleza.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="1274,1683 2037,1683 2037,1893 1274,1893" />
+      <TextEquiv conf="0.9931">
+        <Unicode>Por Dios y por la patria consagrada,
+Bandera de mis ansias predilecta,
+Fortifica tu autóctona morada
+Y desde lo alto tu esplendor proyecta.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="1274,1960 2096,1960 2096,2170 1274,2170" />
+      <TextEquiv conf="0.9941">
+        <Unicode>Cual vela que se apaga cada instante,
+He de morir de consunción y penas,
+Entre las llamas de mi amor constante,
+¡Todo por darte sangre de mis venas!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="1264,2244 2215,2244 2215,2454 1264,2454" />
+      <TextEquiv conf="0.9986">
+        <Unicode>¿Qué importa que después de haber sufrido, Realizada su ambición preclara, Al hombre dejen en completo olvido, Si buen hijo la patria lo declara?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="1264,2521 2037,2521 2037,2728 1264,2728" />
+      <TextEquiv conf="0.9968">
+        <Unicode>Cuando ya nada quede de mi nombre
+De todos olvidado por mi suerte,
+Como súplica póstuma del hombre,
+Cuya gloria en el polvo se convierte;</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="1264,2794 2109,2794 2109,3005 1264,3005" />
+      <TextEquiv conf="0.9904">
+        <Unicode>Envuélveme en tus pliegues por entonces,
+Avive el cuerpo tu candente flama,
+Toquen a gloria los sonoros bronces,
+¡La lira unísona al cafión que brama!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="paragraph" custom="readingOrder {index:20;} structure {type:Text;}">
+      <Coords points="1730,3131 2344,3131 2344,3236 1730,3236" />
+      <TextEquiv conf="0.9883">
+        <Unicode>J. HERNANDEZ GAVIRA
+Manila—San Pablo</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

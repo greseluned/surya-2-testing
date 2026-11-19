@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:55:47</Created>
+    <LastChange>2026-11-18T10:55:47</LastChange>
+  </Metadata>
+  <Page imageFilename="Fémina_10-10-1922_P03.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+        <RegionRefIndexed index="21" regionRef="r21" />
+        <RegionRefIndexed index="22" regionRef="r22" />
+        <RegionRefIndexed index="23" regionRef="r23" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="233,84 426,84 426,140 233,140" />
+      <TextEquiv conf="0.9840">
+        <Unicode>Página 3</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="1963,88 2224,88 2224,144 1963,144" />
+      <TextEquiv conf="0.9045">
+        <Unicode>Fémina</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="610,239 982,239 982,323 610,323" />
+      <TextEquiv conf="0.8827">
+        <Unicode>Demostacia</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="337,488 1264,488 1264,1652 337,1652" />
+      <TextEquiv conf="0.9970">
+        <Unicode>Sobre una panoplia polvorienta y ruda que el tiempo y el moho llevan a la muerte, se cruza una espada, noble, heróica, aguda, con villana daga, corta, ruin y fuerte. La espada orgullosa la daga contempla y altiva le dice con noble ademán: ¿Desde cuando aceros q. el gran Tajo templa se mezclan con armas de porte rufian? ¿Quien ató mi hoja firme y libre ayer, de infanzones nobles, fuerza y adalid con tu negro acero que algún mercader a traición usara en infame lid? Señora: responde la daga oportuna, en mi compañía no encontreis desdoro, el tiempo ha hecho noble mi plebeya cuna; la mano del hombre, codiciando el oro, osó hasta la negra torre pavorosa y tanto ha revuelto por los campos esos que quizá descansen en la misma fosa de nuestros dos amos los helados huesos!!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="heading" custom="readingOrder {index:4;} structure {type:SectionHeader;}">
+      <Coords points="1485,242 1916,242 1916,326 1485,326" />
+      <TextEquiv conf="0.9044">
+        <Unicode>A la Mierte.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="1292,474 2105,474 2105,1572 1292,1572" />
+      <TextEquiv conf="0.9979">
+        <Unicode>En una copa de marfil tallado,
+de amarillo color y fina hechura,
+dicen que guardas un licor sagrado
+de venenosa flor esencia pura.
+Basta una sola gota, derramada
+en el ánfora clara de la vida,
+para que en negra póxima trocada,
+quede su fresca y esencial bebida.
+Dicen que en hondo sueño sumerjido,
+queda el que bebe tu brebaje helado,
+de flor de adormideras extraído,
+con agua del Leteo preparado.
+Cuando cansada de la lucha ruda,
+con la vida mi cuenta haya saldado,
+ven, madre de los tristes, en mi ayuda
+y en tu gran copa de marfil tallado,
+del negro néctar, déjame embriagar:
+lenitivo del mal y del pecado,
+que dá el placer inmenso de soñar!!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="1532,1586 2055,1586 2055,1638 1532,1638" />
+      <TextEquiv conf="0.9950">
+        <Unicode>CARIDAD BRAVO ADAMS.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="heading" custom="readingOrder {index:7;} structure {type:SectionHeader;}">
+      <Coords points="496,1877 907,1877 907,1957 496,1957" />
+      <TextEquiv conf="0.8978">
+        <Unicode>Ayez y Floy.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="788,2007 1116,2007 1116,2059 788,2059" />
+      <TextEquiv conf="0.9686">
+        <Unicode>A una Azucena.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="245,2091 1016,2091 1016,2277 245,2277" />
+      <TextEquiv conf="0.9985">
+        <Unicode>Ayer, el céfiro loco enamorado traía a mi aliento para darme vida la esencia casta y pura, desprendida de tu cáliz de nieve perfumado.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="245,2319 964,2319 964,2512 245,2512" />
+      <TextEquiv conf="0.9818">
+        <Unicode>Te erguías en tu cáliz como una dama gentil radiante de alegría; y tu nevado seno recibiá un pálido y sutil rayo de luna.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="245,2550 1041,2550 1041,2691 245,2691" />
+      <TextEquiv conf="0.9977">
+        <Unicode>Hoy tu cáliz no está de albura lleno, yace marchito, triste, amarillento; sólo me cuenta del dolor la historia.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="245,2740 1130,2740 1130,2887 245,2887" />
+      <TextEquiv conf="0.9879">
+        <Unicode>Y aquel perfume raro de tu seno envuelto entre la túnica del viento huyó hacia el cielo y se quedó en la gloria.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="625,2919 1108,2919 1108,2975 625,2975" />
+      <TextEquiv conf="0.9964">
+        <Unicode>PETRONILA A. GOMEZ.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="heading" custom="readingOrder {index:14;} structure {type:SectionHeader;}">
+      <Coords points="1413,1877 2063,1877 2063,1957 1413,1957" />
+      <TextEquiv conf="0.9853">
+        <Unicode>Lógica de una niña.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="1413,2003 1983,2003 1983,2168 1413,2168" />
+      <TextEquiv conf="0.9927">
+        <Unicode>Abuela; perdí la calma
+desde que mi perro murió
+¿habrá ido al cielo?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="1673,2171 1998,2171 1998,2228 1673,2228" />
+      <TextEquiv conf="0.9370">
+        <Unicode>—iHija no!....</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="1413,2221 1986,2221 1986,2277 1413,2277" />
+      <TextEquiv conf="0.9892">
+        <Unicode>Los perros no tienen alma.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="1413,2273 2013,2273 2013,2435 1413,2435" />
+      <TextEquiv conf="0.9493">
+        <Unicode>— ¿Y esa madrasta que a mi sin cesar me reconviene tiene alma?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="1661,2438 2028,2438 2028,2494 1661,2494" />
+      <TextEquiv conf="0.9529">
+        <Unicode>—Esa sí la tiene</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="paragraph" custom="readingOrder {index:20;} structure {type:Text;}">
+      <Coords points="1413,2494 1894,2494 1894,2547 1413,2547" />
+      <TextEquiv conf="0.9980">
+        <Unicode>—El perro no y ella sí?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r21" type="paragraph" custom="readingOrder {index:21;} structure {type:Text;}">
+      <Coords points="1413,2547 1996,2547 1996,2757 1413,2757" />
+      <TextEquiv conf="0.9960">
+        <Unicode>¡Ay! pues mi razón no llega a entender, abuela mía, porque el perro me quería y mi madrasta me pega.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r22" type="paragraph" custom="readingOrder {index:22;} structure {type:Text;}">
+      <Coords points="1569,2789 2058,2789 2058,2901 1569,2901" />
+      <TextEquiv conf="0.9804">
+        <Unicode>Por la traducción,
+B. PORTELA ALVAREZ.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r23" type="paragraph" custom="readingOrder {index:23;} structure {type:Text;}">
+      <Coords points="1413,2922 1525,2922 1525,2971 1413,2971" />
+      <TextEquiv conf="0.9844">
+        <Unicode>1922.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:55:35</Created>
+    <LastChange>2026-11-18T10:55:35</LastChange>
+  </Metadata>
+  <Page imageFilename="Filipinas-Ante-Europa_Pag14.jpg" imageWidth="3307" imageHeight="4677">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+        <RegionRefIndexed index="21" regionRef="r21" />
+        <RegionRefIndexed index="22" regionRef="r22" />
+        <RegionRefIndexed index="23" regionRef="r23" />
+        <RegionRefIndexed index="24" regionRef="r24" />
+        <RegionRefIndexed index="25" regionRef="r25" />
+        <RegionRefIndexed index="26" regionRef="r26" />
+        <RegionRefIndexed index="27" regionRef="r27" />
+        <RegionRefIndexed index="28" regionRef="r28" />
+        <RegionRefIndexed index="29" regionRef="r29" />
+        <RegionRefIndexed index="30" regionRef="r30" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="159,126 235,126 235,187 159,187" />
+      <TextEquiv conf="0.9729">
+        <Unicode>14</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="1240,117 2057,117 2057,187 1240,187" />
+      <TextEquiv conf="0.9552">
+        <Unicode>FILIPINAS ANTE EUROPA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="103,253 1607,253 1607,477 103,477" />
+      <TextEquiv conf="0.9977">
+        <Unicode>Pueblo querido, alza la noble insignia que guía al templo del honor: levanta altivo el estandarte de tu república. Tu vencerás, porque tu causa es justa. La fuerza será al fin vencida; el derecho triunfador.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="103,468 1607,468 1607,683 103,683" />
+      <TextEquiv conf="0.9912">
+        <Unicode>Por alcanzar justicia se eleva mi pensamiento rasgundo las tinieblás del porvenir. Nuestra aspiración, nuestra independencia, se anuncia a'lá en Man'la; filipinos, alcanzadla, y no temais morir.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="103,673 1607,673 1607,1020 103,1020" />
+      <TextEquiv conf="0.9912">
+        <Unicode>Para vosotros que no teneis morir, las bellas del Pásig, seguras de la victoria, tejen ya las guirnaldas; magníficas guirnaldas para vuestras sienes que saben recibir á un tiempo las bombas y los laureles; para vosotros que sabéis hacer callar los bronces americanos con ecos de patriotismo, siempre triunfadores, siempre victoriosos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="985,1024 1475,1024 1475,1085 985,1085" />
+      <TextEquiv conf="0.9876">
+        <Unicode>PEDRO A. PATERNO</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r6" custom="readingOrder {index:6;} structure {type:Picture;}">
+      <Coords points="126,1099 1587,1099 1587,1197 126,1197" />
+    </ImageRegion>
+    <TextRegion id="r7" type="heading" custom="readingOrder {index:7;} structure {type:SectionHeader;}">
+      <Coords points="413,1211 1290,1211 1290,1333 413,1333" />
+      <TextEquiv conf="0.9865">
+        <Unicode>El Protectorado. (1)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="96,1422 1607,1422 1607,1600 96,1600" />
+      <TextEquiv conf="0.9926">
+        <Unicode>Los Estados Unidos ya empiezan á ceder, convencidos de que en el terreno de las armas nada positivo han de conseguir.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="96,1590 1607,1590 1607,2044 96,2044" />
+      <TextEquiv conf="0.9966">
+        <Unicode>En La Correspondencia de España publiqué en 15 de Agosto un artículo, en el que demostré que entre los principales obstáculos para llegar á un acuerdo están el desarme exigido por los Estados Unidos; la protección de ellos á los frailes, odiados y expulsados por los filipinos, y á la inmigración china, que es perjudicial al Archipiélago, y el propósito de los americanos de no pagar las deudas contraídas por el gobierno de Aguinaldo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="96,2034 1607,2034 1607,2320 96,2320" />
+      <TextEquiv conf="0.9957">
+        <Unicode>Al cabo de diez días escasos, la prensa publicaba un telegrama anunciando que el general Ottis puso término á la inmigración china, y también una nota oficiosa de que el gobierno de Washington respetaría los billetes emitidos por Aguinaldo, aceptando su pago.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="96,2306 1607,2306 1607,2591 96,2591" />
+      <TextEquiv conf="0.9960">
+        <Unicode>En el primer número de esta REVISTA nos quejábamos de que los Estados Unidos no nos reconocen como ciudadanos norte-americanos; y de que los frailes iban á ocupar las parroquias que debieran administrar exclusivamente los sacerdotes filipinos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="96,2582 1607,2582 1607,2979 96,2979" />
+      <TextEquiv conf="0.9924">
+        <Unicode>Y á los pocos días también la prensa publicaba un telegrama de Washington, anunciando que el general Ottis ofreció á Aguinaldo que todos los filipinos serían considerados como ciudadanos norte-americanos y el reconocimiento de los grados de él y de los cabecillas que él designase, en el ejército de la Unión; y que los frailes jamás volverían á ocupar parroquias ni diócesis en Filipinas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="96,2961 1607,2961 1607,3185 96,3185" />
+      <TextEquiv conf="0.9757">
+        <Unicode>Seríamos insensatos, si en vez de agradecer estos buenos propósitos de inteligencia por parte de los Estados Unidos, lo interpretáramos desdeñosamente por debilidad. Esto jamás.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="96,3180 1607,3180 1607,3620 96,3620" />
+      <TextEquiv conf="0.9966">
+        <Unicode>Pero cumple á nuestra sinceridad manifestar á la gran Nación norte-americana que todo arreglo basado en contentar sólo á ciertos jefes, será contraproducente, pues en vez de poner término á la guerra, haría surgir multiplicadamente á nuevos cabecillas y se eternizaría aquella, como ocurrió con el pacto de Biyak-na-bató, que no quisieron guardar los generales filipinos Malvar, Makabulos, el cura Dandan y otros muchos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="96,3606 1607,3606 1607,4060 96,4060" />
+      <TextEquiv conf="0.9974">
+        <Unicode>Aguinaldo que había jurado defender nuestra independencia, rechazó dignamente la proposición, pues el arreglo ha de ser sincero, honrado y de carácter general, para que todo el mundo tenga el deber moral y material de cumplir. Pero como se haga un pastel, surgirá una tremenda guerra civil. Entonces hasta las piedras se levantarán para degollar á todo pastelero viviente, porque no para eso hemos derramado ríos de sangre.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="96,4046 1614,4046 1614,4396 96,4396" />
+      <TextEquiv conf="0.9958">
+        <Unicode>Ya he demostrado en mi citado artículo publicado por La Correspondencia que con la autonomía sólo saldrán ganando algunos comerciantes yankees; pero el Tesoro público de Norte-América jamás podrá reembolsarse los gastos ocasionados por la guerra, al paso que con la independencia de Filipinas, bajo su protectorado, se podría con-</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="1667,257 3168,257 3168,430 1667,430" />
+      <TextEquiv conf="0.9953">
+        <Unicode>certar el pago paulatino de una equitativa indemnización, aparte franquícias comerciales é industriales de positiva utilidad para los yankees.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="1667,421 3168,421 3168,641 1667,641" />
+      <TextEquiv conf="0.9941">
+        <Unicode>Pero entiéndase bien que nuestra ind pendencia ha de ser real y efectiva con personalidad y representación propias en el extranjero, y que el protectorado no sea una autonomía disfrazada, y que tenga plazo fijo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="1667,627 3168,627 3168,968 1667,968" />
+      <TextEquiv conf="0.9801">
+        <Unicode>Nostros gobernaremos independientemente nuestra casa según nuestro leal saber y entender, y sólo tendrán intervención los Estados Unidos en lo que sea puramente preciso para garantir el orden interior, cuando su auxilio sea reclamado, y para cumplir los compromisos que con ellos contraigamos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="paragraph" custom="readingOrder {index:20;} structure {type:Text;}">
+      <Coords points="1667,959 3168,959 3168,1459 1667,1459" />
+      <TextEquiv conf="0.9940">
+        <Unicode>Para que se vea que lealmente deseo la amistad de los norte-americanos, propongo la más amplia intervención posible en lo que afecte á garantizar los capitales norte-americanos que se dediquen á fomentar las obras públicas, construcción de ferrocarriles, puentes, buques de guerra, armamentos, y una alianza ofensiva y defensiva contra el extranjero; y además, que los filipinos se comprometan á introducir en sus leyes el espíritu de la legislación norte-americana.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r21" type="paragraph" custom="readingOrder {index:21;} structure {type:Text;}">
+      <Coords points="1667,1455 3168,1455 3168,1857 1667,1857" />
+      <TextEquiv conf="0.9901">
+        <Unicode>Pero cuídense mucho los filipinos de que el protectora do no resulte peor que la anexión; y será peor, si nuestra independencia no fuese efectiva y en cambio perdiésemos las ventajas de la ciudadanía norte-americana, como ocurre con Cuba, que es independiente sólo de nombre y cuyos productos no gozan de franquicias en los Estados Unidos por esta independencia nominal.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r22" type="paragraph" custom="readingOrder {index:22;} structure {type:Text;}">
+      <Coords points="1667,1847 3168,1847 3168,2025 1667,2025" />
+      <TextEquiv conf="0.9992">
+        <Unicode>Norte-América, al fin, ya empieza á hacernos justicia. No esperábamos otra cosa de una República que tiene una gloriosa tradición de liberal.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r23" type="paragraph" custom="readingOrder {index:23;} structure {type:Text;}">
+      <Coords points="1667,2016 3168,2016 3168,2179 1667,2179" />
+      <TextEquiv conf="0.9880">
+        <Unicode>¡Conque, filipinosl un poco más de perseverancia y habremos arribado al puerto de nuestro bienestar permanente.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r24" type="paragraph" custom="readingOrder {index:24;} structure {type:Text;}">
+      <Coords points="2414,2194 2999,2194 2999,2254 2414,2254" />
+      <TextEquiv conf="0.9955">
+        <Unicode>ISABELO DE LOS REYES.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r25" type="heading" custom="readingOrder {index:25;} structure {type:SectionHeader;}">
+      <Coords points="1667,2357 3161,2357 3161,2797 1667,2797" />
+      <TextEquiv conf="0.9874">
+        <Unicode>LOS HOMBRES
+DE LA REVOLUCIÓN</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r26" type="paragraph" custom="readingOrder {index:26;} structure {type:Text;}">
+      <Coords points="1667,2881 3168,2881 3168,3082 1667,3082" />
+      <TextEquiv conf="0.9895">
+        <Unicode>En esta sección publicaremos las biografias de los que han figurado en el varonil movimiento de la regeneración de Filipinas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r27" type="paragraph" custom="readingOrder {index:27;} structure {type:Text;}">
+      <Coords points="1667,3082 3168,3082 3168,3424 1667,3424" />
+      <TextEquiv conf="0.9867">
+        <Unicode>Es innegable que los taaleños fueron de los primeros que han tenido el valor de desafiar á la enton les omnipotente frailocracia, por lo cual empezaremos con la biografía de su jefe, Sr. Agoncillo, escrita por un notable filipino, cuyo nombre podrán adivinar los lectores por sus iniciales.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r28" type="paragraph" custom="readingOrder {index:28;} structure {type:Text;}">
+      <Coords points="2007,3424 2801,3424 2801,3489 2007,3489" />
+      <TextEquiv conf="0.9895">
+        <Unicode>DON FELIPE AGONCILLO</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r29" type="paragraph" custom="readingOrder {index:29;} structure {type:Text;}">
+      <Coords points="1667,3494 3168,3494 3168,4485 1667,4485" />
+      <TextEquiv conf="0.9967">
+        <Unicode>El Sr. Agoncillo nació en Mayo del año 1868, en Taal, uno de los pueblos más importantes de la provincia de Bantangas, por su producción azucarera, industria y comercio; pertenece á una familia, muy distinguida y respetada en aquella provincia, y muy conocida en otras muchas del Archipiélago Filipino por su posición; él hizo sus estudios de primera y segunda enseñanza en el Ateneo Municipal de Manila, á cargo de los padres Jesuitas, con grande aprovechamiento, habiendo sido uno de los más aventajados de su clase. Deseando estudiar con más amplitud la Filosofía, se marchó del Ateneo al terminar el cuarto año de segunda enseñanza, y siguió sus estudios en la Universidad de Santo Tomás, donde obtuvo el grado de Bachiller en Artes á la edad de catorce años con la nota de sobresaliente, habiéndose llevado antes el acto público de dicha asignatura como prueba de que era el primero en su clase; pero con disgusto suyo no logró realizar su aspiración de obtener los grados de Licenciado y Doctor en Filosofía, porque estos títu-</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r30" type="footnote" custom="readingOrder {index:30;} structure {type:Footnote;}">
+      <Coords points="165,4420 1263,4420 1263,4481 165,4481" />
+      <TextEquiv conf="0.9959">
+        <Unicode>(1) Hablo por cuenta propia, por lo cual vá firmado este artículo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

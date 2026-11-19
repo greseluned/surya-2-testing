@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:55:35</Created>
+    <LastChange>2026-11-18T10:55:35</LastChange>
+  </Metadata>
+  <Page imageFilename="Filipinas-Ante-Europa_Pag38.jpg" imageWidth="3307" imageHeight="4677">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+        <RegionRefIndexed index="21" regionRef="r21" />
+        <RegionRefIndexed index="22" regionRef="r22" />
+        <RegionRefIndexed index="23" regionRef="r23" />
+        <RegionRefIndexed index="24" regionRef="r24" />
+        <RegionRefIndexed index="25" regionRef="r25" />
+        <RegionRefIndexed index="26" regionRef="r26" />
+        <RegionRefIndexed index="27" regionRef="r27" />
+        <RegionRefIndexed index="28" regionRef="r28" />
+        <RegionRefIndexed index="29" regionRef="r29" />
+        <RegionRefIndexed index="30" regionRef="r30" />
+        <RegionRefIndexed index="31" regionRef="r31" />
+        <RegionRefIndexed index="32" regionRef="r32" />
+        <RegionRefIndexed index="33" regionRef="r33" />
+        <RegionRefIndexed index="34" regionRef="r34" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="367,103 433,103 433,164 367,164" />
+      <TextEquiv conf="0.9060">
+        <Unicode>44</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="1323,421 2027,421 2027,150 1323,150" />
+      <TextEquiv conf="0.9314">
+        <Unicode>¿Y de Ing
+Estados Unid.
+Cuando el
+autoridad indi</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="317,210 1647,210 1647,538 317,538" />
+      <TextEquiv conf="0.9928">
+        <Unicode>Y ahora seríamos un pueblo autónomo con ejército propio, ó mejor dicho independiente, bajo el protectorado de España. Y en estas condiciones, si esta nación no hubiese cumplido con sus compromisos con nosotros, hubiera sido facil hacerla entrar en razón, desangrada como estaría después de tres guerras importantes.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="311,524 1644,524 1644,1127 311,1127" />
+      <TextEquiv conf="0.9951">
+        <Unicode>Y sin embargo, Aguinaldo y todos los jefes filipines prefirieron vuestra alianza, porque Dewey y vuestros consules en Singapore y Hong-kong les habían prometido la independencia y creyeron sus palabras al decir que los Estados Unidos sólo deseaban libertar á los pueblos oprimidos, como que no tenía otro objeto, según vos mismo, la guerra ocasionada con motivo de Cuba, y les creyeron porque, en efecto, vuestra Constitución proclama el derecho de todos los pueblos á gobernarse por sí mismos y hasta entonces nunca había surgido el imperialismo en los Estados Unidos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="308,1122 1637,1122 1637,1408 308,1408" />
+      <TextEquiv conf="0.9934">
+        <Unicode>¿Vos creeís que ignorábamos el inmenso poder de vuestro pueblo y que al cambiar de amo, nos sería más difícil sacudir vuestro yugo, ó al menos por mucho más tiempo que lo que hubiéramos necesitado para deshacernos de los españoles?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="301,1398 1637,1398 1637,1628 301,1628" />
+      <TextEquiv conf="0.9941">
+        <Unicode>Otra prueba de vuestras promesas es que tardásteis mucho en dar á conocer vuestras miras de anexión; permitísteis que nuestros buques llevaran bandera filipina y aun vuestros soldados rindieron honores á la misma.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="294,1618 1647,1618 1647,1852 294,1852" />
+      <TextEquiv conf="0.9941">
+        <Unicode>Y ahora venís diciendo que solo Aguinaldo pensó en la independencia, cuando una vez triunfante y dueño de todo el Archipiélago por inesperadas victorias, de todas partes le metieron en la cabeza dicha idea.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="heading" custom="readingOrder {index:7;} structure {type:SectionHeader;}">
+      <Coords points="374,1843 833,1843 833,1908 374,1908" />
+      <TextEquiv conf="0.9403">
+        <Unicode>¿«De todas partes»?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="308,1894 1634,1894 1634,2282 308,2282" />
+      <TextEquiv conf="0.9969">
+        <Unicode>Si, señor; y esto debe inspiraros un poco de cuidado. Nuestro hábil plenipotenciario, Sr. Agoncillo, ha conseguido inspirar respeto por su reserva, por su prudencia y por la extremada corrección de su conducta diplomática, y, por consiguiente, excusamos advertir que él no nos inspira ni mucho menos nos encarga revelar secretos de Estado.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="304,2278 1634,2278 1634,2890 304,2890" />
+      <TextEquiv conf="0.9932">
+        <Unicode>Pero á fuer de periodistas que en nuestra buena voluntad de informar de todo á nuestros apreciables lectores, nada podemos ocultarles os diremos, respetable Presidente, que nos parece que decís la verdad al asegurar que todas las grandes potencias de Europa y aun de América y Asia, nos animan á sostener la lucha, metiendonos en la cabeza la convicción de que por nuestras propias fuerzas conseguiremos obligaros á armonizar vuestra política con el espíritu de vuestra inmortal Constitución y los nobles sentimientos de la parte imparcial del pueblo norteamericano, si se prolonga un poco la lucha.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="380,2881 1508,2881 1508,2947 380,2947" />
+      <TextEquiv conf="0.9920">
+        <Unicode>Ahí van cabos sueltos, que ataréis como queráis.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="304,2932 1627,2932 1627,3274 304,3274" />
+      <TextEquiv conf="0.9827">
+        <Unicode>Rusia en Port Arthur. Japón en Formosa, Inglaterra Borneo y en Hong kong, Alemania en las Carolinas y Palaos, España con los restos de su comercio y de sus Propiedades en Filipinas, Holanda en Java, Francia en el Tonkin, Italia acechando poner el pie en algun puerto de China, Portugal en Macao, etc....</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="301,3260 1624,3260 1624,3592 301,3592" />
+      <TextEquiv conf="0.9965">
+        <Unicode>¿Vos creeís que hay alguna de estas potencias que pueda simpatizar con vuestra soberania en nuestro Archipiélago? Al paso que siendo independiente Filipinas, sería un mercado para los productos de aquellas naciones, una especie de prolongación de sus posesiones, y en todo caso, un pais vecino pacífico.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="301,3583 1620,3583 1620,3756 301,3756" />
+      <TextEquiv conf="0.9993">
+        <Unicode>De aquí que la prensa alemana siempre está al lado de los filipinos y su apoyo dejará de ser platónico, cuando llegue la ocasión.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="298,3746 1637,3746 1637,3971 298,3971" />
+      <TextEquiv conf="0.9821">
+        <Unicode>De donde los cónsules alemanes de Manila en Hong-Kong, han publicado comunicados diciendo que no contrarían los planes de los filipinos y que desean consersu amistad.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="294,3975 1611,3975 1611,4195 294,4195" />
+      <TextEquiv conf="0.9939">
+        <Unicode>Por eso, también el cónsul francés de Manila en todas sus comunicaciones á su gobierno es favorable á los filipinos. y lo mismo los corresponsales de periódicos tan importantes como Le Figaro, Le Temps, Le Matín, etc.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="294,4186 1607,4186 1607,4364 294,4364" />
+      <TextEquiv conf="0.9952">
+        <Unicode>Y del Japón no decimos nada, pues los mismos yanquis dicen que de aquel país hermano, proceden las armas de los filipinos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="294,4350 1604,4350 1604,4579 294,4579" />
+      <TextEquiv conf="0.9928">
+        <Unicode>En España se presentan á los filipinos para ir á pelear á su lado, no sólo muchos jefes y oficiales, sino hasta generales de prestigio. Y lo mismo ocurre en París y Alemania.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="1700,210 3019,210 3019,318 1700,318" />
+      <TextEquiv conf="0.9860">
+        <Unicode>¿Y de Inglaterra, que consideran como aliada los Estados Unidos? Pero basta de indiscreciones.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="1696,309 3026,309 3026,631 1696,631" />
+      <TextEquiv conf="0.9933">
+        <Unicode>Cuando el duque de Tetuán, que es veraz y una autoridad indiscutible, vino de la Conferencia internacional del Haya, dijo á los periodistas de Madrid, que todas las potencias impatizaban con la independencia de Filipinas y que los diplomáticos consideraban impotentes á los imperialistas para oponerse á ella.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="paragraph" custom="readingOrder {index:20;} structure {type:Text;}">
+      <Coords points="1696,622 3026,622 3026,734 1696,734" />
+      <TextEquiv conf="0.9974">
+        <Unicode>Sí, Mr. Mc Kinley, bueno es que sepais que de todas partes nos meten en la cabeza nuestra indepen dencia.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r21" type="heading" custom="readingOrder {index:21;} structure {type:SectionHeader;}">
+      <Coords points="2130,823 2586,823 2586,907 2130,907" />
+      <TextEquiv conf="0.9235">
+        <Unicode>Discurso</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r22" type="paragraph" custom="readingOrder {index:22;} structure {type:Text;}">
+      <Coords points="1696,931 3019,931 3019,1207 1696,1207" />
+      <TextEquiv conf="0.9932">
+        <Unicode>PRONUNCIADO POR DON MARIANO PONCE, REPRESENTANTE DE LA REPÚBLICA FILIPINA, EN EL TOKYO CLUB (JAPÓN) EN EL BANQUETE OFRECIDO Á LA DELEGACIÓN FILIPINA, POR LOS DIRECTORES DE LA PRENSA METROPOLITANA JAPONESA.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r23" type="heading" custom="readingOrder {index:23;} structure {type:SectionHeader;}">
+      <Coords points="1829,1225 2136,1225 2136,1281 1829,1281" />
+      <TextEquiv conf="0.9224">
+        <Unicode>Caballeros:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r24" type="paragraph" custom="readingOrder {index:24;} structure {type:Text;}">
+      <Coords points="1696,1272 3019,1272 3019,1534 1696,1534" />
+      <TextEquiv conf="0.9960">
+        <Unicode>Lamento más que nunca, en este momento en que necesito expresaros mis sentimientos de gratitud hacia vuestras bondades, mi ignorancia del idioma en que Tsubouchi y Aiba e cribieron sus mejores obras.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r25" type="paragraph" custom="readingOrder {index:25;} structure {type:Text;}">
+      <Coords points="1696,1520 3026,1520 3026,1833 1696,1833" />
+      <TextEquiv conf="0.9865">
+        <Unicode>Yo hubiera deseado, señores, dirigirme-á vos-otros en mi natal idioma; que es el que mejor obedece á mis ideas y sentimientos; pero ya que esto no es posible, permitidme que os ruegue aceptéis mi cordial saludo en inglés, único idioma en que podemos co-unicarnos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r26" type="paragraph" custom="readingOrder {index:26;} structure {type:Text;}">
+      <Coords points="1696,1824 3019,1824 3019,1978 1696,1978" />
+      <TextEquiv conf="0.9859">
+        <Unicode>Por esta razón será breve, dandoos sólo mis principales ideas que esporo serán desenvueltas por vuestro conocido discernimiento y penetración.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r27" type="heading" custom="readingOrder {index:27;} structure {type:SectionHeader;}">
+      <Coords points="2305,2002 2391,2002 2391,2058 2305,2058" />
+      <TextEquiv conf="0.8638">
+        <Unicode>A black-and-white icon showing three five-pointed stars. One star is positioned at the top, while two are positioned at the bottom left and bottom right.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r28" type="paragraph" custom="readingOrder {index:28;} structure {type:Text;}">
+      <Coords points="1687,2058 3016,2058 3016,2512 1687,2512" />
+      <TextEquiv conf="0.9948">
+        <Unicode>Filipinas, por mi humilde representación, saluda á la prensa japonesa. La prensa es un poder en todo Estado civilizado, forma la opinión pública; la dirige á los asuntos de vital interés; estudia y resuelve los problemas políticos económicos y sociales; busca la concordia y la armonia, entre los intereses, casi siempre encontrados de las diversas naciones en sus relaciones mútuas defendiendo siempre el honor y los intereses de su país respectivo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r29" type="paragraph" custom="readingOrder {index:29;} structure {type:Text;}">
+      <Coords points="1687,2502 3016,2502 3016,2806 1687,2806" />
+      <TextEquiv conf="0.9613">
+        <Unicode>nor y los intereses de su país respectivo.
+Oh! Yo conozco por propia experiencia, la eficacia de la campaña periodística, como que por ella vemos libre á mi país del yugo de España. El periodismo es un í de las grandes manifestaciones de la vida modírna; por el periodismo damos impulso al progreso nacional.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r30" type="paragraph" custom="readingOrder {index:30;} structure {type:Text;}">
+      <Coords points="1680,2797 3006,2797 3006,3087 1680,3087" />
+      <TextEquiv conf="0.9884">
+        <Unicode>Por este motivo, no puedo menos de sa'udar á la vigorosa prensa japonesa, aquí dignamente representada, y en las personas de sus repesen antes permitidme que dirija un cordial saludo á la nación japonesa, á la patria de Saigo, lyeyasu y Kusunoki</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r31" type="paragraph" custom="readingOrder {index:31;} structure {type:Text;}">
+      <Coords points="1673,3077 2999,3077 2999,3620 1673,3620" />
+      <TextEquiv conf="0.9898">
+        <Unicode>Los filipínos, después de dos años de luchas y grandes sacrificios, consiguieron emanciparse del yugo de Escraña, constituyéndose en una nación libre é independiente, bajo un Gobierno republicano. La nación filipina, sabe que tiene que cumplir una misión humanitaria en el progreso de la civilización, dentro del concierto de las naciones; sabe igualmente que, para cumplir dignamente con esta misión, debe ser libre y dueña de su propio destino. De ahí es, que ella se esfuerza por ser libre é independiente.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r32" type="paragraph" custom="readingOrder {index:32;} structure {type:Text;}">
+      <Coords points="1670,3606 2986,3606 2986,3821 1670,3821" />
+      <TextEquiv conf="0.9888">
+        <Unicode>Los filipinos, después de haber reconquistado palmo á palmo, todo el Archipiélago, estableció un Gobierno republicano con el consenimiento (expreso y general sufagio de sus habitantes.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r33" type="paragraph" custom="readingOrder {index:33;} structure {type:Text;}">
+      <Coords points="1667,3807 2983,3807 2983,4144 1667,4144" />
+      <TextEquiv conf="0.9818">
+        <Unicode>No necesito decir a vosotros, por qué difíciles y ensagrentados caminos hemos pasado para llegar al actual estado de cosas. Vosotros habéis luchado también duramente por vuestra regeneración política y social, y os bastará recorda- todo lo que habéis sufrido entonces, para tener una idea de nuestros sacrificios.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r34" type="paragraph" custom="readingOrder {index:34;} structure {type:Text;}">
+      <Coords points="1657,4134 2976,4134 2976,4583 1657,4583" />
+      <TextEquiv conf="0.9936">
+        <Unicode>Actualmente por virtud de estos sacrificios, tenemos un Gobierno republicano establecido por sutragio universal, con una Constitución votada por los representantes del pueblo, en la que los tres poderes, esto es, el Legislativo el Ejecutivo y el Judicial, tienen cada uno su independiente esfera de acción, conforme á las doctrinas de Montesquieu; en la que la suprema voluntad del pueblo es la única soberana cual cumple á un régimen democrático;</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

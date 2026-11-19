@@ -1,0 +1,271 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:57:49</Created>
+    <LastChange>2026-11-18T10:57:49</LastChange>
+  </Metadata>
+  <Page imageFilename="0107_Semana-0107.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+        <RegionRefIndexed index="21" regionRef="r21" />
+        <RegionRefIndexed index="22" regionRef="r22" />
+        <RegionRefIndexed index="23" regionRef="r23" />
+        <RegionRefIndexed index="24" regionRef="r24" />
+        <RegionRefIndexed index="25" regionRef="r25" />
+        <RegionRefIndexed index="26" regionRef="r26" />
+        <RegionRefIndexed index="27" regionRef="r27" />
+        <RegionRefIndexed index="28" regionRef="r28" />
+        <RegionRefIndexed index="29" regionRef="r29" />
+        <RegionRefIndexed index="30" regionRef="r30" />
+        <RegionRefIndexed index="31" regionRef="r31" />
+        <RegionRefIndexed index="32" regionRef="r32" />
+        <RegionRefIndexed index="33" regionRef="r33" />
+        <RegionRefIndexed index="34" regionRef="r34" />
+        <RegionRefIndexed index="35" regionRef="r35" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="116,277 453,277 453,333 116,333" />
+      <TextEquiv conf="0.9706">
+        <Unicode>7 de Abril, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="2062,277 2369,277 2369,333 2062,333" />
+      <TextEquiv conf="0.9133">
+        <Unicode>SEMANA—19</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="270,389 1383,389 1383,533 270,533" />
+      <TextEquiv conf="0.9337">
+        <Unicode>Confesion franca</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="664,543 922,543 922,596 664,596" />
+      <TextEquiv conf="0.9186">
+        <Unicode>(Conclusión)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="109,635 813,635 813,1111 109,1111" />
+      <TextEquiv conf="0.9956">
+        <Unicode>Pasaron dos semanas enteras desde que Mang Marcial me contó la triste historia de su vida. El superientendente de la institución me llamó a su despacho. El empleado que fué en mi busca dijo que mi padre estaba en la oficina de su jefe. Mi padre, al verme, se levantó en seguida de su asiento, me abrazó afectuosamente y con unas palabras cariñosas dijo que iba a sacarme porque por fín había conseguido mi indulto absoluto.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="109,1104 810,1104 810,1578 109,1578" />
+      <TextEquiv conf="0.9956">
+        <Unicode>Pasaron los días. Era la mañana del 8 de diciembre de 1941. Los periódicos daban la sensacional noticia de que los aeroplanos del Japón habían dejado caer su carga de muerte y destrucciór sobre el campamento Nichols, Aparri, Baguio y otros objetivos militares. Yo acababa entonces de casarme con una linda farmacéutica de quien me prendé como un inocente colegial. Se llamaba Veneración.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="109,1578 810,1578 810,1925 109,1925" />
+      <TextEquiv conf="0.9905">
+        <Unicode>Volaban los días y los periódicos continuaban lanzando noticias de desesperante tenor: “Los enemigos avanzan rápidamente hacia Manila”... “El General McArthur, con el fin de tener un frente unido contra los invasores, ha reunido todas sus fuerzas en la provincia de Bataan”...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="109,1925 810,1925 810,2395 109,2395" />
+      <TextEquiv conf="0.9876">
+        <Unicode>Pasó un año y siguió otro. El hambre que desde el comienzo de la ocupación enemiga había estado sembrando sus estragos en muchos hogares, llegaba a su período culminante. Un caván de arroz de la peor clase costaba más de diez mil pesos. Yo era entonces un padre de familia, pues mi santa esposa Vening acababa de dar al mundo su se gundo vástago. Vivíamos juntos con mis padres.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="109,2395 810,2395 810,2780 109,2780" />
+      <TextEquiv conf="0.9929">
+        <Unicode>Aunque mis mayores se contaban entre los adinerados del distrito de Rinondo por una veintena de casas de alquiler que antes de la guerra nos rendían una renta de cinco a seis mil pesos mensuales, tampoco salieron ilesos del rudo golpe de la depresión económica, por la sencilla razón de que nuestros inquili-nos no podían pagar.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="109,2780 810,2780 810,3166 109,3166" />
+      <TextEquiv conf="0.9963">
+        <Unicode>Entonces, como náufrago que se agarra a un salvavidas en el mar turbulento de la existencia, acepté de buen grado la proposición de mi tío Gabriel y de un primo mío, de que fuéramos a comprar alhajas que se vendían a precio tirado, para despacharlas luego en una de las provincias donde el dinero abundaba.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="146,3162 803,3162 803,3208 146,3208" />
+      <TextEquiv conf="0.9505">
+        <Unicode>Pero, por una mala suerte, en el tra-</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="890,635 1591,635 1591,894 890,894" />
+      <TextEquiv conf="0.9847">
+        <Unicode>yecto aún, nos encontramos con un grupo de guerrilleros que nos tomaron por espías por haber encontrado en el bolsillo de mi tío Gabriel una nota, con caracteres japoneses, que se daba en Manila como pase de los viajeros.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="890,891 1591,891 1591,1532 890,1532" />
+      <TextEquiv conf="0.9988">
+        <Unicode>Mi tío, acostumbrado a estar frente a una situación tan crítica como aquélla, sin perder su serenidad, les explicó los motivos de nuestro viaje hacia aquel lugar y, sobre todo, por qué llevaba aquella nota. Pero el capitán que hacía de jefe de aquel grupo del movimiento de resistencia, no dió crédito a sus palabras. Y, como secuela, mandó a sus soldados que se apoderaran de nuestras alhajas, zapatos y otras prendas de vestir. Mandó, además, atarnos la manos y, acto seguido, ordenó que nos llevaran al lugar donde se hallaba su guarnición.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="890,1532 1591,1532 1591,2226 890,2226" />
+      <TextEquiv conf="0.9979">
+        <Unicode>Como desde que tuve uso de razón nunca había experimentado la sensación de caminar descalzo más que aquella vez, estando todavía a medio trayecto del lugar de la guarnición, noté que sangraban las plantas y las uñas de mis pies, a causa de los frecuentes golpes contra las piedras, afiladas y puntiagudas. Pero no sentía ningún dolor; lo que sentía era el temor, el horrible temor de morir que se apoderó de todo mi ser. Y ante aquel trance de muerte se me apareció de súbito en la memoria la imagen de mis dos hijitos, de mi esposa Vening y de mis padres que esperaban con ansiedad mi vuelta al hogar.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="890,2226 1591,2226 1591,2398 890,2398" />
+      <TextEquiv conf="0.9962">
+        <Unicode>Cuando llegamos ya era de noche. La luna derramaba sus límpidos fulgores de plata sobre la espesura de las selvas por donde pasábamos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="890,2398 1591,2398 1591,2693 890,2693" />
+      <TextEquiv conf="0.9873">
+        <Unicode>Al llegar a la guarnición, formada de cinco casitas que apenas alzaban su techo de cogon un metro y medio a ras de tierra, vi a dos individuos atados a uno de los árboles cuyás ramas frondosas ocultaban las casitas a los ojos de los aviadores enemigos</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="890,2693 1591,2693 1591,2949 890,2949" />
+      <TextEquiv conf="0.9945">
+        <Unicode>A juzgar por las heridas sangrantes que aparecían en el rostro de los dos presos y las grandes contusiones en varias partes del cuerpo, parecía indudable que los pobres habían sido torturados.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="890,2949 1591,2949 1591,3166 890,3166" />
+      <TextEquiv conf="0.9960">
+        <Unicode>Después de algunos minutos, el capitán de los guerrilleros, seguido de un soldado que blandía un bolo-largo y re luciente, se acercó a uno de los presos y le dijo:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="929,3162 1586,3162 1586,3208 929,3208" />
+      <TextEquiv conf="0.9580">
+        <Unicode>—Dame los nombres de tus compa-</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="1668,635 2250,635 2250,684 1668,684" />
+      <TextEquiv conf="0.9623">
+        <Unicode>ñeros y el lugar dónde residen.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="paragraph" custom="readingOrder {index:20;} structure {type:Text;}">
+      <Coords points="1668,677 2369,677 2369,806 1668,806" />
+      <TextEquiv conf="0.9907">
+        <Unicode>El interrogado mencionó varios nombres y sitios, mientras un guerrillero los apuntaba.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r21" type="paragraph" custom="readingOrder {index:21;} structure {type:Text;}">
+      <Coords points="1668,806 2369,806 2369,891 1668,891" />
+      <TextEquiv conf="0.9775">
+        <Unicode>—¡Son éstos solamente? — pregunto el capitán.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r22" type="paragraph" custom="readingOrder {index:22;} structure {type:Text;}">
+      <Coords points="1702,891 2173,891 2173,936 1702,936" />
+      <TextEquiv conf="0.9928">
+        <Unicode>—Sí, señor, — respondió.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r23" type="paragraph" custom="readingOrder {index:23;} structure {type:Text;}">
+      <Coords points="1668,933 2369,933 2369,1153 1668,1153" />
+      <TextEquiv conf="0.9877">
+        <Unicode>—¡Y aquel espía que acompañó al capitán Satto que fue al cuartél del comandante Panzer la semana pasada. ¿cómo se llama? ¿No es Mamerto, acaso?— inquirió el capitán.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r24" type="paragraph" custom="readingOrder {index:24;} structure {type:Text;}">
+      <Coords points="1702,1146 2084,1146 2084,1196 1702,1196" />
+      <TextEquiv conf="0.9947">
+        <Unicode>—Sí, señor — afirmó.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r25" type="paragraph" custom="readingOrder {index:25;} structure {type:Text;}">
+      <Coords points="1668,1192 2369,1192 2369,1364 1668,1364" />
+      <TextEquiv conf="0.9928">
+        <Unicode>—¡Bien!.... Te voy a soltar ya con la condición de que antes contarás las estrellas del firmamento. ¡Hala!.... ¡Sigue!....</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r26" type="paragraph" custom="readingOrder {index:26;} structure {type:Text;}">
+      <Coords points="1668,1364 2369,1364 2369,1497 1668,1497" />
+      <TextEquiv conf="0.9898">
+        <Unicode>El preso levantó la cabeza y miró al cielo, y, en voz alta, empezó a contar: una, dos, tres, cuatro, cinco...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r27" type="paragraph" custom="readingOrder {index:27;} structure {type:Text;}">
+      <Coords points="1668,1497 2369,1497 2369,1753 1668,1753" />
+      <TextEquiv conf="0.9990">
+        <Unicode>Apenas decía el número 5, cuando el soldado que portaba el bolo, sin decir palabra, le dió un tajo en el cuello que le descabezó con la misma facilidad con que se parte con un arma afilada la hoja de un plátano...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r28" type="paragraph" custom="readingOrder {index:28;} structure {type:Text;}">
+      <Coords points="1668,1753 2369,1753 2369,1841 1668,1841" />
+      <TextEquiv conf="0.9905">
+        <Unicode>¿Por qué voy a avergonzarme de decir la verdad, toda la verdad?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r29" type="paragraph" custom="readingOrder {index:29;} structure {type:Text;}">
+      <Coords points="1668,1841 2369,1841 2369,2002 1668,2002" />
+      <TextEquiv conf="0.9563">
+        <Unicode>Ante aquel cuadro de sangre, senti serpentear por mi cuerpo un escalofrío intenso Y entonces.... ¡me desmayé.....</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r30" type="paragraph" custom="readingOrder {index:30;} structure {type:Text;}">
+      <Coords points="1668,2002 2369,2002 2369,2135 1668,2135" />
+      <TextEquiv conf="0.9710">
+        <Unicode>Cuando abri los ojos, estaba tendido, boca arriba. El capitán se puso a mi lado y dijo:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r31" type="paragraph" custom="readingOrder {index:31;} structure {type:Text;}">
+      <Coords points="1668,2135 2369,2135 2369,2342 1668,2342" />
+      <TextEquiv conf="0.9993">
+        <Unicode>—Mañana por la mañana, ya sabrás mi decisión, si pondré a todos en libertad o no...—Y se levantó. Ordenó a sus soldados que nos pusieran a buen recaudo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r32" type="paragraph" custom="readingOrder {index:32;} structure {type:Text;}">
+      <Coords points="1668,2342 2369,2342 2369,2475 1668,2475" />
+      <TextEquiv conf="0.9990">
+        <Unicode>. A la mañana siguiente y cumpliendo su palabra, el capitán se me acercó y, de mal humor, me espetó lo siguiente:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r33" type="paragraph" custom="readingOrder {index:33;} structure {type:Text;}">
+      <Coords points="1668,2475 2369,2475 2369,2644 1668,2644" />
+      <TextEquiv conf="0.9827">
+        <Unicode>—Lo siento mucho amigo!..... y estoy plenamente convencido que tus dos compañeros y tú sois espías de la peor clase!....</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r34" type="paragraph" custom="readingOrder {index:34;} structure {type:Text;}">
+      <Coords points="1668,2644 2369,2644 2369,2945 1668,2945" />
+      <TextEquiv conf="0.9890">
+        <Unicode>Y entonces, como último recurso, le supliqué llorando que me llevara, juntamente con mis dos compañeros, a presencia de su comandante en jefe, para implorar de él que nos pusiera en libertad, porque no éramos espías como creía el capitán.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r35" type="paragraph" custom="readingOrder {index:35;} structure {type:Text;}">
+      <Coords points="1668,2945 2369,2945 2369,3201 1668,3201" />
+      <TextEquiv conf="0.9816">
+        <Unicode>—; Es inútil!—murmuró el capitán—
+Mi comandante en jefe — agregó —
+cs más estricto que yo en cuanto a estos
+casos. Nunca he visto, durante dos
+años que estoy con él, que sintiera
+compasión alguna por los espías.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

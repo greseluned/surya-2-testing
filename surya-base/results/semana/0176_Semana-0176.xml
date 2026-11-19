@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:58:01</Created>
+    <LastChange>2026-11-18T10:58:01</LastChange>
+  </Metadata>
+  <Page imageFilename="0176_Semana-0176.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="heading" custom="readingOrder {index:0;} structure {type:SectionHeader;}">
+      <Coords points="401,372 2049,372 2049,1259 401,1259" />
+      <TextEquiv conf="0.9199">
+        <Unicode>Pedro Domecq
+FUNDADOR
+(THE FOUNDER)
+BRANDY
+FUNDADOR
+BRANDY
+A black-and-white print advertisement showing a bottle of Fundador Brandy on the left, the text 'PEDRO Domecq' and 'FUNDADOR (THE FOUNDER) BRANDY' in the center, and a scorch on the right.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r1" custom="readingOrder {index:1;} structure {type:Picture;}">
+      <Coords points="456,754 669,754 669,1455 456,1455" />
+    </ImageRegion>
+    <ImageRegion id="r2" custom="readingOrder {index:2;} structure {type:Picture;}">
+      <Coords points="471,971 2156,971 2156,2563 471,2563" />
+    </ImageRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="344,2114 1296,2114 1296,2801 344,2801" />
+      <TextEquiv conf="0.9927">
+        <Unicode>Otro "Fundador" español, Juan de Salcedo, escogió uno de los lugares más hermosos del mundo, en las faldas del volcán Mayón, para establecer una ciudad; y la nombré LEGAZPI en honor de su tio, el fundador de la vieja ciudad de Manila.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="260,2882 1390,2882 1390,3019 260,3019" />
+      <TextEquiv conf="0.9562">
+        <Unicode>TABACALERA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="538,3068 1115,3068 1115,3131 538,3131" />
+      <TextEquiv conf="0.9444">
+        <Unicode>212 Marqués de Comillas</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="1658,2868 2210,2868 2210,3085 1658,3085" />
+      <TextEquiv conf="0.9900">
+        <Unicode>IMPORTADORES
+EXCLUSIVOS
+Tel. 3-22-91</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

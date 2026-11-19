@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:56:59</Created>
+    <LastChange>2026-11-18T10:56:59</LastChange>
+  </Metadata>
+  <Page imageFilename="Hispanidad-7-Julio-1940-P22.jpg" imageWidth="6954" imageHeight="9417">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <ImageRegion id="r0" custom="readingOrder {index:0;} structure {type:Picture;}">
+      <Coords points="0,320 6801,320 6801,4803 0,4803" />
+    </ImageRegion>
+    <TextRegion id="r1" type="heading" custom="readingOrder {index:1;} structure {type:SectionHeader;}">
+      <Coords points="2844,4850 4221,4850 4221,5085 2844,5085" />
+      <TextEquiv conf="0.9841">
+        <Unicode>LOS CAÍDOS</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="3115,5132 3859,5132 3859,5283 3115,5283" />
+      <TextEquiv conf="0.9938">
+        <Unicode>¡18 de julio!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="1252,5547 3150,5547 3150,8730 1252,8730" />
+      <TextEquiv conf="0.9936">
+        <Unicode>Tronó en tus espacios, Iberia,
+la voz de tu alma;
+rompióse la calma
+de tus olvidados sepulcros.
+Y fueron poetas los muertos
+—De las asamentas
+brotaron injertos
+de nuevos profetas.—
+En los corazones
+hablaron los viejos blasones,
+con voz de titanes,
+con voz de leones:
+empuje de tus capitanes
+guiando a triunfantes legiones.
+Por ser españolas
+hablaron las ruinas,
+hablaron las cumbres enhiesias,
+hablaron las crestas
+de tus catedrales divinas
+contando tus épicas gestas;
+y hablaron tus campos maduros
+con voz de amapolas,
+con voz de claveles azules...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="3832,5547 5688,5547 5688,8466 3832,8466" />
+      <TextEquiv conf="0.9792">
+        <Unicode>Y hablaron los tules
+de tu firmamento florido,
+florido en luceros inquietos
+de afán de locura imposible,
+con ansias de retos
+por tus polvorientos camínos.
+Un gran vendaval invisible
+preñado de genios divinos
+parió un huracán de guerreros
+con torsos de aceros,
+brazos membrudos,
+con ojos ardientes y fieros,
+con fiebres de alud por escudos,
+con pulsos de luz y coraje
+portando vibrantes òanderas
+bordadas en tu eterno encaje:
+¡s hondos cantares,
+tus ansias de imperios,
+tus tierras, tus mares,
+tus recios azares.:.
+¡y tus cementerios!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="4541,8569 5709,8569 5709,8711 4541,8711" />
+      <TextEquiv conf="0.9764">
+        <Unicode>RICARDO R. MARINA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="footer" custom="readingOrder {index:6;} structure {type:PageFooter;}">
+      <Coords points="473,8824 654,8824 654,8965 473,8965" />
+      <TextEquiv conf="0.9395">
+        <Unicode>16</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="footer" custom="readingOrder {index:7;} structure {type:PageFooter;}">
+      <Coords points="118,9021 1231,9021 1231,9257 118,9257" />
+      <TextEquiv conf="0.9631">
+        <Unicode>MCD 2018</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,380 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:58:40</Created>
+    <LastChange>2026-11-18T10:58:40</LastChange>
+  </Metadata>
+  <Page imageFilename="Sorpresas-Chicago_Pag27.jpg" imageWidth="2512" imageHeight="3450">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+        <RegionRefIndexed index="21" regionRef="r21" />
+        <RegionRefIndexed index="22" regionRef="r22" />
+        <RegionRefIndexed index="23" regionRef="r23" />
+        <RegionRefIndexed index="24" regionRef="r24" />
+        <RegionRefIndexed index="25" regionRef="r25" />
+        <RegionRefIndexed index="26" regionRef="r26" />
+        <RegionRefIndexed index="27" regionRef="r27" />
+        <RegionRefIndexed index="28" regionRef="r28" />
+        <RegionRefIndexed index="29" regionRef="r29" />
+        <RegionRefIndexed index="30" regionRef="r30" />
+        <RegionRefIndexed index="31" regionRef="r31" />
+        <RegionRefIndexed index="32" regionRef="r32" />
+        <RegionRefIndexed index="33" regionRef="r33" />
+        <RegionRefIndexed index="34" regionRef="r34" />
+        <RegionRefIndexed index="35" regionRef="r35" />
+        <RegionRefIndexed index="36" regionRef="r36" />
+        <RegionRefIndexed index="37" regionRef="r37" />
+        <RegionRefIndexed index="38" regionRef="r38" />
+        <RegionRefIndexed index="39" regionRef="r39" />
+        <RegionRefIndexed index="40" regionRef="r40" />
+        <RegionRefIndexed index="41" regionRef="r41" />
+        <RegionRefIndexed index="42" regionRef="r42" />
+        <RegionRefIndexed index="43" regionRef="r43" />
+        <RegionRefIndexed index="44" regionRef="r44" />
+        <RegionRefIndexed index="45" regionRef="r45" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="146,176 849,176 849,266 146,266" />
+      <TextEquiv conf="0.9967">
+        <Unicode>aquí estoy, por cierto con un hambre canina.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="141,262 847,262 847,566 141,566" />
+      <TextEquiv conf="0.9994">
+        <Unicode>Reinó un silencio absoluto, únicamente interrumpido por el ruido que hacían los dos esposos al masticar, despacio y mirando torvamente al intruso, el suculento almuerzo que tenían delante, pues que aquello de la avaricia no se refería al estómago.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="136,559 839,559 839,783 136,783" />
+      <TextEquiv conf="0.9950">
+        <Unicode>Después de un buen rato de cilencio al tio Heliogábalo se le ocurrió preguntar con su poquito de sorna y todo: Oiga V. melitar, parece que el camino está muy enlodado.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="128,776 831,776 831,911 128,911" />
+      <TextEquiv conf="0.9874">
+        <Unicode>Con mucho gusto y estimando—replicó el ladino licenciado porque licenciado era y de ejército.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="113,907 824,907 824,1390 113,1390" />
+      <TextEquiv conf="0.9927">
+        <Unicode>Y acercándose á la mesa con mucha parsimon a, colocó delante de sí un plato de baro con dos chorizos colorados, grasientos y bien olientes y empezó á comer con ademán mesurado, mientras le miraba con atonitos ojos la mujer de Heliogábalo y éste, apretando los dientes y cerrando los puños, hacía visibles esfuerzos por contener esa enfermedad moral que únicamente cura la educación ó la fuerza de voluntad y que se denomina «ira.»</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="106,1383 811,1383 811,1649 106,1649" />
+      <TextEquiv conf="0.9949">
+        <Unicode>Cuando el soldado acabó con los chorizos siempre imperturbable arrampló con una cabeza de liebre que en otro plato nadaba en un lago de salsa y se bebió un cuartillo de vino bien corrido en el porrón que allí cerca tenía.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="106,1642 804,1642 804,1784 106,1784" />
+      <TextEquiv conf="0.9797">
+        <Unicode>El granjero, forjando entre las arrugas de su cara una sonrisa, preguntó entonces, también con mucha íronía:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="103,1777 804,1777 804,1863 103,1863" />
+      <TextEquiv conf="0.9496">
+        <Unicode>—Qué tal ¡Lá ha sentado bien la co.
+mida veterano?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="100,1856 799,1856 799,1949 100,1949" />
+      <TextEquiv conf="0.9769">
+        <Unicode>Y el interpelado replicó, con no menos zandunga:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="100,1942 784,1942 784,2042 100,2042" />
+      <TextEquiv conf="0.9654">
+        <Unicode>■ —¡El barro? Hasta la cintura me lle gaba cuando entre en esta santa casa.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="620,2042 703,2042 703,2084 620,2084" />
+      <TextEquiv conf="0.9692">
+        <Unicode>YO.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="heading" custom="readingOrder {index:11;} structure {type:SectionHeader;}">
+      <Coords points="234,2118 658,2118 658,2163 234,2163" />
+      <TextEquiv conf="0.9925">
+        <Unicode>EN UNA CASA DE VECINDAD.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r12" custom="readingOrder {index:12;} structure {type:Picture;}">
+      <Coords points="188,2170 671,2170 671,2805 188,2805" />
+    </ImageRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="65,2798 779,2798 779,2898 65,2898" />
+      <TextEquiv conf="0.9631">
+        <Unicode>El vecino—Seña Nicolasa: ¡Quiere V. hacerme; el favor de no cascar las liendres al chico. La intentada.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="65,2877 779,2877 779,2991 65,2991" />
+      <TextEquiv conf="0.9872">
+        <Unicode>La interpelada –Lo que va V. á hacer es á callarse enseguida sino, quiere que también le casquen á V.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="heading" custom="readingOrder {index:15;} structure {type:SectionHeader;}">
+      <Coords points="186,2995 671,2995 671,3060 186,3060" />
+      <TextEquiv conf="0.9753">
+        <Unicode>ME GUSTAN TODAS (I)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="146,3074 641,3074 641,3264 146,3264" />
+      <TextEquiv conf="0.9891">
+        <Unicode>En materia de mujeres,
+(Me dijo un amigo un día)
+Dime en prosa ó poesía
+cuales son las que prefieres.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="footnote" custom="readingOrder {index:17;} structure {type:Footnote;}">
+      <Coords points="48,3260 769,3260 769,3364 48,3364" />
+      <TextEquiv conf="0.9793">
+        <Unicode>(1) Debida á experta pluma de conocido é inspirado poeta, SORPRESAS-CHICAGO se honra muy mucho con la publicación de la poesía de M.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="972,172 1434,172 1434,435 972,435" />
+      <TextEquiv conf="0.9844">
+        <Unicode>En tan deliciosos séres púseme al punto á pensar y traté de recordar, tras meditar un instante, á las que mi ¿echo amante creyó sincero adorar.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="962,462 1485,462 1485,907 962,907" />
+      <TextEquiv conf="0.9882">
+        <Unicode>—Oye, dije: La italiana para amar se pinta sola; pero es mejor la española y juro que la alemana en candor á las dos gana. Es superior la francesa loco me vuelve la inglesa, quiero ua serrallo en Turquía, y perplejo me vería entre rusa y escoscesa.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="paragraph" custom="readingOrder {index:20;} structure {type:Text;}">
+      <Coords points="894,945 1464,945 1464,1394 894,1394" />
+      <TextEquiv conf="0.9763">
+        <Unicode>Son las negras muy garbosas;
+las indias, las hay muy bellas;
+son las mestizas, estrellas,
+son las mulatas, hermosas.
+Las blancas, son deliciosas,
+celestiales, hechiceras;
+me enamoraa de solteras
+y si vieras de casadas!....
+tras ellas y qué atareadas
+pasé semanas enteras.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r21" type="paragraph" custom="readingOrder {index:21;} structure {type:Text;}">
+      <Coords points="887,1439 1382,1439 1382,1884 887,1884" />
+      <TextEquiv conf="0.9927">
+        <Unicode>Las altas mi encanto son
+¡Son las bajas tan bonitas!...
+Al verlas tan chiquititas
+Se me parte el corazón.
+Colma toda mi ilusión
+mirar esbelta y erguida
+á una dama bien vestida
+¿Pues y la altanera chula
+que encantos mil disimula
+bajo la falda ceñida?...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r22" type="paragraph" custom="readingOrder {index:22;} structure {type:Text;}">
+      <Coords points="874,1918 1407,1918 1407,2374 874,2374" />
+      <TextEquiv conf="0.9943">
+        <Unicode>Las rubias y las morenas.
+las gordas y las delgadas,
+las solteras y casadas,
+todas me parecen buenas.
+Todas de encanto están llenas
+á todas yo las prefiero,
+por todas amante muero.
+por todas la vida diera.
+y á la mujer que yo viera
+siempre diré que la quiero.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r23" type="paragraph" custom="readingOrder {index:23;} structure {type:Text;}">
+      <Coords points="864,2398 1452,2398 1452,2853 864,2853" />
+      <TextEquiv conf="0.9922">
+        <Unicode>Fíjate bien; la mujer
+de chiquilla es un encanto,
+y para mi vale tanto
+como la de mas valer.
+De jóven ya llega á ser
+objeto de adoración;
+de jamonas, buenas son
+y á las ancianas queriendo
+es que á mi madre estoy viendo
+y quiere por su intención.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r24" type="paragraph" custom="readingOrder {index:24;} structure {type:Text;}">
+      <Coords points="852,2874 1379,2874 1379,3336 852,3336" />
+      <TextEquiv conf="0.9975">
+        <Unicode>Más por Dios yo les suplico
+no nombren el matrimonio,
+por que me lleva el demonio
+cuando pienso en eso, chico.
+No soy guapo, no soy rico,
+tan solo en una pensar
+en mi mente no ha lugar;
+mi boda fuerá locura:
+no cura mi mal el cura
+ni yo me quiero curar.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r25" custom="readingOrder {index:25;} structure {type:Picture;}">
+      <Coords points="1721,152 2271,152 2271,687 1721,687" />
+    </ImageRegion>
+    <TextRegion id="r26" type="paragraph" custom="readingOrder {index:26;} structure {type:Text;}">
+      <Coords points="1640,687 2271,687 2271,745 1640,745" />
+      <TextEquiv conf="0.9081">
+        <Unicode>—¿Ven ustedes este besugo, señores?
+Tede huma. Si</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r27" type="paragraph" custom="readingOrder {index:27;} structure {type:Text;}">
+      <Coords points="1655,728 1969,728 1969,769 1655,769" />
+      <TextEquiv conf="0.9874">
+        <Unicode>Todos á una—Sí.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r28" type="paragraph" custom="readingOrder {index:28;} structure {type:Text;}">
+      <Coords points="1625,762 2359,762 2359,842 1625,842" />
+      <TextEquiv conf="0.9942">
+        <Unicode>—Pues bien; ya pueden V. dec'r: «te veo besugo»</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r29" type="heading" custom="readingOrder {index:29;} structure {type:SectionHeader;}">
+      <Coords points="1791,869 2195,869 2195,925 1791,925" />
+      <TextEquiv conf="0.9439">
+        <Unicode>LO QUE ABUNDA.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r30" type="paragraph" custom="readingOrder {index:30;} structure {type:Text;}">
+      <Coords points="1620,945 2359,945 2359,1090 1620,1090" />
+      <TextEquiv conf="0.9958">
+        <Unicode>—Con que piensas presentarme, querido Arturo, á personas de gran importancia, aunque vacías de seso.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r31" type="paragraph" custom="readingOrder {index:31;} structure {type:Text;}">
+      <Coords points="1618,1083 2359,1083 2359,1266 1618,1266" />
+      <TextEquiv conf="0.9945">
+        <Unicode>—Sí; puesto que al fin te he podido sacar de aquel villorrio, quiero que veas lo que por este Madrid se admira, lo que nos encanta, lo que veneramos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r32" type="paragraph" custom="readingOrder {index:32;} structure {type:Text;}">
+      <Coords points="1615,1259 2359,1259 2359,1584 1615,1584" />
+      <TextEquiv conf="0.9952">
+        <Unicode>—Mira; ves aquella jóven que va en lujoso carruaje, insultando á la pobreza con sus galas, y que en este momento es saludada por aquel anciano decrépito y repugnante, aunque cargado de doblones; ¿No sabes quien es? ¿No?... Pues se la conoce por la señorita Lujuria.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r33" type="paragraph" custom="readingOrder {index:33;} structure {type:Text;}">
+      <Coords points="1655,1577 2286,1577 2286,1632 1655,1632" />
+      <TextEquiv conf="0.9967">
+        <Unicode>—Pero que apellido mas especial.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r34" type="paragraph" custom="readingOrder {index:34;} structure {type:Text;}">
+      <Coords points="1610,1622 2359,1622 2359,2022 1610,2022" />
+      <TextEquiv conf="0.9958">
+        <Unicode>—¿Te asombra? Pues la cosa es muy sencilla, aqui, en este Madrid, los vicios y las maldades han adquirido personificación y á esa muchacha, como símbolo que ha sido siempre del envilecimiento, la han bautizado sus admiradores con tal nombre. A ella sólo acuden jóvenes embrutecidos, ancianos en vilecidos y niños atrevidos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r35" type="paragraph" custom="readingOrder {index:35;} structure {type:Text;}">
+      <Coords points="1640,2025 2160,2025 2160,2080 1640,2080" />
+      <TextEquiv conf="0.9581">
+        <Unicode>—¡Me resultas hasta poeta!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r36" type="paragraph" custom="readingOrder {index:36;} structure {type:Text;}">
+      <Coords points="1603,2070 2351,2070 2351,2198 1603,2198" />
+      <TextEquiv conf="0.9953">
+        <Unicode>— No hombre, no; es que te cito las únicas personas que con ella suelen tener trato.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r37" type="paragraph" custom="readingOrder {index:37;} structure {type:Text;}">
+      <Coords points="1600,2201 2344,2201 2344,2301 1600,2301" />
+      <TextEquiv conf="0.9907">
+        <Unicode>—Dime, y esta jóven que pasa ahora por nuestro lado ¿quién es?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r38" type="paragraph" custom="readingOrder {index:38;} structure {type:Text;}">
+      <Coords points="1590,2291 2344,2291 2344,2653 1590,2653" />
+      <TextEquiv conf="0.9882">
+        <Unicode>—Esa hay que mirarla con respeto, es D.a Calumnia, que, después de haber recorrido las principales capitales del mundo, ha sentado hace pocos dias sus reales en esta Córte, y ha hecho, mucho, pero mucho daño. Hay quién dice que tiene por lengua una vívora y yo soy de esa opinión.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r39" type="paragraph" custom="readingOrder {index:39;} structure {type:Text;}">
+      <Coords points="1625,2646 2331,2646 2331,2715 1625,2715" />
+      <TextEquiv conf="0.9713">
+        <Unicode>—¿Y el mundo la recibe en sus salones?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r40" type="paragraph" custom="readingOrder {index:40;} structure {type:Text;}">
+      <Coords points="1578,2694 2331,2694 2331,2967 1578,2967" />
+      <TextEquiv conf="0.9970">
+        <Unicode>—Ya lo creo; los unos por lo que tienen que callar y los otros por si algún día pudiera sucederles lo mismo; se la teme mucho. aunque, como comprenderás es falso la mayor parte de las cosas que difama.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r41" type="paragraph" custom="readingOrder {index:41;} structure {type:Text;}">
+      <Coords points="1575,2964 2321,2964 2321,3084 1575,3084" />
+      <TextEquiv conf="0.9828">
+        <Unicode>—¿Y la justicia no ha procurado averiguar cual es la vida de esa señora?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r42" type="paragraph" custom="readingOrder {index:42;} structure {type:Text;}">
+      <Coords points="1613,3064 2291,3064 2291,3129 1613,3129" />
+      <TextEquiv conf="0.9720">
+        <Unicode>—Tiene otras cosas en qué pensar. Jecús que</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r43" type="paragraph" custom="readingOrder {index:43;} structure {type:Text;}">
+      <Coords points="1573,3105 2321,3105 2321,3195 1573,3195" />
+      <TextEquiv conf="0.9668">
+        <Unicode>¡Jesús que cara! ¡Que facha tiene esa señorita?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r44" type="paragraph" custom="readingOrder {index:44;} structure {type:Text;}">
+      <Coords points="1565,3191 2316,3191 2316,3433 1565,3433" />
+      <TextEquiv conf="0.9980">
+        <Unicode>—Es una desdichada, es la Envidia, mústia y ajada por su propia causa; brilla mucho en los salones del buen tono, en las tertulias de la clase media, y en los talleres de obreros.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r45" type="footer" custom="readingOrder {index:45;} structure {type:PageFooter;}">
+      <Coords points="1336,3350 1399,3350 1399,3398 1336,3398" />
+      <TextEquiv conf="0.9209">
+        <Unicode>M.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:57:34</Created>
+    <LastChange>2026-11-18T10:57:34</LastChange>
+  </Metadata>
+  <Page imageFilename="Hispanidad-8-Agosto-1940_P09.jpg" imageWidth="6933" imageHeight="9408">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="984,1204 1830,1204 1830,1374 984,1374" />
+      <TextEquiv conf="0.9853">
+        <Unicode>Agosto, 1940</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r1" custom="readingOrder {index:1;} structure {type:Picture;}">
+      <Coords points="2413,405 4541,405 4541,2070 2413,2070" />
+    </ImageRegion>
+    <TextRegion id="r2" type="header" custom="readingOrder {index:2;} structure {type:PageHeader;}">
+      <Coords points="5089,1223 6087,1223 6087,1374 5089,1374" />
+      <TextEquiv conf="0.9360">
+        <Unicode>AÃo I.— No. 8</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="heading" custom="readingOrder {index:3;} structure {type:SectionHeader;}">
+      <Coords points="2232,3359 4610,3359 4610,3660 2232,3660" />
+      <TextEquiv conf="0.9757">
+        <Unicode>¿Ingobernables?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="707,4205 6184,4205 6184,4638 707,4638" />
+      <TextEquiv conf="0.9971">
+        <Unicode>Albores del siglo veinte. Tarde primaveral. Bajo la umbría fresca y tranquila de una alameda, los Picos de Europa al fondo, tres hombres disfrutan del ocio y de la dulce paz. Pasean. Conversan.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="707,4770 6184,4770 6184,5334 707,5334" />
+      <TextEquiv conf="0.9942">
+        <Unicode>Uno de ellos, alto, fornido, bizarro, con huellas de amargos pesares en el rostro curtido y enérgico, protagonista obligado en uno de los muchos episodios de aquel trágico capítulo en la historia de España—la pérdida de las colonias—detiene de pronto su paso, otea rápido el horizonte y pregunta: ¿lloverá?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="707,5457 6184,5457 6184,6031 707,6031" />
+      <TextEquiv conf="0.9983">
+        <Unicode>Sus interlocutores, dos “filipinos”, es decir, dos españoles que, tras larga y porfiada lucha con la vida en estas Islas, donde dejaron su juventud y aquel primer amor que siempre vuelve, dieron como decimos por aquí, un salto a la tierruca, con la esperanza de un pronto retorno, recobradas ya las fuerzas, agostadas por los rigores del clima tropical.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="707,6143 6184,6143 6184,6444 707,6444" />
+      <TextEquiv conf="0.9875">
+        <Unicode>A la inesperada pregunta del personaje, dice uno de ellos: ¡qué le diré yo!... nubes plomizas... viento norte... lloverá.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="707,6567 6170,6567 6170,6868 707,6868" />
+      <TextEquiv conf="0.9886">
+        <Unicode>Pero el otro: . . . no lo creo. . . nubes altas. . . pasan rápidas. . . no llueve. . . Por más que. . . qué se yo. . .</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="707,6971 6170,6971 6170,7263 707,7263" />
+      <TextEquiv conf="0.9802">
+        <Unicode>Entonces, el protagonista, zumbón y con la intención de un miura: nos hemos enterado... qué le vamos a hacer... somos así... dos españoles y tres opiniones.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="707,7395 6184,7395 6184,7696 707,7696" />
+      <TextEquiv conf="0.9948">
+        <Unicode>Anécdota, rigurosamente histórica, que trae a la mente algo que, filipinos amigos de España, preguntan con frecuencia: ¿es cierto que los españoles no se entienden nunca?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="707,7809 6184,7809 6184,8251 707,8251" />
+      <TextEquiv conf="0.9977">
+        <Unicode>Y cuando a uno llegan rumores de discordias, de luchas sordas, de contiendas personales, de rebeldías más o menos encubiertas, se hace ineludible este interrogante: ¿será cierto que somos ingobernables?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="950,8373 4832,8373 4832,8533 950,8533" />
+      <TextEquiv conf="0.9880">
+        <Unicode>Repasábamos estos días la historia de la conquista de las Américas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="footer" custom="readingOrder {index:13;} structure {type:PageFooter;}">
+      <Coords points="6406,8618 6503,8618 6503,8749 6406,8749" />
+      <TextEquiv conf="0.8941">
+        <Unicode>8</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="footer" custom="readingOrder {index:14;} structure {type:PageFooter;}">
+      <Coords points="118,9013 1220,9013 1220,9248 118,9248" />
+      <TextEquiv conf="0.9518">
+        <Unicode>MCD 2018</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

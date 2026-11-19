@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:58:01</Created>
+    <LastChange>2026-11-18T10:58:01</LastChange>
+  </Metadata>
+  <Page imageFilename="0148_Semana-0148.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="112,280 416,280 416,333 112,333" />
+      <TextEquiv conf="0.9405">
+        <Unicode>16—SEMANA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="2034,277 2391,277 2391,333 2034,333" />
+      <TextEquiv conf="0.9568">
+        <Unicode>5 de Mayo, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="116,389 2381,389 2381,712 116,712" />
+      <TextEquiv conf="0.9943">
+        <Unicode>Emocionante manifestación
+de duelo por Da. Aurora</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="104,831 810,831 810,1795 104,1795" />
+      <TextEquiv conf="0.9878">
+        <Unicode>Los funerales celebrados el jueves por doña Aurora y sus hijos, María Aurora y Felipe Buencamino III, víctimas, con otros, de la cobarde emboscada de uncs “huks” malhechores, fueron una elocuente y extraordinaria manifestación de duelo general. La iglesia parroquial del Smo. Rosario (capilla del Seminario de Santo Tomás) se vió concurrida desde que allí quedaron depositados los cadáveres, por multitud de personas de todas edañes, sexos y condiciones, ávidas de manifestar con su desfile silencioso, el dolor que les había producido la inesperada y violenta muerte de la que fué dignísima esposa.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r4" custom="readingOrder {index:4;} structure {type:Picture;}">
+      <Coords points="939,799 2344,799 2344,1553 939,1553" />
+    </ImageRegion>
+    <TextRegion id="r5" type="caption" custom="readingOrder {index:5;} structure {type:Caption;}">
+      <Coords points="912,1585 2369,1585 2369,1809 912,1809" />
+      <TextEquiv conf="0.9931">
+        <Unicode>El féretro de Du. Aurora, cubierto con la bandera de la Cruz Roja, de la que cra presidenta, y velada por enfermeros de la institución. En el centro de la fotografía aparece S. E. el Presidente Quirino, de rodillas durante la Misa celebrada por S. E. Mons. Santos. También aparece hacia la izquierda el presidente del Senado, Hon. Mariano J. Cuenco, y a su izquierda, de rodillas, la Srta. Quirno, hija del Presidente.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r6" custom="readingOrder {index:6;} structure {type:Picture;}">
+      <Coords points="151,1834 1566,1834 1566,2980 151,2980" />
+    </ImageRegion>
+    <TextRegion id="r7" type="caption" custom="readingOrder {index:7;} structure {type:Caption;}">
+      <Coords points="149,2994 1578,2994 1578,3222 149,3222" />
+      <TextEquiv conf="0.9918">
+        <Unicode>Ante un público numeroso que mostraba bien a las claras el sincero pesar que le embargaba, se llevó a cabo el entierro de Da. Aurora de Quezon, su hija María Aurora y su hijo politico Felipe Buecamino III, en el cementerio del Norte, en el mausoleo donde descansan los restos mortales del Presidente Quezon. La fotografía se tomó momentos antes de introducir en el nicho el ataúd de Da. Aurora, delante del cual está S.E.el Presidente Quirino, visiblemente conmovió.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="1663,1872 2391,1872 2391,2033 1663,2033" />
+      <TextEquiv conf="0.9782">
+        <Unicode>del llorado e inolvidable Presidente Quezon y de su primogénita, familiarmente llamada Baby.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="1658,2033 2391,2033 2391,2945 1658,2945" />
+      <TextEquiv conf="0.9919">
+        <Unicode>Por la mañana, se celebraron Misas en sufragio de lcs difuntos, siendo la última la que ofició el Exemo. Sr. Obispo Auxiliar de Manila, Dr. Rufino Santos, y a la cual asistieron todos los elementos oficiales encabezados por S. E. el Presidente Quirino, que interrumpió su estancia en Baguio, vino a la capital en avión, trasladándose directamente desde el aeródromo al mencionado templo, el cual se hallaba ya ocupado totalmente por un público heterógeneo de Manila y las provincias vecinas, principalmente la de Quezon (antes Tayabas.)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="1635,2949 2379,2949 2379,3215 1635,3215" />
+      <TextEquiv conf="0.9909">
+        <Unicode>Por la tarde a las cuatro. después de los responsos rezados por el mismo Sr. Obispo ante una concurrencia que se desbordaba del recinto de la iglesia, comenzó el</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:57:49</Created>
+    <LastChange>2026-11-18T10:57:49</LastChange>
+  </Metadata>
+  <Page imageFilename="0052_Semana-0052.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="82,259 372,259 372,316 82,316" />
+      <TextEquiv conf="0.9367">
+        <Unicode>SEMANA—8</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="1992,256 2376,256 2376,312 1992,312" />
+      <TextEquiv conf="0.9479">
+        <Unicode>10 de Marzo, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="87,361 2384,361 2384,649 87,649" />
+      <TextEquiv conf="0.9861">
+        <Unicode>Otros dos tratados entre Filipinas y España
+firmados solemnemente</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="87,705 808,705 808,1644 87,1644" />
+      <TextEquiv conf="0.9946">
+        <Unicode>El viernes, 5 del corriente marzo, y en el palacio de Malacañan, abierta aún la primera Expecsición del Libro Español contemporáneo, se firmaron dos tratados entre España y Filipinas: uno el referente a los grados académicos y ejercicio de las profesiones, y otro el tratado cultural. El acto de la firma se llevó a cabo en el salón del consejo de estado, poco antes del medio día, en presencia de altos representantes diplomáticos de ambos países, elevados funcionarios de la República, miembros de el Gabinete y distinguidas personalidades de la colonia española de las Islas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="92,1644 810,1644 810,1858 92,1858" />
+      <TextEquiv conf="0.9834">
+        <Unicode>S. E. el Presidente don Elpidio Quirino, en su carácter de Secretario de Asuntos Extranjeros, firmó los tratados por Filipinas, y el</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="882,705 1606,705 1606,1697 882,1697" />
+      <TextEquiv conf="0.9943">
+        <Unicode>Exemo. D. Teodomiro Aguilar y Salas, ministro de España, lo hizo por el gobierno español. Después de la firma, el Presidente Quirino pronunció un breve discurso en e' que reiteró los sinceros sentimientos de amistad que alimenta Filipinas por España, haciendo notar que la República filipina tiene firmados con España mayor número de tratados que con cualquier otro país y que probablemente se concierten aún ctros más. Añadió, sin embargo, que más que estos tratados, pór muchos que fueron, une a los dos pueblos la sinceridad de los sentimientos de mutua amistad que españoles y filipinos guardan en lo íntimo de sus corazones.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="887,1700 1606,1700 1606,1858 887,1858" />
+      <TextEquiv conf="0.9835">
+        <Unicode>A las palabras del Presidente, contestó el Ministro español con otras no menos fervorosas en las:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="1670,705 2396,705 2396,1276 1670,1276" />
+      <TextEquiv conf="0.9935">
+        <Unicode>que subrayó los principios nobilísimos de paz y convivencia social que inspiran las relaciones entre España y Filipinas, cuyos pueblos marchan por una misma ruta. Declaró también que los tratados que acababan de firmarse eran consecuencia de un afecto mutuo de verdadera amistad que no ha podido extinguir ni el tiempo ni las circunstancias.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="1680,1280 2404,1280 2404,1806 1680,1806" />
+      <TextEquiv conf="0.9902">
+        <Unicode>El tratado cultural se encamina a estimular el intercambio cultural entre ambos países y dispone el canje de publicaciones del gobierno y de los cuerpos profesionales; canje de toda clase de libros y publicaciones de autores nacionales; establecimiento de un programa regular de radiodifusiones en ambos países para el intercambio</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="1799,1820 2287,1820 2287,1865 1799,1865" />
+      <TextEquiv conf="0.9677">
+        <Unicode>(Términa en la página 10)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r10" custom="readingOrder {index:10;} structure {type:Picture;}">
+      <Coords points="218,1998 2287,1998 2287,3117 218,3117" />
+    </ImageRegion>
+    <TextRegion id="r11" type="caption" custom="readingOrder {index:11;} structure {type:Caption;}">
+      <Coords points="112,3141 2404,3141 2404,3233 112,3233" />
+      <TextEquiv conf="0.9936">
+        <Unicode>Momento histórico en que S. E. el Presidente de Filipinas (a la izquierda) firma los tratados cultural y educacional entre España y Filipinas, mientras hace lo propio frente a el Ministro español, Sr. Aguilar.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

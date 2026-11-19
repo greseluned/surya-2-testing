@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:56:01</Created>
+    <LastChange>2026-11-18T10:56:01</LastChange>
+  </Metadata>
+  <Page imageFilename="Fémina_15-10-1923_P09.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="240,175 488,175 488,228 240,228" />
+      <TextEquiv conf="0.9351">
+        <Unicode>Fémina</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="2050,158 2248,158 2248,210 2050,210" />
+      <TextEquiv conf="0.9704">
+        <Unicode>Página 8</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="483,270 937,270 937,354 483,354" />
+      <TextEquiv conf="0.9002">
+        <Unicode>Los Muertos Etc...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="590,354 1175,354 1175,407 590,407" />
+      <TextEquiv conf="0.9747">
+        <Unicode>(Continuación de la 1a. pág)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="198,421 1227,421 1227,859 198,859" />
+      <TextEquiv conf="0.9961">
+        <Unicode>naciones de nuestra América, para echar las bases inconmovibles de la Potencia más formidable del Mundo; puesto que todos los pueblos que se van a hermanar y a fundir en un gran Pueblo de Hermanos, son de igual origen, y atados están por los sagrados nexos de la misma Tradición, y de la misma Habla.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="206,852 1232,852 1232,1558 206,1558" />
+      <TextEquiv conf="0.9930">
+        <Unicode>Martí—Sí; Santo Domingo, como es geográficamente el Centro del Mundo, habrá de ser mañana—en breve—el mismo foco de luz que un día fué; cuando desde su Universidad Primada de la América irradiaba la luz a todo el Continente; de allí salí yo con mi antorcha de Libertad y de Amor en la fulmínea diestra, armado dei Derecho; de allí también—de otro extremo de la Isla salió Bolívar con su fardo enorme de responsabilidades sobre la ancha espalda de ios Hércules para trepar con él o éllas sobre “El Chimborazo” y “Los Andes” enhiestos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="218,1551 1254,1551 1254,2414 218,2414" />
+      <TextEquiv conf="0.9898">
+        <Unicode>Hostos—Yo solo espero en el silencio de la tumba dominicana donde aún vive su vida inextinguible mi ánima gigante; la gran fusión nacionalísima del Gran Pueblo Domínicano, para entonces, contigo de la mano—invitar a Bolívar que aún vive en Venezuela, y en Chile y la Argentina, y en el Brasil y en Paraguay, y en Colombia y en Ecuador, y en Méjico mismo y Centro América, como en Cuba y Puerto Rico vivimos nosotros para la Obra América y hacer en un solo día lo que en el año 1822 deseó hacer El Libertador de la América nuestra, siendo desairado por esos Estados Unidos del Norte América que hoy tememos....</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="238,2421 1264,2421 1264,2806 238,2806" />
+      <TextEquiv conf="0.9936">
+        <Unicode>Martí—Tienes razón; pero, “La Fuerza Cónscia” de que tu hablabas cuando no podías ser entendido, Triunfa, porque ya hay muchos hombres plenos de razón que saben traducir perfectamente, nuestras parábolas y apotegmas. La “Fuerza Cónscia” hoy es irresistible en nuestra América.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="240,2799 1272,2799 1272,3231 240,3231" />
+      <TextEquiv conf="0.9878">
+        <Unicode>Hostos—Contribuye tú desde tu Cuba rica, a dar igual riqueza material a estos otros pueblos, para que, una vez que el pan del cuerpo no nos obligue a las obscenidades del hambre, podamos insuflar el pan del alma a las gentes y hacerlas mirar y caminar hácia la Ley del Ideal, creando la Gran Potencia de la América.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r9" custom="readingOrder {index:9;} structure {type:Picture;}">
+      <Coords points="1259,270 2241,270 2241,1740 1259,1740" />
+    </ImageRegion>
+    <TextRegion id="r10" type="caption" custom="readingOrder {index:10;} structure {type:Caption;}">
+      <Coords points="1760,1572 1921,1572 1921,1610 1760,1610" />
+      <TextEquiv conf="0.7763">
+        <Unicode>ROUGES</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="1319,1779 2286,1779 2286,1922 1319,1922" />
+      <TextEquiv conf="0.9908">
+        <Unicode>PEDRO V. DURAN y PEPEN
+Alegre y simpático niñito que hace feliz el hogar
+de sus amantes padres.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="1289,1947 2323,1947 2323,2280 1289,2280" />
+      <TextEquiv conf="0.9922">
+        <Unicode>Martí—Somos “Veinte Hermanas”, con cuarenta manos, y doscientos dedos; podemos—muy bien—trocarnos en centáuro y pulpo uniendo todas nuestras potencias; desunidos nó; solos... seremos un gusano de seda...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="1728,2280 2268,2280 2268,2333 1728,2333" />
+      <TextEquiv conf="0.9792">
+        <Unicode>PROF. AMTAMA GOMEZ.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="heading" custom="readingOrder {index:14;} structure {type:SectionHeader;}">
+      <Coords points="1616,2410 1998,2410 1998,2470 1616,2470" />
+      <TextEquiv conf="0.9461">
+        <Unicode>INVIERNO.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="1430,2491 2008,2491 2008,2677 1430,2677" />
+      <TextEquiv conf="0.9945">
+        <Unicode>El invierno de las almas es muy triste, pues sabrás que cuando roba la calma no se consigue jamás.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="1430,2691 2087,2691 2087,2884 1430,2884" />
+      <TextEquiv conf="0.9931">
+        <Unicode>El Invierno—la estación—,
+en mi Patria no es muy triste
+y muy pronto se reviste
+de bellezas la creación</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="1440,2901 2120,2901 2120,3091 1440,3091" />
+      <TextEquiv conf="0.9917">
+        <Unicode>Más del alma los inviernos,
+iQué horribles y tristes son!...
+Sumerjen en el Averno
+nuestro propio corazón!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="1609,3094 2159,3094 2159,3150 1609,3150" />
+      <TextEquiv conf="0.9904">
+        <Unicode>C. E. Maggiolo de Cruzado</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="1445,3150 1966,3150 1966,3196 1445,3196" />
+      <TextEquiv conf="0.9867">
+        <Unicode>San Cristóbal, Septiembre de 1923.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

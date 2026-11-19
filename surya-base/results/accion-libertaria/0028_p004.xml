@@ -1,0 +1,440 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:55:20</Created>
+    <LastChange>2026-11-18T10:55:20</LastChange>
+  </Metadata>
+  <Page imageFilename="0028_p004.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+        <RegionRefIndexed index="21" regionRef="r21" />
+        <RegionRefIndexed index="22" regionRef="r22" />
+        <RegionRefIndexed index="23" regionRef="r23" />
+        <RegionRefIndexed index="24" regionRef="r24" />
+        <RegionRefIndexed index="25" regionRef="r25" />
+        <RegionRefIndexed index="26" regionRef="r26" />
+        <RegionRefIndexed index="27" regionRef="r27" />
+        <RegionRefIndexed index="28" regionRef="r28" />
+        <RegionRefIndexed index="29" regionRef="r29" />
+        <RegionRefIndexed index="30" regionRef="r30" />
+        <RegionRefIndexed index="31" regionRef="r31" />
+        <RegionRefIndexed index="32" regionRef="r32" />
+        <RegionRefIndexed index="33" regionRef="r33" />
+        <RegionRefIndexed index="34" regionRef="r34" />
+        <RegionRefIndexed index="35" regionRef="r35" />
+        <RegionRefIndexed index="36" regionRef="r36" />
+        <RegionRefIndexed index="37" regionRef="r37" />
+        <RegionRefIndexed index="38" regionRef="r38" />
+        <RegionRefIndexed index="39" regionRef="r39" />
+        <RegionRefIndexed index="40" regionRef="r40" />
+        <RegionRefIndexed index="41" regionRef="r41" />
+        <RegionRefIndexed index="42" regionRef="r42" />
+        <RegionRefIndexed index="43" regionRef="r43" />
+        <RegionRefIndexed index="44" regionRef="r44" />
+        <RegionRefIndexed index="45" regionRef="r45" />
+        <RegionRefIndexed index="46" regionRef="r46" />
+        <RegionRefIndexed index="47" regionRef="r47" />
+        <RegionRefIndexed index="48" regionRef="r48" />
+        <RegionRefIndexed index="49" regionRef="r49" />
+        <RegionRefIndexed index="50" regionRef="r50" />
+        <RegionRefIndexed index="51" regionRef="r51" />
+        <RegionRefIndexed index="52" regionRef="r52" />
+        <RegionRefIndexed index="53" regionRef="r53" />
+        <RegionRefIndexed index="54" regionRef="r54" />
+        <RegionRefIndexed index="55" regionRef="r55" />
+        <RegionRefIndexed index="56" regionRef="r56" />
+        <RegionRefIndexed index="57" regionRef="r57" />
+        <RegionRefIndexed index="58" regionRef="r58" />
+        <RegionRefIndexed index="59" regionRef="r59" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="332,330 357,330 357,358 332,358" />
+      <TextEquiv conf="0.9658">
+        <Unicode>4</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="1029,323 1346,323 1346,358 1029,358" />
+      <TextEquiv conf="0.9447">
+        <Unicode>ACCION LIBETRARIA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="300,382 739,382 739,554 300,554" />
+      <TextEquiv conf="0.9885">
+        <Unicode>Ya estará haciendo las maletas el delegado de los trabajadores "Nacionalistas" de este país a la "conferencia Internacional del Trabajo, organizada por la Liga (sin goma) de las Naciones".</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="300,547 739,547 739,642 300,642" />
+      <TextEquiv conf="0.9823">
+        <Unicode>Y como es de esperar—mejor santados— de esa conferencia saldrá la solución del problema del trabajo; al</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="749,382 1182,382 1182,554 749,554" />
+      <TextEquiv conf="0.9878">
+        <Unicode>decir de sus panegiristas, La Hermandad Ferroviaria y la Unión de dependientes de Café—que por sí solas integran todo el proletariado de Cuba—así como suena decir ellos—están de plácemes... y Mr. Jack con ellos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="749,547 1182,547 1182,642 749,642" />
+      <TextEquiv conf="0.9974">
+        <Unicode>Mientras va y viene el delegado, Mr. Jack dará buena cuenta de la Hermandad y de los hermanos...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="1192,382 1626,382 1626,470 1192,470" />
+      <TextEquiv conf="0.9961">
+        <Unicode>así como otras obras del referido camarada a su nombre—Zarza 17—Jerez de la Frontera—Cádiz—España.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="1192,491 1629,491 1629,866 1192,866" />
+      <TextEquiv conf="0.9891">
+        <Unicode>De Barcelona recibimos con regularidad "Revista Blanca", cada día más interesante; y también, "Revista Nueva", publicación semanal de carácter anarquista, aunque declaró en el primer número no pertenecer a ninguna secta o partido—eso es precisamente el anarquismo bien entendido. La dirección de "Revista Blanca" continúa siendo Martín 3, Sardañola del Valles—Barcelona. Los que quieran recibir "Revista Nueva", pueden dirigirse a Viladomat 108—Barcelona.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="1192,859 1629,859 1629,923 1192,923" />
+      <TextEquiv conf="0.9821">
+        <Unicode>La "Revista Blanca" puede servir-la Miguel.Sánchez, Zulueta 37, altos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="1192,951 1629,951 1629,1158 1192,1158" />
+      <TextEquiv conf="0.9852">
+        <Unicode>“La Protesta” de Buenos Aires, ha tenido a bien, corresponder a nuestro canje, lo que agradecemos infinitamente. Sus suplementos literarios, son un magnífico exponente de la capacidad, delicadeza y buen gusto de los que la confeccionan y redactan.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="1192,1203 1629,1203 1629,1551 1192,1551" />
+      <TextEquiv conf="0.9906">
+        <Unicode>Vemos en nuestra mesa un buen número de periódicos extranjeros: "Cultura Obrera" de New York, "Cultura Obrera de Palma de Mallorca", "Solidaridad Obrera" de Coruña, "Humanidad" de México, "¡Fede!" de Roma, L'Auvernie" de Buenos Aires, "Ideas" de La Plata, "A'Comuna", de Oporto, "La Protesta" de Lima, "La Antorcha" de Buenos Aires, "Mar y Tierra" de Argentina, "Revista Aurora" de Nueva York.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="1192,1600 1634,1600 1634,1775 1192,1775" />
+      <TextEquiv conf="0.9967">
+        <Unicode>De España nos han sido enviados algunos ejemplares del folleto que contiene la conferencia pronunciada por Eduardo Barriobero en el Ateneo de Madrid, sobre el proceso de Altos Hornos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="1192,1772 1636,1772 1636,1975 1192,1975" />
+      <TextEquiv conf="0.9900">
+        <Unicode>Enerva el ánimo y crispa los pelos el relato de los procedimientos que se emplean en el desgraciado país de los inquisidores, para obligar a los hombres a hacerse reos de un delito. Son procedimientos que aun los cafres serían incapaces de poner en práctica.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="1192,1968 1636,1968 1636,2031 1192,2031" />
+      <TextEquiv conf="0.9858">
+        <Unicode>La circulación de este folleto está siendo perseguida por el Directorio.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="1210,2084 1636,2084 1636,2312 1210,2312" />
+      <TextEquiv conf="0.9907">
+        <Unicode>La Editorial Argonauta de Buenos Aires, nos ha remitido un ejemplar del magnífico libro de Luis Fabbri, "Dictadura y Revolución", en el cual se estudian detenidamente interesantísimos aspectos del gran movmiento revolucionario que convulsiona actualmente la sociedad humana.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="1210,2308 1641,2308 1641,2599 1210,2599" />
+      <TextEquiv conf="0.9859">
+        <Unicode>Además, la referida Editorial anuncia la publicación, que comenzará el 1o de Enero de 1925, de los “Anales del Movimiento anarquistas internacional”, obra del historiador del anarquismo Max Nettlan, publicación en varios volúmenes de más de 400 páginas, y que se dividirá en tres secciones principales: El pasado; El movimiento contemporáneo y El futuro.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="1210,2592 1641,2592 1641,2708 1210,2708" />
+      <TextEquiv conf="0.9875">
+        <Unicode>También, anuncia la obra de Pierre Ramus, cuya traducción está terminando, “La Nueva creación de la sociedad por el comunismo anarquista.”</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="1210,2701 1646,2701 1646,2827 1210,2827" />
+      <TextEquiv conf="0.9950">
+        <Unicode>Para todo lo relacionado con la Editorial de referencia dirigirse a J. M. Fernández, Casilla de Correos 1980, Buenos Aires.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="1210,2859 1646,2859 1646,3006 1210,3006" />
+      <TextEquiv conf="0.9910">
+        <Unicode>Los camaradas que deseen ayudar al viejo y constante luchador Enrique Malatesta a sostener la publicación de su revista “Pensiero e Volontá”, pueden dirigirse a la siguiente dirección:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="1639,382 2077,382 2077,442 1639,442" />
+      <TextEquiv conf="0.9845">
+        <Unicode>Vía Andrea Doria número 97. Roma
+(48) Italy.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="paragraph" custom="readingOrder {index:20;} structure {type:Text;}">
+      <Coords points="1639,502 2077,502 2077,593 1639,593" />
+      <TextEquiv conf="0.9927">
+        <Unicode>De la Editorial. 'Semillas Nuevas' de Buenos Aires, también recibimos un folleto mensualmente. Gracias.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r21" type="heading" custom="readingOrder {index:21;} structure {type:SectionHeader;}">
+      <Coords points="1639,642 2077,642 2077,691 1639,691" />
+      <TextEquiv conf="0.9173">
+        <Unicode>“A LOS JOVENES”</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r22" type="paragraph" custom="readingOrder {index:22;} structure {type:Text;}">
+      <Coords points="1639,726 2082,726 2082,1042 1639,1042" />
+      <TextEquiv conf="0.9914">
+        <Unicode>Este magnífico folleto de Kropotkin, que bastaría para hacer perdurable su memoria entre los hombres, ha sido editado por la Universidad Popular "José Martí". Llamamos la atención a los camaradas, amantes de la propaganda cultural, para que ayuden con todas sus fuerzas a los noveles luchadores de la Universidad Popular, para que lleven adelante su obra de divulgación científica.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r23" type="paragraph" custom="readingOrder {index:23;} structure {type:Text;}">
+      <Coords points="1663,1038 1976,1038 1976,1070 1663,1070" />
+      <TextEquiv conf="0.9680">
+        <Unicode>El folleto vale 5 centavos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r24" type="heading" custom="readingOrder {index:24;} structure {type:SectionHeader;}">
+      <Coords points="1663,1123 2060,1123 2060,1175 1663,1175" />
+      <TextEquiv conf="0.9424">
+        <Unicode>PRO-ARIAS, QUIROS Y RIVERA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r25" type="paragraph" custom="readingOrder {index:25;} structure {type:Text;}">
+      <Coords points="1639,1207 2082,1207 2082,1326 1639,1326" />
+      <TextEquiv conf="0.9953">
+        <Unicode>El Comité Pro-Arias, Quirós y Rivera, nos ha enviado sus últimos manifiestos de propaganda por la libertad de los referidos compañeros.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r26" type="paragraph" custom="readingOrder {index:26;} structure {type:Text;}">
+      <Coords points="1639,1319 2082,1319 2082,1522 1639,1522" />
+      <TextEquiv conf="0.9949">
+        <Unicode>En ellos se hace un llamado a la solidaridad de todos los que se interesan por la causa de la emancipación humana, para que reanuden sus actividades, interrumpidas, y se resuelva cuanto antes la situación de los presos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r27" type="heading" custom="readingOrder {index:27;} structure {type:SectionHeader;}">
+      <Coords points="1760,1579 1968,1579 1968,1610 1760,1610" />
+      <TextEquiv conf="0.9122">
+        <Unicode>ADMINISTRACION</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r28" type="paragraph" custom="readingOrder {index:28;} structure {type:Text;}">
+      <Coords points="1639,1645 2087,1645 2087,1708 1639,1708" />
+      <TextEquiv conf="0.9974">
+        <Unicode>Detalle de los ingresos y egresos correspondiente al número 8 de este periódico:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r29" type="paragraph" custom="readingOrder {index:29;} structure {type:Text;}">
+      <Coords points="1639,1701 2090,1701 2090,2161 1639,2161" />
+      <TextEquiv conf="0.9935">
+        <Unicode>Ingresos: Arrigoni, $1.00; de Preston, A. V. Mompé, $5.00; Louisville, J. M. Porto, $2.50; A. Ruiz, $0.30; de la Unión de Trabajadores de oficios varios, $8.31; de Mekesport, M. Fernández, $5.00; E. Gutiérrez, $0.50; Alejandro Barreiro, $1.00; de Stenbenville, R. Lone, $4.00; Ramón Barreras, $2.00; de San Germán, J. Just, $1.00; Enrique Vallejo, $0.20; José Rego, $1.00; de Alquízar, J. González, $2.00; Central Delicias, S. García, $2.00, por "Nueva Luz"; de Esmeralda, S. Casielles, $5.00; Sebastián Aguiar, $1.50; un compañero, por Rodríguez, $2.50; José Rodríguez, $2.70. Total: $47.51.
+Egresos:—Tiraje, 41.00; Sellos, 1.00; Viajes y goma, 0.60. Total: $42.60.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r30" type="heading" custom="readingOrder {index:30;} structure {type:SectionHeader;}">
+      <Coords points="1802,2171 1934,2171 1934,2200 1802,2200" />
+      <TextEquiv conf="0.9354">
+        <Unicode>RESUMEN:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r31" type="other" custom="readingOrder {index:31;} structure {type:Table;}">
+      <Coords points="1663,2200 2090,2200 2090,2403 1663,2403" />
+      <TextEquiv conf="0.9851">
+        <Unicode>Superávit del núm. 7 . . . . $ 26.84
+Ingresos al núm. 8 . . . . 47.51
+$74.35
+Egresos . . . . . 42.60
+Superávit al núm. 9. . . . $ 31.75</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r32" type="heading" custom="readingOrder {index:32;} structure {type:SectionHeader;}">
+      <Coords points="1760,2459 1986,2459 1986,2491 1760,2491" />
+      <TextEquiv conf="0.9438">
+        <Unicode>CORRESPONDENCIA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r33" type="paragraph" custom="readingOrder {index:33;} structure {type:Text;}">
+      <Coords points="1663,2529 2092,2529 2092,2585 1663,2585" />
+      <TextEquiv conf="0.9871">
+        <Unicode>Nuevitas.—J. Panza.—Recibimos $2. Suspendemos a Buján y a Rocas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r34" type="paragraph" custom="readingOrder {index:34;} structure {type:Text;}">
+      <Coords points="1663,2599 2092,2599 2092,2656 1663,2656" />
+      <TextEquiv conf="0.9754">
+        <Unicode>Caibarién.—J. Sánchez.—En nuestro poder giro tuyo por $1.40.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r35" type="paragraph" custom="readingOrder {index:35;} structure {type:Text;}">
+      <Coords points="1663,2666 2097,2666 2097,2757 1663,2757" />
+      <TextEquiv conf="0.9916">
+        <Unicode>Cienfuegos.—R. Martínez.—Serán servidos los ejemplares que pides. Todavía no ha llegado a nuestro poder el dinero.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r36" type="paragraph" custom="readingOrder {index:36;} structure {type:Text;}">
+      <Coords points="1663,2768 2097,2768 2097,2884 1663,2884" />
+      <TextEquiv conf="0.9909">
+        <Unicode>Guantánamo.—Francisco Puig.—Recibimos los $6: $1 para “A. L.”, $1 para “El Sembrador, $2 para “N. L.” y $2 para “Progreso”.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r37" type="footer" custom="readingOrder {index:37;} structure {type:PageFooter;}">
+      <Coords points="1753,2947 1998,2947 1998,2982 1753,2982" />
+      <TextEquiv conf="0.8870">
+        <Unicode>Imp. Amărgura 90</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r38" type="heading" custom="readingOrder {index:38;} structure {type:SectionHeader;}">
+      <Coords points="305,719 1182,719 1182,793 305,793" />
+      <TextEquiv conf="0.9627">
+        <Unicode>LA SITUACION EN ESPAÑA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r39" type="paragraph" custom="readingOrder {index:39;} structure {type:Text;}">
+      <Coords points="300,824 744,824 744,1172 300,1172" />
+      <TextEquiv conf="0.9979">
+        <Unicode>Cada día que pasa, es peor la situación de los compañeros españoles; pues el gobierno dictatorial de Primo de Rivera, va constante y paulatinamente, agarrotando todo lo que sea espíritu de libertad, imposibilitando por medio de una represión estudiada a maravilla e inexorablemente aplicada, el que se manifieste en todo su vigor, el descontento y las aspiraciones, de aquellos que ansian un cambio total y radical, en las formas que hoy rigen a los pueblos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r40" type="paragraph" custom="readingOrder {index:40;} structure {type:Text;}">
+      <Coords points="300,1165 749,1165 749,1743 300,1743" />
+      <TextEquiv conf="0.9651">
+        <Unicode>Hasta nosotros llegan de una manera desarticulada, sin conexión, voces que protestan y gritos rugientes en demanda de una acción internacional, que ponga fin al estado de implacable represión, que allí se emplea. Estas voces y estos gritos, vienen en modo de artículos periodísticos, y en forma tal, que se nos hace imposible el poder publicarlos. Y no es por lo que pudiera tener de peligroso para nosotros; pues por mucha que sea la influencia que los amos de España puedan tener, no sería tanta, que lograran castigarnos aquí, en la medida que pueden hacerlo con nuestros colaboradores allá, caso, muy probable, de que fueran descubiertos. À dientes, haceró somente, muy propicios, a sentar plaza de banecios a tres mil millas de distancia.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r41" type="paragraph" custom="readingOrder {index:41;} structure {type:Text;}">
+      <Coords points="300,1736 749,1736 749,1912 300,1912" />
+      <TextEquiv conf="0.9891">
+        <Unicode>En estos días hemos leido, en los cables, que la prensa diaria recibe de sus corresponales españoles, que ha sido detenido un individuo, acusado de publicar artículos contra el directorio, en un periódico de la Habana.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r42" type="paragraph" custom="readingOrder {index:42;} structure {type:Text;}">
+      <Coords points="300,1908 749,1908 749,2024 300,2024" />
+      <TextEquiv conf="0.9821">
+        <Unicode>Esta es, a nuestra manera de ver este asunto, una razón asaz poderosa, para no publicar artículos violentísimos, que varios camaradas nos remi-</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r43" type="paragraph" custom="readingOrder {index:43;} structure {type:Text;}">
+      <Coords points="749,824 1182,824 1182,1456 749,1456" />
+      <TextEquiv conf="0.9917">
+        <Unicode>ten desde distintos puntos de España. Nosotros, si queremos realizar una campaña contra el estado inquisitorial que prevalece en el feudo de Alfonso, Primo y Co. Pero, para ello, precisamos, que todos aquellos que posean datos concretos de arbitrariedades, desafueros, tropelías, atropellos y atentados a la libertad y a la vida humana, nos los remitan expuestos en forma clara y vestidos con el lenguaje que la verdad impone; pues aquí, donde la dictadura riverista posee elementos periodísticos como es la prensa española y la cubana, no es posible que nosotros podamos hacer ambiente a base de literatura ardiente y quemante. Precisamos pues, la colaboración de todos aquellos elementos que con ánimo sereno, sean capaces de comprender las razones que aquí quedan expuestas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r44" type="paragraph" custom="readingOrder {index:44;} structure {type:Text;}">
+      <Coords points="749,1463 1190,1463 1190,1807 749,1807" />
+      <TextEquiv conf="0.9837">
+        <Unicode>Nosotros conocemos direcciones de compañeros que nos merecen confianza en el doble sentido de su personalidad y su ecuanimidad para tratar estos asuntos, pero no hemos creído oportuno dirigirnos a ellos en solicitud de esta clase de labor, por el tel de que nuestras cartas pudieran liegar a manos policiales y acarreásemos con ello, prejuicios y persecuciones que creemos, sinceramente, debemos evitar.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r45" type="paragraph" custom="readingOrder {index:45;} structure {type:Text;}">
+      <Coords points="749,1817 1192,1817 1192,2017 749,2017" />
+      <TextEquiv conf="0.9904">
+        <Unicode>Estas lineas, a la vez que sirven de explicación del por qué de no publicar ciertos originales, deseamos sirvan y se consideren, como solicitud de colaboración a aquellos camaradas que sean capaces de remitirla en la forma que exponemos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r46" type="heading" custom="readingOrder {index:46;} structure {type:SectionHeader;}">
+      <Coords points="340,2084 729,2084 729,2140 340,2140" />
+      <TextEquiv conf="0.9616">
+        <Unicode>PAPEL RECIBIDO</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r47" type="paragraph" custom="readingOrder {index:47;} structure {type:Text;}">
+      <Coords points="315,2154 759,2154 759,2929 315,2929" />
+      <TextEquiv conf="0.9914">
+        <Unicode>Creemos innecesario decir, que en esta sección no hemos de hacer crítica de ninguna especie, No es este el camino, que de seguir con honestidad es saltamente difícil recorrer, el que nosotros pretendemos hacer. Nuestras fuerzas nó nos facultan para tan altas empresas, si no que precisan, para ser ejercitadas, de senderos llanos y fáciles, desprovistos de los obstáculos que los de la crítica presenta para los que como nosotros, apenas nos llamamos Pío, en las lides de la escritura más o menos literaria. Item mas, nuestro carácter no se presta a entrar a saco en la producción agena, guiados por el deseo de hallar en ella, errores, faltas y fallos, donde morder con ahinco y presentar las máculas que en nuestra búsqueda, pudiéramos hallar. Que a esto se reduce, la más de las veces, la labor de los señores críticos al uso; y la casi totalidad de las otras, a poner por las nubes las producciones de que se ocupan, si el autor es amigo o pertenece a la muy respetable y extendida cofradía del bombo mutuo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r48" type="paragraph" custom="readingOrder {index:48;} structure {type:Text;}">
+      <Coords points="315,2926 761,2926 761,3013 315,3013" />
+      <TextEquiv conf="0.9925">
+        <Unicode>Aquí, pues, nos constreñiremos, a exponer las impresiones que nos produzca, la lectura de todo lo que nos</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r49" type="paragraph" custom="readingOrder {index:49;} structure {type:Text;}">
+      <Coords points="761,2080 1197,2080 1197,2336 761,2336" />
+      <TextEquiv conf="0.9966">
+        <Unicode>remitan, o nosotros podamos adquirir merced a nuestro esfuerzo propio. Y lo haremos, en estilo corriente y sencillo, como cabe a individuos que no creen en la eficacia de las entonaciones doctorales, ocultadoras, casi siempre, de la falta de los conocimientos indispensables para llevar a cabo este trabajo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r50" type="paragraph" custom="readingOrder {index:50;} structure {type:Text;}">
+      <Coords points="761,2333 1200,2333 1200,2596 761,2596" />
+      <TextEquiv conf="0.9889">
+        <Unicode>Y como a nosotros no han de llegar más que obras cuyos asuntos nos son familiares, no nos será difícil, el pergeñar sobre ellas unas líneas, que a la par que sirvan de acuse de recibo, sirvan también para indicar a los compañeros las nuevas produciones que vengan a enriquecer la ya abundante bibliografía anarquista.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r51" type="paragraph" custom="readingOrder {index:51;} structure {type:Text;}">
+      <Coords points="761,2635 1202,2635 1202,2813 761,2813" />
+      <TextEquiv conf="0.9967">
+        <Unicode>Ha llegado a nuestras manos un ejemplar del drama original del compañero F. Caro Crespo, "La tierra de todos". El drama es de carácter social y se desenvuelve en el ambiente campesino de Andalucía.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r52" type="paragraph" custom="readingOrder {index:52;} structure {type:Text;}">
+      <Coords points="761,2810 1202,2810 1202,2954 761,2954" />
+      <TextEquiv conf="0.9766">
+        <Unicode>Su autor demuestra en él, un conocimiento exacto de las costumbres del campo andaluz y talento y habilidad en la manera de combinar las escenas y mover los personajes.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r53" type="paragraph" custom="readingOrder {index:53;} structure {type:Text;}">
+      <Coords points="793,2947 1116,2947 1116,2982 793,2982" />
+      <TextEquiv conf="0.9990">
+        <Unicode>Lo felicitamos por todo ello.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r54" type="paragraph" custom="readingOrder {index:54;} structure {type:Text;}">
+      <Coords points="793,2975 1205,2975 1205,3006 793,3006" />
+      <TextEquiv conf="0.9987">
+        <Unicode>Pueden pedirse ejemplares del libro,</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r55" type="paragraph" custom="readingOrder {index:55;} structure {type:Text;}">
+      <Coords points="1210,2084 1636,2084 1636,2312 1210,2312" />
+      <TextEquiv conf="0.9907">
+        <Unicode>La Editorial Argonauta de Buenos Aires, nos ha remitido un ejemplar del magnífico libro de Luis Fabbri, "Dictadura y Revolución", en el cual se estudian detenidamente interesantísimos aspectos del gran movmiento revolucionario que convulsiona actualmente la sociedad humana.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r56" type="paragraph" custom="readingOrder {index:56;} structure {type:Text;}">
+      <Coords points="1210,2308 1641,2308 1641,2599 1210,2599" />
+      <TextEquiv conf="0.9862">
+        <Unicode>Además, la referida Editorial anuncia la publicación, que comenzará el 1o de Enero de 1925, de los “Anales del Movimiento anarquistas internacional”, obra del historiador del anarquismo Max Nettlan, publicación en varios volúmenes de más de 400 páginas, y que se dividirá en tres secciones principales: El pasado; El movimiento contemporáneo y El futuro.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r57" type="paragraph" custom="readingOrder {index:57;} structure {type:Text;}">
+      <Coords points="1210,2592 1641,2592 1641,2708 1210,2708" />
+      <TextEquiv conf="0.9877">
+        <Unicode>También, anuncia la obra de Pierre Ramus, cuya traducción está terminando, “La Nueva creación de la sociedad por el comunismo anarquista.”</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r58" type="paragraph" custom="readingOrder {index:58;} structure {type:Text;}">
+      <Coords points="1210,2701 1646,2701 1646,2827 1210,2827" />
+      <TextEquiv conf="0.9950">
+        <Unicode>Para todo lo relacionado con la Editorial de referencia dirigirse a J. M. Fernández, Casilla de Correos 1980, Buenos Aires.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r59" type="paragraph" custom="readingOrder {index:59;} structure {type:Text;}">
+      <Coords points="1210,2859 1646,2859 1646,3006 1210,3006" />
+      <TextEquiv conf="0.9910">
+        <Unicode>Los camaradas que deseen ayudar al viejo y constante luchador Enrique Malatesta a sostener la publicación de su revista “Pensiero e Volontá”, pueden dirigirse a la siguiente dirección:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

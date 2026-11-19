@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:56:59</Created>
+    <LastChange>2026-11-18T10:56:59</LastChange>
+  </Metadata>
+  <Page imageFilename="Hispanidad-6-Junio-1940-P38.jpg" imageWidth="6942" imageHeight="9433">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="heading" custom="readingOrder {index:0;} structure {type:SectionHeader;}">
+      <Coords points="944,1066 5755,1066 5755,1622 944,1622" />
+      <TextEquiv conf="0.9693">
+        <Unicode>España en Filipinas</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="heading" custom="readingOrder {index:1;} structure {type:SectionHeader;}">
+      <Coords points="1742,2434 1854,2434 1854,2547 1742,2547" />
+      <TextEquiv conf="0.7929">
+        <Unicode>V
+A black stylized letter V on a white background, with a small square icon to its upper left.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="1069,2632 2534,2632 2534,2764 1069,2764" />
+      <TextEquiv conf="0.9506">
+        <Unicode>LA VUELTA AL MUNDO</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="278,2896 3374,2896 3374,3603 278,3603" />
+      <TextEquiv conf="0.9928">
+        <Unicode>Tratándose de españoles, la Expedeción Magallánica no podía terminar con Magallanes. Muerto el héroe del Pacífico y caidos más de la mitad de sus hombres, surgen de entre los cadáveres otros nuevos heroes para defender y dar gloria al pendón hispano.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="278,3651 3395,3651 3395,5339 278,5339" />
+      <TextEquiv conf="0.9968">
+        <Unicode>En el mes de octubre de 1521 dejan la costa mindanaina y parten para el Sur las dos pequeñas naves Trinidad y Victoria con Espinosa y Sebastián del Cano por Capitanes. Ya en alta mar, les envuelve un fuerte tifón poniéndoles en gran peligro. Dominan al fin la situación, y algunos días después—8 de noviembre—rompen en un himon de gracias y disparan toda la artillería en señal de gozo. Estaban en las puertas de Tidor, una de las islas de las Molucas. El Rey salió a recibirles; les obsequió luego en su palacio, y les facilitó cuantos medios contaba para visitar Gilolo, Machián, Ternate, Timor y otros puntos principales de la Especiería.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="305,5377 3409,5377 3409,6386 305,6386" />
+      <TextEquiv conf="0.9907">
+        <Unicode>En una de las expidiciones, la nao Trinidad estuvo a punto de hundirse. El rey de Tidor envió sus carpinteros y sus buzos para arreglarla; más como era de fabricación más complicada que las que allí hacían, no pudieron repararla por entonces, quedándoles por lo tanto sólo la Victoria para proseguir el viaje alrededor de la tierra.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="319,6424 3436,6424 3436,8122 319,8122" />
+      <TextEquiv conf="0.9909">
+        <Unicode>21 DE DICIEMBRE, 1521:—Con esta fecha Sebastián del Cano comienza la segunda etapa de la expedición. Su idea era volver a España siguiendo el camino comenzado de Este a Oeste con el fin de dar una vuelta completa al mundo. Como esto significaba tener que pasar por las colonias de la entonces “enemiga Portugal” y no estaba la tripulación para sostener duros ataques, Espinosa con otros expedicionarios prefieren aguardar en Tidor hasta reparar la nave Trinidad y partir más tarde para Europa a través del Pacífico. Sebastián salió entonces de Tidor con 60 hombres en la nao Victoria.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="354,8141 3471,8141 3471,8735 354,8735" />
+      <TextEquiv conf="0.9977">
+        <Unicode>10 DE ENERO, 1522:—Se desencadenó tan fuerte tempestad en la isla de Timor, que del Cano y los suyos se dieron por perdidos. En aquel momento se acordaron de implorar la ayuda del cielo haciendo un voto a la</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="3471,2424 6525,2424 6525,2858 3471,2858" />
+      <TextEquiv conf="0.9929">
+        <Unicode>Virgen de la Victoria de ir descalzos a su santuario una vez llegados a Sevilla. Esto les salvó, sin duda, pues luego salían triunfantes sondeando la Isla de Java.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="3471,2896 6546,2896 6546,4434 3471,4434" />
+      <TextEquiv conf="0.9964">
+        <Unicode>6 DE MAYO, 1522:—Cerca de Mozambique se les acaban los viveres no quedándoles mas que un poco de arroz. Los más de la tripulación pensaron bajar en esta isla con el fin de comprar comida y dar algun refrigerio a los tripulantes enfermos; mas Del Cano, que no ignoraba el gran peligro para todos por causa de la enemistad y encelamiento de los portugueses, animó a la tripulación a soportar cualquier sacrificio, siquiera porque no terminase allí la expedición. El 6 de mayo consiguieron, tras inauditos trabajos, doblar el Cabo de Bucna Esperanza.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="3492,4509 6574,4509 6574,6980 3492,6980" />
+      <TextEquiv conf="0.9950">
+        <Unicode>9 DE JULIO, 1522:—El hambre, la sed, y los grandes sacrificios, les causó más de veinte bajas. Pigafetta anota que al arrojar los cadaveres al mar, los cuerpos de los cristianos flotaban sobre las aguas mirando al cielo, mientras que los cuerpos de los indios de las Molucas caían siempre boca abajo. Los sobrevivientes se preparaban a bien morir de un momento a otro; pero en este día les deparó el cielo un mar sereno junto a las Islas de Cabo Verde. Era aun tierra enemiga, más usando de una estratagema, consiguieron una y dos veces pasar por desconocidos y comprar vituallas. En la tercera tentativa, un marinero portugués notó que la nao Victoria había salido en la expedición de Magallanes. Dió cuenta a los suyos y prendieron a los emisarios de Sebastián del Cano en la entrada del mercado. Algunos escaparon con vida y tuvieron tiempo para volver abordo; pero los más de ellos no volvían! Los primeros deciden darse de nuevo a la vela camino de España.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="3520,7075 6588,7075 6588,7773 3520,7773" />
+      <TextEquiv conf="0.9906">
+        <Unicode>6 DE SEPTIEMBRE, 1522:—De sesenta hombres que salieron de las Molucas al estropearse la nao Trinidad, sélo dieciocho consiguen entrar de vuelta en Sanlúcar de Barrameda, y los más de ellos, pálidos, agotados y enfermizos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="3540,7839 6623,7839 6623,8678 3540,8678" />
+      <TextEquiv conf="0.9923">
+        <Unicode>8 DE SEPTIEMBRE, 1522:—Llegan por fin a Sevilla. Disparan toda la artillería hasta el último saco de pólvora... Habían terminado la misión, ¿para qué la querían?... Y el pueblo recibió con verdadero frenesi aquel puñado de esqueletos, restos de aquellos otros 270 hombres, tan valientes como robustos, que partieran de</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="footer" custom="readingOrder {index:13;} structure {type:PageFooter;}">
+      <Coords points="375,8810 548,8810 548,8933 375,8933" />
+      <TextEquiv conf="0.8955">
+        <Unicode>30</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="footer" custom="readingOrder {index:14;} structure {type:PageFooter;}">
+      <Coords points="118,9046 1222,9046 1222,9263 118,9263" />
+      <TextEquiv conf="0.9236">
+        <Unicode>MCD 2018</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:55:47</Created>
+    <LastChange>2026-11-18T10:55:47</LastChange>
+  </Metadata>
+  <Page imageFilename="Fémina_15-07-1922_P09.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+        <RegionRefIndexed index="21" regionRef="r21" />
+        <RegionRefIndexed index="22" regionRef="r22" />
+        <RegionRefIndexed index="23" regionRef="r23" />
+        <RegionRefIndexed index="24" regionRef="r24" />
+        <RegionRefIndexed index="25" regionRef="r25" />
+        <RegionRefIndexed index="26" regionRef="r26" />
+        <RegionRefIndexed index="27" regionRef="r27" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="352,46 545,46 545,95 352,95" />
+      <TextEquiv conf="0.9843">
+        <Unicode>Página 9</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="2065,32 2323,32 2323,84 2065,84" />
+      <TextEquiv conf="0.9497">
+        <Unicode>Fémina</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="528,189 2243,189 2243,396 528,396" />
+      <TextEquiv conf="0.9549">
+        <Unicode>Por el Mundo Social.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="heading" custom="readingOrder {index:3;} structure {type:SectionHeader;}">
+      <Coords points="1103,568 1582,568 1582,624 1103,624" />
+      <TextEquiv conf="0.9251">
+        <Unicode>DE MACORIS:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="heading" custom="readingOrder {index:4;} structure {type:SectionHeader;}">
+      <Coords points="312,698 563,698 563,751 312,751" />
+      <TextEquiv conf="0.9100">
+        <Unicode>RESTABLECIDO.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="312,772 1324,772 1324,1091 312,1091" />
+      <TextEquiv conf="0.9969">
+        <Unicode>Restablecido ya de los quebrantos que lo obligaban a guardar cama, hemos tenido el gusto de saludar a nuestro estimado amigo el señor Victor M. Geraldino, cumplido Secretario del H. Ayuntamiento. Lo celebramos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="heading" custom="readingOrder {index:6;} structure {type:SectionHeader;}">
+      <Coords points="312,1137 528,1137 528,1189 312,1189" />
+      <TextEquiv conf="0.8763">
+        <Unicode>ESPONSALES.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="312,1214 1324,1214 1324,1431 312,1431" />
+      <TextEquiv conf="0.9997">
+        <Unicode>Ha sido concedida la blanca mano de la señorita Cheita Ricart al caballero M. Alfaro Reyes, acaudalado comerciante de esta plaza, i exquisito poeta.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="312,1424 1324,1424 1324,1586 312,1586" />
+      <TextEquiv conf="0.9838">
+        <Unicode>Tambien han hecho mutua promesa de amor, el estimado Dr. don Manuel Mallen Isambert i la gentil Sta. Lelé Guerra.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="312,1603 1324,1603 1324,1712 312,1712" />
+      <TextEquiv conf="0.9992">
+        <Unicode>Que pronto vean realizados su sueño de amor.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="heading" custom="readingOrder {index:10;} structure {type:SectionHeader;}">
+      <Coords points="312,1761 716,1761 716,1817 312,1817" />
+      <TextEquiv conf="0.9506">
+        <Unicode>TRIUNFOS DE LA MUJER.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="312,1835 1326,1835 1326,2263 312,2263" />
+      <TextEquiv conf="0.9975">
+        <Unicode>Robusteciendo el criterio que sustentamos acerca del engrandecimiento de la mujer, nos es grato referirnos a la simpática sociedad “Ensueño” fundada en esta ciudad por la propia iniciativa de la mujer Macosana, con el propósito de brindar al espiritu esparcimiento, i levantarse cada vez mas sobre el nivel moral que la enaltece.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="312,2284 1326,2284 1326,2392 312,2392" />
+      <TextEquiv conf="0.9990">
+        <Unicode>Que sean coronados con el triunfo sus hermosos ideales.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="heading" custom="readingOrder {index:13;} structure {type:SectionHeader;}">
+      <Coords points="312,2438 481,2438 481,2494 312,2494" />
+      <TextEquiv conf="0.9449">
+        <Unicode>HIMENEO.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="312,2515 1326,2515 1326,2677 312,2677" />
+      <TextEquiv conf="0.9982">
+        <Unicode>Familiarmente han celebrado sus bodas en esta ciudad el señor Manuel F. Leonor, con la simpática señorita Mélida Mercado.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="369,2694 783,2694 783,2754 369,2754" />
+      <TextEquiv conf="0.9966">
+        <Unicode>Que sean felices.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="heading" custom="readingOrder {index:16;} structure {type:SectionHeader;}">
+      <Coords points="1358,698 1730,698 1730,751 1358,751" />
+      <TextEquiv conf="0.9440">
+        <Unicode>ALEGRIAS DEL HOGAR.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="1358,772 2370,772 2370,1091 1358,1091" />
+      <TextEquiv conf="0.9790">
+        <Unicode>Un hermoso vástago que responde al nombre de Alfonso, venido al mundo el dia 23 del mes pasado, es alegria del hogar de los esposos Miguel Rodriguez O. i Alfonsina M. de Rodriguez, directores del importante diario “La Prensa”.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="1416,1087 2305,1087 2305,1144 1416,1144" />
+      <TextEquiv conf="0.9972">
+        <Unicode>Vida larga deseamos al recien venido.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="heading" custom="readingOrder {index:19;} structure {type:SectionHeader;}">
+      <Coords points="1358,1161 1782,1161 1782,1214 1358,1214" />
+      <TextEquiv conf="0.9773">
+        <Unicode>ATINADO NOMBRAMIENTO.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="paragraph" custom="readingOrder {index:20;} structure {type:Text;}">
+      <Coords points="1358,1224 2370,1224 2370,1494 1358,1494" />
+      <TextEquiv conf="0.9969">
+        <Unicode>Se encuentra al frente de la sindicatura Municipal de esta ciudad, el correcto caballero don Luis Amiama, de cuya actividad no dudamos, obtendrá la común importantes beneficios.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r21" type="heading" custom="readingOrder {index:21;} structure {type:SectionHeader;}">
+      <Coords points="1358,1515 1693,1515 1693,1568 1358,1568" />
+      <TextEquiv conf="0.9586">
+        <Unicode>NUEVA INSTITUCION.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r22" type="paragraph" custom="readingOrder {index:22;} structure {type:Text;}">
+      <Coords points="1358,1579 2370,1579 2370,1901 1358,1901" />
+      <TextEquiv conf="0.9967">
+        <Unicode>Bajo la Dirección del Ingeniero Municipal Sr. A. Scaroina ha vuelto a organizarse en esta ciudad el benemérito Cuerpo de Bomberos, para bien y tranquilidad de los hogares macorisanos. Nos alegramos y que no desmaye.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r23" type="heading" custom="readingOrder {index:23;} structure {type:SectionHeader;}">
+      <Coords points="1358,1919 1653,1919 1653,1968 1358,1968" />
+      <TextEquiv conf="0.9204">
+        <Unicode>PEDIMOS EXCUSA.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r24" type="paragraph" custom="readingOrder {index:24;} structure {type:Text;}">
+      <Coords points="1358,1979 2370,1979 2370,2406 1358,2406" />
+      <TextEquiv conf="0.9953">
+        <Unicode>Por la aglomeración de trabajos en los talleres de la imprenta donde se edita nuestra revista no fué posible que se nos entregara para el día 15 de Julio, como se anunció y como fué nuestro deseo. Pedimos pues, excusa a nuestros amables favorecedores, prometiéndose puntualidad en las salidas de las ediciones sucesivas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r25" type="heading" custom="readingOrder {index:25;} structure {type:SectionHeader;}">
+      <Coords points="1358,2421 1505,2421 1505,2473 1358,2473" />
+      <TextEquiv conf="0.9031">
+        <Unicode>EXCUSA.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r26" type="paragraph" custom="readingOrder {index:26;} structure {type:Text;}">
+      <Coords points="1358,2487 2370,2487 2370,2754 1358,2754" />
+      <TextEquiv conf="0.9911">
+        <Unicode>Por motivos ajenos a nuestra voluntad no ha sido publicado en este número el trabajo “Ideas”, del Dr. Moscoso Puello, quedando aplazado para el número siguiente.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r27" custom="readingOrder {index:27;} structure {type:Picture;}">
+      <Coords points="320,2856 2370,2856 2370,2943 320,2943" />
+    </ImageRegion>
+  </Page>
+</PcGts>

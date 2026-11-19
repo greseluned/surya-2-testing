@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:56:22</Created>
+    <LastChange>2026-11-18T10:56:22</LastChange>
+  </Metadata>
+  <Page imageFilename="Fémina_30-11-1923_P02.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="1482,11 2221,11 2221,182 1482,182" />
+      <TextEquiv conf="0.9580">
+        <Unicode>Archivo General de la Nación
+HEMEROTECA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="heading" custom="readingOrder {index:1;} structure {type:SectionHeader;}">
+      <Coords points="781,305 1619,305 1619,428 781,428" />
+      <TextEquiv conf="0.9880">
+        <Unicode>FEMINA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="513,498 1894,498 1894,617 513,617" />
+      <TextEquiv conf="0.9913">
+        <Unicode>REVISTA DE LITERATURA, CIENCIAS Y ARTES
+CONSAGRADAA LA MUJER.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="744,667 1676,667 1676,824 744,824" />
+      <TextEquiv conf="0.9808">
+        <Unicode>DIRECTORA-ADMINISTRADORA:
+PETRONILA ANGELICA GOMEZ
+Maestra Normal.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="295,881 2095,881 2095,1066 295,1066" />
+      <TextEquiv conf="0.9944">
+        <Unicode>REDACTORES:
+MARIA L. ANGELIS DE CANINO,
+PETRONILA A. GOMEZ, CONSUELO MONTALVO DE FRIAS.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="218,1105 414,1105 414,1161 218,1161" />
+      <TextEquiv conf="0.7921">
+        <Unicode>Arto 2</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="788,1109 1671,1109 1671,1168 788,1168" />
+      <TextEquiv conf="0.9677">
+        <Unicode>San Pedro de Macoris, Noviembre 30 de 1923</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="1978,1116 2184,1116 2184,1172 1978,1172" />
+      <TextEquiv conf="0.8380">
+        <Unicode>{ Ulo. 32</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="heading" custom="readingOrder {index:8;} structure {type:SectionHeader;}">
+      <Coords points="595,1249 1800,1249 1800,1340 595,1340" />
+      <TextEquiv conf="0.9510">
+        <Unicode>“EL FANTASMA FEMENINO”</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r9" custom="readingOrder {index:9;} structure {type:Picture;}">
+      <Coords points="186,1403 377,1403 377,1719 186,1719" />
+    </ImageRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="161,1452 1182,1452 1182,1933 161,1933" />
+      <TextEquiv conf="0.9914">
+        <Unicode>I Señor, todos los pueblos del mundo han pasado por el crisol del vejámen, es decir, siempre ha existido un grupo de hombres, formados por la tenue e irrestible evolución de la ambición humana, ambición que surca los ámbitos y aún traspasa los límites de la consideración y respeto hacia sus semejantes.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="161,1926 1178,1926 1178,2042 161,2042" />
+      <TextEquiv conf="0.9750">
+        <Unicode>Y por algo dice el adagio: “El mayor tirano es el que ha sido oprimido”.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="161,2031 1178,2031 1178,2778 161,2778" />
+      <TextEquiv conf="0.9972">
+        <Unicode>Pues bien: en la actualidad puede decirse que todos los hombres a excepción de una exígua minoría—formando causa común—se confabulan para recriminar y criticar desfavoramente, la actuación de la mujer, en el concurso de las cosas políticas; a la mujer, que como ser humano también tiene que sentir tantos improperios, de en quien, no tan solo debería de hallar amantísimo esposo, tierno padre, afectuoso hermano y leal amigo, bajo el punto de vis a constitutivo de la paz del hogar, sino que también el fiel consejero, el abnegado guír, en el terreno de la amplia ión de sus derechos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="161,2778 1170,2778 1170,3259 161,3259" />
+      <TextEquiv conf="0.9815">
+        <Unicode>Pero así es la humanidad. ¿Qué razón hay, para creer, que una vez la mujer ejerza el voto, dejarí y de ser tan buena esposa, madre, hermana, etc., por el mero hecho de poseer lo que les corresponde por regla de equidad? En lo mínimo dejarí y de poseer y ejercer su acento femenil, como en el momento antes en que dicho p.ivilegio le fuera otorgado.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="1212,1403 2224,1403 2224,2094 1212,2094" />
+      <TextEquiv conf="0.9956">
+        <Unicode>Pero el FEMINISMO es un fantasma para nuestros refractarios, y pesadilla visionaria insoportable que soñando, los hace soñar. Que estamos preparadas para dar pedradas, palos, etc. etc., esto de un lado, y del otro lado, para echarnos a cargo el fusil, el arado y lo que es mas la carga de corregirlos o sea, la de tomar en nuestras manos la del manejo del gobierno. Nada de eso caballeros; entonces ¿qué harían los hombres? Pasear de lo lindo, porque para el reino del hogar si es verdad que no están preparados ellos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="1212,2091 2219,2091 2219,2466 1212,2466" />
+      <TextEquiv conf="0.9966">
+        <Unicode>Pero como lo han confesado ya, el móvil de tantas visiones, temores y dudas no son compatible con el carácter de la ejemplar mujer antillana, y por lo tanto, no cabe en lo posible, el que ésta en un instante de tiempo, se convirtiera en una fiera imbécil, por obra y gracia de un derecho obtenido.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="1212,2459 2216,2459 2216,2834 1212,2834" />
+      <TextEquiv conf="0.9937">
+        <Unicode>Cárgad vuestros fusiles, y arad la tierra, y llevad las riendas del gobierno, que nuestra misión será cooperar al levantamiento de nuestro s atus moral, ayudaros en todo lo que sea posible, en armonía con nuestro carácter de mujer, para completa satisfacción de nuestros compatriotas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="1212,2831 2211,2831 2211,3147 1212,3147" />
+      <TextEquiv conf="0.9933">
+        <Unicode>No compartimos con los hombres sus gozos, sus dolores; sus esfuerzos por la emancipación social, y para la realización de sus excelsos ideales ¿porqué se empeñan en hacer ver al mundo que son menos generosos que nosotras?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="1306,3143 1931,3143 1931,3203 1306,3203" />
+      <TextEquiv conf="0.9806">
+        <Unicode>Hasta aquí hemos llegado.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="1649,3206 2149,3206 2149,3259 1649,3259" />
+      <TextEquiv conf="0.9502">
+        <Unicode>PLÁCIDA VENTURA.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

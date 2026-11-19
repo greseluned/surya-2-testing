@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:55:35</Created>
+    <LastChange>2026-11-18T10:55:35</LastChange>
+  </Metadata>
+  <Page imageFilename="Filipinas-22-Abril-1909-P09.jpg" imageWidth="1789" imageHeight="2718">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+        <RegionRefIndexed index="15" regionRef="r15" />
+        <RegionRefIndexed index="16" regionRef="r16" />
+        <RegionRefIndexed index="17" regionRef="r17" />
+        <RegionRefIndexed index="18" regionRef="r18" />
+        <RegionRefIndexed index="19" regionRef="r19" />
+        <RegionRefIndexed index="20" regionRef="r20" />
+        <RegionRefIndexed index="21" regionRef="r21" />
+        <RegionRefIndexed index="22" regionRef="r22" />
+        <RegionRefIndexed index="23" regionRef="r23" />
+        <RegionRefIndexed index="24" regionRef="r24" />
+        <RegionRefIndexed index="25" regionRef="r25" />
+        <RegionRefIndexed index="26" regionRef="r26" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="header" custom="readingOrder {index:0;} structure {type:PageHeader;}">
+      <Coords points="750,155 977,155 977,193 750,193" />
+      <TextEquiv conf="0.9317">
+        <Unicode>“FILIPINAS”</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="header" custom="readingOrder {index:1;} structure {type:PageHeader;}">
+      <Coords points="1488,166 1533,166 1533,201 1488,201" />
+      <TextEquiv conf="0.7629">
+        <Unicode>21</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="heading" custom="readingOrder {index:2;} structure {type:SectionHeader;}">
+      <Coords points="465,245 513,245 513,280 465,280" />
+      <TextEquiv conf="0.9676">
+        <Unicode>II.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="109,280 850,280 850,620 109,620" />
+      <TextEquiv conf="0.9911">
+        <Unicode>Desde entonces la jóven y el niño todos los días iban al camposanto, y allí al pié de aquella cruz que señalaba el lugar de sus más dulces y tiernos recuerdos, al par que era incentivo de sus dolores y amarguras... se arrodillaban. Y la jóven con voz muy baja y el alma anegada en aflieciones, oraba por su madre; y el niño con acento argentino y suave, con fé y confianza, por su madre, á Dios sus preces ofrecía.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="109,614 848,614 848,1212 109,1212" />
+      <TextEquiv conf="0.9903">
+        <Unicode>Y al terminar aquella oración quizás llena de mil aflicciones, sentábase la jóven y en su regazo el niño, junto á aquella sepultura santa. I Quién profundizara los misteriosos arcanos que, el corazón huérfano sintiera en dichos instantes? I Qué goces capaces serían de enjugar el llanto de aquél que para toda su vida ha perdido á la que debía ser su amiga, su hermana, su compañera mástir, su madre? Inconcebible dolor es el de la orfandad, pero menos concebible aún los sentimientos que experimentara aquella jóven de ternura sin igual, de amor sin límites: de aquel inocente corazón en cuyo seno no habrá entrado otro amor más puro, más vehemente, menos fugaz y más constante, que el amor filial... i Ah! basta decir que Beatriz es huérfana, y esta expresión llacónica como elocuente lo explica todo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="109,1204 846,1204 846,1538 109,1538" />
+      <TextEquiv conf="0.9947">
+        <Unicode>Y antes de dejar al amor de sus amores, depositaban sus manos de inmaculada blancura sobre aquella tosca piedra, imágen de la insensibilidad que yace el inerte cuerpo del que un dia la amara con delirante cariño, las rosas de su amor, las flores de su ilusión que se deshajaran al atardecer de la vida de su madre: pero temerosa de que se marchitaran tan pronto, las regaba con el roció fecundísimo de sus lágrimas de huérfana.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="heading" custom="readingOrder {index:6;} structure {type:SectionHeader;}">
+      <Coords points="465,1530 531,1530 531,1568 465,1568" />
+      <TextEquiv conf="0.9172">
+        <Unicode>III.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="109,1571 844,1571 844,1875 109,1875" />
+      <TextEquiv conf="0.9968">
+        <Unicode>No léjos del camposanto, había un camino que se dirigía á un hermoso lugar. Es un camino apartado pero de magnífico paisaje, allí, después del trabajo del día dirigíase por las tardes la huérfana y muy hermosa Beatriz juntamente con su hermanito. Y al fragantísimo perfume de las flores que impregna el ambiente, y ante aquel libro de la naturaleza, Beatriz enseñaba á Alfonso y solía decirle:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="109,1867 843,1867 843,1943 109,1943" />
+      <TextEquiv conf="0.9816">
+        <Unicode>—Alfonso, hermanito mió, ¿te acuerdas de las palabras de nuestra madre?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="109,1935 841,1935 841,2003 109,2003" />
+      <TextEquiv conf="0.9973">
+        <Unicode>— Mi querida Beatriz, no solamente me acuerdo sino pongo empeño en comprenderlas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="163,1995 805,1995 805,2038 163,2038" />
+      <TextEquiv conf="0.9966">
+        <Unicode>—De manera que aún no las comprendes?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="163,2030 642,2030 642,2068 163,2068" />
+      <TextEquiv conf="0.9416">
+        <Unicode>—De maniera que adun no las es.
+—No, pero me acuerdo de ellas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="163,2060 530,2060 530,2098 163,2098" />
+      <TextEquiv conf="0.9488">
+        <Unicode>—No, pero me acuerdo.
+—Répetímelas, hermano.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="109,2093 837,2093 837,2166 109,2166" />
+      <TextEquiv conf="0.9665">
+        <Unicode>—Repetimelas, hermano.
+—Que yo sea amante para mi Dios y útil
+para mi Pátria.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="109,2161 841,2161 841,2231 109,2231" />
+      <TextEquiv conf="0.9719">
+        <Unicode>→ Y, tu inteligencia juvenil, no alcanza aún la significación de esas palabras?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r15" type="paragraph" custom="readingOrder {index:15;} structure {type:Text;}">
+      <Coords points="163,2226 381,2226 381,2261 163,2261" />
+      <TextEquiv conf="0.8906">
+        <Unicode>—Todavia no.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r16" type="paragraph" custom="readingOrder {index:16;} structure {type:Text;}">
+      <Coords points="109,2280 844,2280 844,2397 109,2397" />
+      <TextEquiv conf="0.9519">
+        <Unicode>El riño recién nacido toma muy bien y su mutre completamente con la Marina Cacteada Nestle.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r17" type="paragraph" custom="readingOrder {index:17;} structure {type:Text;}">
+      <Coords points="875,245 1601,245 1601,739 875,739" />
+      <TextEquiv conf="0.9879">
+        <Unicode>—Te quería decir nuestra madre, hermano querido, que has de acordarte siempre de aquel Sér sumamente bueno, de aquel Soberano Artífice que creó todo este mundo admirable, este lugar deliciosícimo que tú ves y ante el cual te deleitas, tan solo para recreación del hombre; y por eso le has de am: r y á iEl con frecuencia tu corazón has de elevar. “Y util á tu Pátria.” iAh! hermano Alfonso, esta brevísima expresión, última de aquel sér que tanto te amó, encierra lecciones profundísimas. Nuestra madre fué muy patriota y quiere que lo seamos también nosotros. Útil para tu Pátria, ¿sabes, hermanito mío, como lo serás? Escúchame atento:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r18" type="paragraph" custom="readingOrder {index:18;} structure {type:Text;}">
+      <Coords points="1347,734 1558,734 1558,775 1347,775" />
+      <TextEquiv conf="0.8959">
+        <Unicode>(Se concluirá.)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r19" type="paragraph" custom="readingOrder {index:19;} structure {type:Text;}">
+      <Coords points="875,794 1598,794 1598,1000 875,1000" />
+      <TextEquiv conf="0.9734">
+        <Unicode>Viejos, ya se ve, estaís débiles, porque el tiemp p. os ha gastado; más no os desespereis. Los quimí cos acaban de descubrir un alimento el más nutritivo, conservativo y reconstituyeute de cuantos se conocen hoy día. Son los célebres biscochos de LA FORTUNA.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r20" type="heading" custom="readingOrder {index:20;} structure {type:SectionHeader;}">
+      <Coords points="946,1071 1513,1071 1513,1114 946,1114" />
+      <TextEquiv conf="0.9403">
+        <Unicode>CONOCIMIENTOS UTILES</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r21" type="paragraph" custom="readingOrder {index:21;} structure {type:Text;}">
+      <Coords points="875,1185 1596,1185 1596,1748 875,1748" />
+      <TextEquiv conf="0.9927">
+        <Unicode>LA "PAPAYA" COMO FUENTE DE RIQUEZA.—Este árbol que crece casi silvestre en Filipinas, contiene substancias útiles para la humanidad. Sus semillas son vermífugas, y dispépticas, y la leche que secreta el fruto produce un precioso alcaloide para combatir las enfermedades del estómago. Su producción está al alcance de todas las personas; no necesita laboratorios ni reactivos, cuando el fruto está en perfecto estado de sazón, se le hacen incisiones superficiales en todas direcciones, para que secrete la mayor cantidad de jugo lechoso, el cual, recojido, se deposita en un plato de loza ó mejor de porcelana. y se pone á secar al calor del sol. Pasadas unas 36 horas, se forman cristales de papaina; este es el alcaloide que usan en la farmacia, y el cual vale actualmente de 5 á 6 pesos oro la onza.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r22" type="paragraph" custom="readingOrder {index:22;} structure {type:Text;}">
+      <Coords points="875,1742 1596,1742 1596,1946 875,1946" />
+      <TextEquiv conf="0.9942">
+        <Unicode>CONTRA LAS MOSCAS.—Uno de los mejores medios para destruir las moscas, que tanto molestan en este pais en tiempo de calor dentro de las habitaciones, consiste sencillamente en rociar un, poco de pimienta negra ó ponerla en platillos con un poco de crema.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r23" type="paragraph" custom="readingOrder {index:23;} structure {type:Text;}">
+      <Coords points="875,1943 1599,1943 1599,2142 875,2142" />
+      <TextEquiv conf="0.9866">
+        <Unicode>Las, moscas comen la crema y se mueren, porque es la pimienta un veneno para ellas. Un remedio tan sencillo presta grandes servicios, porque los mosquitos también mueren en los sitios en lqs cuales se evapora algo de la esencia de pimienta.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r24" type="paragraph" custom="readingOrder {index:24;} structure {type:Text;}">
+      <Coords points="875,2139 1599,2139 1599,2212 875,2212" />
+      <TextEquiv conf="0.9740">
+        <Unicode>Otro medio, eficáz, no para destruir las moscas; pero sí, para ahuyentarlas:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r25" type="paragraph" custom="readingOrder {index:25;} structure {type:Text;}">
+      <Coords points="875,2207 1607,2207 1607,2283 875,2283" />
+      <TextEquiv conf="0.9727">
+        <Unicode>Quemar dentro de las habitaciones un poco de alcanifor espolyoreardo sobre unas brazas</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r26" type="paragraph" custom="readingOrder {index:26;} structure {type:Text;}">
+      <Coords points="875,2291 1617,2291 1617,2414 875,2414" />
+      <TextEquiv conf="0.9663">
+        <Unicode>El niño que se acostumbra á tomar la HARINA LACTEADA NESTLE, jamás aceptará cualquier otro alimento.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>
