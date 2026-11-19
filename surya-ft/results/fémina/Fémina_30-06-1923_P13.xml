@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:03:02</Created>
+    <LastChange>2026-11-18T10:03:02</LastChange>
+  </Metadata>
+  <Page imageFilename="Fémina_30-06-1923_P13.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="729,3189 1772,3189 1772,3368 729,3368" />
+      <TextEquiv conf="0.9543">
+        <Unicode>Srn. Enriqueta Al. de Cruzado Entusiasta i dishinguida colaboradora de nuestra revista.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="164,39 997,39 997,168 164,168" />
+      <TextEquiv conf="0.9795">
+        <Unicode>FEMINA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="1542,39 2169,39 2169,168 1542,168" />
+      <TextEquiv conf="0.9566">
+        <Unicode>Archivo General de HEMEROTECA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r3" custom="readingOrder {index:3;} structure {type:Picture;}">
+      <Coords points="543,1021 2013,1021 2013,3126 543,3126" />
+    </ImageRegion>
+  </Page>
+</PcGts>

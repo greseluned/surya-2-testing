@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:07:15</Created>
+    <LastChange>2026-11-18T10:07:15</LastChange>
+  </Metadata>
+  <Page imageFilename="0313_Semana-0313.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="116,287 498,287 498,337 116,337" />
+      <TextEquiv conf="0.9957">
+        <Unicode>3 de Febrero, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="2109,287 2386,287 2386,333 2109,333" />
+      <TextEquiv conf="0.9916">
+        <Unicode>SEMANA—5</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="102,386 966,386 966,2822 102,2822" />
+      <TextEquiv conf="0.9963">
+        <Unicode>Pero antes, en las tierras de Visayas En vano pretendieron lo imposible, Dominar tus altivas atalayas, A Dagohoy, el hérce irreductible. El mundo, atónito, admiró tus lides, Tu gesto altivo cuando tú te enojas, Cómo te honraron bravos adalides En pos de Quezon y de Osmeña y Roxas. Envuelto en llamas del rugiente infierno, Recordando la historia de Malasia, Por tu futuro bienestar eterno, A Dios pedía tu exclusión del Asia. No fué tu noble corazón exiguo Al afrontar el bárbaro interludio: Si fué gigante tu blasón antiguo, ¡Lo fué también tu colosal postludio! En la dúplice guerra contra España Y América, tu sólido prestigio No se manchó con la inmoral hazaña Que fué la marca del tercer litigio. ¡No eres asiática! Progenie ilustre Del malásico imperio Shri-Visaya, Es del Malayo tu nativo lustre Y tu gesta con sangre lo subraya. Ya no cabe en los folios de la historia La magnitud de tu gentil hazaña; Cada encuentro fué timbre de tu gloria, De América al Japón, después de España Hoy dominas las cúspides serenas De tu nación sin restricción alguna; As te concibieron sin cadenas, Rizal y Del Pilar, Jaena y Luna. Con la lira de Apóstol y Guerrero, ¿Quién no te cantó, enseña bendecida? ¿Quién, por vengarte, no empuñó el acero, Quién, por quererte, no te dá la vida?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="1301,386 2379,386 2379,2861 1301,2861" />
+      <TextEquiv conf="0.9953">
+        <Unicode>Rizal Mabini, Plaridel, Jaena, Magbanua, Bugallón, Hernández, Salas: Ya con la pluma, ya de pie en la arena, Jamás temieron las traidoras balas. Yo mismo fuí soldado en la contienda Que conmovió el catorce a la Europa, Cuando entonces América a su tienda Incorporó la filipina tropa. Yo fuí teniente del audaz combate Democrático contra la autocracia, Cuando allá en Marne se probó el quilate Pobre de la germánica eficacia. En época ulterior rugió el Decálogo Con la potencia que el ciclón encierra; El mismo gesto y el valor análogo Al afrontar la japonesa guerra. Este es el día por Rizal preescrito: Ya la idea venció a la fuerza bruta, Gozas de libertad, que no es un mito, Nadie tu honor ni tu poder disputa. Fuerzas de infanteria de los Estados Unidos en persecu¬ ción de los japoneses ocultos en los bosques después de establecer en Lingayén cabezas de puente. Estas fuerzas avanzaron hacia el sur a través de la meseta central de Luzón, obligando a los japoneses a retirarse de toda el area. El 3 de febrero entraron en Manila y ocuparon el campo de Santo Tomás, poniendo en libertad a millares de prisioneros aliados.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="786,2945 1725,2945 1725,3026 786,3026" />
+      <TextEquiv conf="0.9941">
+        <Unicode>PROGRAMA DE RADIO DE PERFUMES DANA Sintonice diariamente con las siguientes emisoras:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="124,3040 1214,3040 1214,3187 124,3187" />
+      <TextEquiv conf="0.9911">
+        <Unicode>Emisora DZFM—Todos los dias y en espeial los lunes—noche de aficionados a las 8:00 p.m. con el famoso trío Lopita, Lopito y Ticman como principa¬ les protagonistas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="1296,3043 2379,3043 2379,3190 1296,3190" />
+      <TextEquiv conf="0.9872">
+        <Unicode>Emisora DZPI—Todos los días durante el programa del Women's Club. Emisora DZBU—En Cebú—diariamente.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r7" custom="readingOrder {index:7;} structure {type:Figure;}">
+      <Coords points="1291,1714 2386,1714 2386,2552 1291,2552" />
+    </ImageRegion>
+  </Page>
+</PcGts>

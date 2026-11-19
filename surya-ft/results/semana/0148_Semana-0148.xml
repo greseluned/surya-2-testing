@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:05:51</Created>
+    <LastChange>2026-11-18T10:05:51</LastChange>
+  </Metadata>
+  <Page imageFilename="0148_Semana-0148.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="121,287 419,287 419,333 121,333" />
+      <TextEquiv conf="0.9807">
+        <Unicode>16—SEMANA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="2047,284 2376,284 2376,337 2047,337" />
+      <TextEquiv conf="0.9915">
+        <Unicode>5 de Mayo, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="121,382 2371,382 2371,719 121,719" />
+      <TextEquiv conf="0.9851">
+        <Unicode>Emocionante manifestación de duelo por Da. Aurora</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="109,841 813,841 813,1799 109,1799" />
+      <TextEquiv conf="0.9918">
+        <Unicode>Los funerales celebrados el jue¬ ves por doña Aurora y sus hijos, María Aurora y Felipe Buencami¬ no III, víctimas, con otros, de la cobarde emboscada de uncs "huks" malhechores, fueron una elocuen¬ te y extraordinaria manifestación de duelo general. La iglesia parro¬ quial del Smo. Rosario (capilla del Seminario de Santo Tomás) se vió concurrida desde que allí queda¬ ron depcsitados los cadáveres, por multitud de personas de todas eda¬ ées, sexos y condiciones, ávidas de manifestar con su desfile silencio¬ so, el dolor que les había produ¬ cido la inesperada y violenta muer¬ te de la que fué dignísima esposa</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="922,1595 2354,1595 2354,1813 922,1813" />
+      <TextEquiv conf="0.9942">
+        <Unicode>El féretro de Da. Aurora, cubierto con la bandera de la Cruz Roja, de la que cra presidenta, y velada por enfermeros de la institución. En el centro de la fotografía aparece S. E. el Presidente Quirino, de rodillas durante la Misa cele¬ brada por S. E. Mons. Santos. También aparece hacia la izquierda el presidente del Senado, Hon. Mariano J. Cuenco, y a su izquierda, de rodillas, la Srta. Quirino, hija del Presidente.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="154,3008 1578,3008 1578,3229 154,3229" />
+      <TextEquiv conf="0.9931">
+        <Unicode>Ante un público numeroso que mostraba bien a las claras el sincero pesar que le embargaba, se llevó a cabo el entierro de Da. Aurora de Quezon, su hija Maria Aurora y su hijo político Felipe Buecamino III, en el cementerio del Norte, en el mausoleo donde descansan los restos mortales del Presidente Quezon. La fotografía se tomó momentos antes de introducir en el nicho el ataíd de Da. Aurora, delante del cual está S.E.el Presidente Quirino, visiblemente conmovióo.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="1653,1883 2374,1883 2374,3222 1653,3222" />
+      <TextEquiv conf="0.9952">
+        <Unicode>del llorado e inolvidable Presidente Quezon y de su primogénita, fa¬ miliarmente llamada Baby. Por la mañana, se celebraron Misas en sufragio de lcs difuntos, siendo la última la que ofició el Exemo. Sr. Obispo Auxiliar de Ma¬ nila, Dr. Rufino Santos, y a la cual asistieron todos los elementos ofi¬ ciales encabezados por S. E. el Pre¬ sidente Quirinc, que interrumpió su estancia en Baguio, vino a la capital en avión, trasladándose di¬ rectamente desde el aeródromo al mencionado templo, el cual se ha¬ llaba ya ocupado totalmente por un público heterógeneo de Manila y las provincias vecinas, principal¬ mente la de Quezon (antes Taya¬ bas.) Por la tarde a las cuatro. des¬ pués de los responsos rezados por el mismo Sr. Obispo ante una con¬ currencia que se desbordaba del recinto de la iglesia, comenzó el</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r7" custom="readingOrder {index:7;} structure {type:Figure;}">
+      <Coords points="942,803 2342,803 2342,1560 942,1560" />
+    </ImageRegion>
+    <ImageRegion id="r8" custom="readingOrder {index:8;} structure {type:Figure;}">
+      <Coords points="154,1837 1576,1837 1576,2984 154,2984" />
+    </ImageRegion>
+  </Page>
+</PcGts>

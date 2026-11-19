@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:05:51</Created>
+    <LastChange>2026-11-18T10:05:51</LastChange>
+  </Metadata>
+  <Page imageFilename="0155_Semana-0155.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="498,1848 1980,1848 1980,2759 498,2759" />
+      <TextEquiv conf="0.9950">
+        <Unicode>CAPITULO XV EN EL QUE EL MAGO HYDORARGYROS DECLARA ESPECIFICAMENTE SU CIENCIA. —Si ahora no caben estos, al parecer, misterios en vuestro entendi¬ miento, estadme atentos y entraréis a ver el secreto que se esconde debajo de este nudo, penetrando al punto la alteza de la verdad de que no hay nada de misterioso en todo aquello a que vuestros ojos dieron alcance, pues todo cuanto aquí veis lo he hecho por mis pulgares, por mi mano y sin ayuda de otro alguno. —Tomando como por base el que cada día es una parte más en el adelantamiento hacia lo desconocido, ¿qué mucho será el que en un núcleo de personas privilegiadas por su inteligencia haya quien se afane por hallar nuevos conceptos y conocimientos nuevos para ampliar esta rama del saber y las posibilidades del linaje humano? —Solamente en la gama de los conocimientos físicos de la Naturaleza y en su desenvolvimiento, estas postreras décadas trajeron una renova¬ ción tan revolucionaria, que precisaríase que la vida de los hombres se dilatase indefinidamente a lo largo de años y años para seguir sus hué¬ lligas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r1" custom="readingOrder {index:1;} structure {type:Figure;}">
+      <Coords points="486,747 1972,747 1972,1241 486,1241" />
+    </ImageRegion>
+  </Page>
+</PcGts>

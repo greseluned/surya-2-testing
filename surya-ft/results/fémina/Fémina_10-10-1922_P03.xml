@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:02:42</Created>
+    <LastChange>2026-11-18T10:02:42</LastChange>
+  </Metadata>
+  <Page imageFilename="Fémina_10-10-1922_P03.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="236,91 429,91 429,144 236,144" />
+      <TextEquiv conf="0.9845">
+        <Unicode>Página 3</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="1976,95 2226,95 2226,151 1976,151" />
+      <TextEquiv conf="0.9975">
+        <Unicode>Fémina</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="617,253 984,253 984,330 617,330" />
+      <TextEquiv conf="0.9185">
+        <Unicode>Demostacia</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="1490,253 1916,253 1916,330 1490,330" />
+      <TextEquiv conf="0.9361">
+        <Unicode>La Muerte.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="342,502 1264,502 1264,1659 342,1659" />
+      <TextEquiv conf="0.9953">
+        <Unicode>Sobre una panoplia polvorienta y ruda que el tiempo y el moho llevan a la muerte, se cruza una espada, noble, heróica, aguda, con villana daga, corta, ruin y fuerte. La espada orgullosa la daga contempla y altiva le dice con noble ademán: áDesde cuando aceros q. el gran Tajo templa se mezclan con armas de porte rufian? áQuien ató mi hoja firme y libre ayer, de infanzones nobles, fuerza y adalid con tu negro acero que algún mercader a traición usara en infame lid? Senora: responde la daga oportuna, en mi compañía no encontreis desdoro, el tiempo ha hecho noble mi plebeya cuna; la mano del hombre, codiciando el oro, osó hasta la negra torre pavorosa y tanto ha revuelto por los campos esos que quizá descansen en la misma fosa de nuestros dos amos los helados huesos!!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="1299,488 2107,488 2107,1645 1299,1645" />
+      <TextEquiv conf="0.9970">
+        <Unicode>En una copa de marfil tallado, de amarillo color y fina hechura, dicen que guardas un licor sagrado de venenosa flor esencia pura. Basta una sola gota, derramada en el ánfora clara de la vida, para que en negra póxima trocada, quede su fresca y esencial bebida. Dicen que en hondo sueño sumerjido, queda el que bebe tu brebaje helado, de flor de adormideras extraído, con agua del Leteo preparado. Cuando cansada de la lucha ruda, con la vida mi cuenta haya saldado, ven, madre de los tristes, en mi ayuda y en tu gran copa de marfil tallado, del negro néctar, déjame embriagar: lenitivo del mal y del pecado, que dá el placer inmenso de soñar!! CARIDAD BRAVO ADAMS.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="245,1887 1133,1887 1133,2978 245,2978" />
+      <TextEquiv conf="0.9936">
+        <Unicode>Ayer y Hoy. A una Azucena. Ayer, el céfiro loco enamorado traía a mi aliento para darme vida la esencia casta y pura, desprendida de tu cáliz de nieve perfumado. Te erguías en tu cáliz como una dama gentil radiante de alegría; y tu nevado seno recibía un pálido y sutil rayo de luna. Hoy tu cáliz no está de albura lleno, yace marchito, triste, amarillento; sólo me cuenta del dolor la historia. Y aquel perfume raro de tu seno envuelto entre la túnica del viento huyó hacia el cielo y se quedó en la gloria. PETRONILA A. GOMEZ.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="1418,1887 2065,1887 2065,2978 1418,2978" />
+      <TextEquiv conf="0.9815">
+        <Unicode>Lógica de una miña. Abuela; perdí la calma desde que mi perro murió chabrá ido al cielo? —iHija no!.... Los perros no tienen alma. —cy esa madrasta que a mí sin cesar me reconviene tiene alma? —Esa sí la tiene —El perro no y ella sí? iAy! pues mi razón no llega a entender, abuela mía, porque el perro me quería y mi madrasta me pega. Por la traducción, B. PORTELA ALVAREZ. 1922.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

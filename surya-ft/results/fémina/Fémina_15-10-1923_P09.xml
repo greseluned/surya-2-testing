@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:03:02</Created>
+    <LastChange>2026-11-18T10:03:02</LastChange>
+  </Metadata>
+  <Page imageFilename="Fémina_15-10-1923_P09.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="196,182 1272,182 1272,256 196,256" />
+      <TextEquiv conf="0.9808">
+        <Unicode>Fémina</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="1272,182 2325,182 2325,256 1272,256" />
+      <TextEquiv conf="0.9394">
+        <Unicode>Página 8</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="196,256 1272,256 1272,3245 196,3245" />
+      <TextEquiv conf="0.9959">
+        <Unicode>Los Muertos Etc... (Continuación de la 1a. píg) naciones de nuestra América, para echar las bases inconmovibles de la Potencia más for¬ midable del Mundo; puesto que todos los pueblos que se van a hermanar y a fundir en un gran Pueblo de Hermanos, son de igual origen, y atados están por los sagrados nexos de la misma Tradición, y de la misma Habla. Martí—Sí; Santo Domingo, como es geográficamente el Centro del Mundo, ha¬ brá de ser mañana—en breve—el mismo foco de luz que un día fué; cuando desde su Universidad Primada de la América irradia¬ ba la luz a todo el Continente; de allí salí yo con mi antorcha de Libertad y de Amor en la fulmínea diestra, armado del Derecho; de allí también—de otro extremo de la Isla salió Bolívar con su fardo enorme de res¬ ponsabilidades sobre la ancha espalda de los Hércules para trepar con él o éllas sobre “El Chimborazo" y “Los Andes" enhiestos. Hostos—Yo solo espero en el silencio de la tumba dominicana donde aún vive su vi¬ da inextinguible mi ánima gigante; la gran fusión nacionalísima del Gran Pueblo Domi¬ nicano, para entonces, contigo de la mano —invitar a Bolívar que aún vive en Vene¬ zuela, y en Chile y la Argentina, y en el Brasil y en Paraguay, y en Colombia y en Ecuador, y en Méjico mismo y Centro América, como en Cuba y Puerto Rico vi¬ vimos nosotros para la Obra América y ha¬ cer en un solo día lo que en el año 1822 deseó hacer El Libertador de la América nuestra, siendo desairado por esos Estados Unidos del Norte América que hoy teme¬ mos.... Martí—Tienes razón; pero, “La Fuerza Cónscia" de que tu hablabas cuando no po¬ días ser entendido, Triunfa, porque ya hay muchos hombres plenos de razón que saben traducir perfectamente, nuestras parábolas y apotegmas. La “Fuerza Cónscia" hoy es irresistible en nuestra América. Hostos—Contribuye tú desde tu Cuba rica, a dar igual riqueza material a estos otros pueblos, para que, una vez que el pan del cuerpo no nos obligue a las obscenida¬ des del hambre, podamos insuflar el pan del alma a las gentes y hacerlas mirar y cami¬ nar hácia la Ley del Ideal, creando la Gran Potencia de la América.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="1272,256 2325,256 2325,3245 1272,3245" />
+      <TextEquiv conf="0.9901">
+        <Unicode>PEDRO V. DURAN y PEPEN Alegre y simpático niñito que hace feliz el hogar de sus amantes padres. Martí—Somos "Veinte Hermanas", con cuarenta manos, y doscientos dedos; pode¬ mos—muy bien—trocarnos en centáuro y pulpo uniendo todas nuestras potencias; de¬ sunidos nó; solos... seremos un gusano de seda... PROF. AMIAMA GOMEZ. INVIERNO. El invierno de las almas es muy triste, pues sabrás que cuando roba la calma no se consigue jamás. El Invierno—la estación—, en mi Patria no es muy triste y muy pronto se reviste de bellezas la creación Más del alma los inviernos, iQué horribles y tristes son!... Sumerjen en el Averno nuestro propio corazón! C. E. Maggiolo de Cruzado San Cristóbal, Septiembre de 1923.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r4" custom="readingOrder {index:4;} structure {type:Picture;}">
+      <Coords points="1267,274 2261,274 2261,1754 1267,1754" />
+    </ImageRegion>
+  </Page>
+</PcGts>

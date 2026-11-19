@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:05:13</Created>
+    <LastChange>2026-11-18T10:05:13</LastChange>
+  </Metadata>
+  <Page imageFilename="Hispanidad-8-Agosto-1940_P39.jpg" imageWidth="6933" imageHeight="9408">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="2170,2023 4714,2023 4714,2230 2170,2230" />
+      <TextEquiv conf="0.9909">
+        <Unicode>ESPAÑA EN FILIPINAS</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="1747,3443 2004,3443 2004,3547 1747,3547" />
+      <TextEquiv conf="0.9959">
+        <Unicode>VIII</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="1248,3716 2503,3716 2503,3829 1248,3829" />
+      <TextEquiv conf="0.9573">
+        <Unicode>LA TOMA DE CEBÍ</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="361,3989 1324,3989 1324,4102 361,4102" />
+      <TextEquiv conf="0.9948">
+        <Unicode>Crece el Misterio</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="361,4187 3404,4187 3404,6698 361,6698" />
+      <TextEquiv conf="0.9974">
+        <Unicode>Después de agasajar al príncipe de Limasawa, continuaron los españoles su viaje hacia Butuán. Y sucedió que al poco tiempo dieron con una bar¬ quilla de nativos, los cuales todos, en viendo “caste¬ llanos”, se arrojaron al mar y ganaron a nado la orilla internándose en el bosque. Anclaron en la ba¬ hía y bajaron el Maestre de Campo y el General Goi¬ ti a explorar el terreno y comprar abastecimientos, pero los moradores de la isla iban huyendo de ellos. Visto lo cual, partieron Legazpi y los suyos para Bo¬ hol, cuyos habitantes venían siendo amigos de los es¬ pañoles, desde la expedición magallánica. Pero también aquí sufrieron un desengaño y se dieron en seguida a la vela para Cebú, donde espera¬ ban mejor suerte, si no como antiguos amigos, al me¬ nos como mercaderes que debían pagar a su justo precio.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="381,6708 1061,6708 1061,6821 381,6821" />
+      <TextEquiv conf="0.9813">
+        <Unicode>La Solución</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="381,6905 3411,6905 3411,8599 381,8599" />
+      <TextEquiv conf="0.9976">
+        <Unicode>Poco trecho habían navegado, cuando se presentó el rey de Bohol pidiendo consideración por no haberse presentado antes, como era la antigua costumbre en llegando las naves españolas. Fué bien regalado por los Capitanes iberos y le preguntaron sobre la inusi¬ tada actitud de los filipinos de entonces. El rey Gi¬ lala —que así se llamaba el régulo de Bohol— se ex¬ plicó diciendo "que los naturales de allí estaban muy atemorizados del robo y daño que sobre paz y amistad les habían hecho los Castellanos de Molucas, porque les mataron y prendieron más de ochocientas personas sin saber por qué... y después acá, en viendo vela o</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="3494,3415 6538,3415 6538,8542 3494,8542" />
+      <TextEquiv conf="0.9979">
+        <Unicode>navío en el mar, se metían adentro como su único re¬ medio de salvación". Comprendieron entonces los españoles que ya ha¬ bían andado por allá los portugueses levantando al pueblo contra los sucesores de Magallanes. “Legazpi dijo entonces a Gilala que los blancos de las Molucas no eran castellanos, sino portugueses, los cuales es¬ taban en guerra con los verdaderos castellanos." Presagios de Guerra El 27 de abril de 1565 llegaron a la bahía de Cebú, que era el puerto a la sazón más floreciente de Filipinas. Envió luego el Adelantado a su emisario con un intérprete para dar cuenta al Rey de la isla. S. M. el rey Tupas les despachó diciendo que volvie¬ ran a las naos donde él iría en persona para saludar a los españoles en nombre del pueblo. Estuviéronle aguardando, pero no apareció en toda la mañana. A primeras horas de la tarde, se presentó en la bahía un intérprete moro, mensajero de Tupas, el cual dijo que su señor el Rey vendría lue¬ go, si ellos prometían no hacerle daño alguno. Esto les indicó a los españoles que la falsa propaganda se había extendido también hasta Cebú. Legazpi con¬ testó al intérprete moro que podía asegurar a su se¬ ñor sobre el buen trato de los españoles para con los filipinos. Con ello aguardaron toda la tarde y el rey Tupas no se presentó en la bahía. A últimas horas del día se presentó otro emisario del rey con la increíble nue¬ va de que Tupas había caído enfermo, pero que él te¬ nía todos los poderes del rey para recibir a los espa¬ ñoles y hacer el pacto de sangre a usanza del país. Legazpi contestó que dicho pacto sólo tendría lugar entre la primera persona de la isla y él mismo, como representante del rey de España. Volvió el emisario,</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="6413,8674 6552,8674 6552,8778 6413,8778" />
+      <TextEquiv conf="0.8859">
+        <Unicode>33</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

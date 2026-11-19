@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:06:50</Created>
+    <LastChange>2026-11-18T10:06:50</LastChange>
+  </Metadata>
+  <Page imageFilename="0272_Semana-0272.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="116,287 414,287 414,333 116,333" />
+      <TextEquiv conf="0.9830">
+        <Unicode>SEMANA—8</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="2037,280 2389,280 2389,333 2037,333" />
+      <TextEquiv conf="0.9758">
+        <Unicode>6 de Enerc, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="776,1963 1735,1963 1735,2012 776,2012" />
+      <TextEquiv conf="0.9850">
+        <Unicode>La abuela, satisfecha, se puso a dar cuerpo a la "idea".</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="112,2090 818,2090 818,3222 112,3222" />
+      <TextEquiv conf="0.9955">
+        <Unicode>abiertos pensaba en los niños—criatu¬ ras de Dios—que estarían durmiendo con la sonrisa en los labios, esperando ansiosos el amanecer para ir a correr y ver los regalos traídos por los Reyes. Pensaba en los hombres-niños que ya no creerían en los Reyes Magos, pero que todavía conservaban muy adentro el recuerdo de la Divina Ilusion y la sentían una y otra vez rediviva a lo largo de la Vida. Y pensaba en los nie¬ tos... Tenían razón. Al día siguiente se iban a marchar definitivamente, y ella esta¬ ba ya resignada a volver a su antigua soledad, porque comprendía que tam¬ poco podían estar con ella para siempre. La despedida tenía que venir. Ya había sabido mostrarse brava. Esta misma noche, durante la cena, ya anunciada la marcha de todos para el día siguiente, ella había sugerido que debían coronar con algo memorable la estancia con la abuela. Los nietos, muy conformes con la idea, se rompían la cabeza pensando en “algo memorable" hasta que Estre¬ lla, muy traviesa y también muy ima</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="897,2090 1598,2090 1598,3222 897,3222" />
+      <TextEquiv conf="0.9836">
+        <Unicode>ginativa, se dio un golpetazo en la frente y exclamó: —Ya, ya lo tengo... —¡Psé! Alguna tontería—la desdeño Juan... Le sacó la lengua Estrella.. ¡El en¬ vidioso!... Y, pues, sí, tenía una idea, una es¬ pléndida idea... —Vamos, vamos, niña....¿qué es? —preguntó la abuela. —Pues, esto; que nosotras, las chicas, vamos a poner nuestros zapatos en las ventanas y los chicos... —De Reyes Magos!.... Magnifico! ...—aplaudió Enrique.—Yo voy a ser Melchor... —Y yo, Gaspar... —Y yo, Baltazar... Y así blanqueaban a esta hora los zapatos en las ventanas del comedor. Del comedor precisamente porque eran las ventanas más accesibles para los Reyes Magos. Y la abuela le daba vueltas en la ca¬ beza a una idea traviesa, una idea pica¬ resca. Oh, su lejana juventud!... Sólo</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="1680,2090 2384,2090 2384,3222 1680,3222" />
+      <TextEquiv conf="0.9895">
+        <Unicode>con pensar en la "idea", se sentía remo¬ zada, devuelta a las energías juveniles. S:, sí, lo haría, ¡Por qué no? Sería una broma y si, por alguna casualidad cuajaba, mejor que mejor. Así habría contr.buído a la felicidad de sus nietos; así habría hecho renacer la Divina Ilusión... Saltó del lecho, muy quedamente. En¬ cendió la luz. Rebuscó en los cajones. Luego, satisfecha, se puso a dar cuerpo a "la idea". Al día siguiente, durante el desayuno, la abuela fue mirando, uno por uno a los -nietos. Y ¡temblaba!... ¡tembla¬ ba!... Ellos, muy extrañados. Ellas, muy serias. Y dentro de la seriedad, la Di¬ vina Ilusión palpitando en promesas de felicidad. Una Divina Ilusión, tan clara, tan evidente, que la abuela se sentía rejuvenecer. Y era obra suya, jobra de sus sesenta años! Porque ella, la noche pasada, la noche de Reyes, había queri¬ do ser una Maga y había colocado en los zapatos... jcartas de amor!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r6" custom="readingOrder {index:6;} structure {type:Figure;}">
+      <Coords points="102,382 2379,382 2379,1932 102,1932" />
+    </ImageRegion>
+  </Page>
+</PcGts>

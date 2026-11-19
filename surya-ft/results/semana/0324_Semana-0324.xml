@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:07:15</Created>
+    <LastChange>2026-11-18T10:07:15</LastChange>
+  </Metadata>
+  <Page imageFilename="0324_Semana-0324.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="99,273 401,273 401,323 99,323" />
+      <TextEquiv conf="0.9956">
+        <Unicode>SEMANA—16</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="1977,277 2369,277 2369,330 1977,330" />
+      <TextEquiv conf="0.9954">
+        <Unicode>3 de Febrero, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="325,477 2153,477 2153,656 325,656" />
+      <TextEquiv conf="0.9824">
+        <Unicode>La Historia de Mi Vida</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="1011,701 1497,701 1497,778 1011,778" />
+      <TextEquiv conf="0.9231">
+        <Unicode>Por Joe Louis”</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="99,817 808,817 808,2023 99,2023" />
+      <TextEquiv conf="0.9948">
+        <Unicode>—III Hay quienes creen que yo dedico ahora mucho tiempo a los placeres. Quizá sea así. Pero durante mi in¬ fancia en Alabama no era mucho lo que podía hacer para divertir¬ me. Tan pronto como un muchacho era suficientemente grande se veía obligado a trabajar en el campo, desde las primeras horas de la ma¬ ñana hasta el anochecer. Por las no¬ ches había que permanecer en la casa y acostarse temprano, porque lodo el mundo tenía que levantarse temprano para el trabajo el día siguiente. El placer más grande que recuerdo haler tenido en mis días de Alabama me lo dieron las visitas que hacía con mi padras¬ tro a Camp Hill, una población que tenía tiendas a lo largo de su calle principal. Mi padrastro nos daba una bue¬</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="885,817 1601,817 1601,2030 885,2030" />
+      <TextEquiv conf="0.9963">
+        <Unicode>na cantidad de consejos antes de ponernos la mano encima, y esto último lo hacía contra su propio hijo Pat tan rápidamente como con¬ tra mí. En la finca comíamos bien: teníamos abundancia de maíz, pa¬ pas, tocino, gallinas y pescado. Pero lo que recuerdo más clara¬ mente es cómo Pat y yo esperába¬ mos los sábados por la noche, fue¬ ra de la casa, en el vagón, porque mi padrastro nos traía galletas y queso, lo que constituía una fiesta para nosotros. Pero teníamos que comerlo en el vagón, en esto era estricto, pues no deseaba que nos viéramos en dificultades sobre el particular. Los muchachos que vivían en aquellas regiones no poseían mu¬ cho, pero se sentían felices. Noso¬ tros no conocimos el cinematógrafo sino cuando llegamos a Detroit. Los</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="1673,817 2379,817 2379,2030 1673,2030" />
+      <TextEquiv conf="0.9966">
+        <Unicode>mejores tiempos que teníamos eran los de buscar huevos, para la Pas¬ cua, y el acontecimiento más gran¬ de era la colocación de nuestras medias en la chimenea para No¬ chebuena. Sabíamos de San Nico¬ lás, pero no acostumbrábamos ins¬ talar árboles de Navidad como se hace en el norte. Lo que encontrá¬ bamos al día siguiente en las me¬ dias eran manzanas y naranjas, y grandes dulces de menta. Antes de que pase a decir cómo fué que nos trasladamos a Detroit cuando tenía doce años, quiero de¬ cir otra cosa: en todos los años que pasé en Alabama nunca oí ha¬ blar de razas ni cosas por el estilo. Que yo recuerde, nadie hablaba de esto jamás. Si se habló de lincha¬ mientos, nunca llegué a oirlo. No era como ahora. No supe de esto sino cuando llegamos a Detroit. En</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="900,2149 1593,2149 1593,2209 900,2209" />
+      <TextEquiv conf="0.9801">
+        <Unicode>RUINAS DE INTRAMUROS</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="496,2310 1980,2310 1980,2451 496,2451" />
+      <TextEquiv conf="0.9730">
+        <Unicode>Las Puertas De Las Murallas</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="99,2542 1197,2542 1197,3236 99,3236" />
+      <TextEquiv conf="0.9946">
+        <Unicode>Viejas puertas del Parían, Postigo y Santa Lucía, Puerta Real de la Ermita y la de Isabel Segunda, Carcomidas por los siglos, que se elevan todavía Como veraces testigos de una leyenda rotunda... Viejas puertas las que vieron las brillantes armaduras De los tercios españoles, argonautas de aventuras Cruzar bajo sus arcadas como una visión homérica Para contener las huestes de Limahong y América.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="1281,2542 2374,2542 2374,3240 1281,3240" />
+      <TextEquiv conf="0.9558">
+        <Unicode>FELGOMAR. Manila, Enero de 1949.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

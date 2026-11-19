@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:03:02</Created>
+    <LastChange>2026-11-18T10:03:02</LastChange>
+  </Metadata>
+  <Page imageFilename="Fémina_15-10-1923_P02.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="1634,88 2365,88 2365,151 1634,151" />
+      <TextEquiv conf="0.9600">
+        <Unicode>Archivo General de la Nación</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="164,186 2216,186 2216,438 164,438" />
+      <TextEquiv conf="0.9929">
+        <Unicode>FEMINA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="164,438 2216,438 2216,789 164,789" />
+      <TextEquiv conf="0.9920">
+        <Unicode>REVISTA DE LITERATURA, CIENCIAS Y ARTES CONSAGRADA A LA MUJER. DIRECTORA-ADMINISTRADORA: PETRONILA ANGELICA GOMEZ Maestra Normal.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="164,789 2216,789 2216,1140 164,1140" />
+      <TextEquiv conf="0.9802">
+        <Unicode>REDACTORES: MARIA L. ANGELIS DE CANINO, PETRONILA A. GOMEZ, CONSUELO MONTALVO DE FRIAS. Año 2 San Pedro de Macorís, Octubre 15 de 1923 Mro. 29</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="164,1140 2216,1140 2216,1603 164,1603" />
+      <TextEquiv conf="0.9911">
+        <Unicode>INVEROSIMILITUDES. LOS MUERTOS HABLAN. Diálogo animado entre Jose Martí y Eugenio Ma. de Hostos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="164,1603 1175,1603 1175,3171 164,3171" />
+      <TextEquiv conf="0.9920">
+        <Unicode>Martí-Hermano Eugenio María; qué pasa en la Patria Central nuestra? Hostos—Nada de anormal, porque lo normal allí es lo anormal. Martí—Sí; pero me parece escuchar un grito desusado entre las gentes que suelen ser indiferentes. Hostos—Escrito está en mi “Moral So¬ cial” todo cuanto ha de pasar en nuestras Patrias, puesto que cuando Tú y Yó escri¬ biamos para estas Patrias, el Yó trascen¬ dental de “alguien que está muy alto” ponía en nuestros lápices su soplo divino. Martí—Y.... qué quisiste tú decir a las gentes cuando hablaste en tu precioso Códi¬ go de Moral de “que no puede haber reac¬ ción del Derecho en los pueblos donde no ha habido acción del Derecho? Hostos—Sencillamente; eso, que no pue¬ de haber reacción donde no ha habido ac¬ ción.... Martí—Sí; pero el Derecho—como basa¬ menta de felicidad en la equidad—ha de crearse en estos pueblos só pena de que sean convertidos los hombres en tigres o chacales. Hostos—Efectivamente; se han de her¬ manar las voluntades y fundir las almas todas en una gran alma nacional.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="1175,1603 2216,1603 2216,3171 1175,3171" />
+      <TextEquiv conf="0.9926">
+        <Unicode>Martí-¿Y quién hará ese milagro en es¬ ta Era que no es la de Moisés y de Jesús? Hostos—Operará mejor que Moisés y que Jesús, la Ley Fatal de la común necesi¬ dad obediente siempre a la gran casualidad. Martí—¿Crees tú — Hermano Eugenio María — que se hermanarán todos estos pueblos? Hostos—Con más sólidos vínculos que los que quiso atar Bolívar en el 1822, cuan¬ do—como visionario—vió la garganta de Darien próxima a ser abierta en canal entre mar y mar. Martí—Tienes razón; yo creo también que la común necesidad reunirá a las 20 Repúblicas del Habla Común en una Poten¬ cia de primer orden que se denominará Los Estados Unidos de la América Latina que será la balanza del Nuevo Mundo y el balancín del desquiciado Mundo que hoy arde en guerra insana, y en donde también —Tú lo dijiste—se habrán de crear—por Ley Fatal—Los Estados Unidos de Euro¬ pa, tal vez mañana.... Hostos—Y.... tú ves hoy a la Antilla Central anonadada?... Pues.... ahí será— precisamente—donde se habrán de reunir en breve los Plenipotenciarios de todas las (Cortinúu en la pág. 8a.)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

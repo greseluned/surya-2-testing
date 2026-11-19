@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:07:15</Created>
+    <LastChange>2026-11-18T10:07:15</LastChange>
+  </Metadata>
+  <Page imageFilename="0340_Semana-0340.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="104,287 406,287 406,337 104,337" />
+      <TextEquiv conf="0.9949">
+        <Unicode>SEMANA—32</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="1982,295 2376,295 2376,351 1982,351" />
+      <TextEquiv conf="0.9949">
+        <Unicode>3 de Febrero, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="79,400 2371,400 2371,729 79,729" />
+      <TextEquiv conf="0.8953">
+        <Unicode>Humorística</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="79,729 1189,729 1189,1753 79,1753" />
+      <TextEquiv conf="0.9898">
+        <Unicode>SALVADO...EL TACAÑO ¿Cuáles son las tres cosas que el hombre aprecia más en el mundo, por estar más expuesto a perderlas? El alma, el cuerpo y los bienes. El alma, con las acechanzas de sus enemigos capi¬ tales: mundo, demonio y carne; el cuerpo, con las re¬ cetas de los médicos y los quid pro quo de los far¬ macéuticos; y los bienes, con las cuentas de los abo¬</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="1264,1402 2371,1402 2371,1753 1264,1753" />
+      <TextEquiv conf="0.9930">
+        <Unicode>gados y curiales y los recibos del casero. En que se diferencia un reloj de una jóven her¬ mosa? En que estando cerca de aquél, se recuerdan las horas; y cuando estamos al lado de ésta, se olvida aun el mas pintado de las que pasan.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="79,1788 1189,1788 1189,2594 79,2594" />
+      <TextEquiv conf="0.9804">
+        <Unicode>SERA POSIBLE?.. En qué se parece un rayo del sol al terreno que ocupó un edificio derribado? En que es solar.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="1264,2419 2371,2419 2371,2594 1264,2594" />
+      <TextEquiv conf="0.9912">
+        <Unicode>¿En qué se parece un salón con luces á un hom¬ bre cargado de bebida? En que está alumbrado.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="79,2630 1189,2630 1189,2700 79,2700" />
+      <TextEquiv conf="0.8409">
+        <Unicode>IL LASION OÓTICA...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="1264,2630 2371,2630 2371,2700 1264,2700" />
+      <TextEquiv conf="0.7498">
+        <Unicode>7</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r9" custom="readingOrder {index:9;} structure {type:Figure;}">
+      <Coords points="52,796 2423,796 2423,1353 52,1353" />
+    </ImageRegion>
+    <ImageRegion id="r10" custom="readingOrder {index:10;} structure {type:Figure;}">
+      <Coords points="52,1848 2423,1848 2423,2398 52,2398" />
+    </ImageRegion>
+  </Page>
+</PcGts>

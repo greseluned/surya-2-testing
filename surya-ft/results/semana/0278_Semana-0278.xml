@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:06:51</Created>
+    <LastChange>2026-11-18T10:06:51</LastChange>
+  </Metadata>
+  <Page imageFilename="0278_Semana-0278.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="359,302 684,302 684,354 359,354" />
+      <TextEquiv conf="0.9900">
+        <Unicode>SEMANA—14</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="2032,302 2389,302 2389,358 2032,358" />
+      <TextEquiv conf="0.9928">
+        <Unicode>6 de Enero, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="62,1108 788,1108 788,1897 62,1897" />
+      <TextEquiv conf="0.9950">
+        <Unicode>En honor del cuerpo diplo¬ mático, se cefebró en el Palacio de Malacañán, el día 29 de Di¬ ciembre, una brillantísima re¬ cepción, que se vió lucidísima, y en la que, como es costumbre, los más sobresalientes miem¬ bros de dicho cuerpo, encabeza¬ dos por el Excmo Sr. Presiden¬ te Don Elpidio Quirino y su hella hija, la Srta Vicky, pri¬ mera dama de Filipinas, baila¬ ron el tradicional rigodón. Véanse algunas fotos del simpático acto.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="139,2139 706,2139 706,2247 139,2247" />
+      <TextEquiv conf="0.9538">
+        <Unicode>BAILANDO EL RIGODON DE HONOR.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="1824,2640 2339,2640 2339,2991 1824,2991" />
+      <TextEquiv conf="0.9938">
+        <Unicode>Centro del Rigodón de Honor. La Srta. Quirino, el Speaker Pérez, la Seño¬ ra de Aguilar y el Presi¬ dente Quirino.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r5" custom="readingOrder {index:5;} structure {type:Figure;}">
+      <Coords points="25,217 1187,217 1187,1066 25,1066" />
+    </ImageRegion>
+    <ImageRegion id="r6" custom="readingOrder {index:6;} structure {type:Figure;}">
+      <Coords points="847,1101 2344,1101 2344,2272 847,2272" />
+    </ImageRegion>
+  </Page>
+</PcGts>

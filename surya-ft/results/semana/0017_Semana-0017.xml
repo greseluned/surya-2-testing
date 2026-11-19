@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:05:34</Created>
+    <LastChange>2026-11-18T10:05:34</LastChange>
+  </Metadata>
+  <Page imageFilename="0017_Semana-0017.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="109,235 528,235 528,287 109,287" />
+      <TextEquiv conf="0.9964">
+        <Unicode>10 de Febrero, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="2096,235 2409,235 2409,287 2096,287" />
+      <TextEquiv conf="0.9939">
+        <Unicode>SEMANA—17</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="104,337 825,337 825,3233 104,3233" />
+      <TextEquiv conf="0.9979">
+        <Unicode>EL VATICANO... (Viene de la pag. 12) Moscú en el pasado mes de julio bajo a la presidencia del patriar¬ ca Alexei de Moscú. La persecución en Hungría, en donde el 70 por ciento de los cató¬ licos pertenecen al rito latino, es diferente en cierto modo, según se dice aquí, de la que se practica, por ejemplo, en Rumanía, en don¬ de la mayoría de los católicos per¬ tenecen al rito bizantino. El gobierno comunista de Hun¬ gría, al decir de los círculos del Va¬ ticano, tiene necésidad de un gran proceso legal contra la Iglesia ba¬ sándose en acusaciones de alta traición y escándalos financieros. Las acusaciones que la autorida¬ des húngaras han lanzado contra el Cardenal Mindszenty, se añade, son totalmente falsas. El gobierno húngaro conoció perfectamente de todas las diversas actividades del cardenal Mindszenty y simplemen¬ te fué contra él porque decidió que había llegado el momento de ini¬ ciar su nueva y mortal ola de persecución contra la Iglesia en Hungría. Los círculos del Vaticano tam¬ bién subrayan que el goblerno hún¬ garo siempre alentó las conversa¬ ciones con el Cardenal Mindszenty para el restablecimiento de las re¬ laciones diplomáticas con la Santa Sede y para la concertación de un acuerdo de naturaleza general so¬ bre asuntos económicos y jurídicos que afectaban a la Iglesia. Sin em¬ bargo, siempre que hubo la oportu¬ nidad de suscribir un acuerdo con el gobierno húngaro, por una u otra razón, se demoraba la firma, con lo que se pone de manifiesto que todas las conversaciones se lleva¬ ban a cabo con el único propósito de ocultar las verdaderas inten¬ ciones húngaras. El lugar del Cardenal Primado como jefe de la Iglesia católica en Hungría será tomado por Monse¬ ñor Josef Grosz, de 61 años de edad, Arzobispo de Colocza, é, en</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="900,337 1613,337 1613,1178 900,1178" />
+      <TextEquiv conf="0.9962">
+        <Unicode>el caso de que continúe mal de sa¬ lud, por monseñor Julius Czapik, Arzobispo de Agria. Las acusaciones lanzadas con¬ tra el Cardenal Mindszenty son muy graves y traen consigo sen¬ tencias muy fuertes de acuerdo con la nueva Constitución comunista de Hungría. Aparte de la pérdida de todos los derechos como ciuda¬ dano, la Constitución húngara pre¬ vee la pena de muerte por el delito de alta tralción. La impresión general en el Vaticano es que la Secretaría de Estado de la Santa Sede desea mantener reserva ab¬</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="1697,337 2409,337 2409,1178 1697,1178" />
+      <TextEquiv conf="0.9971">
+        <Unicode>soluta en relación con este grave incidente. La situación es aún muy confusa y en círculos bien infor¬ mados del Vaticano se dice que an¬ tes de que se tome alguna acción en definitiva, debe obtenerse un cua¬ dro mucho más claro de lo que exactamente ha pasado y está pa¬ sando en Hungría. En esferas del Vaticano no se excluye la posibili¬ dad de que Su Santidad convoque a un Consistorio de Cardenales para que se pueda protestar oficial¬ mente contra la detención de un miembro del Sagrado Colegio de Cardenales. —REUTERS</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r5" custom="readingOrder {index:5;} structure {type:Figure;}">
+      <Coords points="907,1259 2394,1259 2394,3250 907,3250" />
+    </ImageRegion>
+  </Page>
+</PcGts>

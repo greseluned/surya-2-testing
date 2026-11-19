@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:07:29</Created>
+    <LastChange>2026-11-18T10:07:29</LastChange>
+  </Metadata>
+  <Page imageFilename="Sorpresas-Chicago_Pag40.jpg" imageWidth="2570" imageHeight="3439">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="159,244 889,244 889,2672 159,2672" />
+      <TextEquiv conf="0.9946">
+        <Unicode>choen trecho unos carteles nos ruegan que hablemos en vez baja y recomienda á las señoras que cuando sientan necesidad de gritar lo hagan tres doucement. En vez de mesas hay atauddes y los sirvien¬ tes, vestidos tambien rigurosamente de negro, cumplen su cometido deslizándose como fantasmas. En el fondo una peque¬ ña puertecita dá acceso á la Cámara de transfiguración, la cuota de entrada es de un franco; una vez pagada esta, un individuo con hábito y capachon ne¬ gros nos conduce por un pasillo iluminado con los consabidos hachones; el pasillo se halla iluminado á derecha é izquierda por columnas vestidas de negro, y en el espacio que queda entre las columnas se ven esqueletos que en las actitudes mas grotescas parecen burlarse de los que por delante de ellos desfilan. Por fin entra¬ mos en la Cámara de transfiguración: esta tiene todo el aspecto de una cripta que recibe la luz por una claraboya. En el centro, y precisamente debajo de la claraboya, un ataud descubierto y vacío colocado sobre un catafalco parece espe¬ rar á su ocupante; el individuo del há¬ bito monástico nos invita á sentarnos en las sillas colocadas delante del catafalco y pregunta quien quiere tener el placer de ser transfigurado. No falta alguno que por querer seguir lo broma hasta el fin se ofrece á ello sonriendo y cuando un individuo de estas condiciones no se pre¬ senta entonces se echa mano de un em¬ pleado de la casa. El que desea ser transfigurado es colo¬ cado dentro de ataud, al mismo tiempo un harmunium situado en una estancia contigua empieza con un gori gori y pob prodigiol el individuo metido dentro del ataud comienza á pal decer, sus ojos van hundiéndose, la sonrisaque contraia por sus labios se transforma en horrible mueca y así gradualmente y al compas de la mú¬ sica fúnebre parece que presencia nos el proceso de putrefacción de un cadaver hasta que sin darnos cueata de ello el ataud lo vemos ocupado por un esqueleto Como de sobra se habrá supuesto el lec¬ tor, la trasformación del hombre vivo en descarnado esqueleto se obtiene por me dio de los efectos de una linterna mágica colocada en la claraboya, pero á pesar de todo el espectáculo es de los que panen</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="925,258 1653,258 1653,2731 925,2731" />
+      <TextEquiv conf="0.9870">
+        <Unicode>los cabellos de punta. A lo mejor, durante la transfiguración una ó mas nerviosas �pe¬ tites� que forman parte de la concurrencia, única clase de seres pertenecientes al sexo débil que frecuentan el café, em vie¬ za á dar horribles alaridos, apesar de las recomendaciones degritar �tres doucement¬ y tiene que ser conducida fuera presa de un violento ataque de nerv.os, consecuen¬ cia del terrible espectaculo de la trans¬ figuración. Por mi parte confieso que las sensaciones que experimentó en la Cámara de transfiguración distaban mucho de ser agradables y lo mismo oreo que sucedió con los que conmigo presenciaban el es¬ pectáculo, pues aparentamente sus rostros lo demostraban. A pesar de lo desagradable y lágubre de la diversión, el caso es que el café y la cánara están siempre llenos de gente ávida de sufrir emociones fuertes y que á la época de mi marcha de París el Cabaret du néant estaba en su apogeo y por noticias ultimamente recibidas sé que continúa estando muy concurrido. Maaila—Diciembre-94. Rouge et Noir. RECETA DE COC(NA Morcillas.—Es uno de los aprovecha¬ mientos másagradables y fáciles delcerdo, para los aficionados á la olla española y potaje asturiano. Cuando matan la res, seva recogiendo lasangre en un tebritlo (barreño vidriado) revolviéndola para que no se cuaje; se tiene ya dispuesta gran cantidad de cebo¬ llapicada, cocidacon sal y escurrida, y tan pronto está listo el redaño, deélse separa y pica, no muy menudo, una buená canti¬ dad, que se echa en la sangre, lo mismo que la cebolla; se revuelve y sazona todo consal, pimienta, unpoco de canela, co ni¬ nos y orégano molido (algunas agregan más especias y un poco de pimenton picante) y después de preparados los intes¬ tinos, se cortan estos del tamaño conve¬ niente y se rellenan á medias, porque hin¬ cha elcontenido alcocerse. Setienen algu¬ nos minutos las morcillas en agua hir¬ viendo, sacándolas de cuando en cuando para pincharlas con alfileres, á fin de evi¬ tar que revienten; y ya están listas las morcillas á la asturiana</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="1688,265 2411,265 2411,667 1688,667" />
+      <TextEquiv conf="0.9886">
+        <Unicode>Las estre neñis se distinguen en que, en lugar de cebolla se les echa carne picada, de la llamada degolladura, qu tiene más grasa, y se cargan de pimen¬ ton picante. Una vez cocidas las morcillas se cuel¬ gan en sitio ventilado si se quiere conser¬ varlas algunos dias. Mucho tiempo, sólo se conservan bien en grasa.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="1681,691 2413,691 2413,2559 1681,2559" />
+      <TextEquiv conf="0.9779">
+        <Unicode>TIJERETAZOS Fuí al baile como un cadete, y allí, francas y resueltas, me llamaron viejo, siete colegialas desenvueltas. ¡Qué de cinturas esbeltas! ¡qué trajes! ¡qué animación! ¡qué música! ¡qué telón! ¡qué regalos tan bonitos! y en algunos señoritos.. ¡qué ausencia de educación! En un teatro casero: Al terminar la representación, uno de los concurrentes se dirige á la condesa, felicitandola por su triunfo artístico. ¬¡Ah! no lo crea ustel—dice la con¬ desa;—para hacer bier ese papel se ne¬ cesita ser jóven y hermosa. ¬Pues usted es ura prueba de lo con¬ trario,—contesta galantemente el indi¬ viduo. ¬Miramel Da tus ojos mariposa, está en ellos la luz de mi existencia; cuando no me iluminan, me purece que vuelva el universo á las tinieblas. Y tú, más desdeñosa cada día, los apartas de mí, ¡quié lo creyera! Me diste amor y fe.. todo lo grande, ¡y eso que estan pequeño me loniegas!.. Un señor muy rico había hecho un viaje instructivo á Englaterra. A su vuelta le pregunó uno: ¬¡Hombrel Usted que ha estado en el extranjero, me podría decir qué es un luterano? ¬Eso lo sube un chico de la escuela. ¬¡Sí? Pues yo deseo saberlo. ¬Luterano es el que lleva luto. CAMARA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="1940,2521 2128,2521 2128,2559 1940,2559" />
+      <TextEquiv conf="0.9715">
+        <Unicode>CÁMARA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r5" custom="readingOrder {index:5;} structure {type:Figure;}">
+      <Coords points="321,2847 578,2847 578,3329 321,3329" />
+    </ImageRegion>
+    <ImageRegion id="r6" custom="readingOrder {index:6;} structure {type:Figure;}">
+      <Coords points="1969,2903 2249,2903 2249,3329 1969,3329" />
+    </ImageRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:02:42</Created>
+    <LastChange>2026-11-18T10:02:42</LastChange>
+  </Metadata>
+  <Page imageFilename="Fémina_15-06-1923_P08.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="154,196 404,196 404,242 154,242" />
+      <TextEquiv conf="0.9950">
+        <Unicode>Femina</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="2006,189 2194,189 2194,239 2006,239" />
+      <TextEquiv conf="0.9639">
+        <Unicode>Página 8</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="178,523 265,523 265,2582 178,2582" />
+      <TextEquiv conf="0.9655">
+        <Unicode>De los encuentros del Domingo 20 de Mayo pdo. entre el "Macorís y "Saniago"</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="528,2905 1832,2905 1832,2992 528,2992" />
+      <TextEquiv conf="0.9487">
+        <Unicode>Mussolini y el Voto Femenino :-</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="114,3077 1160,3077 1160,3312 114,3312" />
+      <TextEquiv conf="0.9953">
+        <Unicode>Benito Mussolini concedió una audiencia a Regina Tersulzi que que llevaba la representa¬ ción de un comité del Congreso de la Alianza Internacional del Sufragio. Mussolini mostró interés por este asunto y di¬</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="1205,3077 2253,3077 2253,3312 1205,3312" />
+      <TextEquiv conf="0.9889">
+        <Unicode>jo que en su oportunidad buscará los medios para que se acepten las demandas de las mujeres sufragistas de Italia. (De "Feminismo Internacional")</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="1839,309 2174,309 2174,1533 1839,1533" />
+      <TextEquiv conf="0.9843">
+        <Unicode>del "Santiago", desconectó un tree-bager de Santana, realizando una soberbia cogida y es felicitado con tal motivo por su Capitán Pedro Augusto. —En el centro: Santana, el terrible bateador del "Macorís", quien ese mismo día conectó un majaguazo por sobre el tablado, resultando el primer homerum de la serie, es victoreado por sus compañeros.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="1839,1568 2174,1568 2174,2792 1839,2792" />
+      <TextEquiv conf="0.9721">
+        <Unicode>De izquierda a derecha.—Batería del “Santiago," Pit¬ chers: Sijo, Pajarito, Felicito y Fico.— Catcher: Valerio. Cuadro de jugadores de la potente novena “Macorís”, que el domingo 20 de Mayo pdo. midío sus fuerzas con el no menos potente team “Santiago".— El Umpire Frey¬ re declara safe en home al corredor Valerio del “Santia¬ go", en el empate del So. imming.— Polanco, central field</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r8" custom="readingOrder {index:8;} structure {type:Figure;}">
+      <Coords points="337,372 1792,372 1792,2733 337,2733" />
+    </ImageRegion>
+  </Page>
+</PcGts>

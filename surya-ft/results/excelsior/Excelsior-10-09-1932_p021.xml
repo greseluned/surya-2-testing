@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:02:00</Created>
+    <LastChange>2026-11-18T10:02:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Excelsior-10-09-1932_p021.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="248,1395 1189,1395 1189,1991 248,1991" />
+      <TextEquiv conf="0.9949">
+        <Unicode>(Foto inferior). Una puerta de hierro que se dice y afirma es la más segura del mundo. Esta puerta, fabricada en Italia, está cons¬ truida con treinta y ocho metales diferentes y no hacen mella en la misma ni la fuer¬ za ni la acción de agentes químicos. Pesa cincuenta y nueve toneladas, aproximada¬ mente, y es la puerta de hierro mayor del mundo. Se haila instalada en el Banco dí Chiavari e Della Riviera Liguri, de la famo¬ sa "calle de los bancos" como se denomina la Via Garibaldi, de Genova. Apesar del enor¬ me peso de la puerta, puede ser abierta por un niño.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="1705,372 2243,372 2243,1231 1705,1231" />
+      <TextEquiv conf="0.9893">
+        <Unicode>¡Un tribunal en una barca! Uno de los más pintorescos tribunales del mundo es sin duda algu¬ na este llamado "Medway Court", del Almiran azgo inglés, que cuenta nada menos con más de dos si¬ glos de existencia o anti¬ gúcdad y, de acuerdo con la costumbre establecida, celebra sus sesiones y al¬ ministra justicia en una barca anclada en el rio Medway, de Rochester. En la fotografía se ve al al¬ guacil de la ciudad decla¬ rando abierta la sesión del curioso tribunal.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="1338,2798 2270,2798 2270,3183 1338,3183" />
+      <TextEquiv conf="0.9905">
+        <Unicode>La recrudescencia de los Hohenzollerns: El Príncipe August Wilhelm, tomó parte en la grandiosa manifestación celebra a en Berlín y organizada por los Nazis (el partido fas¬ cista alemán) y el cuerpo de estudiantes pa¬ ra protes ar contra la vigencia del Tratado de Versalles. (En la foto): El Príncipe Au¬ gust Wilhelm y el comandante Schmit pre¬ serciando el desfile de la manifestación.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r3" custom="readingOrder {index:3;} structure {type:Figure;}">
+      <Coords points="228,305 1660,305 1660,1339 228,1339" />
+    </ImageRegion>
+    <ImageRegion id="r4" custom="readingOrder {index:4;} structure {type:Figure;}">
+      <Coords points="1291,1304 2257,1304 2257,2763 1291,2763" />
+    </ImageRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:06:51</Created>
+    <LastChange>2026-11-18T10:06:51</LastChange>
+  </Metadata>
+  <Page imageFilename="0291_Semana-0291.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="89,280 446,280 446,333 89,333" />
+      <TextEquiv conf="0.9800">
+        <Unicode>6 de Enero, 1949.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="2029,277 2364,277 2364,326 2029,326" />
+      <TextEquiv conf="0.9589">
+        <Unicode>SEMANA—27</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="642,494 1779,494 1779,757 642,757" />
+      <TextEquiv conf="0.9752">
+        <Unicode>ACTUALIDAD LOCAL</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="493,905 1972,905 1972,1048 493,1048" />
+      <TextEquiv conf="0.9919">
+        <Unicode>Ecos de Sociedad</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="94,1210 1207,1210 1207,1578 94,1578" />
+      <TextEquiv conf="0.9949">
+        <Unicode>Las hermanas Nida y Dely Villongco, de la alta sociedad de Manila, han llegado a Manila después de un largo viaje por el extranjero, habiendo residido por bastante tien po en América. Dely llegó a Manila hace poco, en compañía de su madre, la distinguida viuda del difunto médico y pro¬ pietario, Dr. Teófilo Villongco.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="1279,1210 2376,1210 2376,1578 1279,1578" />
+      <TextEquiv conf="0.9899">
+        <Unicode>La otra hermana, Nida llegó con varios meses de anterioridad después de haberse graduado de bachiller en artes en el colegio de Mary Knoil, de Ravenhill, Bal¬ timore, donde se especializó después en literatura in¬ glesa y en música. Las fotografías que publicamos son del X'OR STUDIO" (Malayan Colleges Building, Dasmariñas).</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="282,3187 825,3187 825,3240 282,3240" />
+      <TextEquiv conf="0.9898">
+        <Unicode>Srta. DELY VILLONGCO</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="1571,3187 2101,3187 2101,3240 1571,3240" />
+      <TextEquiv conf="0.9960">
+        <Unicode>Srta. NIDA VILLONGCO</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r8" custom="readingOrder {index:8;} structure {type:Figure;}">
+      <Coords points="146,1627 1142,1627 1142,3169 146,3169" />
+    </ImageRegion>
+    <ImageRegion id="r9" custom="readingOrder {index:9;} structure {type:Figure;}">
+      <Coords points="1484,1623 2171,1623 2171,3176 1484,3176" />
+    </ImageRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:06:50</Created>
+    <LastChange>2026-11-18T10:06:50</LastChange>
+  </Metadata>
+  <Page imageFilename="0267_Semana-0267.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="94,189 446,189 446,245 94,245" />
+      <TextEquiv conf="0.9955">
+        <Unicode>6 de Enero, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="2067,207 2376,207 2376,256 2067,256" />
+      <TextEquiv conf="0.9848">
+        <Unicode>SEMANA—3</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="94,2777 1556,2777 1556,2952 94,2952" />
+      <TextEquiv conf="0.9410">
+        <Unicode>el perfume "prohibido"</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="567,2952 1549,2952 1549,3345 567,3345" />
+      <TextEquiv conf="0.9765">
+        <Unicode>LUIS P. PELLICER Representante y Distribuidor Exclusivo P. O. Box 2583, Manila Tel. 5-11-01</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="1611,2566 2091,2566 2091,3257 1611,3257" />
+      <TextEquiv conf="0.9411">
+        <Unicode>TABU</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r5" custom="readingOrder {index:5;} structure {type:Picture;}">
+      <Coords points="270,168 2290,168 2290,2535 270,2535" />
+    </ImageRegion>
+  </Page>
+</PcGts>

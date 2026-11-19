@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:02:42</Created>
+    <LastChange>2026-11-18T10:02:42</LastChange>
+  </Metadata>
+  <Page imageFilename="Fémina_10-10-1922_P08.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="213,133 466,133 466,182 213,182" />
+      <TextEquiv conf="0.9985">
+        <Unicode>Fémina</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="2028,98 2226,98 2226,154 2028,154" />
+      <TextEquiv conf="0.9707">
+        <Unicode>Página 8</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="580,537 1874,537 1874,652 580,652" />
+      <TextEquiv conf="0.9819">
+        <Unicode>Himno a Nuestra Señora de La Altagracia.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="816,740 1644,740 1644,803 816,803" />
+      <TextEquiv conf="0.9762">
+        <Unicode>LEMA: COMO JESUS...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="979,905 1490,905 1490,951 979,951" />
+      <TextEquiv conf="0.9893">
+        <Unicode>PRIMER PREMIO.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="910,1084 1562,1084 1562,1316 910,1316" />
+      <TextEquiv conf="0.9861">
+        <Unicode>¡Oh Madre de la Altagracia, fuente de amor y de luz, tu corazón lleva encima el peso de nuestra cruz.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="538,1389 1207,1389 1207,2764 538,2764" />
+      <TextEquiv conf="0.9933">
+        <Unicode>Virgen misericordiosa, —transpar ente manantial al que da cada rosal la más tempranera rosa por mirarse en su cristal;— Con el fervor de los sanos de corazón, van a tí los ejércitos cristianos para comer, en tus manos, el sacro pan del Rabí. Llama resplandecedora, por la escala de los ruegos van a buscar, de hora en hora, tu luz santificadora las pupilas de los ciegos. Desde el lejendario altar que alzaron nuestros abuelos a tu pureza sin par, sienten las almas bajar la bendición de los cielos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="1292,1375 1958,1375 1958,2726 1292,2726" />
+      <TextEquiv conf="0.9959">
+        <Unicode>Y fué en ese altar, un día, a la benéfica luz de una alta sabiduría, do tejió tu mano pía el pabellón de la cruz. Por eso, si un yugo oprime nuestra cara libertad, apenas la Patria gime: pues que la ampara el sublime poder de tu santidad. Y, por eso, nuestros brazos están soldando, al calor de tu celestial amor, los rutilantes pedazos de nuestro escudo de honor. ¡Oh Madre de la Altagracia, fuente de amor y de luz, tu corazón lleva encima el peso de nuestra cruz. Emilio A. Morel.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="1170,2768 1973,2768 1973,2827 1170,2827" />
+      <TextEquiv conf="0.9853">
+        <Unicode>Santo Domingo, R. D. Junio 18-1922</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

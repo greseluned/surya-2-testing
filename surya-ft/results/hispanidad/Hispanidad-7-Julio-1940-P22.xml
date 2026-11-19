@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:04:08</Created>
+    <LastChange>2026-11-18T10:04:08</LastChange>
+  </Metadata>
+  <Page imageFilename="Hispanidad-7-Julio-1940-P22.jpg" imageWidth="6954" imageHeight="9417">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="2872,4878 4214,4878 4214,5104 2872,5104" />
+      <TextEquiv conf="0.9386">
+        <Unicode>LOS CAÍDOS</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="3150,5170 3866,5170 3866,5302 3150,5302" />
+      <TextEquiv conf="0.9329">
+        <Unicode>i18 de julio!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="1280,5575 3157,5575 3157,8748 1280,8748" />
+      <TextEquiv conf="0.9911">
+        <Unicode>Tronó en tus espacios, Iberia, la voz de tu alma; rompióse la calma de tus olvidados sepulcros. Y fueron puetas los muertos —De las csanentas brotaron injertos de nuevos profetas.— En los corazones hablaron los viejos blasones, con voz de titanes, con voz de leones: enpuje de tus capitanes guiando a triunfantes legiones. Por ser españolas hablaron las ruinas, hablaron las cumbres enhiestas, hablaron las crestas de tus catedrales divinas contando tus épicas gestas; y hablaron tus campos maduros con voz de amapolas, con voz de claveles azules...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="3866,5575 5695,5575 5695,8485 3866,8485" />
+      <TextEquiv conf="0.9868">
+        <Unicode>Y hablaron los tules de tu firmamento florido, florido en inceros inquietos de afán de locura imposible, con ansias de retos por tus polvorientos caminos. Un gran vendaval invisible preñado de genios divinos parié un huracán de guerreros con torsos de aceros, brazos membrudos, con ojos ardientes y fieros, con fiebres de alud por escudos, con pulsos de luz y coraje portando vibrantes banderas bordadas en tu eterno encaje: as hondos cantares, tus ansias de inperios, tus tierras, tus mares, tus recios azares... y tus cementerios!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="4583,8607 5709,8607 5709,8720 4583,8720" />
+      <TextEquiv conf="0.9962">
+        <Unicode>RICARDO R. MARINA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="501,8861 640,8861 640,8974 501,8974" />
+      <TextEquiv conf="0.9993">
+        <Unicode>16</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

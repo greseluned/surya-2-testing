@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:05:13</Created>
+    <LastChange>2026-11-18T10:05:13</LastChange>
+  </Metadata>
+  <Page imageFilename="Hispanidad-8-Agosto-1940_P09.jpg" imageWidth="6933" imageHeight="9408">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="1012,1242 1830,1242 1830,1392 1012,1392" />
+      <TextEquiv conf="0.9940">
+        <Unicode>Agosto, 1940</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="5137,1251 6080,1251 6080,1402 5137,1402" />
+      <TextEquiv conf="0.9770">
+        <Unicode>Año I.— No. 8</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="2274,3387 4610,3387 4610,3679 2274,3679" />
+      <TextEquiv conf="0.9551">
+        <Unicode>¿Ingobernables?</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="721,4234 6170,4234 6170,8533 721,8533" />
+      <TextEquiv conf="0.9964">
+        <Unicode>Albores del siglo veinte. Tarde primaveral. Bajo la umbría fresca y tranquila de una ala¬ meda, los Picos de Europa al fondo, tres hombres disfrutan del ocio y de la dulce paz. Pasean¬ Conversan. Uno de ellos, alto, fornido, bizarro, con huellas de amargos pesares en el rostro curtido y enérgico, protagonista obligado en uno de los muchos episodios de aquel trágico capítulo en la his¬ toria de España—la pérdida de las colonias—detiene de pronto su paso, otea rápido el horizonte y pregunta: ¿lloverá? Sus interlocutores, dos “filipinos”, es decir, dos españoles que, tras larga y porfiada lucha con la vida en estas Islas, donde dejaron su juventud y aquel primer amor que siempre vuelve, dieron como decimos por aquí, un salto a la tierruca, con la esperanza de un pronto retorno, re¬ cobradas ya las fuerzas, agostadas por los rigores del clima tropical. A la inesperada pregunta del personaje, dice uno de ellos: ¡qué le diré yo!... nubes plomi¬ zas... viento norte... lloverá. Pero el otro: ...no lo creo... nubes altas... pasan rápidas... no llueve... Por más que... qué se yo... Entonces, el protagonista, zumbón y con la intención de un miura: nos hemos enterado... qué le vamos a hacer... somos así... dos españoles y tres opiniones. Anécdota, rigurosamente histórica, que trae a la mente algo que, filipinos amigos de España, preguntan con frecuencia: ¿es cierto que los españoles no se entienden nunca? Y cuando a uno llegan rumores de discordias, de luchas sordas, de contiendas personales, de rebeldías más o menos encubiertas, se hace ineludible este interrogante: ¿será cierto que somos ingobernables? Repasábamos estos días la historia de la conquista de las Américas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="6434,8637 6524,8637 6524,8749 6434,8749" />
+      <TextEquiv conf="0.9522">
+        <Unicode>8</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

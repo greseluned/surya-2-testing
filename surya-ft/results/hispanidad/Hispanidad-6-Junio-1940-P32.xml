@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:04:07</Created>
+    <LastChange>2026-11-18T10:04:07</LastChange>
+  </Metadata>
+  <Page imageFilename="Hispanidad-6-Junio-1940-P32.jpg" imageWidth="6942" imageHeight="9433">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="333,424 3422,424 3422,6292 333,6292" />
+      <TextEquiv conf="0.9991">
+        <Unicode>Pero debemos entendernos. No es que Isabel la Católica fuese refractaria al Renacimiento, en lo que representó de cultura. Todo lo contrario. Ella misma fué una renacentista. Aprendió latín, leía los autores antiguos, trajo a España artistas y sabios extranjeros influidos por la ideología en auge y hasta organizó la enseñanza de sus hijos en los modos nuevos. Preocupada la reina Isabel con la educación del principe heredero, la ordenó en un plan de grandes vuelos. Don Juan no tuvo simplemente un preceptor, lo que hubiese reducido el estudio al límite de un diá¬ logo entre maestro y discípulo—solo provechoso para acoplar conocimientos. Isabel ideó algo más vivo, más amplio, mucho más eficaz a la formación de un joven que habría de ser rey de vastos dominios, que necesi¬ taba tanto de la ciencia como de la sabiduria de la vida, en el sentido griego, clásico, por tanto renaciente, de que sabio es aquel que sabe vivir con dignidad y con hondura filosófica. Por eso la reina dispuso que varios jóvenes de la nobleza compartiesen los estudios con su hijo y que solo tuviese entre ellos, incluido el príncipe, frecuentes polémicas e impugnaciones sobre temas elevados, bien intelectuales o humanos, para ejercitarse en la disci¬ plina discursiva, el discernimiento, el buen enjuiciar sobre las cosas, y practicar la controversia y la dialéc¬ tica, como en las escuelas del mundo antiguo. Tenemos, pues, que Isabel no desertó de su epoca. La reina de España fué renacentista, pero no a la manera de aquellas disolutas y cultísimas damas de las pervertidas cortes italianas de entonces, ni usar, como ellas, impúdicos atavíos, en competencia con la exalta¬ ción pagana del desnudo en las artes. Isabel impuso su moral, que era, precisamente, lo que le faltaba al Renacimiento. Y no se diga por esto que el significado del movi¬ miento renaciente se alteró en España, pues la aspira¬ ción a revivir una determinada forma de cultura preté¬ rita no obliga a tomar de ella precisamente lo peor, lo dañado, lo disolvente, sino lo que de esa misma anti¬</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="3520,424 6616,424 6616,6245 3520,6245" />
+      <TextEquiv conf="0.9990">
+        <Unicode>guedad hubiera quedado como ejemplar de virtudes. Isabel de Castilla, puesta en el caso, optó por lo sano y lo excelente. Pero hay más todavía. Algo que abarca contor¬ nos mas extensos, porque el influjo ideológico de la reina Isabel no quedó circunscrito al ámbito europeo. Es esencial tener presente que la era renacentista coincidió cronológicamente con el descubrimiento de América, lo que abría rutas innumerables por todo un mundo dispuesto a recoger la siembra. En consecuen¬ cia, si América no se descubre bajo los auspicios de la reina española, ardiente de fé, se hubiesen difun¬ dido entre miles y miles de hombres los conceptos mate¬ rialistas de la vida que en Europa imperaban. Por esta razón, la historia del pensamiento, debe a Isabel, haber conservado durante siglos, elevación, dignidad y nobleza. Y no se estime esta afirmación como de propor¬ ciones ditirámbicas. Se trata sencillamente de rese¬ ñar un hecho. Como España era entonces la que regía la hora histórica, y sus reyes ejercían una evidente dirección, la obra de Isabel, por tales circunstancias de expansión, tuvo dilatadísima influencia y el giro reli¬ gioso que dio a la cultura fué de transcendencia funda¬ mental para los destinos de la Humanidad. Porque la autoridad de España, su influjo posi¬ tivo y determinante en la Historia universal, desde los Reyes Católicos hasta Felipe II, es una realidad inmu¬ table. Muchas páginas quedan aun por escribir respecto a lo que significó en la Historia del mundo Isabel de Castilla, verdadera figura universal. Aquí, al menos reiteremos la poderosa verdad señalada. Que Isabel la Católica, reina de España, redimió al Renacimiento, orientádolo en un claro y afirmativo sentido espiritualista. Ballesteros</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="2978,7943 3971,7943 3971,8056 2978,8056" />
+      <TextEquiv conf="0.7991">
+        <Unicode>OOO</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="417,8990 548,8990 548,9084 417,9084" />
+      <TextEquiv conf="0.9981">
+        <Unicode>24</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

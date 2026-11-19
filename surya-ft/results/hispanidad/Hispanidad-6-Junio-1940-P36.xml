@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:04:08</Created>
+    <LastChange>2026-11-18T10:04:08</LastChange>
+  </Metadata>
+  <Page imageFilename="Hispanidad-6-Junio-1940-P36.jpg" imageWidth="6942" imageHeight="9433">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="194,3886 3096,3886 3096,4000 194,4000" />
+      <TextEquiv conf="0.9964">
+        <Unicode>Vista de uno de los patios del Colegio con un grupo de niñas.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="389,5264 2777,5264 2777,6716 389,6716" />
+      <TextEquiv conf="0.9757">
+        <Unicode>COLEGIO DE STA. ROSA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="62,7726 3138,7726 3138,8933 62,8933" />
+      <TextEquiv conf="0.9986">
+        <Unicode>En el año 1750 arribaba a las playas manilenses una dama española, Paula de la Santísima Trinidad, ter¬ ciaria dominica. Venía movida por el nobilísimo propósi¬ to de enseñar a las niñas pobres en las Islas. Establecida en Manila, adquirió en alquiler una casa donde reunía a muchas niñas pobres, instruyéndolas, no sólo en el Catecismo, sino también en todos aquellos co¬ nocimientos de que, según las exigencias de la época, de¬ bía estar dotada, toda joven de esmerada educación, ta¬</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="3638,679 6706,679 6706,5028 3638,5028" />
+      <TextEquiv conf="0.9990">
+        <Unicode>les como la lectura, la escritura, el bordado, y otras in¬ dustrias propias de la mujer. Así es como se fundó la Institución conocida hoy como Colegio de Santa Rosa. Según documentos existentes en el Archivo del Co¬ legio, hacia el año 1764, regía la Hermana Paula una pequeña escuela con más de cien alumnas, llevando a cabo, entre otras mejoras, la construcción de una Capilla en la parte interior del edificio. Fervorosa dominica, puso su escuela bajo el patronato de una célebre figura de la misma Orden, Santa Rosa de Lima. A la muerte de la Hermana Paula, la Institución fué confiada a una de aquellas damas que, colaborando con la fundadora, terminaban sus días como terciarias de la Orden de Sto. Domingo. En 1866, extinguido el pequeño grupo de colaboradoras de la Hermana Paula, pasó a las Hermanas de la Caridad, que hasta el día de hoy dirigen con éxito tan benemérita Institución. Tales mejoras se han hecho en el edificio, que es hoy uno de los mejores en las Islas. Cuenta con un muy selecto cuadro de maestras. Aprobados por el Gobierno, se dan en él los siguientes cursos: Primaria, Intermedia, Segunda Enseñanza, Comercio, Secretariado y Normal. Y entre los cursos especiales: Castellano, Piano, Cultura de la Voz, Mecanografía, Corte, Decoración In¬ terior, Pintura Decorativa, Cocina y Dibujo. Las Hermanas se consagran también a la obra mi¬ sionera, enseñando el Catecismo en las escuelas públicas y prestando generosa ayuda a los enfermos y meneste¬ rosos.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="4589,6594 5998,6594 5998,6697 4589,6697" />
+      <TextEquiv conf="0.9942">
+        <Unicode>Nuevo auditorium del Colegio</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r5" custom="readingOrder {index:5;} structure {type:Figure;}">
+      <Coords points="0,0 3575,0 3575,3801 0,3801" />
+    </ImageRegion>
+    <ImageRegion id="r6" custom="readingOrder {index:6;} structure {type:Figure;}">
+      <Coords points="3214,6820 6942,6820 6942,9433 3214,9433" />
+    </ImageRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:05:51</Created>
+    <LastChange>2026-11-18T10:05:51</LastChange>
+  </Metadata>
+  <Page imageFilename="0194_Semana-0194.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+        <RegionRefIndexed index="13" regionRef="r13" />
+        <RegionRefIndexed index="14" regionRef="r14" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="109,280 411,280 411,330 109,330" />
+      <TextEquiv conf="0.9912">
+        <Unicode>SEMANA—18</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="2015,280 2371,280 2371,337 2015,337" />
+      <TextEquiv conf="0.9965">
+        <Unicode>12 de Mayo, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="203,512 1405,512 1405,873 203,873" />
+      <TextEquiv conf="0.9807">
+        <Unicode>Las mil mejores poesias de la lengua española</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="1643,529 2218,529 2218,645 1643,645" />
+      <TextEquiv conf="0.9891">
+        <Unicode>BALTASAR DE ALCAZAR (1530-1606)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="1692,729 2168,729 2168,838 1692,838" />
+      <TextEquiv conf="0.9905">
+        <Unicode>SU MODO DE VIVIR EN LA VEJEZ</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="107,1104 751,1104 751,3204 107,3204" />
+      <TextEquiv conf="0.9957">
+        <Unicode>Deseáis, señor Sarmiento, saber en estos mis años, sujetos a tantos daños, cómo me porto y sustento. Yo os lo diré en brevedad, porque la historia es bien breve y el daros gusto se os debe con toda puntualidad. Salido el sol por Oriente de rayos acompañado, me dan un huevo pasado por agua, blando y caliente. Con dos tragos del que suelo llamar yo néctar divino, y a quien otros llaman vino porque nos vino del cielo. Cuando el luminoso vaso toca en la meridional, distando por un igual del Oriente y del ocaso, me dan asada y cocida de una gruesa gentil ave, con tres veces del suave. licor que alegra la vida. Después en cayendo viene a dar en el mar Hesperio, desamparando el imperio que en este horizonte tiene; me suelen dar a comer tostadas en vino mulso, que el enflaquecido pulso restituyen a su ser.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="890,1101 1529,1101 1529,2244 890,2244" />
+      <TextEquiv conf="0.9925">
+        <Unicode>Luego me cierran la puerta, yo me entrego al dulce sueño, dormido soy de otro dueño; no sé de mí nueva cierta. Hasta que habiendo sol nuevo me cuentan cómo he dormido: y así de nuevo le pido, que me dan néctar y huevo. Ser vieja la casa es esto: veo que se va cayendo, voile puntales poniendo por que no caiga tana presto. Mas todo es vano artificio; presto me dicen mis males que han de faltar los puntales y allanarse el edificio.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="1670,1097 2376,1097 2376,2258 1670,2258" />
+      <TextEquiv conf="0.9940">
+        <Unicode>EL DOS DE MAYO La famosa poesía de Bernardo López García, reproducida en nues¬ tro número anterior, la copiamos de la obra del P. Vicente Agustí, "Florilegio de Autores Castella¬ nos", pero luego hemos advertido que en dicha obra aparece omitida la segunda décima que es la que a continuación reproducimos. Di¬ ce así: Lloras porque te insultaron los que su amor te ofrecieron... ¡A ti, a quien siempre temieron porque tu gloria admiraron; a ti, por quien se inclinaron los mundos de zona a zona; a ti, soberbia matrona, que, libre de extraño yugo, no has tenido más verdugo que el peso de tu corona!...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="1219,2412 2062,2412 2062,2531 1219,2531" />
+      <TextEquiv conf="0.9817">
+        <Unicode>FOOT-BALL</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="1160,2570 2042,2570 2042,2735 1160,2735" />
+      <TextEquiv conf="0.9912">
+        <Unicode>Resultados De La Segunda Vuelta Del Campeonato Nacional De Copa. España.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="1048,2756 1420,2756 1420,2963 1048,2963" />
+      <TextEquiv conf="0.9546">
+        <Unicode>Tarragona 5 Madrid R. Sociedad Barcelona 6</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="1782,2763 2161,2763 2161,2966 1782,2966" />
+      <TextEquiv conf="0.9827">
+        <Unicode>A. Bilbao Español Valencia Granada</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="1298,2984 1789,2984 1789,3043 1298,3043" />
+      <TextEquiv conf="0.9873">
+        <Unicode>Pasan a la Semifinal</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r13" type="paragraph" custom="readingOrder {index:13;} structure {type:Text;}">
+      <Coords points="1095,3047 1301,3047 1301,3155 1095,3155" />
+      <TextEquiv conf="0.9916">
+        <Unicode>Valencia Español</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r14" type="paragraph" custom="readingOrder {index:14;} structure {type:Text;}">
+      <Coords points="1737,3054 1985,3054 1985,3155 1737,3155" />
+      <TextEquiv conf="0.9930">
+        <Unicode>A. Bilbao Barcelona.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

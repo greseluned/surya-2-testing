@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:03:27</Created>
+    <LastChange>2026-11-18T10:03:27</LastChange>
+  </Metadata>
+  <Page imageFilename="Heraldo-de-la-mujer-Aug-1919_p010.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="501,428 535,428 535,470 501,470" />
+      <TextEquiv conf="0.9996">
+        <Unicode>8</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="1071,410 1596,410 1596,463 1071,463" />
+      <TextEquiv conf="0.9682">
+        <Unicode>HERALDO DE LA MUJFR.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="1096,628 1577,628 1577,698 1096,698" />
+      <TextEquiv conf="0.9578">
+        <Unicode>BALADA.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="1406,681 2060,681 2060,733 1406,733" />
+      <TextEquiv conf="0.9853">
+        <Unicode>DANTE GABRIEL ROSETTI.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="521,772 1279,772 1279,1382 521,1382" />
+      <TextEquiv conf="0.9940">
+        <Unicode>CUANDO EL AMOR...... Cuando el amor estaba en nuestras almas, Y juntos al crepúsculo asistimos, Miramos a los cielos y las nubes, Aún brillaban con ténue resplandor. Al espirar el día apercibiste, Los últimos suspiros de la tarde, Y al oir los acentos de la noche, Yo pensaba escuchar mi propia voz. Cuando el amor estaba en nuestras almas, Cantábamos en días otoñales, Y las hojas del bosque como un eco, Llevaban el rumor hasta el confin.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="1376,800 2132,800 2132,1358 1376,1358" />
+      <TextEquiv conf="0.9961">
+        <Unicode>Los torrentes corrían caudalosos, A buscar en los mares sepultura, Y su voz fué un gemido que tu pecho Como mi pecho amante hizo latir. Cuando el amor estaba en nuestras almas, Jamás una palabra pecadora Al descubrir el pensamiento oculto, Nos hizo nuestros ojos apartar. Hoy todo ha terminado. En el silencio, Todavía los labios se sonríen, Aguarda un poco más y en breves frases Te enseñaré la ciencia de olvidar. Carmela Eulate Sanjurjo,</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="620,1372 1936,1372 1936,1424 620,1424" />
+      <TextEquiv conf="0.9909">
+        <Unicode>Traducción hecha expresamente para el tomo V de los Líricos ingleses de la Biblioteca clásica.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="1039,1435 1644,1435 1644,1501 1039,1501" />
+      <TextEquiv conf="0.9674">
+        <Unicode>LA MADRE.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="533,1537 1240,1537 1240,2870 533,2870" />
+      <TextEquiv conf="0.9948">
+        <Unicode>Según dicen, hija mía, solas estamos las dos: imira tú, qué tontería! ¿no nos acompaña Dios, que es la mejor compañía? Algo más solas están Las madres que, sin afán de cumplir santos deberes, la vida pasando van entre fiestas y placeres; y sus hijas ....—pobres rosas de su rosal separadas— que abren sus almas hermosas a las caricias dudosas de nodrizas y criadas. Cuando tu existencia en mí más que sentí, adiviné, en el cielo entrar creí, y desde entonces no sé vivir más que para tí. Para tí nada más: eso mi orgullo y mi dicha labra: ya verá con qué embeloso recojo tu primer beso y tu primera palabra. cual recogí tu primera dulce mirada indecisa y de tu boca hechicera la contracción placentera que fué tu primer sonrisa. Otra por vanos placeres esos inocentes seres dejan en manos extrañas: ésas no tienen entrañas de madres, ni de mujeres.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="1388,1526 2144,1526 2144,2845 1388,2845" />
+      <TextEquiv conf="0.9942">
+        <Unicode>Hoy te arrullan mis canciones, más tarde en horas serenas te enseñarán mis lecciones, las sencillas oraciones que rezan las niñas buenas; y aún más tarde, en mi vejez, estos desvelos prolijos fruto darán otra vez, cuando copies en tus hijos escenas de tu niñez. Si yo pudiera soñar que mi mayor alegría no es cuidarte sin cesar, pienso que me moriría de vergñenza y de pesar. Y, en tus ojos al leer noto, que has de responder a mi amante desvarío queriéndome, ídolo mío, cuarto puedas tu querer.... Según dicen con poría, solas vivimos las dos: según dice el alma mía, a nosotras nos dá Dios paz, ventura y compañía. Las que de su hogar se alejan y en el empeño no cejan de hallar del mundo en las olas los goces que en su hogar dejan iésas sí que viven solas! María Barrera. Lima, Perú.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="1034,3147 1455,3147 1455,3196 1034,3196" />
+      <TextEquiv conf="0.9964">
+        <Unicode>Ayuntamiento de Madrid</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

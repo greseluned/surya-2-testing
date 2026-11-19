@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:05:51</Created>
+    <LastChange>2026-11-18T10:05:51</LastChange>
+  </Metadata>
+  <Page imageFilename="0176_Semana-0176.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="270,2896 1393,2896 1393,3036 270,3036" />
+      <TextEquiv conf="0.9910">
+        <Unicode>TABACALERA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="543,3078 1118,3078 1118,3141 543,3141" />
+      <TextEquiv conf="0.9978">
+        <Unicode>212 Marqués de Comillas</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="1670,2875 2208,2875 2208,3096 1670,3096" />
+      <TextEquiv conf="0.9960">
+        <Unicode>IMPORTADORES EXCLUSIVOS Tel. 3-22-91</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="357,2121 1296,2121 1296,2808 357,2808" />
+      <TextEquiv conf="0.9850">
+        <Unicode>Otro "Fundador" español, Juan de Salcado, escogió uno de los lu¬ gares más hermosos del mundo, en las faldas del volcán Mayón, para establecer una ciudad; y la nombré LEGAZPI en honor de su tio, el fun¬ dador de la vioja ciudad de Manila.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="414,382 1075,382 1075,550 414,550" />
+      <TextEquiv conf="0.9522">
+        <Unicode>Pedro Domenncq</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="414,550 2059,550 2059,915 414,915" />
+      <TextEquiv conf="0.9663">
+        <Unicode>FUNDADOR</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="711,915 1284,915 1284,1003 711,1003" />
+      <TextEquiv conf="0.9886">
+        <Unicode>(THE FOUNDER)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="711,1003 1284,1003 1284,1266 711,1266" />
+      <TextEquiv conf="0.9833">
+        <Unicode>BRANDY</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r8" custom="readingOrder {index:8;} structure {type:Figure;}">
+      <Coords points="463,757 672,757 672,1462 463,1462" />
+    </ImageRegion>
+    <ImageRegion id="r9" custom="readingOrder {index:9;} structure {type:Figure;}">
+      <Coords points="476,968 2168,968 2168,2573 476,2573" />
+    </ImageRegion>
+  </Page>
+</PcGts>

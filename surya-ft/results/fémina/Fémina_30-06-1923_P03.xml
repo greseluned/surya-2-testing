@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:03:02</Created>
+    <LastChange>2026-11-18T10:03:02</LastChange>
+  </Metadata>
+  <Page imageFilename="Fémina_30-06-1923_P03.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="290,246 1306,246 1306,309 290,309" />
+      <TextEquiv conf="0.9841">
+        <Unicode>Página 3</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="1306,246 2348,246 2348,309 1306,309" />
+      <TextEquiv conf="0.9952">
+        <Unicode>Fémina</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="290,309 2348,309 2348,610 290,610" />
+      <TextEquiv conf="0.9450">
+        <Unicode>HISA Y GISELA PSICOLOGIA FEMENINA Para FEMINA.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="290,610 1306,610 1306,2273 290,2273" />
+      <TextEquiv conf="0.9961">
+        <Unicode>DE sobremesa—hablábamos del ca¬ rácter raro de algunas mujeres, y de la influencia que en ellas ejercía el medio ambiente en que se agitaban; y dijo la Sra. de Pérez, recientemente llegada de París: —¿Carácter raro? influencia del medio ambiente?.... en dos amiguitas que tuve en París podríase estudiar esos dos temas psicológicos, que no siempre influyen en el desenvolvimiento moral de la vida femeni¬ na. Elsa y Gisela, las amigas de que os hablo, eran, en belleza y carácter diametral¬ mente opuestas. Gisela, blanca, rubia, de ojos azules y lánguidos, pequeñita, delgada: flor de invernadero. Elsa, morena, de ojos negros, abrasadores; alta, de formas llenas y esculturales: una belleza regia. Gisela, dulce y tierna; Elsa, impetuosa y ardiente. Gisela, al nacer, había perdido su ma¬ dre y fué adoptada por una tía paterna cé¬ libe y religiosa hasta el fanatismo. Su ca¬ sa, grande y vetusta, parecía un claustro: poca servidumbre; severo y anticuado el mobiliario. Allí transcurrió la infancia de la huérfana, quien no tuvo, para sus juegos, más compañía que la de un viejo gato de Angora, que se revolcaba con ella sobre las mullidas alfombras, y jugaba al escondite</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="290,2273 1306,2273 1306,3255 290,3255" />
+      <TextEquiv conf="0.9946">
+        <Unicode>Acerca de Urbanidad. Continuación de la pág. 1. te importante sobre todo para la mujer, que a mi ver, sin religión ni moral, es como una flor sin perfume, que no halla en sus horas de nostalgia y desconsuelo, una gota crista¬ lina que refresque su corazón impío. Seamos verdaderas cristianas y haga¬ mos que florezca en nuestro suelo la cultura y el progreso, pero sin desviarnos de nues¬ tro Dios, para que El vele por nuestra pa¬ tria y escuche los ruegos que hacemos por nuestra ansiada libertad. CONSUELO M. DE FRIAS. (Magnolia)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="1306,610 2348,610 2348,3255 1306,3255" />
+      <TextEquiv conf="0.9970">
+        <Unicode>con rara inteligencia. La tía, muy rígida, vigilaba continuamente la niña, pasando, como una sombra, por los amplios salones, con el rosario en la mano, murmurando sus letanías. Gisela no oyó jamás resonar una carcajada bajo aquel severo techo, y cuando ella, en sus juegos con el gato, dejaba esca¬ par un chillido, la tía aparecía enseguida, con un dedo sobre los labios, imponiéndola silencio. Yo conocí esta pobre criatura un día en que hube de visitar a la tía para interesarla en una obra piadosa y me causó tanta lásti¬ ma su pálida fisonomía de anémica, que empleé toda mi influencia para lograr de su tutora el permiso de llevarla a pasear algu¬ nas veces en mi coche. —Y de Elsa ¿qué nos cuentas? —Oh! Elsa era libre como un pájaro en los bosques. Huérfana también de ma¬ dre, su padre, un opulento banquero, adorá¬ bala y la tenía alojada en un precioso hote¬ lito, con una numerosa servidumbre para su uso particular. Yo la veía en todas partes, acompañada de su aya; en la Gran Opera; en el Hipódromo; en el Bosque de Bologne. Hablal a con tanto desenfado y reía tan ruidosamente con una amable carcajada de chiquilla feliz, que daba gusto oirla. Venía a mi casa muy amenudo, y me asociaba a todas sus correrías de muchacha libre y rica. ¿Cómo creeis, amigos míos, que se en¬ cauzaron al porvenir aquellas dos vidas tan distintas? Pensais que Gisela, bajo la in¬ fluencia de su tía se haría monja, y que Elsa, dada la libertad de sus costumbres, cometería alguna calaverada, de esas que comprometen el honor de una mujer? Oh! nó: no lo creais: Gisela huyó con un amante, y fué después la mas célebre demi-mondaine de París. Elsa, por el contrario, hizo un brillante matrimonio con un inglés archimillonario, que no tenía más defecto que padecer la tradicional enferme¬ dad de su país: el spleen. A veces, huyen¬ do de la brillante vida de Londres, se deste¬ Concluye en la pág. 5.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

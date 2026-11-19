@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:05:51</Created>
+    <LastChange>2026-11-18T10:05:51</LastChange>
+  </Metadata>
+  <Page imageFilename="0109_Semana-0109.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="508,1820 1992,1820 1992,2717 508,2717" />
+      <TextEquiv conf="0.9955">
+        <Unicode>CAPITULO XIII DE LOS DISCRETOS COLOQUIOS QUE PASARON ENTRE EL ESCRUPULOSO DONCEL Y SU PROSAICO Y LADINO ESCUDERO. Tan luego como se hallaron amo y escudero fuera del antro del intere¬ sado nigromante, miró Rutenio, por aquello de que las paredes oyen, de apartar a su amo tanto como creyó conveniente para poder platicar a sus anchas sin intérprete ni tercero y sin temor a ser oídos, no sólo por aquél. sino que ni aún por el mismo Litio, y en cuanto estuvo bien asegurado de ello, así le dijo: —Como quiera que es mi obligación mirar por sus intereses, le he llamado aparte, mío señor, para que examine y mire agudamente vuesarcé en la magnitud de los servicios con que nos puede favorecer este avaro y la conveniencia de que no se entorpezcan de puro frío, no vaya a ser que se vuelva atrás de su palabra y demos al traste con tan magnífico negocic. A cuyas razones contestó, el doncel: —No creas, Rutenio amigo, que me daría dos maravedíes gastar sin duelo obrando con justificación en el dispendio de mi hacienda, ya que asiento por necesario valerme de cualquier medio para poner en salvo a mi prometida. Por esta causa, entregaría de mil amores a ese hechicero</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r1" custom="readingOrder {index:1;} structure {type:Figure;}">
+      <Coords points="496,792 1980,792 1980,1255 496,1255" />
+    </ImageRegion>
+  </Page>
+</PcGts>

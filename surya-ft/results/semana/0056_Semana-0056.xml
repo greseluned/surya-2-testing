@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:05:34</Created>
+    <LastChange>2026-11-18T10:05:34</LastChange>
+  </Metadata>
+  <Page imageFilename="0056_Semana-0056.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="72,266 377,266 377,316 72,316" />
+      <TextEquiv conf="0.9933">
+        <Unicode>SEMANA—12</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="1987,263 2369,263 2369,319 1987,319" />
+      <TextEquiv conf="0.9786">
+        <Unicode>10 de Marzo, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="72,365 790,365 790,2395 72,2395" />
+      <TextEquiv conf="0.9942">
+        <Unicode>ahora por primera vez en la Histo¬ ria de España. Las ventajas de este concurso de Formación Profesional son múlti¬ ples. Se fomenta, por un lado, una mayor capacitación en los operarios con el consiguiente re¬ flejo en el volumen y perfecciona¬ miento de la producción, y de otre, se recompensa con trofeos y pre¬ mios a los mejores participantes, a manera de estímulo para su per¬ feccionamiento profesional. La fase final del Concurso tuvo lugar en Madrid. En la Institu¬ ción Sindical "Virgen de la Palo¬ ma", cuyos talleres fueron cedidos con este objeto a la Organización juvenil. El culto y experto ingeniero di¬ rector de dicha Institución madri¬ lena, avezado en estas tareas do¬ centes, ha sido el primer sorpren¬ dido por el alto nivel profesional alcanzado. Téngase en cuenta que estos muchachos concursantes están comprendidos entre los ca¬ torce y los veinte años de edad. Y los que han presenciado sus prác¬ ticas eliminatorias, —entre ellos los corresponsales extranjeros— han podido comprobar que el tra¬ bajo que realizan no es precisamen¬ te el que corresponde a su catego¬ ría, sino a la de Oficiales, y de acreditada competencia. La labor que en esta fase har desarrollado es la siguiente:</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="867,365 1583,365 1583,992 867,992" />
+      <TextEquiv conf="0.9956">
+        <Unicode>En la especialidad de electrici¬ dad, un cuadro de distribución para taller de baños galvánicos y un transformador de radio; en la de fresa, el acoplamiento de un em¬ brague; en la de torno, una vál¬ vula impulsora y un eje de cigúe¬ ñal; en la de ajuste, una escuadra y un pentágono; en la de cerraje¬ ría, un farol con soporte y una lámpara de seis luces; en la de car¬ pintería, una cubrerradiadores y</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="867,2289 1576,2289 1576,2412 867,2412" />
+      <TextEquiv conf="0.9847">
+        <Unicode>Uno de los aprendices premiados tra¬ bajando en la obra que le ha valido el título de "El mejor Aprendiz de España".</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="1663,365 2376,365 2376,2398 1663,2398" />
+      <TextEquiv conf="0.9957">
+        <Unicode>una ventanilla circular, y en las de tallado de madera y moldeado de escayola, sendos artísticos relieves ornamentales. El Generalísmo Franco, en su residencia de El Pardo, entregó personalmente los trofeos a estos mejores catorce aprendices de Es¬ paña. Con un grupo de muchachos campesinos llegaron hasta allí, hasta el despacho del Jefe del Es¬ tado, los mejores entre los mejo¬ res de esta juventud laboriosa. Tres cosas recogía cada mucha¬ cho de manos de Franco: un títu¬ lo que lo proclamaba, ante la faz de España, como el mejor apren¬ diz; un premio en dinero, de dos mil pesetas, y un trofeo, en már¬ mol y bronce, orignal del artista Fernando Chausa, y que represen¬ ta una rueda dentada, símbolo del trabajo, llevada por las alas de la victoria. Cada uno de ellos recibía el pre¬ mio y un cálido apreton de manos. Uno a uno. Franco observó el tra¬ bajo que sirvió a cada muchacho para obtener su título. Y la pre¬ gunta estaba siempre a flor de la¬ bios para conocer el número de horas invertidas, los años de aprendizaje, la edad, la empresa o la escuela donde aprendieron y tra¬ bajaron.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="151,2521 2295,2521 2295,3190 151,3190" />
+      <TextEquiv conf="0.9914">
+        <Unicode>A TODOS LOS ESPAÑOLES EN FILIPINAS Se les participa que nombrados que hemos sido por su Excelencia el ministro de España en Filipinas, comité para recaudar fondos de la colonia española en este país para la CRUZ ROJA NACIONAL FILIPINA, rogamos a todos los españoles envien sus óbolos, grandes o pequeños, a cualquiera de los miembros del comité, abajo nombrados. Habiéndose asignado a la colonia española, suma bastante elevada, rogamos a nuestros compatriotas, la mayor generosidad posibie, al obieto de alcanzar la cifra señalada a los españoles, Nuestra recaudación se cerrará el 12 de Marzo actual. IGNA¬ CIO PLANAS (Compañia Tabacalera): JOSé M. MALDONADO, (Lizárraga Hermanos); ANTONIO (CAMPOS RUE¬ DA (425-427 Juan Luna); Rev. Padre EMETERIO IZQUIERDO O. P. (Universidad de Santo Tomás); FRANCISCO MARTI (101 Chaco Bldg.) Sr. Dn. Con la presente le remito cheque billetes por P. cantidad con que contribuyo a la cuota señalada por la Cruz Roja Nacional Filipina a la colonia española en este país para levantar fondos en esta campaña de 1949 para dicha institución. Sírvase enviarme el correspon¬ diente recibo oficial de su tesorero. Suyo atto. S. S.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r7" custom="readingOrder {index:7;} structure {type:Figure;}">
+      <Coords points="887,1143 1566,1143 1566,2258 887,2258" />
+    </ImageRegion>
+  </Page>
+</PcGts>

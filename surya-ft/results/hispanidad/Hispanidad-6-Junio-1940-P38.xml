@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:04:08</Created>
+    <LastChange>2026-11-18T10:04:08</LastChange>
+  </Metadata>
+  <Page imageFilename="Hispanidad-6-Junio-1940-P38.jpg" imageWidth="6942" imageHeight="9433">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="979,1075 5755,1075 5755,1660 979,1660" />
+      <TextEquiv conf="0.9892">
+        <Unicode>España en Filipinas</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="312,2462 3457,2462 3457,8744 312,8744" />
+      <TextEquiv conf="0.9977">
+        <Unicode>V LA VUELTA AL MUNDO Tratándose de españoles, la Expedeción Maga¬ llánica no podía terminar con Magallanes. Muerto el héroe del Pacífico y caidos más de la mitad de sus hom¬ bres, surgen de entre los cadáveres otros nuevos heroes para defender y dar gloria al pendón hispano. En el mes de octubre de 1521 dejan la costa minda¬ naina y parten para el Sur las dos pequeñas naves Tri¬ nidad y Victoria con Espinosa y Sebastián del Cano por Capitanes. Ya en alta mar, les envuelve un fuerte tifón poniéndoles en gran peligro. Dominan al fin la situa¬ ción, y algunos días después—8 de noviembre—rompen en un himon de gracias y disparan toda la artillería en señal de gozo. Estaban en las puertas de Tidor, una de las islas de las Molucas. El Rey salió a recibirles; les obsequió luego en su palacio, y les facilitó cuantos me¬ dios contaba para visitar Gilolo, Machián, Ternate, Ti¬ mor y otros puntos principales de la Especiería. En una de las expidiciones, la nao Trinidad estuvo a punto de hundirse. El rey de Tidor envió sus carpin¬ teros y sus buzos para arreglarla; más como era de fa¬ bricación más complicada que las que allí hacían, no pu¬ dieron repararla por entonces, quedándoles por lo tanto sólo la Victoria para proseguir el viaje alrededor de la tierra. 21 DE DICIEMBRE, 1521:—Con esta fecha Sebas¬ tián del Cano comienza la segunda etapa de la expe¬ dición. Su idea era volver a España siguiendo el cami¬ no comenzado de Este a Oeste con el fin de dar una vuelta completa al mundo. Como esto significaba tener que pasar por las colonias de la entonces “enemiga Por¬ tugal" y no estaba la tripulación para sostener duros ataques, Espinosa con otros expedicionarios prefieren aguardar en Tidor hasta reparar la nave Trinidad y par¬ tir más tarde para Europa a través del Pacífico. Sebas¬ tián salió entonces de Tidor con 60 hombres en la nao Victoria. 10 DE ENERO, 1522:—Se desencadenó tan fuerte tempestad en la isla de Timor, que del Cano y los suyos se dieron por perdidos. En aquel momento se acorda¬ ron de implorar la ayuda del cielo haciendo un voto a la</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="3492,2462 6623,2462 6623,8688 3492,8688" />
+      <TextEquiv conf="0.9984">
+        <Unicode>Virgen de la Victoria de ir descalzos a su santuario una vez llegados a Sevilla. Esto les salvó, sin duda, pues luego salían triunfantes sondeando la Isla de Java. 6 DE MAYO, 1522:—Cerca de Mozambique se les acaban los viveres no quedándoles mas que un poco de arroz. Los más de la tripulación pensaron bajar en esta isla con el fin de comprar comida y dar algun re¬ frigerio a los tripulantes enfermos; mas Del Cano, que no ignoraba el gran peligro para todos por causa de la enemistad y encelamiento de los portugueses, animó a la tripulación a soportar cualquier sacrificio, siquiera por¬ que no terminase allí la expedición. El 6 de mayo consi¬ guieron, tras inauditos trabajos, doblar el Cabo de Bue¬ na Esperanza. 9 DE JULIO, 1522:—El hambre, la sed, y los gran¬ des sacrificios, les causó más de veinte bajas. Pigafetta anota que al arrojar los cadaveres al mar, los cuerpos de los cristianos flotaban sobre las aguas mirando al cielo, mientras que los cuerpos de los indios de las Molu¬ cas caían siempre boca abajo. Los sobrevivientes se pre¬ paraban a bien morir de un momento a otro; pero en este día les deparó el cielo un mar sereno junto a las Islas de Cabo Verde. Era aun tierra enemiga, más usan¬ do de una estratagema, consiguieron una y dos veces pa¬ sar por desconocidos y comprar vituallas. En la terce¬ ra tentativa, un marinero portugués notó que la nao Victoria había salido en la expedición de Magallanes. Dió cuenta a los suyos y prendieron a los emisarios de Sebastián del Cano en la entrada del mercado. Algu¬ nos escaparon con vida y tuvieron tiempo para volver abordo; pero los más de ellos no volvían! Los primeros deciden darse de nuevo a la vela camino de España. 6 DE SEPTIEMBRE, 1522:—De sesenta hombres que salieron de las Molucas al estropearse la nao Tri¬ nidad, sélo dieciocho consiguen entrar de vuelta en San¬ lúcar de Barrameda, y los más de ellos, pálidos, agota¬ dos y enfermizos. 8 DE SEPTIEMBRE, 1522:—Llegan por fin a Sevi¬ lla. Disparan toda la artillería hasta el último saco de pólvora... Habían terminado la misión, ¿para qué la querían?... Y el pueblo recibió con verdadero frenesi aquel puñado de esqueletos, restos de aquellos otros 270 hombres, tan valientes como robustos, que partieran de</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="403,8839 541,8839 541,8942 403,8942" />
+      <TextEquiv conf="0.9984">
+        <Unicode>30</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

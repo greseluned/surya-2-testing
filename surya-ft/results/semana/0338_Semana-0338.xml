@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:07:15</Created>
+    <LastChange>2026-11-18T10:07:15</LastChange>
+  </Metadata>
+  <Page imageFilename="0338_Semana-0338.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="107,273 406,273 406,323 107,323" />
+      <TextEquiv conf="0.9918">
+        <Unicode>SEMANA—30</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="1985,277 2376,277 2376,333 1985,333" />
+      <TextEquiv conf="0.9953">
+        <Unicode>3 de Febrero, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="491,400 1985,400 1985,547 491,547" />
+      <TextEquiv conf="0.9894">
+        <Unicode>El Junco Chino</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="94,617 805,617 805,3219 94,3219" />
+      <TextEquiv conf="0.9956">
+        <Unicode>Cuando llega en China la época de las altas aguas, los "juncos" pin¬ torescos que aún surcan el río Azul, rara vez caminan por medio de re¬ mo o vela. La corriente es tan vio¬ lenta entonces, que hace necesario un equipo de haladores que remol¬ que la embarcación desde tierra... Como la maniobra es rápida, los equipos o cuadrillas de haladores se relevan con frecuencia, forman¬ do grupos de hasta doscientas per¬ sonas —hombres, mujeres y niños— que tiran con gran destreza, de la sirga. Generalmente, estos equipos es¬ tán compuestos de una treintena de individuos, más un jefe o capataz que grita y amenaza para estimu¬ lar a los menos animosos; pero su función termina ahí. El jefe del equipo jamás tira del cable que arrastra el "junco". Al lado del capataz va siempre un sujeto especial, cuya función consiste en librar la sirga o maro¬ ma cada vez que un obstáculo cual¬ quiera se interpone entre la em¬ barcación y la orilla, paralizando así la acción de los haladores. El hombre encargado de librar la cuerda sigue a sus compañeros a distancia, casi desnudo, siempre dispuesto a intervenir, a arrojarse al agua en todo momento, luchando a brazo partido con los altos y es¬ pesos cañaverales, escalando los arrecifes más abruptos, volviendo de sus heróicas misiones con las manos y los pies detrozados, cu¬ bierta la epidermis de arañazos y heridas. En el equipo del viejo Lou, el joven Tchang era el encargado de la ruda tarea que acaba de ser des¬ crita. Como no se le había juzgado lo suficiente robusto para ser admi¬ tido entre los que tiran del cable y era, en cambio, muy ágil e inteli¬ gente, dábase el caso de reunir</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="882,614 1613,614 1613,3219 882,3219" />
+      <TextEquiv conf="0.9924">
+        <Unicode>Tchang todas las cualidades nece¬ sarias para ejercer cargo tan teme¬ rario y audaz. Cuando sus camarádas le vieron tembiar, creyeron que era de pavor; pero Tchang saba bien que ese tembior obedecia a una inquietud motivada por la tiebre y el rasti¬ dio. Así, pues, soportó sonriente las bromas de los fuertes y de los grandes sin enfadarse jamás, pues conservaba la esperanza de poder¬ les demostrar cuán equivocados es¬ taban estos rudos haladores que se buriaban de él. Un día que el "junco" surcaba pintorescamente el río Azul por mi¬ tad de su gran cauce, se enganchó la sirga en la punta de un peñasco que emergía del agua a regular al¬ tura y a gran distancia de la escar¬ pada ribera. La maroma quedó só¬ lidamente retenida, presa, sujeta por las enormes tenazas de granito e inútiles fueron todos los esfuer¬ zos que los membrudos haladores chinos hicieron por retirarla. La intervención de Tchang se hacía inevitable. Ya se había des¬ pejado de su blusa verde y entraba en el agua; pero las corrientes y contracorrientes levantaban olas impetuosas, formando remolinos donde el temerario que se aventu¬ rara a intentar el cruce perecería irremediablemente. El río Azul, magnífico en su furor, rugía y se encrespaba de una manera incon¬ cebible. Más que por los elementos de la Naturaleza, parecía impulsa¬ do por un monstruo fluvial de esos que suele producir la acalorada fantasía de los poetas de Oriente. Ningún hombre, por valiente y diestro que fuese, podría ganar a nado el maldito arrecife que se al¬ zaba a cien metros de la crilla. En tanto, al otro lado de la roca, el "junco" estaba quigto, arrastrado por el descenso vertiginoso de las</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="1668,628 2394,628 2394,3222 1668,3222" />
+      <TextEquiv conf="0.9939">
+        <Unicode>aguas que tiraban con furia del ca¬ ble tensa, amenazando con arran¬ carlo de las manos membrudas de los haladores. La embarcación llevaba a bordo un alto dignatario chino, merca¬ der de oro y coral, y a su bellísima hija, graciosa y frágil como sus muñequita, la qe había entrevisto Tchang aquella mañana mismo, al tiempo de embarcar y bajo el beso tibio del primer rayo de sol. ¡Cómo lo envidió Tchang! Era necesario apresurarse. —No seas loco, muchacho; tú no podrás ganar jamás esa maldita roca que va a ser la perdición del “junco" y sus tripulantes— díjole el viejo capataz Lou, muy agitado y poniendo una mano en el hom¬ bro de Tchang, el cual había tenido que regresar a la orilla, después de un ensayo infructuoso. —A nado, no, respetable jefe; pero ya he ideado otro medio—res¬ pondió el muchacho— Mire: que tiren los haladores de la sirga con todas sus fuerzas y yo me deslizaré por ella como un acróbata hasta llegar al peñón... Bien pensado, Tchang; pero dime, ¿cómo vas a volver luego tú? La sirga es lo único que te une con tierra y una vez soltada quedarás abandonado sobe la roca que te servirá de estrecha prisión. —¡Bah! Lo que importa ahora es salvar el “junco"; luego ya vere¬ mos... Y Tchang no se detuvo y pensar¬ lo más, probando así el verdadero heroismo, que razona poco y no re¬ nuncia a la esperanza jamás. Del puente de la embarcación, en peligro inminente de ser arras¬ trada por las olas, llegó un toque angustioso de trompeta en demanda de auxilio y de socorro. La cuerda no podía resistir mucho tiempo: rozada y mordida por las aspere¬</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

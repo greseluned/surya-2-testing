@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:05:51</Created>
+    <LastChange>2026-11-18T10:05:51</LastChange>
+  </Metadata>
+  <Page imageFilename="0209_Semana-0209.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="114,277 471,277 471,330 114,330" />
+      <TextEquiv conf="0.9959">
+        <Unicode>12 de Mayo, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="2069,280 2369,280 2369,326 2069,326" />
+      <TextEquiv conf="0.9782">
+        <Unicode>SEMANA—33</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="114,389 820,389 820,3219 114,3219" />
+      <TextEquiv conf="0.9964">
+        <Unicode>Galería de Profesores ... (Viene de la página 16.) poner en contacto con las que he¬ mos de intercambiar nuestros pre¬ ductos y establecer intensas co¬ rrientes comerciales;... ¿Y habría¬ mos de realizar tan grande y no interrumpida labor de todos los días, valiéndonos de intérpretes y traductores? ¿No sería vergonzo¬ so para nosotros el que esas 21 na¬ ciones de Centro y Sud-América y las Antillas que son nuestras her¬ manas por la civilización, por las costumbres, por la religión, y por el ideal viesen que siendo hijas de la misma madre no hablamos el mismo lenguaje que España nos le¬ gó como rica herencia? No, queridos compañeros; han de ver que redoblamos nuestro esfuer¬ zo para evitar que el desconoci¬ miento de un lenguaje que se ha¬ bla en el vasto y luminoso orbe la¬ tino nos inhabilite para convivir con millones y millones de hom¬ bres y mujeres de habla hispana en los altos niveles del comercio y de la cultura que ellos alcanzan y que nosotros, los filipinos, alcanzamos también por nuestra tradición, por nuestra historia, y por las virtu¬ des de laboriosidad y amor al pre¬ greso que nos son comunes. El otro aspecto que me favore¬ ce en esta ocasión es también en¬ señanza provechosa para la juven¬ tud estudiantil, pues una vez más se despliega ante sus ojos este her¬ moso cuadro de intenso compañe¬ rismo con el que os dignáis hon¬ rar mi humilde persona haciéndo¬ me deudora a vosotros, de eterno agradecimiento:... también nues¬ tros jóvenes verán que el estudio y la observancia de las normas y disciplinas universitarias les al¬ canzarán algún día el afectuoso y sincero parabién de sus contemp¬ ráneos. Gracias, queridos compañeros, gracias otra vez con la palabra y con el corazón.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="1051,1360 1497,1360 1497,1497 1051,1497" />
+      <TextEquiv conf="0.9749">
+        <Unicode>IDEAL Flavoring Extract - IDEAL Baking Powder - AGUA DE COLONIA Ideal - HERCULES Floor Wax.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="1531,2353 2188,2353 2188,2503 1531,2503" />
+      <TextEquiv conf="0.9896">
+        <Unicode>LOS CUATRO PRODUCTOS IMPRESCINDIBLES PARA EL HOGAR.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="1145,2580 2161,2580 2161,2665 1145,2665" />
+      <TextEquiv conf="0.9841">
+        <Unicode>PHILIPPINE NET &amp; BRAID MFG. CO., INC. 1236 Ascarraga, Manila</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="892,2766 1596,2766 1596,3222 892,3222" />
+      <TextEquiv conf="0.9865">
+        <Unicode>¿Donde Ha Ido ... (Viene de la página 17.) dónde ha tomado sus datos? ¿dón¬ de se halla hoy tan importante do¬ cumento? Rizal, que no oculta su ansiedad por conocerlo; y Retana, que se había afanado en lo mismo; ¿cómo hacerlos frente, con sola una afirmación, sin pruebas ni</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="1673,2766 2374,2766 2374,3222 1673,3222" />
+      <TextEquiv conf="0.9948">
+        <Unicode>mención de circunstancias?—Como estudiantes de la Historia, no po¬ nemos en duda la veracidad de Arti¬ gas; mas, bajo ias presentes con¬ diciones, no nos basta una afirma¬ ción escueta. ¡Pruebas; pruebas!; y lo triste es que Artigas ha pasado a mejor vida; ya la discusión con él es imposible.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:07:15</Created>
+    <LastChange>2026-11-18T10:07:15</LastChange>
+  </Metadata>
+  <Page imageFilename="0335_Semana-0335.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+        <RegionRefIndexed index="8" regionRef="r8" />
+        <RegionRefIndexed index="9" regionRef="r9" />
+        <RegionRefIndexed index="10" regionRef="r10" />
+        <RegionRefIndexed index="11" regionRef="r11" />
+        <RegionRefIndexed index="12" regionRef="r12" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="107,263 488,263 488,319 107,319" />
+      <TextEquiv conf="0.9959">
+        <Unicode>3 de Febrero, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="2077,263 2376,263 2376,312 2077,312" />
+      <TextEquiv conf="0.9945">
+        <Unicode>SEMANA—27</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="104,365 808,365 808,1771 104,1771" />
+      <TextEquiv conf="0.9962">
+        <Unicode>RAMÓN DEL VALLE... (Viene de la pag. 15) preparación de sus escritos. Per¬ sonalmente era, como buen gallego, austero, frugal, impasible y estoico en las adversidades de la vida, y generoso en la miseria, en la que puede decirse pasó casi toda su existencia. Su dignidad era admirable y su conducta personal, un reflejo de aquellos señores feudales gallegos, tan magistralmente descritos por él: orgullosos y, al mismo tiempo, humanos, sin avergonzarse de su humilde posición social. Demos¬ trando siempre gran valor para declararse por lo que él creía justo sin preocuparse de la opinión ajena. Fué don Ramón del Valle Inclán el que mejor representó, entre los literatos españoles, el llamado mo¬ dernismo, comparándose con Rubén Darío por el colorido, armonía y ritmo musical de sus soberbios es¬ critos, ya en verso, ya en prosa,</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="872,358 1601,358 1601,1767 872,1767" />
+      <TextEquiv conf="0.9907">
+        <Unicode>aunque puede deciráse que en todas sus obras, fué un lírico acabado. “Voces de gesta”, es su mejor composicón épica—gallega que no tuvo parangón en la historia de las letras. “Divinas palabras”, consti¬ tuyó su mejor novela picaresca de marcado ambiente regional, en la que Valle Inclán pinta de una ma¬ nera inimitable las típicas rome¬ rías, los caminos milenarios, los mendigos y las legendarias supers¬ ticiones de la vieja y hermosa Ga¬ licia. Entre sus innumerables y valio¬ sas obras, como las más represen¬ tativas de este maravilloso y pul¬ cro estilista: “Sonata de primave¬ ra”, “Sonata de estío”, “Sonata de otoño” y “Sonata de invierno” “Luces de Bohemia”, “Los cuernos de don Friolera”, “La media no¬ che”, “La guerra Carlista”, “Ta¬ blado de Marionetas”, “Cuento de abril”, “Tragedia de Ensueño”, “Visión estelar”, “Claves líricas” “Lámpára maravillosa”, “Las ga¬</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="1675,365 2386,365 2386,1767 1675,1767" />
+      <TextEquiv conf="0.9916">
+        <Unicode>las del difunto", "Sacrilegio", "Cara Plata", "Martes de Carna¬ val", “Pipa de Kif", "La hija del capitán", "El yerno de las almas", "Tramoya romántica", "Jardin umbrío", "Corte de amor", y "Re¬ tablo de la ávaricia, la lujuria y la muerte". A medida que don Ramón ayan¬ zaba en edad, iba perdiendo su vo¬ lumen físico y al final de su vida sólo quedaba de él esa fibra de es¬ píritu inmortal que enseñará a las futuras generaciones, a buscar esa estela luminosa de lo estético y armónico, en el que fué tan insu¬ perable maestro, con su inimitable y revolucionaria pureza de len¬ gua. Valle Inclán, que había vivido ro¬ deado de una misteriosa aureola de idealismo, murió en Santiago de Compostela, el 5 de Enero de 1936. a los 69 años de edad.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="146,1883 875,1883 875,1935 146,1935" />
+      <TextEquiv conf="0.9881">
+        <Unicode>USE EL TRADICIONAL SERVICIO ELIZALDE...</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="600,1953 691,1953 691,1998 600,1998" />
+      <TextEquiv conf="0.9747">
+        <Unicode>VIA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r7" type="paragraph" custom="readingOrder {index:7;} structure {type:Text;}">
+      <Coords points="146,2012 1145,2012 1145,2949 146,2949" />
+      <TextEquiv conf="0.9920">
+        <Unicode>TSS "MAYON"—Sale para Cebú, Maribojoc, Zamboanga, Cotabato y Davao —cada quince días. MS "BOWLINE KNOT"—Sale para Cebú, Mari¬ bojoc, Zamboanga, Cotabato y Davao—cada quince días. MS "VIZCAYA"—Sale para Iloílo todos los martes. MS "BAZTAN—Sale para Cebú y Cagayán de Misamis todos los martes. MS "LANAO"—Sale para Pulupandan todos los martes. MS "VENUS"—Sale para Cebú Misamis y Jimé¬ nez—todos los jueves. MS "ELCANO"—Sale para Iloílo y Pulupandan todos los sábados. MS "BISAYAS"—Sale para Iloílo y Pulupandan —todos los sábados. MS "SORSOGON"—Sale para Bulan, Legazpi y Virac—todas las semanas. Todas las salidas desde el Pier 6, North Harbor Soliciten fletes y pasaje en</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r8" type="paragraph" custom="readingOrder {index:8;} structure {type:Text;}">
+      <Coords points="149,2949 1140,2949 1140,3050 149,3050" />
+      <TextEquiv conf="0.9962">
+        <Unicode>Manila Steamship Co., Inc.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r9" type="paragraph" custom="readingOrder {index:9;} structure {type:Text;}">
+      <Coords points="154,3068 1147,3068 1147,3180 154,3180" />
+      <TextEquiv conf="0.9947">
+        <Unicode>Elizalde Bldg. Muelle de la Industria Tel. 2-69-31</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r10" type="paragraph" custom="readingOrder {index:10;} structure {type:Text;}">
+      <Coords points="1368,1900 2285,1900 2285,1995 1368,1995" />
+      <TextEquiv conf="0.9841">
+        <Unicode>A LAS RUINAS DE MANILA</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r11" type="paragraph" custom="readingOrder {index:11;} structure {type:Text;}">
+      <Coords points="1432,2033 2223,2033 2223,2086 1432,2086" />
+      <TextEquiv conf="0.9842">
+        <Unicode>Por el Dr. FRANCISCO VILLANUEVA, Jr.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r12" type="paragraph" custom="readingOrder {index:12;} structure {type:Text;}">
+      <Coords points="1279,2233 2317,2233 2317,3141 1279,3141" />
+      <TextEquiv conf="0.9904">
+        <Unicode>Voz de aflicción y gemidos de recóndita tristeza Broten, cual gotas de hiel, de la cítara doliente, Al ver, trocada en pavesas, la urbe ideal, cuya belleza Antaño la proclamara perla del mar del Oriente. Cual fieras de apocalíptica, enfurecida, cuadriga, Fueron las hordas vandalicas del Zipango, cruel e hirsuto, Que, al descubrir su piel negra, tinta en barbarie e intriga, Sembraron, de sangre, el suelo, y, nuestros pechos, de luto. Tras la píra funeraria, soledad aterradora, Zonas de desolación, miseria conmovedora... ¡Y aún sigue vertiendo llanto el alma de la Nación! Pero presto se erguirá la Némesis.vengadora... ¡Y Manila, como el Fénix, resurgirá, triunfadora, En la gloriosa epopeya de su santa redención....!</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

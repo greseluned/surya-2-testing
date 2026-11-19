@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:05:34</Created>
+    <LastChange>2026-11-18T10:05:34</LastChange>
+  </Metadata>
+  <Page imageFilename="0052_Semana-0052.jpg" imageWidth="2478" imageHeight="3506">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+        <RegionRefIndexed index="4" regionRef="r4" />
+        <RegionRefIndexed index="5" regionRef="r5" />
+        <RegionRefIndexed index="6" regionRef="r6" />
+        <RegionRefIndexed index="7" regionRef="r7" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="92,270 372,270 372,316 92,316" />
+      <TextEquiv conf="0.9953">
+        <Unicode>SEMANA—8</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="2005,263 2379,263 2379,316 2005,316" />
+      <TextEquiv conf="0.9941">
+        <Unicode>10 de Marzo, 1949</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="97,372 2384,372 2384,659 97,659" />
+      <TextEquiv conf="0.9954">
+        <Unicode>Otros dos tratados entre Filipinas y España firmados solemnemente</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="97,715 810,715 810,1865 97,1865" />
+      <TextEquiv conf="0.9929">
+        <Unicode>El viernes, 5 del corriente marzo, y en el palacio de Malaca¬ ñan, abierta aún la primera Expc¬ sición del Libro Español contem¬ poráneo, se firmaron dos tratados entre España y Filipinas: uno el referente a los grados académicos y ejercicio de las profesiones, y otro el tratado cultural. El acto de la firma se llevó a cabo en el salón del consejo de estado, poco antes del medio día, en presencia de al¬ tos representantes diplomáticos de ambos países, elevados funciona¬ rios de la República, miembros de Gabinete y distinguidas personali¬ dades de la colonia española le las Islas. S. E. el Presidente don Elpidio Quirino, en su carácter de Secre¬ tario de Asuntos Extranjeros, fir¬ mó los tratados por Filipinas, y el</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r4" type="paragraph" custom="readingOrder {index:4;} structure {type:Text;}">
+      <Coords points="892,715 1608,715 1608,1865 892,1865" />
+      <TextEquiv conf="0.9956">
+        <Unicode>Excmo. D. Teodomiro Aguilar y Salas, ministro de España, lo hizo por el gobierno español. Después de la firma, el Presidente Quirino pronunció un breve discurso en el que reiteró los sinceros sentimien¬ tos de amistad que alimenta Filipi¬ nas por España, haciendo notar que la República filipina tiene fir¬ mados con España mayor número de tratados que con cualquier otro país y que probablemente se con¬ cierten aún otros más. Añadió, sin embargo, que más que estos tratados, por muchos que fueron, une a los dos pueblos la sinceridad de los sentimientos de mutua amis¬ tad que españoles y filipinos guar¬ dan en lo íntimo de sus corazones. A las palabras del Presidente, contestó el Ministro español con otras no menos fervorosas en las</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r5" type="paragraph" custom="readingOrder {index:5;} structure {type:Text;}">
+      <Coords points="1685,712 2404,712 2404,1872 1685,1872" />
+      <TextEquiv conf="0.9959">
+        <Unicode>que subrayó los principios nobilísi¬ mos de paz y convivencia social que inspiran las relaciones entre Espa¬ ña y Filipinas, cuyos pueblos mar¬ chan por una misma ruta. Declaró tambien que los tratados que aca¬ baban de firmarse eran consecuen¬ cia de un afecto mutuo de verdade¬ ra amistad que no ha podido extin¬ guir ni el tiempo ni las circunstan¬ cias. El tratado cultural se encamina a estimular el intercambio cultu¬ ral entre ambos países y dispone el canje de publicaciones del go¬ bierno y de los cuerpos profesiona¬ les; canje de toda clase de libros y publicaciones de autores naciona¬ les; establecimiento de un progra¬ ma regular de radiodifusiones en¬ ambos países para el intercambio (Términa en la página 10)</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r6" type="paragraph" custom="readingOrder {index:6;} structure {type:Text;}">
+      <Coords points="121,3155 2404,3155 2404,3240 121,3240" />
+      <TextEquiv conf="0.9951">
+        <Unicode>Momento histórico en que S. E. el Presidente de Filipinas (a la izquierda) firma los tratados cultural y educacional entre España y Filipinas, mientras hace lo propio frente a él el Ministro español, Sr. Aguilar.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <ImageRegion id="r7" custom="readingOrder {index:7;} structure {type:Figure;}">
+      <Coords points="221,2005 2300,2005 2300,3124 221,3124" />
+    </ImageRegion>
+  </Page>
+</PcGts>

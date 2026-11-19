@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:02:42</Created>
+    <LastChange>2026-11-18T10:02:42</LastChange>
+  </Metadata>
+  <Page imageFilename="Fémina_10-10-1922_P02.jpg" imageWidth="2479" imageHeight="3508">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+        <RegionRefIndexed index="3" regionRef="r3" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="203,126 464,126 464,182 203,182" />
+      <TextEquiv conf="0.9975">
+        <Unicode>Fémina</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="2043,109 2216,109 2216,168 2043,168" />
+      <TextEquiv conf="0.9554">
+        <Unicode>Pgina 2</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="345,358 2092,358 2092,1722 345,1722" />
+      <TextEquiv conf="0.9927">
+        <Unicode>Moz de Aliento. EL sol radiante de la idea ha ve¬ nido a iluminar, con destellos hermosísimos, las conciencias fe¬ meninas, para que dentro del pa¬ lenque del periodismo, surja, como ha surjido, simpática, perfumada, con ese suave aroma que encierra la mujer, la Revista "Fémina” señalándole la ruta que debe se¬ guir en pos de la cultura a que aspira. Nuestra mujer, ya sea por el rudo batallar de la labor cuoti¬ diana en el hogar, o luego por la lucha por la existencia, se ha limi¬ tado a ostentar únicamente su ca¬ pacidad intelectual en el foro. en el amplio campo que le brinda la lente del microscopio, o bien, en el exámen de raras combinaciones químicas, dejando dormidos sus sentimientos poéticos, a pesar del</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r3" type="paragraph" custom="readingOrder {index:3;} structure {type:Text;}">
+      <Coords points="620,2105 1834,2105 1834,3031 620,3031" />
+      <TextEquiv conf="0.9879">
+        <Unicode>Ausencia. De E. W. Gleann. A veces entre largas sombras, en la espesura, las fugitivas ondas del sol pasan de prisa; y se empañan mis ojos de una dulce ternura creyendo que te miro, pensando en tu sonrisa. Y otras veces, los árboles de la umbrosa floresta por la tarde murmuran no se qué entre sus ramas; y en mis labios amantes surge ansiosa respuesta, pensando que te escucho, creyendo que me llamas.... Traducido por B. PORTELA ALVAREZ. Santo Domingo, 1922.</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

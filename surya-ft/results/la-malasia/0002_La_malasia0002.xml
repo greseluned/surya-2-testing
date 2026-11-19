@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>surya-ocr 2 (layout + OCR por bloque)</Creator>
+    <Created>2026-11-18T10:05:13</Created>
+    <LastChange>2026-11-18T10:05:13</LastChange>
+  </Metadata>
+  <Page imageFilename="0002_La_malasia0002.jpg" imageWidth="2480" imageHeight="3507">
+    <ReadingOrder>
+      <OrderedGroup id="ro1" caption="Regions reading order">
+        <RegionRefIndexed index="0" regionRef="r0" />
+        <RegionRefIndexed index="1" regionRef="r1" />
+        <RegionRefIndexed index="2" regionRef="r2" />
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="r0" type="paragraph" custom="readingOrder {index:0;} structure {type:Text;}">
+      <Coords points="303,238 2168,238 2168,288 303,288" />
+      <TextEquiv conf="0.9666">
+        <Unicode>2 La Malasia</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r1" type="paragraph" custom="readingOrder {index:1;} structure {type:Text;}">
+      <Coords points="303,288 1240,288 1240,3069 303,3069" />
+      <TextEquiv conf="0.9945">
+        <Unicode>NUESTRO PROPOSITO Al pretender ocupar un sitio, si¬ quiera el más humilde, en el estadio de la prensa filipina, lo hacemos im¬ pulsados por la noble idea de apor¬ tar un grano de arena más al edi¬ ficio de nuestra regeneración social y politica; y contribuir á la difusión en nuestro pueblo de la simiente de los modernos conocimientos que cons¬ tituyen la firme base del engrandeci¬ miento de una nación. Las ciencias, las artes, la industria, la agricultura, las letras etc. etc., todo lo que constituye algun eslabón, digámoslo así, de esa gran cadena in¬ telectual de los conocimientos hu¬ manos, hallarán preferente sitio en las columnas de nuestra publicación. Empero, consecuentes con las mo¬ dernas corrientes del progreso, sobre todo en los paises anglo-sajones, debe¬ mos procurar que nuestro proceder sea de distinto modo que el de nuestros ex- dominadores. Procuraré¬ mos que lo que desarrollemos en los dominios del pensamiento, del cerebro, se extienda hasta llegar á las fronteras de la práctica, de lo expe¬ rimental, para ser más útil y fecunda en resultados positivos nuestra labor en pró del engrandecimiento de nues¬ tra Pátria. Procurémos que nos aplau¬ dan y admiren, más por los hechos que por los dichos. Los pueblos únicamente prosperan y se engrandecen proce¬ diendo del primer modo. Aioitunadamente, á nuestro lado tenemos á una Nación que posee, en el más alto grado, el sentido prác¬ tico. Todos sabemos que la mayor parte de los inventos realizados en Norte-América han tenido su orígen en la mente de sabios europeos; por¬ que éstos, por eausas más ó menos conocidas, no consiguieron salir del campo de las lucubraciones cien¬ tíficas, muriendo así muchas grandes ideas en el mismo sitio en que na¬ cieran. para revivir después, cual ave fénix. en la jóven América; pero no ya en las regiones del idealismo</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r2" type="paragraph" custom="readingOrder {index:2;} structure {type:Text;}">
+      <Coords points="1240,288 2168,288 2168,3069 1240,3069" />
+      <TextEquiv conf="0.9980">
+        <Unicode>sino en los fecundos y útiles cam¬ pos de la experiencia. Así quisiéramos ver algún día á nuestro pueblo: abrazar los nobles pensamientos, sustentar las más bri¬ llantes teorías; pero teorías y pen¬ samientos de inmediata aplicación á la práctica. Precisa hacer un molde por este es¬ tilo para nuestro pueblo El es dócil y se adaptará con maravillosa facilidad á la forma que se le dé. En la ac¬ tualidad tenemos varios ejemplos que patentizan esta afirmación. Se funda una asociación industrial, comercial ó agrícola, pues allá van: los unos aportando su concurso material y su inteligencia los otros; se abre un Club, pues allí, ricos y pobres, se lanzan en tropel ansiosos de disfrutar los benéficos resultados de los ejer¬ cicios intelectuales y corporales; és¬ tos últimos como factor importantí¬ simo para la formación de un pue¬ blo fuerte, robusto y lozano. Mientras las demás naciones dis¬ cuten la conveniencia ó nó de de¬ jarnos gobernar por nosotros mis¬ mos, debemos todos comulgar en un solo ideal, robustecer y afianzar nues¬ tra nacionalidad y los derechos á ella inherentes, para su engrandecimiento moral material é intelectual, por me¬ dio del común concurso de las cien¬ cias, artes, industria, comercio, agri¬ cultura y otros ramos más del humano saber. No importa que ciertas naciones nos nieguen por ahora el reconoci¬ miento de nuestros más legítimos de¬ rechos; pronto se convencerán de que no hay fuerza humana capaz de oponerse contra el irresistible em¬ puje dimanado del desarrollo de las leyes que rigen el Cosmos. Ade¬ más, la gran nación de Washington y Franklin que nos vé, nos observa en todos nuestros actos, apreciando nuestra sensatéz, cordura, aptitud y enérgica resolución, no ha de rega¬ tear, asi lo creemos, nuestros de¬ rechos y aspiraciones, mostrándose así, una vez más, consecuente con aquel principio del inmortal Monroe, América para los americanos. Trabajar, pues, empleando todos los</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>
