@@ -78,9 +78,6 @@ python surya-ft/scripts/03_merge.py
 Los hiperparámetros están en `config_ft.py`:
 
 ```python
-# ══════════════════════════════════════════════════════════════════════════════
-# ENTRENAMIENTO
-# ══════════════════════════════════════════════════════════════════════════════
 
 LORA_R = 32
 LORA_ALPHA = 64
